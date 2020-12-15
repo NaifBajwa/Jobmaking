@@ -16,13 +16,13 @@ def BuildAntiTestSetForUser(testSubject, trainset):
     return anti_testset
 
 # Pick an arbitrary test subject
-testSubject = 70
+# 34-36 = snickare, 28-30 = Sjuksköterska, 2-7 = Läkare
+testSubject = 35
 
 ml = MovieLens()
 
 print("Loading movie ratings...")
-data = ml.loadMovieLensLatestSmall()
-
+data = ml.loadMovieLensLatestSmall(testSubject)
 userRatings = ml.getUserRatings(testSubject)
 loved = []
 hated = []
@@ -56,9 +56,9 @@ for userID, movieID, actualRating, estimatedRating, _ in predictions:
     intMovieID = int(movieID)
     recommendations.append((intMovieID, estimatedRating))
 
-recommendations.sort(key=lambda x: x[1], reverse=True)
+recommendations.sort(key=lambda x: x[0], reverse=False)
 
-for ratings in recommendations[:10]:
+for ratings in recommendations[:5]:
     print(ml.getMovieName(ratings[0]))
 
 

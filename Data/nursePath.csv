@@ -1,0 +1,101 @@
+movieId,title,genre,timestamp
+2,Sjuksköterska till Norge,Sjuksköterska|Bada|Friskvård|Empatisk|Noggrann|Arbetsam|Legitimerad,441767847884
+3,Sjuksköterska Capio Novakliniken Gärsnäs - Simrishamn,Sjuksköterska|Sundsvall|Friskvård|Empatisk|Strukturerad|Legitimerad|Högskola,441769441492
+4,Sjuksköterska Skåne Stadsmission,Sjuksköterska|Timrå|Fotboll|Noggrann|självgående|Legitimerad|Högskola|Körkort B,441769446057
+5,"Sjuksköterska Sektor socialtjänst, HSL - Nordmaling",Sjuksköterska|Härnösand|Snabb|Stresstålig|Kommunikativ|Legitimerad|Högskola|Körkort B,441769449303
+6,"Sjuksköterska Capio Närsjukvård, Capio Novakliniken Marinan",Sjuksköterska|Timrå|Bada|Social|kreativ|Legitimerad|Högskola,441769454203
+7,Sjuksköterska SKHLM Vårdcentral AB ,Sjuksköterska|Sollefteå|Noggrann|serviceminded| pedagogisk|Legitimerad|Högskola,441769457455
+8,"Sjuksköterska kommun, Hemtjänstområde Västra",Sjuksköterska|Örnsköldsvik|Arbetsam|Legitimerad|Högskola,441769461000
+9,Sjuksköterska Region ,Sjuksköterska|Örnsköldsvik|Friskvård|Legitimerad|Högskola,441769464475
+10,Sjuksköterska Agaten hemtjänst ,Sjuksköterska|Härnösand|Bada|Strukturerad|Legitimerad|Högskola,441769468204
+11,Sjuksköterska Uppsala kommun,Sjuksköterska|Sundsvall|Stresstålig|Legitimerad|Högskola,441769471765
+12,"Sjuksköterska Sjukhusen i väster, Geriatrik, neurologi",Sjuksköterska|Timrå|Ansvarstagande| självgående|Legitimerad|Högskola,441769475260
+13,Sjuksköterska Eduredo AB ,Sjuksköterska|Sollefteå|Stresstålig|Legitimerad|Högskola,441769478444
+14,Sjuksköterska Eduredo AB ,Sjuksköterska|Örnsköldsvik|Empatisk|Arbetsam|Stresstålig|Legitimerad|Högskola,441769483276
+15,Sjuksköterska EduredSverige,Sjuksköterska|Kramfors|Noggrann|Stresstålig|Legitimerad|Högskola,441769494158
+16,Sjuksköterska Närsjukhuset Österlen,Sjuksköterska|Härnösand|Flexibel|Snabb|Ansvarstagande| Strukturerad|Legitimerad|Högskola,441769498757
+17,Sjuksköterska Wasa Vårdcentra,Sjuksköterska|Sundsvall|Friskvård|Empatisk|Legitimerad|Högskola,441769505468
+18,Sjuksköterska Capio Närsjukvård,Sjuksköterska|Timrå|Promenad|Stresstålig|Strukturerad|Legitimerad|Högskola,441769510913
+19,Sjuksköterska Överkalix kommun ,Sjuksköterska|Ånge|Noggrann|Arbetsam|Strukturerad|Legitimerad|Högskola,441769517221
+20,Sjuksköterska strokeavdelning Stroke,Sjuksköterska|Örnsköldsvik|Social|Empatisk|självgående|Legitimerad|Högskola|Körkort B,441769522185
+21,Sjuksköterska Uppvakningsavdelningen,Sjuksköterska|Sollefteå|Social|positiv| Noggrann|Legitimerad|Högskola,441769527650
+22,Sjuksköterska Ögonmottagning,Sjuksköterska|Härnösand|Arbetsam|Snabb|Strukturerad|Legitimerad|Högskola,441769533772
+23,Sjuksköterska natt,Sjuksköterska|Ånge|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441769537394
+24,Sjuksköterska bemanningsenheten,Sjuksköterska|Härnösand|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441769542207
+25,Sjuksköterska specialistsjuksköterska,Sjuksköterska|Örnsköldsvik|Promenad|Social|Legitimerad|Högskola,441769545871
+26,Sjuksköterska hemsjukvård,Sjuksköterska|Örnsköldsvik|Social|Empatisk|Legitimerad|Högskola,441769549649
+27,Sjuksköterska semestervikariat,Sjuksköterska|Kramfors|Empatisk|Noggrann|Arbetsam|Legitimerad|Högskola,441769553732
+28,Sjuksköterska geriatrik,Sjuksköterska|Sundsvall|Empatisk|positiv|Legitimerad|Högskola,441769558428
+29,Legitimerad sjuksköterska,Sjuksköterska|Sollefteå|positiv| Noggrann|Legitimerad|Högskola,441769562062
+30,Sjuksköterska Hemsjukvården,Sjuksköterska|Härnösand|Noggrann|Arbetsam|Legitimerad|Högskola,441769565780
+31,Sjuksköterska vikariat,Sjuksköterska|Härnösand|Empatisk|Flexibel|Legitimerad|Högskola,441769569128
+32,Sjuksköterska sökes,Sjuksköterska|Timrå|Bada|Noggrann|kreativ|Legitimerad|Högskola|Körkort B,441769845934
+33,"Rehabkoordinator, sjuksköterska",Sjuksköterska|Härnösand|Empatisk|Flexibel|Legitimerad|Högskola,441769848945
+34,"Sjuksköterska, SSK",Sjuksköterska|Sollefteå|Stresstålig|Legitimerad|Högskola,441769851395
+35,Sjuksköterska LSS,Sjuksköterska|Örnsköldsvik|Social|Legitimerad|Högskola,441769854618
+36,Sjuksköterska Ortopedkliniken,Sjuksköterska|Härnösand|Arbetsam|Stresstålig|Legitimerad|Högskola|Körkort B,441769857719
+37,Sjuksköterska psykiatri,Sjuksköterska|Sundsvall|Promenad|Snabb|Legitimerad|Högskola,441769861268
+38,Sjuksköterska äldreomsorg,Sjuksköterska|Kramfors|Flexibel|Legitimerad|Högskola|Körkort B,441769864932
+39,Sjuksköterska timanställning,Sjuksköterska|Sundsvall|positiv|Legitimerad|Högskola|Körkort B,441769868675
+40,"Sjuksköterska, Medicin/HIA",Sjuksköterska|Timrå|Stresstålig|Legitimerad|Högskola,441769871094
+41,Sjuksköterska akutmottagningen Region Värmland,Sjuksköterska|Sollefteå|Flexibel|Legitimerad|Högskola,441769875125
+42,"Sjuksköterska, akutmottagningen",Sjuksköterska|Härnösand|Flexibel|positiv|Legitimerad|Högskola,441769880535
+43,Välkommen Sjuksköterska!,Sjuksköterska|Sollefteå|Fotboll|Ansvarstagande|Legitimerad|Högskola,441769883414
+44,Sjuksköterska Hemsjukvård,Sjuksköterska|Kramfors|Stresstålig|Legitimerad|Högskola,441769890153
+45,Legitimerad Sjuksköterska,Sjuksköterska|Timrå|Friskvård|Snabb|Legitimerad|Högskola|Körkort B,441769893296
+46,Sjuksköterska Diabetes,Sjuksköterska|Ånge|Arbetsam|Analytisk|Legitimerad|Högskola,441769896459
+47,Sommarjobb sjuksköterska,Sjuksköterska|Örnsköldsvik|Ansvarstagande|Legitimerad|Högskola,441769900472
+48,Sjuksköterska dialysen,Sjuksköterska|Sundsvall|Flexibel|positiv| Arbetsam|Snabb|Legitimerad|Högskola,441769904223
+49,Sjuksköterska Nattjänstgöring,Sjuksköterska|Timrå|Stresstålig|självgående|Legitimerad|Högskola,441769907303
+50,Sjuksköterska Ortopeden,Sjuksköterska|Örnsköldsvik|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441769911403
+153,Sjuksköterska till Gotland,Sjuksköterska|Sundsvall|självgående| kreativ|Legitimerad|Högskola,441770479923
+154,Sjuksköterska Vårdcentralen Ellenbogen,Sjuksköterska|Ånge|Social|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441770482874
+155,"Sjuksköterska, Onkologmottagningen Falun",Sjuksköterska|Ånge|Friskvård|Empatisk|positiv| Analytisk|Legitimerad|Högskola|Körkort B,441770486107
+156,Sjuksköterska till Halmstad,Sjuksköterska|Örnsköldsvik|Friskvård|självgående|Legitimerad|Högskola|Körkort B,441770489167
+157,"Sjuksköterska Kirurgmottagningen, Falun",Sjuksköterska|Härnösand|Flexibel|Snabb|Ansvarstagande|Legitimerad|Högskola|Körkort B,441770494205
+158,Sjuksköterska till Kalmar,Sjuksköterska|Sundsvall|positiv| Noggrann|Arbetsam|Legitimerad|Högskola|Körkort B,441770497286
+159,Sjuksköterska till Gotland,Sjuksköterska|Timrå|Empatisk|Strukturerad|Legitimerad|Högskola,441770500962
+160,Sjuksköterska till Kronoberg,Sjuksköterska|Sundsvall|Bada|Snabb|Ansvarstagande|Körkort B|Legitimerad|Högskola,441770505011
+161,Sjuksköterska till AVA/30C,Sjuksköterska|Timrå|Flexibel|positiv| Arbetsam|Legitimerad|Högskola|Körkort B,441770513892
+162,Sjuksköterska till covidavdelning,Sjuksköterska|Örnsköldsvik|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770517278
+163,Sjuksköterska till strokeavdelning,Sjuksköterska|Ånge|positiv| Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441770520596
+164,Sjuksköterska till akutmottagning,Sjuksköterska|Sundsvall|Empatisk|positiv|Legitimerad|Högskola|Körkort B,441770523478
+165,Sjuksköterska till Primärvårdsuppdrag,Sjuksköterska|Timrå|Stresstålig|Analytisk| kreativ|Legitimerad|Högskola|Körkort B,441770526841
+166,"Sjuksköterska, psykiatriska öppenvården",Sjuksköterska|Sollefteå|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola|Körkort B,441770530850
+167,Sjuksköterska till kirurgavdelning,Sjuksköterska|Kramfors|Stresstålig|Analytisk| Strukturerad|Legitimerad|Högskola|Körkort B,441770534330
+168,Sjuksköterska till Akutmottagningen,Sjuksköterska|Örnsköldsvik|positiv| Noggrann|Legitimerad|Högskola|Körkort B,441770538289
+169,Sjuksköterska till resursen,Sjuksköterska|Sundsvall|Empatisk|Stresstålig|Legitimerad|Högskola|Körkort B,441770540984
+170,Sjuksköterska - Psykiatri,Sjuksköterska|Kramfors|Promenad|Strukturerad|Legitimerad|Högskola|Körkort B,441770544326
+171,Sjuksköterska till hemsjukvårdsenhet,Sjuksköterska|Sollefteå|Friskvård|Ansvarstagande|Legitimerad|Högskola|Körkort B,441770548714
+172,Sjuksköterska till Barnkliniken,Sjuksköterska|Timrå|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770551790
+173,Sjuksköterska till Hemsjukvården,Sjuksköterska|Timrå|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770554704
+174,Sjuksköterska Sjukvårdens larmcentral,Sjuksköterska|Härnösand|Empatisk|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770557578
+175,Sommarvikariat - Sjuksköterska,Sjuksköterska|Härnösand|Social|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441770561557
+176,Sjuksköterska inom LSS,Sjuksköterska|Kramfors|Friskvård|Stresstålig|Strukturerad|Legitimerad|Högskola|Körkort B,441770564489
+177,Distriktsjuksköterska/ Sjuksköterska ASIH,Sjuksköterska|Sollefteå|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola|Körkort B,441770567721
+178,Sjuksköterska till Skövde,Sjuksköterska|Sundsvall|Promenad|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770571136
+179,Sjuksköterska till hjärtavdelning,Sjuksköterska|Sollefteå|Ansvarstagande| Analytisk|Legitimerad|Högskola|Körkort B,441770575074
+180,Sjuksköterska till Varberg,Sjuksköterska|Härnösand|Social|Strukturerad|Legitimerad|Högskola|Körkort CE,441770578842
+181,Leg sjuksköterska Kattrumpstullen,Sjuksköterska|Ånge|positiv| Snabb|Legitimerad|Högskola|Körkort B,441770582515
+182,Sjuksköterska till vårdcentral,Sjuksköterska|Härnösand|Social|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770590969
+183,Sjuksköterska till akutmottagningen,Sjuksköterska|Kramfors|Ansvarstagande| Stresstålig|Legitimerad|Högskola|Körkort B,441770593952
+184,Sjuksköterska till Patienthotellet,Sjuksköterska|Timrå|Stresstålig|Analytisk|Körkort B,441770596955
+185,"Sjuksköterska, dialysavdelningen, Lycksele",Sjuksköterska|Ånge|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770600021
+186,Sjuksköterska till Värmland Dedicare AB,Sjuksköterska|Timrå|Snabb|Ansvarstagande| Analytisk|Legitimerad|Högskola|Körkort B,441770604132
+187,Sjuksköterska till akutvårdsavdelningen,Sjuksköterska|Sundsvall|Empatisk|Flexibel|Legitimerad|Högskola|Körkort B,441770606961
+188,Sjuksköterska till hemsjukvården,Sjuksköterska|Ånge|Friskvård|självgående|Legitimerad|Högskola|Körkort B,441770610741
+189,Sjuksköterska Psykiatrimottagning Malung,Sjuksköterska|Sundsvall|positiv| Noggrann|Arbetsam|Legitimerad|Högskola|Körkort B,441770618551
+190,Sjuksköterska ASIH Södertälje,Sjuksköterska|Sundsvall|Friskvård|Social|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770621669
+191,Sjuksköterska Dialysmottagning Bollnäs,Sjuksköterska|Härnösand|Promenad|Stresstålig|Legitimerad|Högskola|Körkort B,441770625185
+192,sjuksköterska till socialpsykiatrin,Sjuksköterska|Timrå|Promenad|positiv| Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770628167
+193,Legitimerad sjuksköterska natt,Sjuksköterska|Örnsköldsvik|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola|Körkort B,441770632208
+194,Sjuksköterska till ortopedmottagningen,Sjuksköterska|Härnösand|Friskvård|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770635848
+195,Sjuksköterska till neurologiavdelningen,Sjuksköterska|Härnösand|Empatisk|Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441770639450
+196,Leg. Sjuksköterska natt,Sjuksköterska|Timrå|Snabb|Stresstålig|Analytisk|Legitimerad|Högskola|Körkort B,441770642326
+197,Sjuksköterska till dialysmottagningen,Sjuksköterska|Sundsvall|Flexibel|Noggrann|Legitimerad|Högskola|Körkort B,441770645277
+198,Sjuksköterska med nattjänstgöring,Sjuksköterska|Kramfors|Flexibel|Strukturerad|Legitimerad|Högskola|Körkort B,441770649627
+199,Jourhavande sjuksköterska joursjukvård,Sjuksköterska|Örnsköldsvik|Flexibel|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770653369
+200,Sjuksköterska för specialuppdrag,Sjuksköterska|Timrå|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770656442
+201,Sjuksköterska till rehabavdelningen,Sjuksköterska|Sundsvall|positiv| Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441770659900
+202,Sjuksköterska till vårdavdelning!,Sjuksköterska|Kramfors|positiv| Noggrann|Snabb|Ansvarstagande|Legitimerad|Högskola|Körkort B,441770664914
+203,Sjuksköterska till Hemsjukvården,Sjuksköterska|Sundsvall|Arbetsam|Snabb|Ansvarstagande| Stresstålig|Legitimerad|Högskola|Körkort B,441770671706

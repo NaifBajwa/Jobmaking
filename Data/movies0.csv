@@ -1,0 +1,1011 @@
+movieId,title,genre,timestamp
+1,Snickare sökers,Snickare|Timrå|Fotboll|Social|Flexibel|Snabb|Körkort B,441767841948
+2,Sjuksköterska till Norge,Sjuksköterska|Bada|Friskvård|Empatisk|Noggrann|Arbetsam|Legitimerad,441767847884
+3,Sjuksköterska Capio Novakliniken Gärsnäs - Simrishamn,Sjuksköterska|Sundsvall|Friskvård|Empatisk|Strukturerad|Legitimerad|Högskola,441769441492
+4,Sjuksköterska Skåne Stadsmission,Sjuksköterska|Timrå|Fotboll|Noggrann|självgående|Legitimerad|Högskola|Körkort B,441769446057
+5,"Sjuksköterska Sektor socialtjänst, HSL - Nordmaling",Sjuksköterska|Härnösand|Snabb|Stresstålig|Kommunikativ|Legitimerad|Högskola|Körkort B,441769449303
+6,"Sjuksköterska Capio Närsjukvård, Capio Novakliniken Marinan",Sjuksköterska|Timrå|Bada|Social|kreativ|Legitimerad|Högskola,441769454203
+7,Sjuksköterska SKHLM Vårdcentral AB ,Sjuksköterska|Sollefteå|Noggrann|serviceminded| pedagogisk|Legitimerad|Högskola,441769457455
+8,"Sjuksköterska kommun, Hemtjänstområde Västra",Sjuksköterska|Örnsköldsvik|Arbetsam|Legitimerad|Högskola,441769461000
+9,Sjuksköterska Region ,Sjuksköterska|Örnsköldsvik|Friskvård|Legitimerad|Högskola,441769464475
+10,Sjuksköterska Agaten hemtjänst ,Sjuksköterska|Härnösand|Bada|Strukturerad|Legitimerad|Högskola,441769468204
+11,Sjuksköterska Uppsala kommun,Sjuksköterska|Sundsvall|Stresstålig|Legitimerad|Högskola,441769471765
+12,"Sjuksköterska Sjukhusen i väster, Geriatrik, neurologi",Sjuksköterska|Timrå|Ansvarstagande| självgående|Legitimerad|Högskola,441769475260
+13,Sjuksköterska Eduredo AB ,Sjuksköterska|Sollefteå|Stresstålig|Legitimerad|Högskola,441769478444
+14,Sjuksköterska Eduredo AB ,Sjuksköterska|Örnsköldsvik|Empatisk|Arbetsam|Stresstålig|Legitimerad|Högskola,441769483276
+15,Sjuksköterska EduredSverige,Sjuksköterska|Kramfors|Noggrann|Stresstålig|Legitimerad|Högskola,441769494158
+16,Sjuksköterska Närsjukhuset Österlen,Sjuksköterska|Härnösand|Flexibel|Snabb|Ansvarstagande| Strukturerad|Legitimerad|Högskola,441769498757
+17,Sjuksköterska Wasa Vårdcentra,Sjuksköterska|Sundsvall|Friskvård|Empatisk|Legitimerad|Högskola,441769505468
+18,Sjuksköterska Capio Närsjukvård,Sjuksköterska|Timrå|Promenad|Stresstålig|Strukturerad|Legitimerad|Högskola,441769510913
+19,Sjuksköterska Överkalix kommun ,Sjuksköterska|Ånge|Noggrann|Arbetsam|Strukturerad|Legitimerad|Högskola,441769517221
+20,Sjuksköterska strokeavdelning Stroke,Sjuksköterska|Örnsköldsvik|Social|Empatisk|självgående|Legitimerad|Högskola|Körkort B,441769522185
+21,Sjuksköterska Uppvakningsavdelningen,Sjuksköterska|Sollefteå|Social|positiv| Noggrann|Legitimerad|Högskola,441769527650
+22,Sjuksköterska Ögonmottagning,Sjuksköterska|Härnösand|Arbetsam|Snabb|Strukturerad|Legitimerad|Högskola,441769533772
+23,Sjuksköterska natt,Sjuksköterska|Ånge|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441769537394
+24,Sjuksköterska bemanningsenheten,Sjuksköterska|Härnösand|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441769542207
+25,Sjuksköterska specialistsjuksköterska,Sjuksköterska|Örnsköldsvik|Promenad|Social|Legitimerad|Högskola,441769545871
+26,Sjuksköterska hemsjukvård,Sjuksköterska|Örnsköldsvik|Social|Empatisk|Legitimerad|Högskola,441769549649
+27,Sjuksköterska semestervikariat,Sjuksköterska|Kramfors|Empatisk|Noggrann|Arbetsam|Legitimerad|Högskola,441769553732
+28,Sjuksköterska geriatrik,Sjuksköterska|Sundsvall|Empatisk|positiv|Legitimerad|Högskola,441769558428
+29,Legitimerad sjuksköterska,Sjuksköterska|Sollefteå|positiv| Noggrann|Legitimerad|Högskola,441769562062
+30,Sjuksköterska Hemsjukvården,Sjuksköterska|Härnösand|Noggrann|Arbetsam|Legitimerad|Högskola,441769565780
+31,Sjuksköterska vikariat,Sjuksköterska|Härnösand|Empatisk|Flexibel|Legitimerad|Högskola,441769569128
+32,Sjuksköterska sökes,Sjuksköterska|Timrå|Bada|Noggrann|kreativ|Legitimerad|Högskola|Körkort B,441769845934
+33,"Rehabkoordinator, sjuksköterska",Sjuksköterska|Härnösand|Empatisk|Flexibel|Legitimerad|Högskola,441769848945
+34,"Sjuksköterska, SSK",Sjuksköterska|Sollefteå|Stresstålig|Legitimerad|Högskola,441769851395
+35,Sjuksköterska LSS,Sjuksköterska|Örnsköldsvik|Social|Legitimerad|Högskola,441769854618
+36,Sjuksköterska Ortopedkliniken,Sjuksköterska|Härnösand|Arbetsam|Stresstålig|Legitimerad|Högskola|Körkort B,441769857719
+37,Sjuksköterska psykiatri,Sjuksköterska|Sundsvall|Promenad|Snabb|Legitimerad|Högskola,441769861268
+38,Sjuksköterska äldreomsorg,Sjuksköterska|Kramfors|Flexibel|Legitimerad|Högskola|Körkort B,441769864932
+39,Sjuksköterska timanställning,Sjuksköterska|Sundsvall|positiv|Legitimerad|Högskola|Körkort B,441769868675
+40,"Sjuksköterska, Medicin/HIA",Sjuksköterska|Timrå|Stresstålig|Legitimerad|Högskola,441769871094
+41,Sjuksköterska akutmottagningen Region Värmland,Sjuksköterska|Sollefteå|Flexibel|Legitimerad|Högskola,441769875125
+42,"Sjuksköterska, akutmottagningen",Sjuksköterska|Härnösand|Flexibel|positiv|Legitimerad|Högskola,441769880535
+43,Välkommen Sjuksköterska!,Sjuksköterska|Sollefteå|Fotboll|Ansvarstagande|Legitimerad|Högskola,441769883414
+44,Sjuksköterska Hemsjukvård,Sjuksköterska|Kramfors|Stresstålig|Legitimerad|Högskola,441769890153
+45,Legitimerad Sjuksköterska,Sjuksköterska|Timrå|Friskvård|Snabb|Legitimerad|Högskola|Körkort B,441769893296
+46,Sjuksköterska Diabetes,Sjuksköterska|Ånge|Arbetsam|Analytisk|Legitimerad|Högskola,441769896459
+47,Sommarjobb sjuksköterska,Sjuksköterska|Örnsköldsvik|Ansvarstagande|Legitimerad|Högskola,441769900472
+48,Sjuksköterska dialysen,Sjuksköterska|Sundsvall|Flexibel|positiv| Arbetsam|Snabb|Legitimerad|Högskola,441769904223
+49,Sjuksköterska Nattjänstgöring,Sjuksköterska|Timrå|Stresstålig|självgående|Legitimerad|Högskola,441769907303
+50,Sjuksköterska Ortopeden,Sjuksköterska|Örnsköldsvik|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441769911403
+51,Snickare Peab Byggservice,Snickare|Härnösand|Social|Flexibel|Snabb|självgående|Gymnasiet|Körkort B,441769950515
+52,Snickare AB Byggprojket,Snickare|Härnösand|Friskvård|Gymnasiet|Körkort B,441769958909
+53,Snickare Kök & Inredning,Snickare|Sundsvall|Friskvård|Social|Gymnasiet|Körkort B,441769966811
+54, Snickare Nettuno Bygg & Transport,Snickare|Sundsvall|Promenad|Snabb|Ansvarstagande|Körkort B,441769971295
+55,Snickare Ouazzani Invest AB ,Snickare|Timrå|Strukturerad|Körkort B,441769974950
+56,Snickare LN Personal AB,Snickare|Ånge|positiv|Gymnasiet|Körkort B,441769977866
+57,Snickare Storstockholm|Snickare|Ånge|Friskvård|självgående|Körkort B,441769981448
+58,Snickare Gestricia bygg & service AB ,Snickare|Timrå|Fotboll|kreativ|Körkort B,441769984751
+59,Snickare Piteå Kommun,Snickare|Örnsköldsvik|Flexibel|Noggrann|Körkort B,441769990009
+60,Snickare Scandinavian Internet Group AB,Snickare|Sundsvall|Social|positiv| Noggrann|Körkort B,441769994061
+61,Snickare CG-Byggen AB,Snickare|Örnsköldsvik|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441769999090
+62,Snickare Karlstad,Snickare|Kramfors|Strukturerad| självgående| serviceminded|Körkort B,441770002217
+63,Snickare WorkWeb,Snickare|Ånge|Social|självgående|Körkort B,441770005667
+64,Snickare ByggConstruct AB,Snickare|Sundsvall|positiv|Körkort B,441770008271
+65,Snickare Hekuri Svets & Montage AB,Snickare|Härnösand|Bada|Flexibel|Körkort B,441770015609
+66,Snickare Jatic Bygg AB,Snickare|Kramfors|Flexibel|Noggrann|Ansvarstagande|Körkort B,441770018421
+67,Snickare Style Bygg Land,Snickare|Timrå|Fotboll|självgående| serviceminded|Körkort B,441770021301
+68,Snickare All Snickeri & Design ,Snickare|Sundsvall|Promenad|positiv|Körkort B,441770025699
+69,Snickare Dryft Sverige,Snickare|Timrå|Flexibel|positiv|Körkort B,441770028766
+70,Snickare Bygg & BadrumsPartner,Snickare|Ånge|Friskvård|Snabb|Körkort B,441770031812
+71,Snickare RSH Bostad AB,Snickare|Timrå|Bada|kreativ|Körkort B,441770073674
+72,Snickare sökes ExpanderaMera Byggbemanning ,Snickare|Ånge|Flexibel|positiv|Körkort B,441770076613
+73, Snickare Göteborg Bang & Nielsen AB ,Snickare|Timrå|Ansvarstagande| Säljinriktad| Stresstålig|Körkort B,441770080316
+74,"självgående|snickare A Partners AB",Snickare|Örnsköldsvik|Strukturerad| självgående|Körkort B,441770083767
+75,Snickare sökes Montiga AB,Snickare|Örnsköldsvik|Stresstålig|Analytisk|Körkort B,441770089401
+76,Snickare +40 GOveteran,Snickare|Timrå|Snabb|Stresstålig|kreativ|Körkort B,441770093300
+77,Snickare Träarbetare D & B Bygg AB ,Snickare|Sundsvall|självgående|Körkort B,441770138235
+78,Snickare sökes Danderyds Konsult,Snickare|Sundsvall|Strukturerad| självgående|Körkort B,441770142307
+79,Snickare sökes! Hty Bygg,Snickare|Härnösand|Ansvarstagande| Säljinriktad|Körkort B,441770145700
+80,Snickare bygg Lnkw Entreprenad,Snickare|Timrå|Fotboll|Arbetsam|Stresstålig|Körkort B,441770149621
+81,Söker snickare Opazo Herrera Juan,Snickare|Sundsvall|Friskvård|Snabb|Körkort B,441770153316
+82,"Snickare sökes N L AB, Byggbolaget ",Snickare|Sundsvall|Flexibel|Körkort B,441770156237
+83,Erfaren Snickare Stockholm GOveteran,Snickare|Sundsvall|Strukturerad|Körkort B,441770159492
+84,Snickare (Servissnickare) ,Snickare|Timrå|självgående| serviceminded|Körkort B,441770162848
+85,Ecobygg söker snickare Ecobygh,Snickare|Timrå|Noggrann|Arbetsam|Körkort B,441770166496
+86,Snickare utan yrkesbevis,Snickare|Sollefteå|positiv| Analytisk|Körkort B,441770170994
+87,Snickare Fiddes Bygg,Snickare|Sollefteå|Stresstålig|självgående|Körkort B,441770179107
+88,"självgående|serviceinriktad snickare",Snickare|Timrå|positiv| Snabb|självgående|Körkort B,441770182001
+89,Snickare med erfarenhet,Snickare|Kramfors|Snabb|Körkort B,441770186830
+90,Snickare till Malmöregionen,Snickare|Sundsvall|Empatisk|Körkort B,441770192936
+91,Snickare i fjällen!,Snickare|Timrå|Noggrann|Körkort B,441770196937
+92,Snickare sökes (65770),Snickare|Örnsköldsvik|positiv| Stresstålig|Körkort B,441770200517
+93,Snickare / Carpenter,Snickare|Sollefteå|positiv| Stresstålig|Körkort B,441770203600
+94, TopWork söker duktiga snickare,Snickare|Örnsköldsvik|Arbetsam|Snabb|Körkort B,441770206656
+95,Snickare och Rivningsarbetare sökes,Snickare|Ånge|Flexibel|positiv|Körkort B,441770212479
+96,Erfaren Träarbetare Snickare sökes,Snickare|Sundsvall|Strukturerad| självgående|Körkort B,441770218047
+97,Snickare till Byggpojken AB,Snickare|Timrå|Arbetsam|Körkort B,441770220510
+98,Snickare sökes i borås,Snickare|Timrå|Flexibel|positiv| Noggrann|Körkort B,441770223080
+99,3 stycken snickare sökes,Snickare|Sundsvall|positiv|Körkort B,441770233748
+100,Snickare sökes för omgående start!,Snickare|Kramfors|Arbetsam|Snabb|Ansvarstagande|Körkort B,441770236741
+101,"Vi söker 2-3 självgående|snickare",Snickare|Ånge|Snabb|Körkort B,441770239705
+102,Duktiga SNICKARE sökes till företaget,Snickare|Ånge|Ansvarstagande| Stresstålig|Körkort B,441770242870
+103,"självgående|snickare med erfarenhet sökes",Snickare|Härnösand|Noggrann|Arbetsam|Körkort B,441770246088
+104,Göteborgs roligaste byggföretag söker snickare,Snickare|Timrå|Friskvård|Körkort B,441770249800
+105,Snickare med ansvar och eget driv!,Snickare|Kramfors|Stresstålig|Körkort B,441770252875
+106,Snickare som vill ha ny utmaning,Snickare|Sundsvall|Flexibel|Körkort B,441770274995
+107,Yrkeskunniga snickare sökes till framtida uppdrag,Snickare|Timrå|Friskvård|Strukturerad|Körkort B,441770276736
+108,Vi söker seniora snickare i Partille,Snickare|Sollefteå|Promenad|Empatisk|positiv|Körkort B,441770281133
+109,Snickare för kommande behov,Snickare|Sollefteå|Arbetsam|Snabb|Körkort B,441770284273
+110,Snickare till Klingsta Hus & Modul AB,Snickare|Örnsköldsvik|Arbetsam|Snabb|441770287071
+111,Tingsryds bostsäder söker Projektanställning snickare,Snickare|Kramfors|Noggrann|Arbetsam|Körkort B,441770290210
+112,Göteborgs Skärgård som arbetsplats? Snickare för direktrekrytering sökes!,Snickare|Örnsköldsvik|Stresstålig|Strukturerad|Körkort B,441770293775
+113,Söker nu ytterligare två snickare till ett vårt goa gäng,Snickare|Sundsvall|Flexibel|Snabb|Körkort B,441770296937
+114,TopWork söker industrisnickare,Snickare|Sollefteå|Flexibel|positiv|Körkort B,441770301122
+115,TopWork söker montör till träindustrin,Snickare|Örnsköldsvik|positiv| Strukturerad|Körkort B,441770304201
+116,Servicesnickare till A-team!,Snickare|Sollefteå|Stresstålig|Körkort B,441770309155
+117,Vi söker trähusarbetare,Snickare|Sollefteå|Empatisk|Flexibel|Körkort B,441770313369
+118,Fönsterrenoverare,Snickare|Ånge|Noggrann|Arbetsam|Körkort B,441770316484
+119,Träarbetare,Snickare|Sundsvall|Flexibel|Snabb|Körkort B,441770320534
+120,Grovsnickare /Segeltorp,Snickare|Timrå|Arbetsam|Ansvarstagande|Körkort B,441770323797
+121,Grovsnickare/ Hägersten,Snickare|Sundsvall|Flexibel|positiv| Noggrann|Körkort B,441770373494
+122,Produktionsmedarbetare till träindustri i Anneberg,Snickare|Sundsvall|Flexibel|positiv|Körkort B,441770376769
+123,Vi söker fabrikssnickare,Snickare|Härnösand|positiv| Snabb|Körkort B,441770381050
+124,Träarbetare sökes till kortare uppdrag i Örebro,Snickare|Timrå|Stresstålig|Körkort B,441770383779
+125,Snickare/träarbetare sökas,Snickare|Sundsvall|Friskvård|Arbetsam|Snabb|Körkort B,441770386679
+126,Erfaren träarbetare,Snickare|Ånge|Stresstålig|självgående|Körkort B,441770390215
+127,Träarbetare sökes till uppdrag i hela Sverige,Snickare|Flexibel|Körkort B,441770395676
+128,Fönstörmontörer till Sthlm-Norrort,Snickare|Ånge|Strukturerad| självgående|Körkort B,441770398267
+129,Serviceinriktad och ansvarsfull hantverkare sökes!,Snickare|Timrå|Flexibel|Noggrann|Körkort B,441770401488
+130,Snickare/BAS,Snickare|Sollefteå|Noggrann|Stresstålig|Körkort B,441770404017
+131,Vill du jobba som fabrikssnickare på Nock Massiva Trähus?,Snickare|Härnösand|Noggrann|Snabb|Körkort B,441770407514
+132, Vill du jobba som fabrikssnickare på Nock Massiva Trähus?,Snickare|Sollefteå|Stresstålig|Körkort B,441770411076
+133,Duktig Servicesnickare - stabilt företag - Borås,Snickare|Ånge|Strukturerad|Körkort B,441770414392
+134,Servicesnickare direktrekrytering,Snickare|Timrå|Arbetsam|Körkort B,441770416830
+135,Bygnadsarbetare för Brandsäkring till Dawson,Snickare|Timrå|Social|serviceminded|Körkort B,441770420684
+136,Fönster arbete,Snickare|Sollefteå|Snabb|Ansvarstagande|Körkort B,441770423008
+137,Produktion och Installation av PVC fönster,Snickare|Härnösand|Flexibel|Stresstålig|Körkort B,441770426042
+138,Träarbetare sökes till uppdrag i Örebro,Snickare|Timrå|Social|självgående|Körkort B,441770428473
+139,Traktamente runt om i landet,Snickare|Sundsvall|positiv| Arbetsam|Körkort B,441770431443
+140,Kanalreparatör,Snickare|Sollefteå|självgående|Körkort B,441770434458
+141,Erfaren Snickare/byggare sökes,Snickare|Örnsköldsvik|Bada|självgående|Körkort B,441770437154
+142,Trämontör till kund i Växjö,Snickare|Timrå|Strukturerad|Körkort B,441770440835
+143,Götenehus söker produktionspersonal,Snickare|Timrå|positiv| Stresstålig|Körkort B,441770443532
+144,Hansa Bygg söker snickare/träarbetare till byggservice,Snickare|Sollefteå|Ansvarstagande|Körkort B,441770448811
+145,Trähusarbetare,Snickare|Ånge|Flexibel|positiv|Körkort B,441770451069
+146,Trähusarbetare,Snickare|Ånge|Noggrann|självgående|Körkort B,441770453686
+147,Driven entreprenadsnickare till Höglandet,Snickare|Ånge|Snabb|Ansvarstagande|Körkort B,441770457574
+148,Prefabsnickare,Snickare|Sollefteå|Empatisk|Snabb|Körkort B,441770460591
+149,Snickare/Fasad murare,Snickare|Ånge|Friskvård|Arbetsam|Körkort B,441770463606
+150,Snickare/ Byggstädare,Snickare|Ånge|Ansvarstagande|Körkort B,441770465752
+151,Butikssäljare till Träbiten Byggvaror,Snickare|Timrå|Flexibel|Körkort B,441770468376
+152,Servicesnickare till växande byggföretag i norrort,Snickare|Kramfors|Arbetsam|Körkort B,441770470809
+153,Sjuksköterska till Gotland,Sjuksköterska|Sundsvall|självgående| kreativ|Legitimerad|Högskola,441770479923
+154,Sjuksköterska Vårdcentralen Ellenbogen,Sjuksköterska|Ånge|Social|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441770482874
+155,"Sjuksköterska, Onkologmottagningen Falun",Sjuksköterska|Ånge|Friskvård|Empatisk|positiv| Analytisk|Legitimerad|Högskola|Körkort B,441770486107
+156,Sjuksköterska till Halmstad,Sjuksköterska|Örnsköldsvik|Friskvård|självgående|Legitimerad|Högskola|Körkort B,441770489167
+157,"Sjuksköterska Kirurgmottagningen, Falun",Sjuksköterska|Härnösand|Flexibel|Snabb|Ansvarstagande|Legitimerad|Högskola|Körkort B,441770494205
+158,Sjuksköterska till Kalmar,Sjuksköterska|Sundsvall|positiv| Noggrann|Arbetsam|Legitimerad|Högskola|Körkort B,441770497286
+159,Sjuksköterska till Gotland,Sjuksköterska|Timrå|Empatisk|Strukturerad|Legitimerad|Högskola,441770500962
+160,Sjuksköterska till Kronoberg,Sjuksköterska|Sundsvall|Bada|Snabb|Ansvarstagande|Körkort B|Legitimerad|Högskola,441770505011
+161,Sjuksköterska till AVA/30C,Sjuksköterska|Timrå|Flexibel|positiv| Arbetsam|Legitimerad|Högskola|Körkort B,441770513892
+162,Sjuksköterska till covidavdelning,Sjuksköterska|Örnsköldsvik|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770517278
+163,Sjuksköterska till strokeavdelning,Sjuksköterska|Ånge|positiv| Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441770520596
+164,Sjuksköterska till akutmottagning,Sjuksköterska|Sundsvall|Empatisk|positiv|Legitimerad|Högskola|Körkort B,441770523478
+165,Sjuksköterska till Primärvårdsuppdrag,Sjuksköterska|Timrå|Stresstålig|Analytisk| kreativ|Legitimerad|Högskola|Körkort B,441770526841
+166,"Sjuksköterska, psykiatriska öppenvården",Sjuksköterska|Sollefteå|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola|Körkort B,441770530850
+167,Sjuksköterska till kirurgavdelning,Sjuksköterska|Kramfors|Stresstålig|Analytisk| Strukturerad|Legitimerad|Högskola|Körkort B,441770534330
+168,Sjuksköterska till Akutmottagningen,Sjuksköterska|Örnsköldsvik|positiv| Noggrann|Legitimerad|Högskola|Körkort B,441770538289
+169,Sjuksköterska till resursen,Sjuksköterska|Sundsvall|Empatisk|Stresstålig|Legitimerad|Högskola|Körkort B,441770540984
+170,Sjuksköterska - Psykiatri,Sjuksköterska|Kramfors|Promenad|Strukturerad|Legitimerad|Högskola|Körkort B,441770544326
+171,Sjuksköterska till hemsjukvårdsenhet,Sjuksköterska|Sollefteå|Friskvård|Ansvarstagande|Legitimerad|Högskola|Körkort B,441770548714
+172,Sjuksköterska till Barnkliniken,Sjuksköterska|Timrå|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770551790
+173,Sjuksköterska till Hemsjukvården,Sjuksköterska|Timrå|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770554704
+174,Sjuksköterska Sjukvårdens larmcentral,Sjuksköterska|Härnösand|Empatisk|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770557578
+175,Sommarvikariat - Sjuksköterska,Sjuksköterska|Härnösand|Social|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441770561557
+176,Sjuksköterska inom LSS,Sjuksköterska|Kramfors|Friskvård|Stresstålig|Strukturerad|Legitimerad|Högskola|Körkort B,441770564489
+177,Distriktsjuksköterska/ Sjuksköterska ASIH,Sjuksköterska|Sollefteå|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola|Körkort B,441770567721
+178,Sjuksköterska till Skövde,Sjuksköterska|Sundsvall|Promenad|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770571136
+179,Sjuksköterska till hjärtavdelning,Sjuksköterska|Sollefteå|Ansvarstagande| Analytisk|Legitimerad|Högskola|Körkort B,441770575074
+180,Sjuksköterska till Varberg,Sjuksköterska|Härnösand|Social|Strukturerad|Legitimerad|Högskola|Körkort CE,441770578842
+181,Leg sjuksköterska Kattrumpstullen,Sjuksköterska|Ånge|positiv| Snabb|Legitimerad|Högskola|Körkort B,441770582515
+182,Sjuksköterska till vårdcentral,Sjuksköterska|Härnösand|Social|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770590969
+183,Sjuksköterska till akutmottagningen,Sjuksköterska|Kramfors|Ansvarstagande| Stresstålig|Legitimerad|Högskola|Körkort B,441770593952
+184,Sjuksköterska till Patienthotellet,Sjuksköterska|Timrå|Stresstålig|Analytisk|Körkort B,441770596955
+185,"Sjuksköterska, dialysavdelningen, Lycksele",Sjuksköterska|Ånge|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770600021
+186,Sjuksköterska till Värmland Dedicare AB,Sjuksköterska|Timrå|Snabb|Ansvarstagande| Analytisk|Legitimerad|Högskola|Körkort B,441770604132
+187,Sjuksköterska till akutvårdsavdelningen,Sjuksköterska|Sundsvall|Empatisk|Flexibel|Legitimerad|Högskola|Körkort B,441770606961
+188,Sjuksköterska till hemsjukvården,Sjuksköterska|Ånge|Friskvård|självgående|Legitimerad|Högskola|Körkort B,441770610741
+189,Sjuksköterska Psykiatrimottagning Malung,Sjuksköterska|Sundsvall|positiv| Noggrann|Arbetsam|Legitimerad|Högskola|Körkort B,441770618551
+190,Sjuksköterska ASIH Södertälje,Sjuksköterska|Sundsvall|Friskvård|Social|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770621669
+191,Sjuksköterska Dialysmottagning Bollnäs,Sjuksköterska|Härnösand|Promenad|Stresstålig|Legitimerad|Högskola|Körkort B,441770625185
+192,sjuksköterska till socialpsykiatrin,Sjuksköterska|Timrå|Promenad|positiv| Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770628167
+193,Legitimerad sjuksköterska natt,Sjuksköterska|Örnsköldsvik|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola|Körkort B,441770632208
+194,Sjuksköterska till ortopedmottagningen,Sjuksköterska|Härnösand|Friskvård|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770635848
+195,Sjuksköterska till neurologiavdelningen,Sjuksköterska|Härnösand|Empatisk|Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441770639450
+196,Leg. Sjuksköterska natt,Sjuksköterska|Timrå|Snabb|Stresstålig|Analytisk|Legitimerad|Högskola|Körkort B,441770642326
+197,Sjuksköterska till dialysmottagningen,Sjuksköterska|Sundsvall|Flexibel|Noggrann|Legitimerad|Högskola|Körkort B,441770645277
+198,Sjuksköterska med nattjänstgöring,Sjuksköterska|Kramfors|Flexibel|Strukturerad|Legitimerad|Högskola|Körkort B,441770649627
+199,Jourhavande sjuksköterska joursjukvård,Sjuksköterska|Örnsköldsvik|Flexibel|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770653369
+200,Sjuksköterska för specialuppdrag,Sjuksköterska|Timrå|Arbetsam|Snabb|Legitimerad|Högskola|Körkort B,441770656442
+201,Sjuksköterska till rehabavdelningen,Sjuksköterska|Sundsvall|positiv| Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441770659900
+202,Sjuksköterska till vårdavdelning!,Sjuksköterska|Kramfors|positiv| Noggrann|Snabb|Ansvarstagande|Legitimerad|Högskola|Körkort B,441770664914
+203,Sjuksköterska till Hemsjukvården,Sjuksköterska|Sundsvall|Arbetsam|Snabb|Ansvarstagande| Stresstålig|Legitimerad|Högskola|Körkort B,441770671706
+204,Lastbilsförare,Lastbilsförare|Härnösand|Social|Stresstålig|Körkort CE,441770805471
+205,Åkeri söker lastbilsförare (CE),Lastbilsförare|Kramfors|Flexibel|Gymnasiet|Körkort CE,441770808139
+206,Lastbilsförare B och C körkort,Lastbilsförare|Sundsvall|Stresstålig|Gymnasiet|Körkort CE,441770811629
+207,Lastbilschaufför CE-behörighet till Transport och Fordon i Lund,Lastbilsförare|Timrå|positiv| självgående|Körkort CE,441770814439
+208,Lastbilschaufför,Lastbilsförare|Ånge|Noggrann|Körkort CE,441770817482
+209,Lastbilschaufför med CE-kort i Örebro,Lastbilsförare|Sollefteå|Ansvarstagande|Körkort CE,441770820658
+210,Direktsäljande lastbilschaufför,Lastbilsförare|Örnsköldsvik|Social|Empatisk|positiv| Säljinriktad| Stresstålig|Körkort CE,441770825970
+211,Lastbilschaufför - Kranväxlare,Lastbilsförare|Kramfors|Arbetsam|Körkort CE,441770834483
+212,Lastbilschaufför sökes,Lastbilsförare|Härnösand|Empatisk|självgående|Körkort CE,441770837322
+213,Distributionschaufför Skellefteå,Lastbilsförare|Sundsvall|Social|Säljinriktad| Kommunikativ|Körkort CE,441770841203
+214,Lastbilschaufför med lagervana,Lastbilsförare|Timrå|Promenad|Snabb|Körkort CE,441770844250
+215,Lastbilschaufför,Lastbilsförare|Sundsvall|Snabb|Körkort CE,441770847537
+216,Spolbilschaufförer sökes,Lastbilsförare|Ånge|positiv| Stresstålig|Körkort CE,441770850812
+217,Lastbilschaufför Lastväxlare,Lastbilsförare|Timrå|Arbetsam|Körkort CE,441770855216
+218,Kran/lastbilschaufför,Lastbilsförare|Sollefteå|Arbetsam|Snabb|Körkort CE,441770859636
+219,Lasbilschaufför,Lastbilsförare|Örnsköldsvik|Snabb|Ansvarstagande|Körkort CE,441770862249
+220,Chaufför med CE-kort sökes!,Lastbilsförare|Örnsköldsvik|Flexibel|Körkort CE,441770869170
+221,Mångsidig Lastbilschaufför,Lastbilsförare|Kramfors|Friskvård|Stresstålig|Körkort CE,441770871411
+222,Lastbilschaufför,Lastbilsförare|Timrå|Empatisk|serviceminded|Körkort CE,441770936389
+223,Vi söker duktiga lastbilschaufför!,Lastbilsförare|Ånge|Flexibel|Stresstålig|Körkort CE,441770939279
+224,Vill du bli en lastbilschaufför? Nu har du chansen!,Lastbilsförare|Örnsköldsvik|Flexibel|Stresstålig|Körkort CE,441770944072
+225,"Semestervikarierande busschaufförer, lastbilschaufförer och maskinförare",Lastbilsförare|Kramfors|Promenad|Ansvarstagande| serviceminded|Körkort CE,441770947588
+226,"Semestervikarierande busschaufförer, lastbilschaufförer och maskinförare",Lastbilsförare|Härnösand|Ansvarstagande| Säljinriktad| Stresstålig|Körkort CE,441770951283
+227,"Semestervikarierande busschaufförer, lastbilschaufförer och maskinförare",Lastbilsförare|Sundsvall|positiv| Noggrann|Arbetsam|Körkort CE,441770953779
+228,C Chaufför med YKB,Lastbilsförare|Timrå|Promenad|Social|serviceminded|Körkort CE,441770957574
+229,Sökes C-Chaufför som önskar jobba som betongpumpmaskinist!,Lastbilsförare|Ånge|Säljinriktad| Stresstålig|självgående|Körkort CE,441770962522
+230,Fazer Bageri söker säljare till Umeå,Lastbilsförare|Sollefteå|Ansvarstagande|Körkort CE,441770965201
+231,Nu söker vi en driven C- chaufför till vår kund i Växjö,Lastbilsförare|Örnsköldsvik|Empatisk|Snabb|Körkort CE,441770968753
+232,Distributionschaufför med C-KORT för omgående anställning i TRELLEBORG,Lastbilsförare|Härnösand|positiv| Snabb|Körkort CE,441770974902
+233,"Utlastare / Chaufför natt CE-kort, Sundsvall",Lastbilsförare|Sundsvall|Empatisk|Arbetsam|Snabb|Ansvarstagande|Körkort CE,441770979570
+234,"Chaufför, 100%",Lastbilsförare|Timrå|Flexibel|Noggrann|Arbetsam|Körkort CE,441770985772
+235,Erfaren CE-Chaufför sökes för heltidstjänst i Härryda!,Lastbilsförare|Ånge|positiv| Arbetsam|Snabb|Körkort CE,441770988808
+236,Lastväxlarchaufför i Stockholm,Lastbilsförare|Sollefteå|Flexibel|positiv| Noggrann|Körkort CE,441770993560
+237,"Produktionsenhetsansvarig – Återvinningsmiljöer, kärl och rum.",Lastbilsförare|Ånge|Social|Ansvarstagande| Stresstålig|Analytisk|Körkort CE,441770997427
+238,"C-chaufför med truckkort sökes på deltid, Karlskoga",Lastbilsförare|Örnsköldsvik|Empatisk|Flexibel|positiv|Körkort CE,441771002193
+239,Lastväxlarchaufför till avfallstransporter,Lastbilsförare|Kramfors|Friskvård|Promenad|Snabb|Körkort CE,441771005413
+240,CE-korts chaufför natt,Lastbilsförare|Härnösand|Promenad|Strukturerad|Körkort CE,441771009008
+241,Serviceinriktad renhållningschaufför med c-kort,Lastbilsförare|Sundsvall|Flexibel|serviceminded|Körkort CE,441771012700
+242,Serviceinriktad renhållningschaufför med c-kort,Lastbilsförare|Härnösand|Promenad|Säljinriktad| Stresstålig|Körkort CE,441771025586
+243,CE-chaufförer sökes för start omgående,Lastbilsförare|Härnösand|Flexibel|Körkort CE,441771031587
+244,Polfärskt Örebro söker säljande distributör,Lastbilsförare|Timrå|Bada|positiv| Arbetsam|Körkort CE,441771033811
+245,Chaufför med C-behörighet + YKB,Lastbilsförare|Ånge|Friskvård|Promenad|Empatisk|Körkort CE,441771036883
+246,Kranbilschaufför/Bärgare,Lastbilsförare|Sollefteå|Friskvård|Stresstålig|Körkort CE,441771040576
+247,C-Chaufförer på deltid till Thomas Betong,Lastbilsförare|Örnsköldsvik|Snabb|Körkort CE,441771043713
+248,Chaufför biltransport CE kort,Lastbilsförare|Kramfors|Flexibel|Körkort CE,441771046313
+249,Erfaren säljare med C-kort till Trollhättan,Lastbilsförare|Härnösand|positiv| Noggrann|Körkort CE,441771048967
+250,Erfaren säljare med C-kort till Uddevalla,Lastbilsförare|Sundsvall|Noggrann|Körkort CE,441771053764
+251,Distributionschaufför - C och CE-behörighet,Lastbilsförare|Härnösand|Snabb|Körkort CE,441771058350
+252,Claessons Transport AB söker erfarna CE-chaufförer!,Lastbilsförare|Sundsvall|Empatisk|Säljinriktad|Körkort CE,441771060580
+253,Erfaren CE-sjåfør søkes til langsiktig oppdrag i Tromsø!,Lastbilsförare|Timrå|Snabb|Ansvarstagande|Körkort CE,441771064041
+254,TopWork söker C-chaufför...,Lastbilsförare|Ånge|Arbetsam|självgående|Körkort CE,441771067219
+255,Betongbilschaufför,Lastbilsförare|Örnsköldsvik|positiv| Arbetsam|Körkort CE,441771070076
+256,Ser du etter en ekstrajobb som distribusjonssjåfør?,Lastbilsförare|Sollefteå|Flexibel|Stresstålig|Körkort CE,441771073041
+257,Sökes C-Chaufför som önskar jobba som betongpumpmaskinist!,Lastbilsförare|Härnösand|positiv| Noggrann|Snabb|Körkort CE,441771081230
+258,Dragbil chaufför,Lastbilsförare|Sundsvall|Noggrann|Arbetsam|Ansvarstagande|Körkort CE,441771086766
+259,Biltransportör Jönköping,Lastbilsförare|Ånge|Social|Strukturerad|Körkort CE,441771088687
+260,CE chaufför i Västerås,Lastbilsförare|Timrå|Empatisk|Arbetsam|Körkort CE,441771093886
+261,CE Chaufför (daglots) sökes i Eskilstuna omgående,Lastbilsförare|Ånge|Noggrann|Strukturerad|Körkort CE,441771097022
+262,Lastväxlare / Schaktbil med beredskap C e,Lastbilsförare|Sollefteå|Snabb|Körkort CE,441771099397
+263,Transportarbetare sökes till Karlskoga,Lastbilsförare|Örnsköldsvik|Flexibel|Körkort CE,441771102009
+264,Personal inom Flytt och Transport - Uppsala,Lastbilsförare|Kramfors|Friskvård|självgående|Körkort CE,441771104684
+265,Återvinningschaufför i Stockholm för jobb över jul och nyår!,Lastbilsförare|Timrå|Promenad|Social|Noggrann|Körkort CE,441771107809
+266,Chaufförer 2 st,Lastbilsförare|Sollefteå|Social|självgående|Körkort CE,441771110355
+267,Chaufför till Idrott och Arbetsmarknadsservice,Lastbilsförare|Örnsköldsvik|Flexibel|Körkort CE,441771112874
+268,Kranbilschaufför,Lastbilsförare|Härnösand|Noggrann|Körkort CE,441771115868
+269,CE förare sökes!,Lastbilsförare|Sundsvall|Flexibel|Noggrann|Körkort CE,441771119201
+270,Chaufför extra/deltid med C-kort,Lastbilsförare|Timrå|Flexibel|Noggrann|Snabb|Körkort CE,441771121867
+271,"C-korts chaufför , Flytt och möbelmontering",Lastbilsförare|Ånge|Empatisk|Noggrann|Säljinriktad|Körkort CE,441771125145
+272,Schaktbil Förare,Lastbilsförare|Sollefteå|Snabb|Körkort CE,441771128349
+273,Chaufförer sökes i Umeåområdet,Lastbilsförare|Ånge|Noggrann|Körkort CE,441771130735
+274,C-kort chaufför för olika uppdrag,Lastbilsförare|Sollefteå|Bada|Promenad|Flexibel|Strukturerad|Körkort CE,441771133696
+275,Tillsvidareanställd säljande distributör Pågen Luleå,Lastbilsförare|Härnösand|Noggrann|serviceminded|Körkort CE,441771136811
+276,Chaufför med c-kort.,Lastbilsförare|Härnösand|Snabb|Körkort CE,441771140221
+277,Torrsugschaufförer sökes,Lastbilsförare|Sundsvall|Noggrann|Snabb|Körkort CE,441771143090
+278,C-korts chaufför sökes till Rosersberg,Lastbilsförare|Timrå|Ansvarstagande| Säljinriktad|Körkort CE,441771146287
+279,C/CE Chaufför sökes,Lastbilsförare|Ånge|Flexibel|Körkort CE,441771149058
+280,Säljande distributör till [Norra Stockholm],Lastbilsförare|Timrå|Noggrann|Körkort CE,441771152249
+281,Säljande distributör till [Norra Stockholm],Lastbilsförare|Sollefteå|Säljinriktad| Stresstålig|självgående|Körkort CE,441771155326
+282,"C-kortschaufför, Upplands Väsby",Lastbilsförare|Örnsköldsvik|Noggrann|Ansvarstagande| Stresstålig|Körkort CE,441771157750
+283,Fjärrchaufför - Jönköping,Lastbilsförare|Sollefteå|Flexibel|positiv|Körkort CE,441771161063
+284,Spolbilsförare,Lastbilsförare|Ånge|Promenad|Flexibel|Arbetsam|Körkort CE,441771164942
+285,Vinsta Åkeri söker förare,Lastbilsförare|Ånge|Promenad|Social|Arbetsam|Körkort CE,441771170599
+286,Uppdrag för C-kort chaufförer,Lastbilsförare|Örnsköldsvik|Arbetsam|självgående|Körkort CE,441771173453
+287,Norrland Express söker CE chaufför,Lastbilsförare|Kramfors|Noggrann|Arbetsam|Snabb|Körkort CE,441771177430
+288,Förare till slam/spolbil,Lastbilsförare|Sundsvall|Empatisk|Ansvarstagande|Körkort CE,441771180180
+289,Chaufför - Helsingborg/Ängelholm,Lastbilsförare|Härnösand|Snabb|Ansvarstagande| Säljinriktad|Körkort CE,441771183886
+290,CE Chauffor med YKB,Lastbilsförare|Sollefteå|Flexibel|positiv| Stresstålig|Körkort CE,441771186731
+291,Bilbärgare,Lastbilsförare|Härnösand|Flexibel|Noggrann|Arbetsam|Körkort CE,441771191312
+292,Chafför mellan Spanien och Stockholm CE,Lastbilsförare|Sundsvall|Flexibel|självgående|Körkort CE,441771194766
+293,CE chaufförer,Lastbilsförare|Timrå|Arbetsam|Snabb|Körkort CE,441771197269
+294,CE-Chaufför distribution,Lastbilsförare|Ånge|positiv| Strukturerad|Körkort CE,441771199495
+295,Vi söker spolbilstekniker och torrsugschaufför till NHS!,Lastbilsförare|Sollefteå|Social|Stresstålig|Körkort CE,441771202960
+296,Lastväxlarförare,Lastbilsförare|Ånge|Noggrann|Ansvarstagande|Körkort CE,441771208428
+297,Tankbilschaufför,Lastbilsförare|Sollefteå|Promenad|Säljinriktad| Strukturerad| självgående|Körkort CE,441771212854
+298,CE-chaufförer sökes för långsiktigt uppdrag!,Lastbilsförare|Örnsköldsvik|Social|positiv| Noggrann|Körkort CE,441771215372
+299,Distributionsförare med CE-körkort sökes!,Lastbilsförare|Härnösand|Bada|Snabb|Ansvarstagande| Stresstålig|Körkort CE,441771218450
+300,Duktig CE-chaufför sökes!,Lastbilsförare|Sundsvall|Snabb|Säljinriktad|Körkort CE,441771223444
+301,CE-chaufför Gävle,Lastbilsförare|Timrå|Flexibel|Noggrann|Körkort CE,441771226209
+302,C/CE-chaufförer för olika uppdrag i Stockholm,Lastbilsförare|Ånge|Promenad|Arbetsam|Snabb|Ansvarstagande|Körkort CE,441771228781
+303,Vi söker C-chaufförer med tillgång till Lastbil/Flak för kortare uppdrag.,Lastbilsförare|Ånge|Kommunikativ| Strukturerad|Körkort CE,441771232472
+304,CE chaufför Stockholm,Lastbilsförare|Sollefteå|Noggrann|Arbetsam|Körkort CE,441771234839
+305,Chaufför sökes till Skövde,Lastbilsförare|Örnsköldsvik|positiv| Noggrann|Körkort CE,441771237381
+306,Chaufför sökes till Skövde,Lastbilsförare|Örnsköldsvik|positiv| Noggrann|Körkort CE,441771372109
+307,Operatör,Operatör|Härnösand|positiv| Snabb|Körkort CE,441771378964
+308,Maskinsnickare med inriktning Trä,Operatör|Sundsvall|Flexibel|positiv| Stresstålig|Gymnasiet,441771383617
+309,Maskinoperatör/truckförare sökes till företag i Ryd!,Operatör|Timrå|Snabb|Gymnasiet,441771386944
+310,Maskinsnickare,Operatör|Ånge|Flexibel|Gymnasiet,441771390628
+311,Snickare/ montör,Operatör|Sollefteå|Promenad|positiv| Stresstålig|Gymnasiet|Körkort B,441771394599
+312,Operatör,Operatör|Örnsköldsvik|Social|positiv| Arbetsam|Körkort B,441771399304
+313,CNC Operatör,Operatör|Örnsköldsvik|Noggrann|Arbetsam|Snabb|Körkort B,441771404284
+314,Produktionsansvarig operatör,Operatör|Kramfors|Friskvård|Social|Arbetsam|självgående|Gymnasiet|Körkort B,441771411552
+315,Operatör i Mullsjö,Operatör|Sollefteå|Promenad|Social|Empatisk|Flexibel|positiv| Stresstålig|Gymnasiet|Körkort B,441771500085
+316,CNC operatör längdsvarvning,Operatör|Härnösand|Social|Flexibel|Körkort B,441773980876
+317,CNC operatör / Maskinarbetare,Operatör|Sundsvall|Flexibel|Gymnasiet|Körkort B,441773983584
+318,Nitator söker Operatör till Måleriet,Operatör|Timrå|Flexibel|Körkort B,441773986291
+319,CNC operatör för kommande uppdrag,Operatör|Ånge|Friskvård|Gymnasiet,441773989296
+320,"Operatör, maskinell brodyr till Swedol-TOOLS",Operatör|Sollefteå|Flexibel|Körkort B,441773992236
+321,CNC operatör svarvning Traub TNX/TNC,Operatör|Örnsköldsvik|Flexibel|Körkort B,441773995092
+322,Operatör till Talent Plastics Laxå AB,Operatör|Kramfors|Empatisk|Ansvarstagande|Gymnasiet|Körkort B,441773998629
+323,Operatör sökes till uppdrag i Södertälje,Operatör|Härnösand|självgående|Gymnasiet|Körkort B,441774004912
+324,Operatör till varmförzinkningen på Smekab Citylife,Operatör|Sundsvall|Social|självgående|Körkort B,441774009159
+325,CNC operatör för uppdrag hos kund,Operatör|Timrå|Stresstålig|Körkort B,441774012192
+326,Operatör till SNA Europe i Lidköping,Operatör|Ånge|positiv|Gymnasiet|Körkort B,441774015136
+327,CNC operatör inom skärning till LKAB Mekaniska,Operatör|Sollefteå|kreativ|Gymnasiet|Körkort B,441774284944
+328,Operatör inom formsprutning - Norr om Ängelholm,Operatör|Örnsköldsvik|Friskvård|Social|Gymnasiet|Körkort B,441774289327
+329,Svenska Retursystem AB Örebro söker Operatör Leverans,Operatör|Örnsköldsvik|Friskvård|Körkort B,441774291958
+330,CNC Operatör / Svarvare sökes till modern maskinpark!,Operatör|Kramfors|Empatisk|Körkort B,441774294753
+331,Ledigt jobb som operatör på färgfabrik i Arlöv,Operatör|Härnösand|Flexibel|Körkort B,441774297377
+332,Driftig operatör för utomhusarbete till kund ,Operatör|Sundsvall|Noggrann|Körkort B,441774302012
+333,CNC LEGO SANDVIKEN söker en erfaren CNC progammerare,Operatör|Timrå|Strukturerad|Körkort B,441774304418
+334,Vill du jobba som operatör med inriktning robotcell?,Operatör|Ånge|Flexibel|Körkort B,441774307188
+335,Operatör till Servicecenter för MTR Facility Management Dag och Natt,Operatör|Sollefteå|kreativ|Körkort CE,441774309781
+336,På uppdrag av vår kund Exeger söker vi nu en screenprintare!,Operatör|Sollefteå|Noggrann|Körkort B,441774312108
+337,TopWork söker hyveloperatör,Operatör|Ånge|Flexibel|Körkort B,441774316231
+338,Erfaren Maskinoperatör,Operatör|Sundsvall|Social|Ansvarstagande|Körkort B,441774319620
+339,Vi söker operatörer i Åtvidaberg,Operatör|Timrå|Social|självgående|Körkort B,441774322983
+340,CNC-Operatör - Mönsterås - En tjänst med inslag av trä!,Operatör|Ånge|Friskvård|serviceminded|Körkort B,441774325971
+341,Maskinoperatör till Jönköping,Operatör|Örnsköldsvik|Flexibel|kreativ|Körkort B,441774328371
+342,Hyveloperatör till Bergnäset,Operatör|Kramfors|Flexibel|kreativ|Körkort B,441774331083
+343,SSAB - Underhållsoperatörer verkstadsmaskiner till SSABs centrala verkstad,Operatör|Härnösand|positiv| Stresstålig|Körkort B,441774334128
+344,Erfaren montör till Stig Wahlströms hydraulik.,Operatör|Sundsvall|Promenad|Stresstålig|Körkort B,441774336523
+345,Nitator söker Operatörer till Monteringen,Operatör|Timrå|Social|självgående|Körkort B,441774338946
+346,Operatörer till Polisens kontaktcenter (PKC) i Luleå och ,Operatör|Ånge|Stresstålig|Körkort B,441774341851
+347,CNC-Operatörer/fräsning,Operatör|Härnösand|Noggrann|Körkort B,441774344896
+348,Maskinoperatörer,Operatör|Sundsvall|positiv|Körkort B,441774346892
+349,Kvalificerad CNC-Operatör sökes!,Operatör|Timrå|Stresstålig|Körkort B,441774348925
+350,Vi söker en teknisk processoperatör!,Operatör|Sollefteå|positiv|Körkort B,441774354130
+351,2 operatörer sökes till Falck Räddningskår AB,Operatör|Örnsköldsvik|Social|Körkort B,441774362069
+352,På uppdrag av vår kund Exeger söker vi nu maskinoperatörer!,Operatör|Kramfors|Ansvarstagande| Stresstålig|Körkort B,441774364004
+353,Maskinoperatörer till Finspång,Operatör|Härnösand|Empatisk|positiv|Körkort B,441774366016
+354,Montör,Operatör|Härnösand|Empatisk|Noggrann|Gymnasiet|Körkort B,441774368485
+355,Uniflex söker Operatörer till Nammo Sweden i Karlsborg,Operatör|Sundsvall|positiv| Arbetsam|Gymnasiet|Körkort B,441774370755
+356,Process operatörer till Flexotryckpress,Operatör|Timrå|Promenad|Flexibel|Körkort B,441774372927
+357,Erfaren operatör/ställare till expanderande produktion i Hörby,Operatör|Ånge|Strukturerad| självgående|Körkort B,441774375480
+358,Fordonsmontör till Adient,Operatör|Kramfors|Social|positiv|Körkort B,441774378630
+359,Fordonsmontör till AdientOk,Operatör|Härnösand|Ansvarstagande| Stresstålig|Körkort B,441774383630
+360,Montör/Operatör till Plasman i Göteborg,Operatör|Sundsvall|Ansvarstagande| Stresstålig|Körkort B,441774386267
+361,Sommarjobba på Bollsta sågverk 2021,Operatör|Timrå|Arbetsam|Snabb|Körkort B,441774388344
+362,Sågverksoperatör till Setra Hasselfors,Operatör|Ånge|Friskvård|Empatisk|Körkort B,441774391042
+363,Vi söker Operatörer,Operatör|Örnsköldsvik|Bada|Stresstålig|Gymnasiet|Körkort B,441774393785
+364,Träindustriarbetare till Derome Husproduktion i Väröbacka,Operatör|Kramfors|Empatisk|Snabb|Gymnasiet|Körkort B,441774396516
+365,Produktionspersonal Höganäs Sweden AB,Operatör|Härnösand|positiv| Noggrann|Gymnasiet|Körkort B,441774401476
+366,Maskinoperatör norr om Ängelholm,Operatör|Sundsvall|Social|självgående|Gymnasiet|Körkort B,441774404855
+367,Montör,Operatör|Härnösand|Ansvarstagande| Stresstålig|Körkort B,441774407303
+368,SEMESTERVIKARIERANDE BERGARBETARE,Operatör|Sundsvall|Bada|positiv|Körkort B,441774409616
+369,Erfaren CNC fräsare för trä,Operatör|Timrå|Empatisk|Noggrann|Körkort B,441774411774
+370,Maskinoperatörer sökes till Norrköping.,Operatör|Ånge|Promenad|Stresstålig|Gymnasiet|Körkort CE,441774414880
+371,Maskinoperatörer sökes till Finspång,Operatör|Timrå|Flexibel|Körkort B,441774416959
+372,Semestervikarierande Bergarbetare,Operatör|Ånge|Friskvård|självgående|Körkort B,441774419103
+373,Funktionsansvarig till Säkerhetsenheten,Operatör|Sollefteå|Empatisk|kreativ|Gymnasiet|Körkort B,441774421122
+374,Vi söker en Kantbockare,Operatör|Örnsköldsvik|Fotboll|kreativ|Körkort CE|Körkort B,441774423219
+375,"Vi söker svarvare, manuell",Operatör|Härnösand|Empatisk|självgående|Körkort B,441774425711
+376,Är du vår nya CNC Operatör?,Operatör|Ånge|Noggrann|Arbetsam|Körkort B,441774427828
+377,Industriarbetare för framtida uppdrag i GGVV-regionen,Operatör|Sollefteå|Ansvarstagande| Stresstålig|Körkort B,441774430120
+378,CNC operatörer,Operatör|Timrå|Friskvård|Empatisk|Gymnasiet,441774432459
+379,NOC extrajobb kväll/natt/helg,Operatör|Örnsköldsvik|Ansvarstagande| Stresstålig|Körkort B,441774434947
+380,Operatörer sökes till läkemedelsföretag i Södertälje,Operatör|Örnsköldsvik|självgående|Gymnasiet,441774437037
+381,Signaloperatör vid Särskilda sambandsenheten SSE,Operatör|Örnsköldsvik|Flexibel|positiv|Gymnasiet,441774439319
+382,NORRBOTTENS BÄSTA CNC-OPERATÖR SÖKES,Operatör|Härnösand|Promenad|självgående|Gymnasiet,441774442816
+383,Just nu söker vi CNC operatörer/svarvare till kund i Kungsör,Operatör|Kramfors|Ansvarstagande| Stresstålig|Gymnasiet|Körkort B,441774445548
+384,CNC Servicetekniker-Jönköping,Operatör|Härnösand|Social|Noggrann|Gymnasiet|Körkort B,441774448354
+385,CNC Servicetekniker,Operatör|Sundsvall|Strukturerad| självgående|Körkort B,441774456672
+386,CNC Servicetekniker-Värnamo,Operatör|Timrå|positiv| Noggrann|Körkort B,441774459506
+387,Förare/Operatör till Infranord,Operatör|Timrå|Empatisk|Flexibel|Gymnasiet,441774461640
+388,Teknisk operatör vid Sektionen för operativ teknik,Operatör|Ånge|Flexibel|Gymnasiet,441774464598
+389,Maskinsnickare med inriktning,Operatör|Sollefteå|Promenad|Flexibel|Gymnasiet,441774468456
+390,Maskinoperatör/truckförare sökes,Operatör|Örnsköldsvik|Bada|Arbetsam|Gymnasiet|Körkort B,441774471665
+391,Extrajobb som maskinoperatör,Operatör|Kramfors|Bada|kreativ|Gymnasiet,441774473929
+392,Maskinsnickare,Operatör|Härnösand|Fotboll|Bada|Gymnasiet,441774477093
+393,Snickare/ montör,Operatör|Timrå|Fotboll|Bada|Gymnasiet,441774479216
+394,Operatör,Operatör|Ånge|Fotboll|Friskvård|kreativ|Gymnasiet,441774481736
+395,Operatör,Operatör|Sollefteå|Empatisk|Flexibel|positiv|Gymnasiet,441774484197
+396,CNC Operatör,Operatör|Sollefteå|Empatisk|Flexibel|positiv| Arbetsam|Gymnasiet,441774486972
+397,Operatör Behovsanställning,Operatör|Härnösand|Fotboll|Bada|Friskvård|Gymnasiet,441774489160
+398,Erfaren operatör,Operatör|Sundsvall|Friskvård|Promenad|Empatisk|Gymnasiet,441774491616
+399,Produktionsansvarig operatör,Operatör|Timrå|Fotboll|Bada|Friskvård|Promenad|Gymnasiet,441774494008
+400,Operatör till säkerhetsenheten,Operatör|Ånge|Fotboll|Friskvård|Promenad|Social|Gymnasiet,441774497223
+401,Operatör till säkerhetsenheten,Operatör|Kramfors|Fotboll|Bada|Promenad|Empatisk|Gymnasiet|Körkort B,441774502991
+402,Tekniskt intresserad operatör,Operatör|Härnösand|Flexibel|Noggrann|Arbetsam|Snabb|Gymnasiet|Körkort B,441774506437
+403,Operatör i Mullsjö,Operatör|Sundsvall|positiv| Noggrann|Arbetsam|Snabb|Gymnasiet,441774509956
+404,Ställare / Operatör,Operatör|Sollefteå|Fotboll|Bada|Promenad|Körkort B,441774512715
+405,CNC operatör längdsvarvning,Operatör|Härnösand|Fotboll|Friskvård|Social|Gymnasiet,441774515336
+406,CNC operatör / Maskinarbetare,Operatör|Sundsvall|Fotboll|Bada|Promenad|Social|Gymnasiet|Körkort B,441774517831
+407,Läkare Närhälsan Gråbo vårdcentral,Läkare|Härnösand|Bada|Promenad|Social|Empatisk|Legitimerad|Högskola|Körkort B,441774525114
+408,Legitimerad Läkare,Läkare|Sundsvall|Friskvård|Promenad|Social|Arbetsam|Legitimerad|Högskola|Körkort B,441774528099
+409,Läkare Allmänmedicin,Läkare|Timrå|Promenad|Empatisk|Flexibel|Legitimerad|Högskola,441774532712
+410,Leg. Läkare Vårdcentral Hjärtat i Helsingborg ,Läkare|Timrå|Bada|Promenad|Flexibel|positiv| Strukturerad|Legitimerad|Högskola,441774535951
+411,Legitimerad Läkare SKHLM Vårdcentral AB,Läkare|Ånge|Promenad|Flexibel|Noggrann|Analytisk|Legitimerad|Högskola,441774539008
+412,Legitimerad läkare,Läkare|Sollefteå|Empatisk|Stresstålig|Analytisk|Legitimerad|Högskola,441774541621
+413,Legitimerad läkare Region Uppsala,Läkare|Örnsköldsvik|Social|Empatisk|positiv|Legitimerad|Högskola,441774544139
+414,Läkare akutsjukvård Region Uppsala,Läkare|Kramfors|Social|Empatisk|Flexibel|Legitimerad|Högskola,441774547280
+415,Läkare och Specialistläkare OMSORG & BEHANDLING,Läkare|Härnösand|Promenad|Flexibel|Legitimerad|Högskola,441774550030
+416,Läkare och Specialistläkare,Läkare|Timrå|Social|Flexibel|positiv| Arbetsam|Legitimerad|Högskola,441774561400
+417,Läkare och Specialistläkare,Läkare|Härnösand|Social|Empatisk|Flexibel|Snabb|Legitimerad|Högskola,441774566891
+418,Läkare och Specialistläkare OMSORG & BEHANDLING,Läkare|Härnösand|Social|Empatisk|Flexibel|Legitimerad|Högskola,441774575009
+419,Läkare och Specialistläkare OMSORG & BEHANDLING,Läkare|Härnösand|Promenad|Social|Flexibel|Legitimerad|Högskola|Körkort B,441774602549
+420,Läkare och Specialistläkare OMSORG & BEHANDLING - Hofors,Läkare|Sundsvall|Bada|Social|Empatisk|Analytisk|Legitimerad|Högskola,441774606983
+421,Läkare och Specialistläkare OMSORG & BEHANDLING Bollnäs,Läkare|Sundsvall|Friskvård|Kommunikativ| självgående|Legitimerad|Högskola,441774610852
+422,Läkare och Specialistläkare OMSORG & BEHANDLING - Åmål,Läkare|Timrå|Flexibel|Arbetsam|Legitimerad|Högskola,441774614308
+423,Läkare och Specialistläkare OMSORG & BEHANDLING - Vänersborg,Läkare|Timrå|Stresstålig|Analytisk|Legitimerad|Högskola,441774617127
+424,Läkare och Specialistläkare OMSORG & BEHANDLING - Vårgårda,Läkare|Ånge|Empatisk|positiv| Snabb|Legitimerad|Högskola,441774620614
+425,Läkare och Specialistläkare OMSORG & BEHANDLING - Vara,Läkare|Sollefteå|Empatisk|positiv|Legitimerad|Högskola,441774623073
+426,Läkare och Specialistläkare OMSORG & BEHANDLING - Uddevalla,Läkare|Örnsköldsvik|Friskvård|Empatisk|Flexibel|Legitimerad|Högskola,441774625526
+427,Läkare och Specialistläkare OMSORG & BEHANDLING - Töreboda,Läkare|Örnsköldsvik|Promenad|Flexibel|positiv|Legitimerad|Högskola,441774631982
+428,Läkare och Specialistläkare OMSORG & BEHANDLING - Tranemo,Läkare|Härnösand|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774634637
+429,Läkare och Specialistläkare,Läkare|Kramfors|Friskvård|Analytisk|Legitimerad|Högskola,441774638394
+430,Läkare och Specialistläkare OMSORG & BEHANDLING - Tibro,Läkare|Härnösand|Friskvård|Empatisk|Flexibel|Legitimerad|Högskola,441774641055
+431,Läkare och Specialistläkare OMSORG & BEHANDLING - Strömstad,Läkare|Härnösand|Empatisk|Flexibel|Snabb|Legitimerad|Högskola,441774644022
+432,Läkare och Specialistläkare OMSORG & BEHANDLING - Forshaga,Läkare|Härnösand|Fotboll|Noggrann|Arbetsam|Ansvarstagande|Legitimerad|Högskola,441774649307
+433,Läkare och Specialistläkare OMSORG & BEHANDLING - Stockholm,Läkare|Örnsköldsvik|Noggrann|Arbetsam|Säljinriktad| Stresstålig|Legitimerad,441774652552
+434,Läkare och Specialistläkare OMSORG & BEHANDLING - Sollentuna,Läkare|Kramfors|Empatisk|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441774655737
+435,Leg läkare och sjuksköterska ARKADENS LÄKARMOTTAGNING ,Läkare|Härnösand|Empatisk|Flexibel|Arbetsam|Legitimerad|Högskola|Körkort B,441774659463
+436,"Läkare till Vårdcentralen Degeberga Region Skåne, Primärvården",Läkare|Härnösand|Bada|Friskvård|Ansvarstagande| Analytisk|Legitimerad|Högskola,441774662989
+437,"Läkare till Södersjukhuset, spontanansökan Södersjukhuset SÖS - Stockholm",Läkare|Ånge|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola,441774666164
+438,Legitimerad läkare till Sölvesborgs vårdcentral Region Blekinge,Läkare|Timrå|Bada|Friskvård|Social|självgående|Legitimerad|Högskola,441774669778
+439,Läkare till primärvården inom Stockholm Medcura AB,Läkare|Örnsköldsvik|Social|Empatisk|Flexibel|Legitimerad|Högskola,441774672644
+440,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Kramfors|Empatisk|Noggrann|Stresstålig|Legitimerad|Högskola|Körkort B,441774675552
+441,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Härnösand|Flexibel|positiv| Stresstålig|Legitimerad|Högskola|Körkort B,441774678532
+442,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Anderstorp,Läkare|Sundsvall|Friskvård|Strukturerad| kreativ|Legitimerad|Högskola,441774681357
+443,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Arjeplog,Läkare|Timrå|Social|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441774684466
+444,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Arvika,Läkare|Härnösand|Fotboll|Social|kreativ|Legitimerad|Högskola|Körkort B,441774687384
+445,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Askersund ,Läkare|Sundsvall|Promenad|Social|Flexibel|Legitimerad|Högskola,441774689842
+446,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning ,Läkare|Timrå|Fotboll|Bada|Promenad|Legitimerad|Högskola|Körkort CE,441774692725
+447,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Borlänge ,Läkare|Sundsvall|Snabb|Stresstålig|Analytisk| kreativ|Legitimerad|Högskola|Körkort B,441774696535
+448,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Bäckefors,Läkare|Timrå|Snabb|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola,441774699521
+449,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Båstad,Läkare|Ånge|Social|Empatisk|positiv| Noggrann|Arbetsam|Legitimerad|Högskola,441774702602
+450,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Degerfors ,Läkare|Örnsköldsvik|Bada|Social|Stresstålig|Analytisk|Legitimerad|Högskola|Körkort B,441774706563
+451,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Härnösand|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola,441774710197
+452,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Kramfors|Empatisk|Flexibel|positiv| kreativ|Legitimerad|Högskola|Körkort B,441774720568
+453,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Timrå|Bada|Promenad|Social|Legitimerad|Högskola,441774729506
+454,Leg. Läkare till Järna Vårdcentral,Läkare|Kramfors|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441774733410
+455,Leg. Läkare till Järna Vårdcentral Lideta Hälsovård ,Läkare|Härnösand|Empatisk|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441774736049
+456,Leg. Läkare till Järna Vårdcentral Lideta Hälsovård ,Läkare|Sundsvall|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola|Körkort B,441774739005
+457,Halmstad: Legitimerad Läkare till Tudorkliniken,Läkare|Timrå|Social|Flexibel|positiv|Legitimerad|Högskola,441774741636
+458,Leg. Läkare till Järna Vårdcentral,Läkare|Ånge|Bada|Ansvarstagande| Analytisk|Legitimerad|Högskola,441774745511
+459,Legitimerade läkare Särskilt boende,Läkare|Sollefteå|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774747514
+460,Läkare med specialitet inom anestesi/intensivvård,Läkare|Sollefteå|Social|positiv| Arbetsam|Legitimerad|Högskola|Körkort B,441774750100
+461,Leg. Läkare till Hofors Din hälsocentral,Läkare|Örnsköldsvik|Fotboll|Analytisk| Strukturerad|Legitimerad|Körkort CE|Körkort B,441774753001
+462,Leg. läkare till Solna Centrums vårdcentral,Läkare|Kramfors|Arbetsam|Snabb|Ansvarstagande| Analytisk|Legitimerad|Högskola,441774756298
+463,"Legitimerad läkare till Vårdcentralen Kolla, Kungsbacka",Läkare|Härnösand|Friskvård|Arbetsam|Snabb|Analytisk|Legitimerad|Högskola,441774759162
+464,Läkare till specialiserad palliativ vård Ludvika/Smedjebacken,Läkare|Sundsvall|Empatisk|positiv| Arbetsam|Legitimerad|Högskola,441774762451
+465,Legitimerad läkare sökes för spännande uppdrag,Läkare|Sundsvall|Empatisk|positiv|Legitimerad|Högskola,441774765141
+466,Legitimerad läkare till Solljungahälsan i Örkelljunga,Läkare|Timrå|Friskvård|positiv| Snabb|Legitimerad|Högskola,441774768387
+467,Extra personal - Läkare till smittspårningsenheten,Läkare|Timrå|Promenad|Flexibel|Arbetsam|Legitimerad|Högskola,441774771489
+468,Läkare sökes till enhet för smärtrehabilitering,Läkare|Örnsköldsvik|Social|Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774774300
+469,Leg läkare till Previa i Göteborg Hisingen,Läkare|Sundsvall|Friskvård|Promenad|positiv|Legitimerad|Högskola,441774777297
+470,Husläkarmottagning i Täby Centrum söker Leg. Läkare,Läkare|Härnösand|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774781024
+471,"Läkare, vikariat, till Vårdcentralen Vänhem i Hässleholm",Läkare|Härnösand|Empatisk|Arbetsam|Snabb|Legitimerad|Högskola,441774783795
+472,Legitimerad läkare inför ST till Skärholmens vårdcentral,Läkare|Sollefteå|Friskvård|Kommunikativ| kreativ|Legitimerad|Högskola,441774786866
+473,5 Husläkare i Sollentuna söker legitimerad läkare,Läkare|Härnösand|Arbetsam|Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774789265
+474,Provtjänstgöring för läkare med examen utanför EU/EES,Läkare|Härnösand|Friskvård|Empatisk|Snabb|Legitimerad|Högskola,441774798930
+475,Legitimerad Läkare sökes för öppning ny Vårdcentral Eskilstuna,Läkare|Härnösand|Promenad|Flexibel|Noggrann|Legitimerad|Högskola,441774801712
+476,Legitimerad läkare till en vårdcentral i västar Stockholm!,Läkare|Härnösand|Empatisk|positiv| Arbetsam|Legitimerad|Högskola,441774805623
+477,Vi söker leg. läkare till ASIH Familjeläkarna Hammarbyhöjden,Läkare|Sundsvall|Bada|Promenad|självgående|Legitimerad|Högskola,441774809367
+478,Leg. läkare sökes till Krys nyöppnade vårdcentral i Malmö,Läkare|Härnösand|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774813190
+479,Leg. läkare sökes till Krys nyöppnade vårdcentral i Malmö,Läkare|Sundsvall|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441774816259
+480,Leg. Läkare & allmänspecialister sökes till kombinerad tjänst på Doktor,Läkare|Timrå|Empatisk|Flexibel|självgående|Gymnasiet|Körkort CE,441774820726
+481,Leg. Läkare sökes till KRYs vårdcentraler i Stockholm samt för kvälls,Läkare|Sundsvall|Bada|Friskvård|Stresstålig|Legitimerad|Högskola,441774825788
+482,Specialistläkare inom kirurgi sökes till välbetalda uppdrag,Läkare|Timrå|Social|Strukturerad|Legitimerad|Högskola,441774829984
+483,Specialist i allmänmedicin till Vårdcentralen Borensberg,Läkare|Ånge|Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774833068
+484,Vikariat underläkare till Ögonmottagningen Hudiksvall,Läkare|Härnösand|Promenad|Empatisk|Flexibel|Legitimerad|Högskola,441774835942
+485,"Psykiatriker och delägare, Falun",Läkare|Sollefteå|Social|Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441774839570
+486,Underläkare (vikariat) till Achima Care Eskilstuna vårdcentral,Läkare|Sundsvall|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola,441774842785
+487,Underläkare sökes till kombination av primärvård och digitala tjänster,Läkare|Härnösand|Bada|Promenad|positiv| Noggrann|Legitimerad|Högskola,441774850114
+488,Skolläkare till Kunskapsförvaltningen,Läkare|Örnsköldsvik|Friskvård|Flexibel|Stresstålig|Analytisk|Legitimerad|Högskola,441774852598
+489,"Underläkare, Kvinnokliniken",Läkare|Sundsvall|Fotboll|Stresstålig|Strukturerad|Legitimerad|Högskola,441774855409
+490,"HTA-ansvariga, Centrum för klinisk forskning",Läkare|Timrå|positiv| Arbetsam|Snabb|Legitimerad|Högskola,441774858135
+491,Legitimerad läkare/underläkare sökes till Råsunda vårdcentral,Läkare|Ånge|Bada|Promenad|självgående|Legitimerad|Högskola,441774861352
+492,Barnläkare till Barn- och Ungdomskliniken i Gävle,Läkare|Sollefteå|positiv| Stresstålig|Kommunikativ|Legitimerad|Högskola,441774864416
+493,Sem vik läkarassistent till VC Ludvika-Grängesberg,Läkare|Örnsköldsvik|Ansvarstagande| Analytisk| Kommunikativ|Legitimerad|Högskola,441774867167
+494,Vi söker underläkare till slutenvården!,Läkare|Örnsköldsvik|Flexibel|Arbetsam|Stresstålig|Legitimerad|Högskola,441774870762
+495,Specialistläkare i vuxenpsykiatri med inriktning mot ADHD,Läkare|Härnösand|Fotboll|Analytisk| Kommunikativ|Legitimerad|Högskola,441774873273
+496,"Läkarassistent, Skaraborgs Sjukhus Lidköping",Läkare|Ånge|positiv| Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774876807
+497,"Läkarassistent, Skaraborgs Sjukhus Skövde",Läkare|Sundsvall|Flexibel|Stresstålig|Legitimerad|Högskola,441774879415
+498,Psykiatriker till bemanninguppdrag med hög ersättning,Läkare|Timrå|Social|Strukturerad| självgående|Legitimerad|Högskola,441774882878
+499,Specialistläkare/ ST-läkare,Läkare|Timrå|Flexibel|Kommunikativ| Strukturerad|Legitimerad|Högskola|Körkort B,441774885961
+500,Specialistläkare/överläkare till ÄlSa-team Sollefteå,Läkare|Örnsköldsvik|Empatisk|Flexibel|Arbetsam|Legitimerad|Högskola,441774888291
+501,Distriktsläkare,Läkare|Sundsvall|Friskvård|Arbetsam|Snabb|Legitimerad|Högskola,441774890896
+502,"Underläkare, ögonsjukvården",Läkare|Sollefteå|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola,441774893243
+503,Underläkare för sommarvikariat 2021 till ASIH Stockholm Södra,Läkare|Timrå|Empatisk|Noggrann|Legitimerad|Högskola,441774896477
+504,Underläkare med intresse för psykiatri/rättspsykiatri,Läkare|Ånge|Arbetsam|Stresstålig|Analytisk|Legitimerad|Högskola,441774898933
+505,Underläkare till infektionskliniken (vikariat,Läkare|Timrå|Promenad|Noggrann|kreativ|Legitimerad|Högskola,441774901180
+506,Allmänspecialist Väla Hälsocenter,Läkare|Härnösand|Bada|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola,441774904114
+507,Distriktsläkare till Vårdcentralen Svalöv,Läkare|Ånge|Bada|Arbetsam|Ansvarstagande| Kommunikativ|Legitimerad|Högskola,441774906816
+508,"Överläkare till Anestesi, Sollefteå",Läkare|Sollefteå|Flexibel|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola,441775747166
+509,Städare Städgiganten AB,Städare|Härnösand|Friskvård|Promenad|Körkort B|Städutbildning,441779082052
+510, Städare Knutsberg Consulting,Städare|Sundsvall|Promenad|Empatisk|Körkort B|Städutbildning,441779085867
+511,Städare VÄSTMANLAND,Städare|Timrå|Social|positiv|Körkort B,441779088902
+512,Städare SunClean AB ,Städare|Ånge|Social|självgående|Körkort B|Städutbildning,441779091691
+513,Städare Nis Kakel & Bygg ,Städare|Sollefteå|Arbetsam|Snabb|Körkort B|Städutbildning,441779094665
+514,Söker städare Kiss Kitti,Städare|Örnsköldsvik|Social|Flexibel|självgående|Städutbildning,441779097708
+515, Städare inom flyttstäd! Yones Imen,Städare|Örnsköldsvik|Bada|Snabb|Gymnasiet|Städutbildning,441779100600
+516,Semestervikariat städare Örebro Region Örebro län,Städare|Kramfors|Stresstålig|Analytisk|Körkort B,441779102995
+517,Städare lokalvårdare Qazi Traders,Städare|Härnösand|positiv| Arbetsam|Städutbildning,441779106245
+518,Städare sökes omgående! Happy Cleaning Skane,Städare|Sundsvall|Snabb|Körkort B,441779108843
+519,Städare Lund med omnejd HEMSERVICE2 AB,Städare|Timrå|Strukturerad| självgående|Körkort B,441779111311
+520,Städare allt i allo Göteborg ,Städare|Ånge|positiv|Städutbildning,441779113798
+521,Städare I Uppsala Sökes Städstaden Lokalvård,Städare|Sollefteå|Stresstålig|Körkort B,441779115932
+522,Städare till Vardagsfrid,Städare|Örnsköldsvik|Noggrann|Gymnasiet,441779118730
+523,Lokalvårdare sökes!,Städare|Kramfors|Stresstålig|Strukturerad|Städutbildning,441779121821
+524,Lokalvård / Städare (med B-körkort),Städare|Friskvård|Noggrann|Städutbildning,441779124413
+525,Städare och Fönsterputsare till städningsteamet,Städare|Timrå|positiv| Stresstålig|Gymnasiet,441779127902
+526,Green Clean söker miljömedvetna städare,Städare|Härnösand|positiv| Arbetsam|Körkort B,441779130749
+527,Städare Lokalvårdare - Idre,Städare|Härnösand|Friskvård|Stresstålig|Gymnasiet,441779133877
+528,Städare till specialen i Örebro med omnejd,Städare|Sollefteå|Empatisk|positiv|Körkort B,441779138308
+529,Städare Lokalvårdare till Ada Service Partner,Städare|Härnösand|positiv| Arbetsam|Snabb|Städutbildning,441779141413
+530,Städare / Lokalvårdare till Ada Service Partner,Städare|Sundsvall|Flexibel|Noggrann|Gymnasiet,441779143866
+531,Städare Lokalvårdare sökes omgående,Städare|Sollefteå|Bada|positiv|Körkort B|Städutbildning,441779148238
+532,Cleaning staff for Malmö / Lund,Städare|Örnsköldsvik|Flexibel|Ansvarstagande|Städutbildning,441779150671
+533,Hemservicepersonal till Lund och Malmö,Städare|Härnösand|Snabb|Ansvarstagande|Körkort B|Städutbildning,441779153411
+534,Cleaning staff for Malmö / Lund,Städare|Sundsvall|Snabb|Säljinriktad|Körkort B|Städutbildning,441779156259
+535,Lokalvårdare,Städare|Timrå|Arbetsam|Snabb|Städutbildning,441779165453
+536,"Lokalvårdare, Stockholm",Städare|Ånge|Flexibel|positiv| Noggrann|Körkort B,441779167705
+537,Lokalvårdare/städerska med eget driv!,Städare|Sundsvall|Bada|Stresstålig|Körkort B|Städutbildning,441779170248
+538,Lokalvårdare och fastighetsskötare sökes,Städare|Sollefteå|Promenad|positiv| Noggrann|Körkort B,441779172403
+539,Lokalvårdare,Städare|Kramfors|självgående| kreativ|Körkort B|Städutbildning,441779175146
+540,Städmedarbetare till Samlad service,Städare|Härnösand|Fotboll|Friskvård|Körkort B,441779179061
+541,Hemstäd/Städtjänst,Städare|Örnsköldsvik|positiv| Strukturerad|Städutbildning,441779182533
+542,Vi söker städpersonal,Städare|Ånge|Friskvård|Promenad|Körkort B,441779186587
+543,Hej student till lokalvård!,Städare|Härnösand|Promenad|Flexibel|Stresstålig|Städutbildning,441779189628
+544,Ledigt jobb som lokalvårdare inom hotellbranschen,Städare|Sundsvall|Ansvarstagande| Stresstålig|Städutbildning,441779192219
+545,Hemrex söker städpersonal till Ystad,Städare|Timrå|Flexibel|Arbetsam|Körkort B,441779194654
+546,Privat hemtjänst Service enheten Systrarna Odh Falköpin,Städare|Timrå|Arbetsam|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441779197412
+547,"Servicemedarbetare, sommarvikariat 2021",Städare|Ånge|Bada|Arbetsam|Körkort B,441779200944
+548,Lokalvårdare,Städare|Örnsköldsvik|positiv| Arbetsam|Snabb|Körkort B|Städutbildning,441779204201
+549,Vi söker arbetarna!,Städare|Sollefteå|Snabb|Stresstålig|Strukturerad|Gymnasiet,441779207693
+550,Lokalvårdare Västra Götaland,Städare|Sundsvall|Flexibel|positiv|Körkort B,441779210706
+551,Städare/lokalvårdare,Städare|Timrå|Promenad|Empatisk|Städutbildning,441779212957
+552,Motiverad städare/städerska,Städare|Ånge|Noggrann|Arbetsam|Körkort B,441779215394
+553,Erfaren Hemstädare,Städare|Sollefteå|Friskvård|Social|Flexibel|Körkort B,441779218506
+554,Lokalvårdare till löparuppdrag,Städare|Örnsköldsvik|Promenad|positiv|Städutbildning,441779222977
+555,Lokalvård Sommarjobb,Städare|Örnsköldsvik|Promenad|Stresstålig|Städutbildning,441779225611
+556,Har du erfarenhet av städ och har bil och körkort?,Städare|Kramfors|Promenad|Empatisk|Gymnasiet,441779228337
+557,Lokalvård Sommarjobb,Städare|Härnösand|Flexibel|Arbetsam|Städutbildning,441779230882
+558,Lokalvårdare/Hemstädning,Städare|Sundsvall|Promenad|positiv|Körkort B,441779233613
+559,VIKARIE LOKALVÅRD LINKÖPING,Städare|Timrå|Bada|Empatisk|Flexibel|Städutbildning,441779237659
+560,Lokalvårdare (helg) till EightRooms Hotel,Städare|Ånge|Noggrann|Arbetsam|Städutbildning,441779240469
+561,Extrajobb: Flyttstädning,Städare|Ånge|Social|Empatisk|Städutbildning,441779244035
+562,Hemstäd Västerås,Städare|Sollefteå|Empatisk|Flexibel|Stresstålig|Gymnasiet,441779247355
+563,Hemrex söker städpersonal till Ystad/Simrishamn,Städare|Härnösand|Promenad|Social|Empatisk|Körkort B,441779250354
+564,Servicemedarbetare Eksjö,Städare|Sundsvall|Empatisk|Flexibel|positiv|Städutbildning,441779257719
+565,Hjälpa någon i hemmet,Städare|Timrå|Ansvarstagande| Stresstålig|Städutbildning,441779259960
+566,"Städpersonal flyttstädning - Städgiganten AB, Stockholm",Städare|Härnösand|positiv| Arbetsam|Snabb|Städutbildning,441779263003
+567,Jobba som hemstädare på Aleva i Holmsund,Städare|Kramfors|Friskvård|Social|Körkort B,441779265766
+568,Lokalvårdare sökes till Tiohundra,Städare|Sundsvall|Social|Flexibel|Städutbildning,441779270780
+569,"Lokalvårdare hemstädning, Malmö",Städare|Timrå|Empatisk|Ansvarstagande|Gymnasiet,441779273845
+570,Studerande lokalvårdare till Städtjänst,Städare|Ånge|Snabb|Ansvarstagande|Städutbildning,441779276307
+571,Vi söker lokal och fordonsvårdare,Städare|Ånge|Promenad|Flexibel|Körkort B,441779280667
+572,Timvikarie lokalvård,Städare|Sollefteå|Friskvård|Noggrann|Städutbildning,441779282216
+573,Lokalvårdare sökes,Städare|Timrå|Fotboll|Bada|Körkort B,441779286341
+574,Städmedarbetare,Städare|Ånge|Friskvård|självgående|Städutbildning,441779289014
+575,Städmedarbetare/avsynare,Städare|Sollefteå|Social|Arbetsam|Gymnasiet,441779291765
+576,"Lokalvårdare sökes, Spånga-Kista",Städare|Kramfors|Noggrann|Arbetsam|Körkort B|Städutbildning,441779294349
+577,workfind söker lokalvårdare,Städare|Härnösand|positiv| Noggrann|Körkort B,441779296830
+578,Nu söker vi lokalvårdare till vår kund i Oskarshamnsområdet,Städare|Ånge|Empatisk|Noggrann|Körkort B,441779299140
+579,Hemstädare,Städare|Timrå|positiv| Arbetsam|Städutbildning,441779301256
+580,Städ/Lokalvårdare,Städare|Ånge|Noggrann|Snabb|Städutbildning,441779303767
+581,Intresseanmälan Lokalvårdare med servicekänsla till Borås,Städare|Sundsvall|Empatisk|positiv|Städutbildning,441779306515
+582,"Timanställd lokalvårdare till Coor, Umeå",Städare|Ånge|Strukturerad|Körkort B|Städutbildning,441779312177
+583,Lokalvårdare/städare,Städare|Timrå|Social|Empatisk|positiv|Körkort B|Städutbildning,441779315204
+584,Timvikare till växande familjebolag,Städare|Härnösand|Strukturerad| kreativ|Körkort B,441779317986
+585,Lokalvårdare CK Hem och Trädgårdsservice,Städare|Härnösand|Friskvård|Snabb|Städutbildning,441779323543
+586,Servicevärd inom vården,Städare|Sundsvall|positiv| Noggrann|Arbetsam|Körkort B,441779326411
+587,Söker lokalvårdare/trappstädare på heltid i Stockholm - Körkort ett krav,Städare|Timrå|Promenad|Strukturerad|Städutbildning,441779330055
+588,Servicevärd inom vården,Städare|Timrå|Empatisk|Flexibel|Körkort B,441779333248
+589,Städ lokalvård,Städare|Timrå|positiv| Arbetsam|Städutbildning,441779335966
+590,Lokalvårdare i Flen,Städare|Ånge|Promenad|Social|Noggrann|Städutbildning,441779338650
+591,VIKARIER LOKALVÅRD - SÖDERKÖPING,Städare|Örnsköldsvik|Flexibel|Noggrann|Arbetsam|Städutbildning,441779342173
+592,VIKARIER LOKALVÅRD TILL GAMLEBY,Städare|Ånge|Social|Flexibel|Städutbildning,441779344717
+593,Stolt lokalvårdare,Städare|Sollefteå|Empatisk|Noggrann|Städutbildning,441779346632
+594,Lokalvårdare/Städare,Städare|Timrå|Noggrann|Ansvarstagande|Städutbildning,441779348916
+595,Lokalvårdare hotellstädning,Städare|Örnsköldsvik|Empatisk|Snabb|Körkort B,441779351800
+596,Servicepersonal till Ljungby sommaren 2021,Städare|Kramfors|Promenad|kreativ|Gymnasiet|Körkort B|Städutbildning,441779354714
+597,HEMSERVICE2 AB Lund Städare/Lokalvårdare,Städare|Härnösand|självgående|Gymnasiet|Körkort B|Städutbildning,441779358833
+598,Flyttstädare Vittent städservice,Städare|Sundsvall|Arbetsam|Körkort CE,441779361933
+599,Lokalvårdare /fönsterputsare,Städare|Ånge|Noggrann|Arbetsam|Snabb|Körkort B,441779364404
+600,Vikarierande servicemedarbetare Mora,Städare|Ånge|Empatisk|Noggrann|Körkort B,441779366903
+601,Vikarierande servicemedarbetare Mora,Städare|Ånge|positiv| Arbetsam|Ansvarstagande|Städutbildning,441779369542
+602,Vikarierande servicemedarbetare Avesta,Städare|Sollefteå|Promenad|Empatisk|Körkort B,441779371809
+603,Servicemedarbetare Falun,Städare|Ånge|Arbetsam|Säljinriktad|Städutbildning,441779373542
+604,Lokalvårdare på deltid,Städare|Ånge|Stresstålig|Kommunikativ|Gymnasiet|Körkort B|Städutbildning,441779376587
+605,Lokalvårdare Malmö,Städare|Härnösand|Social|Flexibel|Körkort B,441779379615
+606,Lokalvårdare Stockholm,Städare|Ånge|Bada|Social|pedagogisk|Körkort B,441779381952
+607,Holm Städtjänst söker serviceinriktad lokalvårdare,Städare|Örnsköldsvik|Flexibel|Noggrann|Gymnasiet|Städutbildning,441779385730
+608,Serviceassistent,Städare|Sollefteå|Promenad|Empatisk|Strukturerad| självgående|Gymnasiet|Körkort B|Städutbildning,441779388738
+609,Personlig Assistent LIFE CARE ASSISTANS ,Personlig assistent|Härnösand|Bada|Friskvård|Promenad|Gymnasiet|Körkort B,441779710896
+610,Personlig Assistent Livihop AB,Personlig assistent|Sundsvall|Bada|Promenad|Social|Flexibel|Gymnasiet|Körkort B,441779714926
+611,Personlig assistent Svea Assistans ,Personlig assistent|Timrå|Bada|Promenad|Empatisk|Flexibel|Arbetsam|Körkort B,441779718428
+612,Personlig assistent Medborgarskolan,Personlig assistent|Ånge|Fotboll|Social|Noggrann|Gymnasiet,441779721225
+613,Personlig assistent,Personlig assistent|Sollefteå|Fotboll|Bada|Promenad|positiv|Gymnasiet|Körkort B,441779724737
+614,Personlig assistent Arjeplog kommun,Personlig assistent|Sollefteå|Friskvård|Promenad|Kommunikativ| självgående|Gymnasiet|Körkort B,441779728822
+615,Personlig assistent Enköpings kommun Vård och omsorg,Personlig assistent|Örnsköldsvik|Bada|Promenad|Social|Empatisk|Körkort B,441779733450
+616,Personlig assistent PW HUMAN CAPITAL AB,Personlig assistent|Kramfors|Bada|Social|Flexibel|Gymnasiet|Körkort B,441779737165
+617,Personlig assistent Varbergs kommun,Personlig assistent|Kramfors|Bada|Promenad|Social|Empatisk|Körkort B,441779743681
+618,Personlig assistent Calluna Assistant,Personlig assistent|Kramfors|Fotboll|Bada|Friskvård|Promenad|Körkort B,441779747142
+619,Personlig assistent Ekens assistans AB,Personlig assistent|Härnösand|Bada|Social|Empatisk|Ansvarstagande|Gymnasiet|Körkort B,441779751480
+620,Personlig Assistent Törnrosens Assistans AB,Personlig assistent|Sundsvall|Bada|Friskvård|Empatisk|Körkort B,441779755420
+621,Personlig assistent ENIGHETEN PERSONLIGASSISTANS AB,Personlig assistent|Timrå|Empatisk|Flexibel|positiv| Noggrann|Körkort B,441779759686
+622,Personlig assistent Assistansporten AB,Personlig assistent|Timrå|Bada|Friskvård|Social|Empatisk|Flexibel|Noggrann|Gymnasiet|Körkort B,441779767239
+623,Personlig Assistent Novasis Mitt AB ,Personlig assistent|Sollefteå|Arbetsam|Snabb|Ansvarstagande| kreativ|Körkort B,441779776250
+624,Personlig assistent Frej Assistans,Personlig assistent|Örnsköldsvik|Friskvård|Promenad|Social|Körkort B,441779779810
+625,Personlig Assistent Rätt och Laglig Assistans,Personlig assistent|Timrå|Friskvård|Social|Empatisk|Arbetsam|Körkort B,441779784468
+626,Personlig Assistent Persson Ann-Marie,Personlig assistent|Härnösand|Bada|Friskvård|Promenad|Social|Empatisk|Flexibel|Körkort B,441779789284
+627,Personlig assistent Blå Assistans,Personlig assistent|Härnösand|Bada|Empatisk|Arbetsam|Ansvarstagande|Gymnasiet|Körkort B,441779794861
+628,Personlig assistent Calluna Assistans,Personlig assistent|Timrå|Promenad|Social|positiv| Arbetsam|Körkort B,441779798118
+629,Personlig assistent Max Assistans AB,Personlig assistent|Ånge|Friskvård|Noggrann|Snabb|Stresstålig|Gymnasiet|Körkort B,441779801950
+630,Personlig assistent Habo kommun,Personlig assistent|Härnösand|Friskvård|Social|Flexibel|Körkort B,441780378568
+631,Personlig assistent PW HUMAN CAPITAL AB,Personlig assistent|Sundsvall|Bada|Promenad|Empatisk|Noggrann|Gymnasiet|Körkort B,441780382350
+632,Personlig assistent,Personlig assistent|Timrå|Fotboll|Friskvård|Social|positiv|Körkort B,441780385650
+633,Personlig assistent TILLITS-TEAMET SVERIGE AB,Personlig assistent|Ånge|Bada|Friskvård|Promenad|Social|Körkort B,441780389608
+634,Personlig assistent Höganäs Omsorg AB,Personlig assistent|Sollefteå|Social|Empatisk|Flexibel|Körkort B,441780392769
+635,Personlig assistent SVANEN HEMTJÄNST AKTIEBOLAG,Personlig assistent|Örnsköldsvik|Fotboll|Bada|Promenad|Social|Körkort B,441780395720
+636,Personlig assistent Novasis Mitt AB ,Personlig assistent|Kramfors|Bada|Promenad|Flexibel|Noggrann|Gymnasiet,441780399149
+637,Personlig assistent MELLANHANDEN AB,Personlig assistent|Härnösand|Fotboll|Bada|Social|Empatisk|Gymnasiet,441780402475
+638,Personlig assistent SAAND Service & Omsorg AB,Personlig assistent|Sundsvall|Friskvård|Promenad|Social|Flexibel|Noggrann|Gymnasiet|Körkort B,441780405961
+639,Personlig Assistent Törnrosens Assistans AB - Västerås,Personlig assistent|Ånge|Empatisk|Noggrann|Arbetsam|Snabb|Körkort B,441780409606
+640,Personlig assistent BOOA OMSORG & ASSISTANS,Personlig assistent|Sollefteå|Fotboll|Friskvård|Empatisk|Gymnasiet|Körkort B,441780412409
+641,Personlig assistent MP ASSISTANS AB,Personlig assistent|Kramfors|Bada|positiv| Ansvarstagande|Körkort B,441780415513
+642,Personlig Assistent Jengla Omsorg AB ,Personlig assistent|Örnsköldsvik|Social|Flexibel|positiv|Gymnasiet|Körkort B,441780418137
+643,Personlig assistent Särnmark Assistans AB,Personlig assistent|Härnösand|Empatisk|positiv| Snabb|Körkort B,441780420873
+644,Personlig assistent Ekens Assistans AB,Personlig assistent|Sundsvall|Bada|Promenad|Empatisk|positiv|Körkort B,441780423679
+645,Personlig Assistent Lystra personlig assistans ,Personlig assistent|Timrå|Bada|Friskvård|Promenad|Empatisk|Gymnasiet|Körkort B,441780426611
+646,Personlig assistent! Lystra personlig assistans,Personlig assistent|Ånge|Promenad|Flexibel|positiv|Körkort B,441780428587
+647,"Personlig Assistent, (Bjästa) ENKV",Personlig assistent|Örnsköldsvik|Empatisk|Noggrann|Ansvarstagande|Körkort B,441780431137
+648,"Personlig assistent, Malung ENIGHETEN PERSONLIG ASSISTANS AB",Personlig assistent|Kramfors|Bada|Promenad|Empatisk|Flexibel|Gymnasiet|Körkort B,441780433850
+649,"Personlig assistent, Malung ENIGHETEN PERSONLIG ASSISTANS AB",Personlig assistent|Sundsvall|Fotboll|Friskvård|Empatisk|positiv|Körkort B,441780436615
+650,Personlig assistent Falun/London Libra Assistans,Personlig assistent|Sollefteå|Social|Flexibel|positiv| Arbetsam|självgående|Legitimerad|Körkort B,441780439278
+651,Personlig Assistent sökes INOVA ASSISTANS AB - Nacka,Personlig assistent|Härnösand|Social|Flexibel|positiv| Arbetsam|Körkort B,441780626433
+652,Personlig assistent timvik LAVITA ASSISTANS AB,Personlig assistent|Sundsvall|Friskvård|Social|Flexibel|Gymnasiet|Körkort B,441780630614
+653,Personlig assistent sökes Lillebo Assistans,Personlig assistent|Timrå|Bada|Friskvård|Promenad|Gymnasiet,441780633120
+654,Lösningsfokuserad personlig assistent DVT Assistans AB ,Personlig assistent|Ånge|Fotboll|Bada|Promenad|Noggrann|Gymnasiet|Körkort B,441780635580
+655,Personlig assistent jobjustnu Karlstad ,Personlig assistent|Sollefteå|Friskvård|Empatisk|positiv| Snabb|Körkort B,441780637970
+656,Personlig assistent sökes 7H Assistans,Personlig assistent|Örnsköldsvik|Promenad|Social|Empatisk|Noggrann|Arbetsam|Körkort B,441780641075
+657,Personlig assistent sökes! Socialförvaltningen,Personlig assistent|Kramfors|Promenad|Flexibel|Noggrann|Ansvarstagande|Gymnasiet|Körkort B,441780645967
+658,"Personlig assistent, Lindome Move & Walk Assistans ",Personlig assistent|Härnösand|Bada|Friskvård|Promenad|Empatisk|positiv|Gymnasiet|Körkort B,441780649191
+659,"Personlig assistent, 2020-241 MejDej-kooperativet",Personlig assistent|Sundsvall|Bada|Promenad|Empatisk|positiv|Körkort B,441780651835
+660,Personlig assistent sökes! Södertälje Assistans AB,Personlig assistent|Ånge|Bada|Friskvård|Promenad|Social|Flexibel|Gymnasiet|Körkort B,441780655674
+661,Personlig Assistent Falun 4 Andi AB,Personlig assistent|Timrå|Fotboll|Promenad|Empatisk|Snabb|Körkort B,441780658478
+662,Timvikarie Personlig assistent ASSISTERA SKANDINAVIEN AB,Personlig assistent|Härnösand|Fotboll|Bada|Promenad|positiv| Arbetsam|Körkort B,441780661426
+663,Personlig Assistent i Stockholm Rekrytering,Personlig assistent|Timrå|Promenad|Empatisk|Flexibel|Körkort B,441780780826
+664,Musikintresserad personlig assistent sökes! FBA Assistans,Personlig assistent|Sollefteå|Promenad|Social|positiv| Arbetsam|Körkort B,441780784440
+665,Semestervikariat som personlig assistent Uppvidinge kommun,Personlig assistent|Ånge|Fotboll|Friskvård|Social|Flexibel|Noggrann|Körkort B,441780787826
+666,Personlig Assistent i Ludvika,Personlig assistent|Örnsköldsvik|Social|Empatisk|Flexibel|positiv|Körkort B,441780791995
+667,Personlig assistent Skellefteå (43) Din Förlängda Arm i Norr AB,Personlig assistent|Kramfors|Friskvård|Social|Stresstålig|Gymnasiet|Körkort B,441780795198
+668,Personlig Assistent sovande natt,Personlig assistent|Härnösand|Empatisk|positiv| Noggrann|Körkort B,441780798887
+669,Personlig assistent till Kvinna,Personlig assistent|Sundsvall|Fotboll|Friskvård|Social|Empatisk|Gymnasiet|Körkort B,441780801594
+670,Personlig assistent sökes omgående,Personlig assistent|Timrå|Fotboll|Friskvård|Social|Empatisk|Körkort B,441780804999
+671,Personlig assistent med arbetsledarskap,Personlig assistent|Ånge|Fotboll|Friskvård|Social|Empatisk|Körkort B,441780808408
+672,Personlig Assistent Övertorneå Vikarie,Personlig assistent|Örnsköldsvik|Arbetsam|Snabb|Stresstålig|Gymnasiet,441780813766
+673,Personlig Assistent i Bjärred,Personlig assistent|Kramfors|Friskvård|Promenad|Gymnasiet,441780817487
+674,Personlig Assistent i Helsingborg,Personlig assistent|Härnösand|Fotboll|Friskvård|Social|Flexibel|positiv| Arbetsam|Körkort B,441780820770
+675,"Timanställd Personlig Assistent, (Gnesta)",Personlig assistent|Sundsvall|Friskvård|Promenad|Empatisk|Flexibel|Gymnasiet|Körkort B,441780824259
+676,Personlig Assistent i Gagnef,Personlig assistent|Timrå|Flexibel|Noggrann|Ansvarstagande|Körkort B,441780829980
+677,Personlig assistent till Skövde Leva Assistans AB,Personlig assistent|Ånge|Bada|Promenad|Social|Körkort B,441780832436
+678,Personlig assistent i Södertälje,Personlig assistent|Örnsköldsvik|Flexibel|Noggrann|Snabb|Gymnasiet|Körkort B,441780835637
+679,"Personlig assistent, Genarp. Behovsanställning.",Personlig assistent|Kramfors|Fotboll|Friskvård|Social|Körkort B,441780837881
+680,Personlig assistent Eslövs kommun ANIMO ASSISTANS AB,Personlig assistent|Härnösand|Fotboll|Promenad|Empatisk|Stresstålig|Körkort B,441780840740
+681,Personlig assistent till Barn/Ungdom,Personlig assistent|Sundsvall|Fotboll|Friskvård|Promenad|Stresstålig|Gymnasiet|Körkort B,441780843612
+682,Personlig assistent i Södermalm,Personlig assistent|Timrå|Fotboll|Friskvård|Social|Körkort B,441780846280
+683,Personlig assistent i Västervik AB,Personlig assistent|Ånge|Bada|Friskvård|Social|Gymnasiet|Körkort B,441780850318
+684,Personlig assistent i Kullavik,Personlig assistent|Örnsköldsvik|Bada|Social|Empatisk|Gymnasiet,441780854099
+685,Personlig Assistent i Klintehamn,Personlig assistent|Härnösand|Fotboll|Bada|Social|Empatisk|Körkort B,441780857084
+686,Personlig assistent till Motala,Personlig assistent|Härnösand|Empatisk|positiv| Snabb|Körkort B,441780859736
+687,"Personlig assistent, sjuk/semvik, Ljusdal",Personlig assistent|Ånge|Bada|Friskvård|Empatisk|pedagogisk|Gymnasiet|Körkort B,441780863149
+688,Personlig assistent i Falkenberg.,Personlig assistent|Sundsvall|Promenad|Empatisk|Flexibel|Gymnasiet|Körkort B,441780868243
+689,Personlig assistent sökes heltid/deltid,Personlig assistent|Timrå|Fotboll|Friskvård|Social|Stresstålig|Körkort B,441780872487
+690,Personlig assistent - stockholm,Personlig assistent|Sollefteå|Fotboll|Friskvård|Flexibel|positiv|Körkort B,441780875762
+691,Personlig Assistent deltid/vikarie LAHOLM,Personlig assistent|Ånge|Fotboll|Friskvård|Empatisk|Gymnasiet,441780879687
+692,Personlig Assistent heltid LAHOLM,Personlig assistent|Sollefteå|Fotboll|Bada|Social|Strukturerad|Gymnasiet,441780884881
+693,Personlig assistent vikariat föräldraledighet,Personlig assistent|Härnösand|Promenad|Flexibel|Strukturerad|Gymnasiet|Körkort B,441780887884
+694,Personlig assistent i Sollefteå,Personlig assistent|Sundsvall|Bada|Empatisk|Noggrann|Gymnasiet,441780891252
+695,Kanonjobb som personlig assistent,Personlig assistent|Timrå|Friskvård|Social|Flexibel|Gymnasiet|Körkort B,441780894667
+696,Möjliggörande personlig assistent tim/behov,Personlig assistent|Härnösand|Bada|Friskvård|Social|Noggrann|Körkort B,441780901262
+697,Personlig assistent i Järfälla,Personlig assistent|Sundsvall|Promenad|Social|Empatisk|Gymnasiet|Körkort B,441780903937
+698,Personlig assistent i centrala Strömstad,Personlig assistent|Timrå|Fotboll|Friskvård|Empatisk|Körkort B,441780907755
+699,Personlig assistent till aktiv kille!,Personlig assistent|Ånge|Bada|Friskvård|Empatisk|Gymnasiet,441780910901
+700,Personlig assistent till ung tjej,Personlig assistent|Sundsvall|Promenad|Social|Empatisk|Flexibel|Ansvarstagande|Gymnasiet|Körkort B,441780915649
+701,Personlig assistent sökes till Älvsjö,Personlig assistent|Sundsvall|Bada|Promenad|Empatisk|Gymnasiet,441780918519
+702,Personlig Assistent sökes i Växjö,Personlig assistent|Timrå|Social|Flexibel|Gymnasiet,441780921006
+703,Personlig Assistent - Timanställd (Enskededalen),Personlig assistent|Ånge|Fotboll|Promenad|Empatisk|Gymnasiet,441780923459
+704,Personlig assistent i Lomma sökes,Personlig assistent|Ånge|Promenad|Social|Flexibel|Gymnasiet,441780926121
+705,Personlig assistent till Cederbonds Assistans,Personlig assistent|Sollefteå|Fotboll|Friskvård|Flexibel|Körkort B,441780929529
+706,Personlig assistent med grundläggande teckenkunskaper,Personlig assistent|Timrå|Bada|Promenad|Social|Körkort B,441780932191
+707,Personlig assistent sökes till Borås,Personlig assistent|Sollefteå|Snabb|Ansvarstagande| Säljinriktad| Stresstålig|Körkort B,441780937032
+708,Personlig Assistent extra vid behov,Personlig assistent|Härnösand|Friskvård|Social|Flexibel|Körkort B,441780940052
+709,Personlig assistent med grundläggande teckenkunskaper,Personlig assistent|Örnsköldsvik|Bada|Social|kreativ|Gymnasiet|Körkort B,441780942861
+710,26-årig kille söker personlig assistent,Personlig assistent|Kramfors|Friskvård|Social|Snabb|Stresstålig|Körkort B,441780945764
+711,26-årig kille söker personlig assistent,Personlig assistent|Kramfors|Friskvård|Social|Snabb|Stresstålig|Körkort B,441785951629
+712,Utvecklare TechHamn AB,Utvecklare|Härnösand|Empatisk|positiv| Analytisk|Högskola,441785957377
+713,Utvecklare Bygghemma,Utvecklare|Sundsvall|Noggrann|Kommunikativ|Högskola|Java programmering,441785960750
+714,Utvecklare LeadPilot,Utvecklare|Timrå|Noggrann|serviceminded| kreativ|Högskola,441785963988
+715,C++ utvecklare Studentwork Sverige,Utvecklare|Ånge|Social|Analytisk|Högskola,441785968137
+716,Backend utvecklare! i3tex ,Utvecklare|Sollefteå|Promenad|Social|Högskola|Java programmering,441785971684
+717,Utvecklare .NET/C#,Utvecklare|Örnsköldsvik|Fotboll|Bada|Strukturerad|Högskola,441785975591
+718,Utvecklare Java AFRY,Utvecklare|Örnsköldsvik|positiv| Noggrann|Arbetsam|Högskola|Java programmering,441785978590
+719,Backend utvecklare Etteplan,Utvecklare|Kramfors|Promenad|Ansvarstagande|Högskola|Java programmering,441785982410
+720,Javabackend utvecklare Resurs Bank,Utvecklare|Härnösand|Snabb|Analytisk|Högskola|Java programmering,441785985329
+721,Junior utvecklare Funnel AB ,Utvecklare|Sundsvall|Flexibel|positiv|Högskola,441785988091
+722,Python- utvecklare Maxkompetens AB,Utvecklare|Timrå|Flexibel|positiv| Noggrann|Högskola,441785991932
+723,Java utvecklare Randstad,Utvecklare|Sollefteå|Promenad|Social|Högskola|Java programmering,441785995381
+724,Front-end utvecklare AFRY,Utvecklare|Ånge|Social|Flexibel|positiv|Högskola|Körkort B,441785998839
+725,Frontend Utvecklare Sopra Steri,Utvecklare|Örnsköldsvik|Friskvård|Promenad|Flexibel|Högskola|Java programmering,441786002860
+726,Vassa utvecklare! Wise IT AB,Utvecklare|Sollefteå|Friskvård|Kommunikativ| Strukturerad| självgående| serviceminded|Högskola,441786006264
+727,JavaScript utvecklare Engulf ,Utvecklare|Örnsköldsvik|Arbetsam|Snabb|Högskola,441786009659
+728,Fullstack utvecklare PostNord Group,Utvecklare|Örnsköldsvik|positiv| Noggrann|Arbetsam|Högskola|Java programmering,441786013160
+729,AWS utvecklare Data Ductus,Utvecklare|Härnösand|Snabb|Ansvarstagande| Stresstålig|Högskola,441786016935
+730,Python- utvecklare Maxkompetens AB ,Utvecklare|Sundsvall|positiv| Noggrann|Analytisk|Högskola,441786019744
+731,Cloud DevOps utvecklare Combitech AB,Utvecklare|Timrå|Stresstålig|Kommunikativ| Strukturerad| självgående| serviceminded|Högskola|Java programmering,441786022953
+732,Frontend utvecklare Shopify STENBOLAGET I STOCKHOLM AB ,Utvecklare|Sollefteå|Snabb|Ansvarstagande| självgående|Högskola|Körkort B|Java programmering,441786026347
+733,Junior utvecklare sökes! Framtiden AB,Utvecklare|Örnsköldsvik|Promenad|Social|Högskola,441786029093
+734,Wordpress/ Elementor utvecklare Göteborg,Utvecklare|Ånge|Flexibel|Högskola,441786032103
+735,Databasutvecklare / Utvecklare Bravura,Utvecklare|Sollefteå|Promenad|Empatisk|Flexibel|Högskola|Java programmering,441786034573
+736,Lösningskonsult / Utvecklare Synerity AB,Utvecklare|Örnsköldsvik|Noggrann|Arbetsam|Högskola,441786037342
+737,"Fullstack utvecklare, Stockholm Randstad",Utvecklare|Örnsköldsvik|Snabb|Ansvarstagande|Högskola|Java programmering,441786039920
+738,APP utvecklare Android/Iphone Infracom Communication AB,Utvecklare|Sundsvall|Friskvård|Social|Flexibel|Högskola|Java programmering,441786054645
+739,UTVECKLARE INOM NET Alten Sverige AB,Utvecklare|Timrå|Stresstålig|Analytisk| Kommunikativ|Högskola,441786058640
+740,Utvecklare till Affärssystem Ataio Affärssystem AB,Utvecklare|Ånge|Noggrann|Arbetsam|kreativ|Högskola|Java programmering,441786062034
+741,Senior Java utvecklare,Utvecklare|Sollefteå|Noggrann|Snabb|Högskola|Java programmering,441786065688
+742,Senior utvecklare ServiceNow Centric Professionals,Utvecklare|Örnsköldsvik|Ansvarstagande| Stresstålig|Högskola,441786068942
+743,Utvecklare inom C# CaptureInnovation,Utvecklare|Kramfors|positiv| Arbetsam|Högskola|Körkort B|Java programmering,441786072461
+744,Programmerare / Utvecklare S E O Partner Sverige AB,Utvecklare|Härnösand|Social|Empatisk|Högskola|Java programmering,441786080556
+745,Senior Frontend utvecklare Envoi AB ,Utvecklare|Härnösand|Flexibel|Noggrann|Högskola,441786084187
+746,Utvecklare inom Test Sogeti,Utvecklare|Sundsvall|Stresstålig|Analytisk|Högskola|Java programmering,441786086943
+747,Erfaren utvecklare till Verisure Mero Rekrytering AB ,Utvecklare|Timrå|positiv| Noggrann|Högskola|Java programmering,441786089727
+748,Utvecklare Front Arena Prime Eviture - Stockholm,Utvecklare|Ånge|Empatisk|Noggrann|Snabb|Högskola,441786093153
+749,Frontend utvecklare inom webb,Utvecklare|Sollefteå|Säljinriktad| Stresstålig|Högskola|Java programmering,441786096845
+750,Utvecklare Skola Arbetsliv,Utvecklare|Kramfors|Empatisk|Stresstålig|Analytisk| Kommunikativ|Högskola,441786100404
+751,Utvecklare inom inbyggda system Mpya Sci &,Utvecklare|Härnösand|Noggrann|Snabb|Högskola,441786103171
+752,Embedded ingenjör och utvecklare Synteda AB ,Utvecklare|Härnösand|Flexibel|Analytisk|Högskola,441786106554
+753,Java utvecklare fokus frontend Quest Consulting,Utvecklare|Kramfors|Promenad|positiv| Arbetsam|Högskola,441786110043
+754,Senior utvecklare Nodinite Testhuset - Karlstad,Utvecklare|Härnösand|Noggrann|Arbetsam|Snabb|Högskola|Java programmering,441786114008
+755,Java Utvecklare till Predictly Predictly AB,Utvecklare|Härnösand|Flexibel|Analytisk|Högskola|Java programmering,441786117239
+756,Java Utvecklare till Predictly Predictly AB,Utvecklare|Härnösand|Analytisk| Kommunikativ|Högskola,441786119990
+757,Utvecklare Dynamics 365 CE,Utvecklare|Sundsvall|Promenad|Kommunikativ| Strukturerad| självgående|Högskola,441786123306
+758,Utvecklare inbyggda system,Utvecklare|Timrå|Noggrann|Arbetsam|Snabb|Högskola|Java programmering,441786126332
+759,Utvecklare inom Business Intelligence Nethouse,Utvecklare|Timrå|Flexibel|positiv| Noggrann|Högskola|Körkort B|Java programmering,441786130108
+760,Startup bolag söker Java utvecklare,Utvecklare|Sundsvall|positiv| Arbetsam|Snabb|Högskola,441786133466
+761,UTVECKLARE INOM OBJEKTORIENTERAD PROGRAMMERING,Utvecklare|Timrå|positiv| Arbetsam|Högskola|Java programmering,441786136370
+762,PHP utvecklare inom e-handel Academic Work,Utvecklare|Sollefteå|Flexibel|Högskola,441786139551
+763,PHP utvecklare med driftkunskap Academic Work,Utvecklare|Kramfors|Snabb|Säljinriktad|Högskola|Körkort B,441786142985
+764,VASS UTVECKLARE INOM JAVA,Utvecklare|Härnösand|positiv| Noggrann|Högskola|Java programmering,441786146230
+765,Embedded Utvecklare,Utvecklare|Härnösand|Promenad|Strukturerad|Högskola,441786149508
+766,FULLSTACK UTVECKLARE MOT FRONTEND,Utvecklare|Timrå|positiv| Arbetsam|Högskola,441786153233
+767,Utvecklare till Medius Ascendo,Utvecklare|Sollefteå|Flexibel|Analytisk| Strukturerad|Högskola|Java programmering,441786156320
+768,Cloud utvecklare,Utvecklare|Härnösand|Ansvarstagande| Stresstålig|Analytisk|Högskola|Java programmering,441786159647
+769,Utvecklare till Evado i Luleå!,Utvecklare|Sundsvall|Flexibel|positiv| Snabb|Högskola,441786162554
+770,Utvecklare sökes till Colix Systems,Utvecklare|Timrå|Friskvård|Snabb|kreativ|Högskola|Java programmering,441786166218
+771,Utvecklare som älskar att koda,Utvecklare|Timrå|positiv| Noggrann|Kommunikativ|Högskola|Java programmering,441786169408
+772,Utvecklare AWS,Utvecklare|Kramfors|Flexibel|Noggrann|Högskola,441786171557
+773,Utvecklare Frontend JavaScript,Utvecklare|Sundsvall|Snabb|Ansvarstagande| Strukturerad|Högskola,441786176277
+774,Chas söker utvecklare inom DevOps,Utvecklare|Timrå|Ansvarstagande| Stresstålig|Högskola,441786179450
+775,Utvecklare sökes till attraktivt bolag!,Utvecklare|Sollefteå|Promenad|Snabb|Högskola,441786182775
+776,Backend utvecklare till Amanda AI,Utvecklare|Kramfors|Social|Analytisk|Högskola|Java programmering,441786185662
+777,Utvecklare Fullstack IoT till Dasa DASA CONTROL SYSTEMS AB,Utvecklare|Härnösand|Stresstålig|Analytisk| Kommunikativ|Högskola|Java programmering,441786189628
+778,Frontend utvecklare till Construct IT,Utvecklare|Härnösand|Empatisk|Arbetsam|Snabb|Högskola,441786195002
+779,Senior utvecklare med inriktning medietjänster,Utvecklare|Sundsvall|Flexibel|positiv|Högskola|Java programmering,441786198075
+780,Teamlead med bakgrund som utvecklare,Utvecklare|Örnsköldsvik|Noggrann|Arbetsam|Högskola|Java programmering,441786201573
+781,HiQ Ace söker Java utvecklare,Utvecklare|Härnösand|Stresstålig|Analytisk| Kommunikativ|Högskola|Java programmering,441786205763
+782,Utvecklare i Uppsala,Utvecklare|Örnsköldsvik|Analytisk| Kommunikativ|Högskola|Körkort B|Java programmering,441786209400
+783,Tech-karriär på SEB Datadriven utvecklare,Utvecklare|Kramfors|Flexibel|Arbetsam|Ansvarstagande|Högskola|Java programmering,441786212879
+784,Utvecklare till Personalkollen i Linköping,Utvecklare|Härnösand|positiv| Noggrann|Arbetsam|Högskola|Java programmering,441786216149
+785,Net utvecklare till prisad webbyrå,Utvecklare|Sundsvall|Stresstålig|Analytisk| Kommunikativ|Högskola|Java programmering,441786219291
+786,Utvecklare till Stockholms ledande tandvårdskedja,Utvecklare|Timrå|Snabb|Stresstålig|Analytisk|Högskola|Java programmering,441786223221
+787,Utvecklare Office 365,Utvecklare|Ånge|Snabb|Ansvarstagande|Högskola|Körkort B|Java programmering,441786226375
+788,Utvecklare inom Webb och CMS,Utvecklare|Sollefteå|Noggrann|Snabb|Högskola|Java programmering,441786229912
+789,Fullstack utvecklare till Crowd1,Utvecklare|Örnsköldsvik|Promenad|Social|Högskola|Java programmering,441786233301
+790,Utvecklare till kontoret i Skellefteå,Utvecklare|Kramfors|positiv| Arbetsam|Ansvarstagande|Högskola|Java programmering,441786236255
+791,Senior fullstack utvecklare till GLOMO,Utvecklare|Sollefteå|positiv| Arbetsam|Högskola|Java programmering,441786238875
+792,Frontend Utvecklare till Digital People,Utvecklare|Örnsköldsvik|Friskvård|Social|positiv|Högskola|Java programmering,441786242006
+793,ISEC söker juniora utvecklare till Umeå,Utvecklare|Sundsvall|Analytisk| Kommunikativ| Strukturerad|Högskola|Java programmering,441786244719
+794,Ambitiös utvecklare sökes för stor nöjessajt,Utvecklare|Härnösand|Flexibel|Arbetsam|Snabb|Högskola|Java programmering,441786248038
+795,Frontend utvecklare till Bonava i Stockholm,Utvecklare|Sundsvall|Empatisk|Flexibel|Analytisk|Högskola|Java programmering,441786250883
+796,Backend utvecklare till Bonava i Stockholm,Utvecklare|Härnösand|Snabb|Ansvarstagande| Stresstålig|Högskola|Java programmering,441786254179
+797,Fullstack utvecklare med fokus på front,Utvecklare|Sundsvall|Noggrann|Arbetsam|Snabb|Högskola|Java programmering,441786257230
+798,IAM utvecklare ,Utvecklare|Timrå|Analytisk| Kommunikativ| Strukturerad|Högskola|Java programmering,441786260722
+799, iOS utvecklare till ICA i Stockholm,Utvecklare|Sollefteå|positiv| Noggrann|Arbetsam|Högskola|Java programmering,441786263832
+800,Embedded utvecklare med inriktning,Utvecklare|Härnösand|Promenad|Empatisk|positiv|Högskola|Java programmering,441786266911
+801,Utvecklare som vill sväva på moln KNOWIT SYD AB,Utvecklare|Kramfors|Flexibel|positiv| Noggrann|Högskola|Java programmering,441786270733
+802,Fullstack utvecklare till Leoware IT Solutions,Utvecklare|Härnösand|Social|positiv| serviceminded|Högskola|Java programmering,441786274815
+803,Nyfiken på VR?,Utvecklare|Timrå|positiv| Snabb|Stresstålig|Högskola|Java programmering,441786277733
+804,BI utvecklare till Aspia i Stockholm!,Utvecklare|Ånge|Empatisk|Kommunikativ| Strukturerad|Högskola|Java programmering,441786280515
+805,Front end utvecklare inom Business Intelligence,Utvecklare|Örnsköldsvik|Snabb|Säljinriktad| Analytisk|Högskola|Java programmering,441786283719
+806,Senior utvecklare till Safeture i Lund,Utvecklare|Härnösand|Friskvård|Stresstålig|Analytisk|Högskola|Java programmering,441786286772
+807,Junior utvecklare med intresse för Scala,Utvecklare|Kramfors|Snabb|Ansvarstagande| kreativ|Högskola|Java programmering,441786290049
+808,Stockholm Utvecklare embedded till Synective Labs,Utvecklare|Härnösand|Ansvarstagande| Stresstålig|Analytisk|Högskola|Java programmering,441786294630
+809,Frontend utvecklare till innovativa Svea Bank,Utvecklare|Sundsvall|Arbetsam|Snabb|Ansvarstagande|Högskola|Java programmering,441786297883
+810,React Native utvecklare till prisad webbyrå,Utvecklare|Örnsköldsvik|Noggrann|Arbetsam|Ansvarstagande|Högskola|Java programmering,441786300939
+811,React Native utvecklare till prisad webbyrå,Utvecklare|Örnsköldsvik|Noggrann|Arbetsam|Ansvarstagande|Högskola|Java programmering,441786388851
+812,Undersköterska Linné Hemvård,Undersköterska|Härnösand|Friskvård|Promenad|Gymnasiet|Körkort B,441786421698
+813,Undersköterska Värnamo kommun ,Undersköterska|Sundsvall|Snabb|Ansvarstagande|Gymnasiet,441786426112
+814,Undersköterska Varbergs kommun,Undersköterska|Timrå|Empatisk|Flexibel|Noggrann|Gymnasiet|Körkort B,441786439202
+815,Undersköterska Ljungby kommun,Undersköterska|Timrå|positiv| Noggrann|Gymnasiet|Körkort B,441786545448
+816,Undersköterska Ljungby kommun,Undersköterska|Ånge|Arbetsam|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441786548602
+817,Undersköterska Västerviks kommun,Undersköterska|Ånge|positiv| Noggrann|Arbetsam|Gymnasiet|Körkort B,441786613112
+818,Undersköterska Bergs kommun ,Undersköterska|Sollefteå|positiv| Arbetsam|Gymnasiet|Körkort B,441786616304
+819,Undersköterska Trelleborgs kommun,Undersköterska|Sollefteå|Ansvarstagande| Stresstålig|Gymnasiet|Körkort B,441786619883
+820,Undersköterska Svalövs kommun,Undersköterska|Örnsköldsvik|Friskvård|Social|Flexibel|Körkort B,441786622581
+821,Undersköterska KOOPERATIVET HOTAGSFJÄRDEN,Undersköterska|Kramfors|Flexibel|Arbetsam|Gymnasiet|Körkort B,441786625643
+822,Undersköterska Sjösidan säbo demens,Undersköterska|Härnösand|Bada|Promenad|Empatisk|Gymnasiet|Körkort B,441787040642
+823,Undersköterska Kungsbacka kommun,Undersköterska|Sundsvall|Ansvarstagande| Säljinriktad| Stresstålig|Gymnasiet,441787044962
+824,Undersköterska Undersköterskor på Särskilt Boende,Undersköterska|Timrå|Flexibel|positiv| Arbetsam|Gymnasiet,441787047091
+825,Undersköterska Säters kommun ,Undersköterska|Ånge|Noggrann|Arbetsam|Snabb|Gymnasiet,441787049463
+826,Undersköterska Kungsporten Hemtjänst AB ,Undersköterska|Sollefteå|Friskvård|Promenad|Social|Gymnasiet|Körkort B,441787052433
+827,Undersköterska Västerviks kommun,Undersköterska|Örnsköldsvik|Promenad|Empatisk|Flexibel|Gymnasiet|Körkort B,441787055199
+828,Undersköterska Markaryds kommun ,Undersköterska|Örnsköldsvik|Social|Flexibel|Noggrann|Gymnasiet,441787058136
+829,Undersköterska Socialförvaltningen  Vård och omsorg,Undersköterska|Kramfors|Strukturerad| serviceminded|Gymnasiet|Körkort B,441787061986
+830,Undersköterska Borås Stad ,Undersköterska|Härnösand|Flexibel|Noggrann|Arbetsam|Gymnasiet,441787064570
+831,Undersköterska Norlandia Care AB,Undersköterska|Timrå|Bada|Promenad|Empatisk|Körkort B,441787067393
+832,Undersköterska natt Arjeplog kommun,Undersköterska|Sollefteå|Social|positiv| Kommunikativ|Gymnasiet,441787070378
+833,Undersköterska heltid VÅRDHEMMET LUGNET AKTIEBOLAG,Undersköterska|Örnsköldsvik|Social|Empatisk|Stresstålig|Gymnasiet|Körkort B,441787073533
+834,Undersköterska Mogården Eksjö kommun,Undersköterska|Kramfors|Flexibel|Arbetsam|Snabb|Gymnasiet|Körkort B,441787076256
+835,Undersköterska hemtjänsten Eksjö kommun,Undersköterska|Härnösand|Arbetsam|Ansvarstagande|Körkort B,441787078907
+836,Undersköterska korttidsboende Ronneby kommun,Undersköterska|Sundsvall|Empatisk|Flexibel|positiv|Gymnasiet,441787081940
+837,"Undersköterska, Hemtjänst Orust Kommun",Undersköterska|Timrå|Friskvård|Social|Flexibel|Gymnasiet|Körkort B,441787084429
+838,Undersköterska hemtjänst ELLA VÅRD OCH OMSORG AB,Undersköterska|Ånge|positiv| Arbetsam|Snabb|Gymnasiet|Körkort B,441787087634
+839,Undersköterska hemtjänst Mora kommun ,Undersköterska|Sollefteå|Promenad|Empatisk|Flexibel|Körkort B,441787092054
+840,Undersköterska Natt Attendo Sverige,Undersköterska|Örnsköldsvik|Empatisk|Flexibel|Noggrann|Gymnasiet|Körkort B,441787095063
+841,Undersköterska natt Mora kommun ,Undersköterska|Kramfors|Friskvård|Social|Flexibel|Gymnasiet,441787097822
+842,Undersköterska natt Svalövs kommun,Undersköterska|Härnösand|Friskvård|Flexibel|positiv|Gymnasiet|Körkort B,441787100949
+843,Finsktalande undersköterska QviMo AB,Undersköterska|Sundsvall|Friskvård|Social|Empatisk|Gymnasiet|Körkort B,441787103634
+844,"Undersköterska, nattjänst Arjeplog kommun",Undersköterska|Timrå|positiv| Arbetsam|Snabb|Gymnasiet,441787105690
+845,Undersköterska Stenkilsgården Socialförvaltningen,Undersköterska|Ånge|Social|Flexibel|positiv|Gymnasiet|Körkort B,441787108651
+846,"Undersköterska, Hammargården Strängnäs kommun",Undersköterska|Sundsvall|Flexibel|Noggrann|Arbetsam|Gymnasiet|Körkort B,441787114349
+847,Undersköterska Natt Bollebygds kommun,Undersköterska|Timrå|Social|Flexibel|positiv|Gymnasiet|Körkort B,441787116817
+848,Vikariat undersköterska Förenade Care,Undersköterska|Ånge|positiv| Noggrann|Arbetsam|Körkort B,441787119963
+849,Undersköterska söks Solkattens hemtjänst ,Undersköterska|Sollefteå|Bada|Promenad|Social|serviceminded|Körkort B,441787122713
+850,Undersköterska Fyrklövern Orust Kommun,Undersköterska|Örnsköldsvik|Promenad|Social|självgående| serviceminded|Gymnasiet|Körkort B,441787125247
+851,Undersköterska Hagagården Socialförvaltningen,Undersköterska|Sollefteå|Friskvård|Promenad|Social|Empatisk|Gymnasiet|Körkort B,441787128994
+852,Undersköterska Hagagården Socialförvaltningen,Undersköterska|Härnösand|Social|Flexibel|Strukturerad| självgående|Gymnasiet|Körkort B,441787134887
+853,Sökes undersköterska 035 Vård & Omsorg AB,Undersköterska|Sundsvall|Ansvarstagande| Stresstålig|självgående| serviceminded|Gymnasiet,441787138111
+854,Erfaren undersköterska Suomikoti Finskt Äldrecentrum,Undersköterska|Sundsvall|Arbetsam|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441787143442
+855,Undersköterska Brunnsgården Vikariat Ljungby kommun,Undersköterska|Timrå|Empatisk|positiv| Arbetsam|Gymnasiet,441787146108
+856,Undersköterska till Solhaga Falkenbergs kommun,Undersköterska|Ånge|Arbetsam|Snabb|Ansvarstagande|Körkort B,441787148743
+857,Undersköterska till Ätranhemmet Falkenbergs kommun,Undersköterska|Örnsköldsvik|Friskvård|Flexibel|Arbetsam|Körkort B,441787151105
+858,Undersköterska till LSS-boende Humana AB ,Undersköterska|Kramfors|positiv| Arbetsam|Snabb|Gymnasiet|Körkort B,441787153661
+859,Undersköterska till Solgården Omsorgsförvaltningen,Undersköterska|Kramfors|Snabb|Ansvarstagande| Stresstålig|Gymnasiet|Körkort B,441787156308
+860,Undersköterska till Borggården Oskarshamns kommun,Undersköterska|Härnösand|Social|Empatisk|Stresstålig|Gymnasiet,441787159538
+861,"Undersköterska, Sictoniagården (visstidsanställning)",Undersköterska|Sundsvall|Social|positiv| Noggrann|Gymnasiet,441787163047
+862,Undersköterska för hemtjänst SOLLENTUNA OMSORG AB,Undersköterska|Sundsvall|Promenad|Flexibel|Snabb|Gymnasiet,441787165206
+863,Undersköterska till Rönnebacken Osby kommun,Undersköterska|Timrå|Empatisk|positiv| Snabb|Gymnasiet|Körkort B,441787167453
+864,Undersköterska till Rönnebacken Osby kommun,Undersköterska|Sollefteå|Flexibel|Noggrann|Snabb|Gymnasiet|Körkort B,441787170311
+865,Undersköterska till Hemtjänsten Askersunds kommun,Undersköterska|Örnsköldsvik|Bada|Promenad|Noggrann|Gymnasiet|Körkort B,441787172890
+866,Undersköterska till demensavdelning Helsingborgs stad,Undersköterska|Örnsköldsvik|Promenad|Stresstålig|självgående|Gymnasiet|Körkort B,441787175813
+867,Undersköterska hemtjänst 80-100% Aidal Careservice AB,Undersköterska|Kramfors|Empatisk|Flexibel|Noggrann|Gymnasiet|Körkort B,441787179052
+868,Undersköterska för timvikariat Föreningen Blomsterfonden,Undersköterska|Sundsvall|Noggrann|Ansvarstagande| Stresstålig|Gymnasiet|Körkort B,441787182054
+869,Undersköterska till hemvården Helsingborgs stad ,Undersköterska|Ånge|Promenad|Empatisk|Strukturerad|Gymnasiet|Körkort B,441787184739
+870,Undersköterska till hemtjänsten Proffssystern i Stockholm AB,Undersköterska|Sollefteå|Noggrann|Arbetsam|Snabb|Gymnasiet|Körkort B,441787187613
+871,Undersköterska till Ehrenborg Omsorgsförvaltningen,Undersköterska|Härnösand|Bada|Promenad|Empatisk|Strukturerad|Gymnasiet|Körkort B,441787193217
+872,"Undersköterska, natt Ljungsätra Ljungby kommun",Undersköterska|Sundsvall|Bada|Friskvård|Empatisk|positiv|Gymnasiet|Körkort B,441787195885
+873,Undersköterska i hemtjänst HEMTJÄNST BJÖRKHAGEN,Undersköterska|Timrå|Social|positiv| Snabb|Gymnasiet|Körkort B,441787198254
+874,Undersköterska Hemvård vikariat Social Sektor,Undersköterska|Sollefteå|Friskvård|Social|Empatisk|Gymnasiet|Körkort B,441787200735
+875,"Undersköterska, ordinärt boende Kristianstads kommun ",Undersköterska|Örnsköldsvik|Fotboll|Friskvård|Empatisk|Flexibel|självgående|Gymnasiet|Körkort B,441787203796
+876,Undersköterska Hemtjänst Casa Berget Ek f,Undersköterska|Kramfors|Snabb|Säljinriktad| Stresstålig|Gymnasiet|Körkort B,441787208427
+877,Undersköterska till Sköllergården Hallsbergs kommun ,Undersköterska|Kramfors|Empatisk|Flexibel|positiv|Gymnasiet|Körkort B,441787211662
+878,Undersköterska /Vårdbiträde Länmansgården Arvidsjaurs Kommun,Undersköterska|Härnösand|Stresstålig|Kommunikativ| självgående|Gymnasiet|Körkort B,441787215469
+879,Undersköterska till Birgittagården TioHundra AB,Undersköterska|Härnösand|Promenad|Empatisk|Noggrann|Arbetsam|Gymnasiet|Städutbildning,441787219364
+880,Undersköterska till hemtjänsten Förenade Care,Undersköterska|Timrå|Friskvård|Noggrann|Arbetsam|Gymnasiet|Körkort B,441787223212
+881,Undersköterska hemtjänst Södra Socialförvaltningen Vård och omsorg Hemtjänsten Södra,Undersköterska|Härnösand|Empatisk|positiv| Arbetsam|Gymnasiet|Körkort B,441787262324
+882,Undersköterska till Sörgården Oskarshamns kommun,Undersköterska|Sundsvall|positiv| Snabb|självgående|Gymnasiet|Körkort B,441787265159
+883,Undersköterska till Trygghetsteamet Räddningstjänsten Väst,Undersköterska|Timrå|Promenad|Empatisk|Noggrann|Stresstålig|Gymnasiet|Körkort B,441787268585
+884,Undersköterska i hemtjänsten Socialförvaltningen Vård och omsorg  Perstorp,Undersköterska|Sollefteå|positiv| Arbetsam|serviceminded| kreativ|Gymnasiet|Körkort B,441787273380
+885,Undersköterska hemtjänst dagtid NOGA OMSORG HANINGE AB,Undersköterska|Ånge|Flexibel|Noggrann|Snabb|Gymnasiet|Körkort B,441787275861
+886,Undersköterska i Norlandia,Undersköterska|Örnsköldsvik|Snabb|Ansvarstagande| Kommunikativ|Gymnasiet|Körkort B,441787279466
+887,Undersköterska hemtjänst dagtid NOGA OMSORG HANINGE AB,Undersköterska|Örnsköldsvik|Empatisk|Noggrann|Snabb|Gymnasiet|Körkort B,441787282290
+888,Undersköterska till ett äldreboende Södertälje kommun ,Undersköterska|Härnösand|Social|Empatisk|positiv|Gymnasiet|Körkort B,441787286822
+889,Flexibel undersköterska till demensenhet Jönköpings kommun ,Undersköterska|Sollefteå|Flexibel|Noggrann|Snabb|Gymnasiet|Körkort B,441787291310
+890,Undersköterska till Hemvård Karlslund Örebro Kommun,Undersköterska|Härnösand|Promenad|Social|Stresstålig|Gymnasiet|Körkort B,441787295799
+891,Undersköterska till Hemvård Karlslund Örebro Kommun,Undersköterska|Sundsvall|Social|Empatisk|Flexibel|serviceminded|Gymnasiet|Körkort B,441787302292
+892,Undersköterska till Demensavdelningen Sveg Härjedalens kommun,Undersköterska|Timrå|Social|Flexibel|Strukturerad| självgående|Gymnasiet|Körkort B,441787307223
+893,Undersköterska i hemtjänst kvällstid HEMTJÄNST BJÖRKHAGEN,Undersköterska|Kramfors|Empatisk|positiv| Snabb|Körkort B,441787311411
+894,"Undersköterska, ordinärt boende Hemtjänsten Strängnäs kommun, Hemtjänst 2 ",Undersköterska|Härnösand|Ansvarstagande| Stresstålig|Analytisk|Gymnasiet|Körkort B,441787314561
+895,"Gläntans dagverksamhet söker undersköterska Götene kommun, ",Undersköterska|Sundsvall|Social|Flexibel|Noggrann|självgående|Gymnasiet|Körkort B,441787317711
+896,Undersköterska till Fullriggarens demensavdelning,Undersköterska|Timrå|Flexibel|Noggrann|Ansvarstagande|Gymnasiet|Körkort B,441787320752
+897,"Undersköterska till Hemtjänsten Osby Osby kommun, Hälsa och Välfärd ",Undersköterska|Sollefteå|Promenad|Social|Flexibel|Noggrann|Gymnasiet|Körkort B,441787324998
+898,"Undersköterska till Juntgården, Venjan Mora kommun",Undersköterska|Sundsvall|Snabb|Stresstålig|Strukturerad|Gymnasiet|Körkort B,441787329771
+899,Undersköterska till Demenscentrum Charlottesborg Kristianstads kommun,Undersköterska|Härnösand|Friskvård|Empatisk|positiv|Gymnasiet|Körkort B,441787334142
+900,Vikariat Undersköterska,Undersköterska|Kramfors|positiv| Noggrann|Arbetsam|Gymnasiet|Körkort B,441787337303
+901,Undersköterska till Hemvård yngre Vård och omsorgsförvaltningen,Undersköterska|Härnösand|Empatisk|positiv| Snabb|Gymnasiet,441787340584
+902,Undersköterska till Vallastadens vårdboende Linköpings kommun,Undersköterska|Timrå|Snabb|Ansvarstagande| Kommunikativ|Gymnasiet|Körkort B,441787346117
+903,Undersköterska till Uggledals äldreboende,Undersköterska|Härnösand|positiv| Snabb|Ansvarstagande|Gymnasiet|Körkort B,441787349549
+904,Undersköterska till Berga vårdboende Linköpings kommun ,Undersköterska|Sundsvall|Social|positiv| självgående|Gymnasiet|Körkort B,441787351778
+905,Undersköterska natt Villa Viktoria Mörbylånga Kommun,Undersköterska|Sollefteå|Promenad|Flexibel|Noggrann|självgående|Gymnasiet|Körkort B,441787354981
+906,Undersköterska till Hemtjänst Vittsjö Omsorgsförvaltningen,Undersköterska|Örnsköldsvik|Empatisk|Noggrann|serviceminded|Gymnasiet|Körkort B,441787357924
+907,Undersköterska till Fredriksdals omvårdnadsboende Karlskrona kommun ,Undersköterska|Härnösand|Arbetsam|Snabb|Ansvarstagande| Stresstålig|Gymnasiet|Körkort B,441787363017
+908,Undersköterska till Hedegårdens korttidsverksamhet Tanums Kommun,Undersköterska|Timrå|Empatisk|Flexibel|Noggrann|Gymnasiet,441787365424
+909,Tvåspråkig undersköterska till Karlslundsgården Örebro Kommun,Undersköterska|Kramfors|Friskvård|Kommunikativ| Strukturerad| självgående|Gymnasiet|Körkort B,441787368274
+910,Rådomsgården AB söker undersköterska,Undersköterska|Ånge|Bada|Noggrann|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441787372791
+911,Rådomsgården AB söker undersköterska,Undersköterska|Ånge|Bada|Noggrann|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441787457822
+912,Lärare i Grundskolan år 4-6 Vansbro kommun,Lärare i grundskolan|Härnösand|Friskvård|Stresstålig|Högskola,441787471394
+913,Lärare i grundskolan årskurs 3-5 Motala kommun,Lärare i grundskolan|Sundsvall|Empatisk|pedagogisk|Högskola,441787475269
+914,Lärare i grundskolan årskurs 1,Lärare i grundskolan|Timrå|Social|Empatisk|pedagogisk|Högskola,441787478794
+915,Teacher Science Biology Chemistry Physics Technology,Lärare i grundskolan|Ånge|Social|Empatisk|Flexibel|Noggrann|pedagogisk|Högskola,441787486081
+916,Teacher English Ages 10 13,Lärare i grundskolan|Sollefteå|Flexibel|Arbetsam|Ansvarstagande| pedagogisk|Högskola,441787490797
+917,Lärare åk 4,Lärare i grundskolan|Örnsköldsvik|Empatisk|positiv| pedagogisk|Högskola,441787493646
+918,Lärare Svenska Agila School AB ,Lärare i grundskolan|Kramfors|Empatisk|Flexibel|positiv| pedagogisk|Högskola,441787497976
+919,Lärare Svenska,Lärare i grundskolan|Härnösand|Empatisk|Arbetsam|pedagogisk|Högskola,441787500750
+920,Vi söker lärare i F,Lärare i grundskolan|Sundsvall|Social|Flexibel|pedagogisk|Högskola,441787503826
+921,Lärare MA/NO åk 7,Lärare i grundskolan|Härnösand|Promenad|Social|positiv| pedagogisk|Högskola,441787507040
+922,Grundskollärare åk 2 Karlshovsskolan,Lärare i grundskolan|Sundsvall|Flexibel|Noggrann|Analytisk| serviceminded| pedagogisk|Högskola,441787510993
+923,Grundskollärare åk 2,Lärare i grundskolan|Timrå|Promenad|Empatisk|Noggrann|Arbetsam|pedagogisk|Högskola,441787513597
+924,Grundskollärare Grillbyskolan F,Lärare i grundskolan|Sollefteå|Flexibel|Arbetsam|Ansvarstagande| pedagogisk|Högskola,441787516190
+925,Grundskolelärare i ämnet matematik 4,Lärare i grundskolan|Örnsköldsvik|Friskvård|Arbetsam|Snabb|serviceminded| pedagogisk|Högskola,441787519338
+926,Vi söker en lärare till åk 4 på Vittra Lambohov,Lärare i grundskolan|Kramfors|Empatisk|Flexibel|Arbetsam|pedagogisk|Högskola,441787521782
+927,Söker en lärare till åk 4 ,Lärare i grundskolan|Härnösand|Bada|Friskvård|Social|pedagogisk|Högskola,441787524918
+928,Lärare till åk 3 på Vittra Lambohov,Lärare i grundskolan|Sundsvall|Noggrann|Snabb|Analytisk| pedagogisk|Högskola,441787527244
+929,Lärare till åk 1 på Vittra Lambohov,Lärare i grundskolan|Ånge|Bada|Promenad|Snabb|pedagogisk|Högskola,441787529777
+930,SVA Lärare till D,Lärare i grundskolan|Sollefteå|Bada|Friskvård|Social|positiv| pedagogisk|Högskola,441787532168
+931,Lärare till åk 4,Lärare i grundskolan|Örnsköldsvik|Promenad|Empatisk|pedagogisk|Högskola,441787535084
+932,Grundskollärare till Hallsta skola,Lärare i grundskolan|Kramfors|Friskvård|Social|Flexibel|positiv| pedagogisk|Högskola,441787537325
+933,Lärare i matematik och NO,Lärare i grundskolan|Härnösand|Promenad|Social|Flexibel|pedagogisk|Högskola,441787539813
+934,Lärare i matematik,Lärare i grundskolan|Sundsvall|Bada|Promenad|Social|Empatisk|pedagogisk|Högskola,441787542077
+935,SFI lärare sökes till lördagsundervisning,Lärare i grundskolan|Timrå|Flexibel|Noggrann|Snabb|pedagogisk|Högskola,441787545051
+936,SFI lärare,Lärare i grundskolan|Ånge|Promenad|Empatisk|Flexibel|pedagogisk|Högskola,441787547503
+937,Lärare i engelska åk Uppsala kommun,Lärare i grundskolan|Kramfors|Promenad|Social|Flexibel|pedagogisk|Högskola,441787554395
+938,Grundskollärare åk till Gemöskolan Älmhults kommun,Lärare i grundskolan|Härnösand|Flexibel|positiv| Analytisk| pedagogisk|Högskola,441787582500
+939,Grundskollärare åk till Gemös,Lärare i grundskolan|Timrå|Friskvård|Social|Empatisk|pedagogisk|Högskola,441787585835
+940,Lågstadielärare i åk 2,Lärare i grundskolan|Ånge|positiv| Arbetsam|Stresstålig|pedagogisk|Högskola,441787588264
+941,Futuraskolan International Gåshaga Skola ,Lärare i grundskolan|Sollefteå|Friskvård|Social|Flexibel|positiv|Högskola,441787591067
+942,Grundskollärare i åk till Täfteå skola,Lärare i grundskolan|Sollefteå|Fotboll|Arbetsam|Snabb|Kommunikativ| pedagogisk|Högskola,441787594536
+943,Grundskollärare i åk 6,Lärare i grundskolan|Örnsköldsvik|Promenad|Flexibel|positiv| Arbetsam|pedagogisk|Högskola,441787597438
+944,Förskollärare lärare i yngre åldrar ,Lärare i grundskolan|Kramfors|Promenad|Empatisk|Kommunikativ| pedagogisk|Högskola,441787600541
+945,Lärare i matematik!,Lärare i grundskolan|Härnösand|Empatisk|positiv| Arbetsam|pedagogisk|Högskola,441787603073
+946,Lärare i MaNo åk 1 till Skulltorps ,Lärare i grundskolan|Sundsvall|Social|Flexibel|Arbetsam|pedagogisk|Högskola,441787606669
+947,Lärare i Ma No i Partille,Lärare i grundskolan|Ånge|Friskvård|Flexibel|Arbetsam|pedagogisk|Högskola,441787610514
+948,Vittra Västra Hamnen söker lärare i NO åk 4,Lärare i grundskolan|Ånge|Empatisk|Flexibel|pedagogisk|Högskola,441787615035
+949,Vi söker en speciallärare i svenska till Vittra Västra Hamnen skola,Lärare i grundskolan|Örnsköldsvik|Promenad|Social|Strukturerad| självgående| pedagogisk|Högskola,441787617829
+950,MYP Swedish Language Acquisition Teacher,Lärare i grundskolan|Kramfors|Flexibel|positiv| Noggrann|pedagogisk|Högskola,441787620317
+951,Lärare i Idrott och Hälsa till Slottsskolan 7,Lärare i grundskolan|Härnösand|Promenad|Flexibel|positiv| pedagogisk|Högskola,441787624371
+952,Lärare till grundsärskolan,Lärare i grundskolan|Sundsvall|Friskvård|Social|Empatisk|Flexibel|pedagogisk|Högskola,441787627340
+953,Lärare i musik till Storviken ,Lärare i grundskolan|Ånge|Social|Flexibel|Noggrann|pedagogisk|Högskola,441787631364
+954,Lärare i musik till Sörgårdsskolan,Lärare i grundskolan|Sollefteå|Promenad|Empatisk|Strukturerad| pedagogisk|Högskola,441787634412
+955,Ämneslärare franska Byskeskolan,Lärare i grundskolan|Örnsköldsvik|Promenad|Empatisk|Flexibel|pedagogisk|Högskola,441787638178
+956,Lärare i Svenska åk 4 Engelska Skolan Täby,Lärare i grundskolan|Kramfors|Empatisk|Flexibel|Analytisk| pedagogisk|Högskola,441787641723
+957,Grundlärare,Lärare i grundskolan|Härnösand|Empatisk|positiv| Arbetsam|pedagogisk|Högskola,441787644594
+958,Senior math teacher to IES Västerås,Lärare i grundskolan|Sundsvall|Promenad|Social|Empatisk|Noggrann|pedagogisk|Högskola,441787648267
+959,English & Math Junior Teacher to IES Västerås,Lärare i grundskolan|Timrå|Empatisk|positiv| Snabb|pedagogisk|Högskola,441787651023
+960,Arbeta som lärarvikarie i låg,Lärare i grundskolan|Sollefteå|Social|Flexibel|Säljinriktad| pedagogisk|Högskola,441787653740
+961,Fler lärarvikarier i högstadiet i Burlöv,Lärare i grundskolan|Kramfors|Friskvård|Promenad|Social|Kommunikativ| pedagogisk|Högskola,441787656533
+962,Vi söker fler flexibla lärarvikarier för arbete på skolor i Stockholms,Lärare i grundskolan|Härnösand|Promenad|Social|Empatisk|positiv| pedagogisk|Högskola,441787659133
+963,Vi söker fler vikarier till högstadiet i Härryda,Lärare i grundskolan|Sundsvall|Noggrann|Snabb|Ansvarstagande| pedagogisk|Högskola,441787664892
+964,Vi söker fler lärarvikarier till  Härryda,Lärare i grundskolan|Timrå|Promenad|Empatisk|pedagogisk|Högskola,441787668824
+965,Flexibelt och utvecklande extrajobb som lärarvikarie på låg och mellans,Lärare i grundskolan|Ånge|Promenad|Empatisk|positiv| pedagogisk|Högskola,441787671641
+966,Till våren söker vi fler vikarier till låg och mellanstadie i Göteborg Bemannia ,Lärare i grundskolan|Sollefteå|positiv| Snabb|pedagogisk|Högskola,441787675798
+967,Vi söker vi fler vikarier till Bemannia ,Lärare i grundskolan|Örnsköldsvik|Promenad|Flexibel|positiv| pedagogisk|Högskola,441787679664
+968,Arbeta som lärarvikarie på skolor i Norra Göteborg,Lärare i grundskolan|Härnösand|Friskvård|Promenad|Flexibel|pedagogisk|Högskola,441787682381
+969,Vikariera på högstadiet i Göteborg under vårterminen,Lärare i grundskolan|Timrå|Empatisk|Flexibel|Noggrann|pedagogisk|Högskola,441787686014
+970,Legitimerad och relationsskapande lärare ,Lärare i grundskolan|Ånge|Social|Flexibel|Noggrann|Arbetsam|pedagogisk| kreativ|Högskola,441787688703
+971,Lärare i idrott och hälsa vid Altorpskolan,Lärare i grundskolan|Sollefteå|Friskvård|Arbetsam|Snabb|Stresstålig|pedagogisk| kreativ|Högskola,441787692456
+972,Grundskollärare Ma No till Munkhätteskolan,Lärare i grundskolan|Örnsköldsvik|positiv| Snabb|Ansvarstagande| pedagogisk| kreativ|Högskola,441787695245
+973,Förstelärare åk 7 engelska till Munkhätteskolan,Lärare i grundskolan|Kramfors|Friskvård|Flexibel|positiv| pedagogisk|Högskola,441787699507
+974,Förstelärare åk 9 engelska till Munkhätteskolan,Lärare i grundskolan|Härnösand|Arbetsam|Ansvarstagande| pedagogisk|Högskola,441787701839
+975,Förstelärare med inriktning Ma åk 4,Lärare i grundskolan|Timrå|Promenad|Strukturerad| självgående| pedagogisk|Högskola,441787705877
+976,Intresseanmälan VT-21,Lärare i grundskolan|Ånge|Empatisk|Flexibel|Snabb|pedagogisk|Högskola,441787709657
+977,Lärare i teknik till Gökstensskolan,Lärare i grundskolan|Sundsvall|Social|Empatisk|positiv| pedagogisk|Högskola,441787712002
+978,Lärarvikariat i idrott och hälsa,Lärare i grundskolan|Härnösand|Social|Flexibel|Arbetsam|pedagogisk|Högskola,441787715754
+979,Lärare Svenska som andra språk SVA,Lärare i grundskolan|Härnösand|Noggrann|Snabb|Stresstålig|pedagogisk|Högskola,441787719779
+980,Lärare SVA,Lärare i grundskolan|Sundsvall|Friskvård|Arbetsam|Ansvarstagande| pedagogisk|Högskola,441787721964
+981,Vi söker lärarkonsulter år 7,Lärare i grundskolan|Timrå|Flexibel|Noggrann|Arbetsam|pedagogisk|Högskola,441787724415
+982,HÖGRE LÖN som LÄRARE,Lärare i grundskolan|Sollefteå|Empatisk|Flexibel|positiv| pedagogisk|Högskola,441787728171
+983,Lärare åk 6 PIPERiS,Lärare i grundskolan|Örnsköldsvik|Noggrann|Snabb|Stresstålig|pedagogisk|Högskola,441787731260
+984,Lärare åk 6 PIPERiS,Lärare i grundskolan|Kramfors|Empatisk|Flexibel|Noggrann|pedagogisk|Högskola,441787733338
+985,Lärare i Idrott till Minervaskolan,Lärare i grundskolan|Härnösand|Promenad|Empatisk|Flexibel|pedagogisk|Högskola,441787736173
+986,Allakando läxhjälp Malmö,Lärare i grundskolan|Sundsvall|Empatisk|positiv| Arbetsam|pedagogisk|Högskola,441787738801
+987,En lärare som undervisar i Engelska samt Svenska och Sva,Lärare i grundskolan|Timrå|Promenad|Empatisk|Flexibel|pedagogisk|Högskola,441787741512
+988,Grundskollärare för åk 7,Lärare i grundskolan|Sollefteå|Bada|Empatisk|positiv| pedagogisk|Högskola,441787744789
+989,Lärare i åk 1 till Alborga Skola,Lärare i grundskolan|Örnsköldsvik|Friskvård|Stresstålig|Analytisk| självgående| pedagogisk|Högskola,441787748148
+990,Lärare i ENG åk 4,Lärare i grundskolan|Kramfors|Empatisk|positiv| Arbetsam|pedagogisk|Högskola,441787750626
+991,Lärare Fagernäs skola,Lärare i grundskolan|Timrå|Noggrann|Snabb|Stresstålig|pedagogisk|Högskola,441787753184
+992,"Lärare i franska, heltid till två skolor i Södertälje",Lärare i grundskolan|Kramfors|Friskvård|Stresstålig|Strukturerad| pedagogisk|Högskola,441787755828
+993,Lärare årskurs 4–,Lärare i grundskolan|Örnsköldsvik|positiv| Noggrann|Snabb|pedagogisk|Högskola,441787760522
+994,Vikarierande lärare i matematik och no,Lärare i grundskolan|Härnösand|Promenad|Empatisk|Flexibel|pedagogisk|Högskola,441787763212
+995,Lärare Ma/NO till Nyvångskolan åk 4,Lärare i grundskolan|Sundsvall|Flexibel|Noggrann|pedagogisk|Högskola,441787766628
+996,Textilslöjdlärare till Sörgårdsskolan,Lärare i grundskolan|Timrå|Promenad|Empatisk|Strukturerad| pedagogisk|Högskola,441787769478
+997,Lärare i ma och fysik,Lärare i grundskolan|Ånge|Social|Flexibel|positiv| pedagogisk|Högskola,441787774381
+998,Lärare i slöjd till Adolfsbergsskolan ,Lärare i grundskolan|Sollefteå|Promenad|Empatisk|Flexibel|pedagogisk|Högskola,441787777566
+999,Lärare i TM slöjd,Lärare i grundskolan|Örnsköldsvik|Empatisk|Flexibel|pedagogisk|Högskola,441787781422
+1000,Lärare åk 4 Ma NO,Lärare i grundskolan|Härnösand|Promenad|Empatisk|positiv| pedagogisk|Högskola,441787785275
+1001,Lärare åk 5 Ma NO,Lärare i grundskolan|Sundsvall|Promenad|Social|Empatisk|pedagogisk|Högskola,441787788270
+1002,Stretereds Grundsärskola 6,Lärare i grundskolan|Timrå|positiv| Noggrann|Arbetsam|pedagogisk|Högskola,441787790755
+1003,Stretereds Grundsärskola 9,Lärare i grundskolan|Ånge|Friskvård|Snabb|Ansvarstagande| pedagogisk|Högskola,441787793484
+1004,Högakustenskolan söker lärare till mellanstadiet,Lärare i grundskolan|Sollefteå|positiv| Snabb|Stresstålig|pedagogisk|Högskola,441787796341
+1005,Lärare till åk 5 Bjäkenbackens skola,Lärare i grundskolan|Örnsköldsvik|Bada|Social|positiv| pedagogisk| kreativ|Högskola,441787799286
+1006,Lärare i Samhällsorienterade ämnen,Lärare i grundskolan|Kramfors|Empatisk|positiv| pedagogisk| kreativ|Högskola,441787801820
+1007,"Vi behöver dig, driven och engagerad lärare i fritidshem till Rannebergssko",Lärare i grundskolan|Kramfors|Ansvarstagande| Analytisk| Strukturerad| pedagogisk| kreativ|Högskola,441787804841
+1008,Tingsryds kommun söker förstelärare till Dackeskolan,Lärare i grundskolan|Härnösand|Arbetsam|Ansvarstagande| Analytisk| pedagogisk|Högskola,441787808121
+1009,Vi söker högstadielärare i matte & NO,Lärare i grundskolan|Sollefteå|Empatisk|Flexibel|Noggrann|pedagogisk|Högskola|Körkort B,441787810597
+1010,Ämneslärare,Lärare i grundskolan|Örnsköldsvik|Empatisk|Flexibel|Noggrann|pedagogisk| kreativ|Högskola,441787813215

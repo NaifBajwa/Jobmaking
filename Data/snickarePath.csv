@@ -1,0 +1,104 @@
+movieId,title,genre,timestamp
+1,Snickare sökers,Snickare|Timrå|Fotboll|Social|Flexibel|Snabb|Körkort B,441767841948
+51,Snickare Peab Byggservice,Snickare|Härnösand|Social|Flexibel|Snabb|självgående|Gymnasiet|Körkort B,441769950515
+52,Snickare AB Byggprojket,Snickare|Härnösand|Friskvård|Gymnasiet|Körkort B,441769958909
+53,Snickare Kök & Inredning,Snickare|Sundsvall|Friskvård|Social|Gymnasiet|Körkort B,441769966811
+54, Snickare Nettuno Bygg & Transport,Snickare|Sundsvall|Promenad|Snabb|Ansvarstagande|Körkort B,441769971295
+55,Snickare Ouazzani Invest AB ,Snickare|Timrå|Strukturerad|Körkort B,441769974950
+56,Snickare LN Personal AB,Snickare|Ånge|positiv|Gymnasiet|Körkort B,441769977866
+57,Snickare Storstockholm|Snickare|Ånge|Friskvård|självgående|Körkort B,441769981448
+58,Snickare Gestricia bygg & service AB ,Snickare|Timrå|Fotboll|kreativ|Körkort B,441769984751
+59,Snickare Piteå Kommun,Snickare|Örnsköldsvik|Flexibel|Noggrann|Körkort B,441769990009
+60,Snickare Scandinavian Internet Group AB,Snickare|Sundsvall|Social|positiv| Noggrann|Körkort B,441769994061
+61,Snickare CG-Byggen AB,Snickare|Örnsköldsvik|Snabb|Ansvarstagande|Gymnasiet|Körkort B,441769999090
+62,Snickare Karlstad,Snickare|Kramfors|Strukturerad| självgående| serviceminded|Körkort B,441770002217
+63,Snickare WorkWeb,Snickare|Ånge|Social|självgående|Körkort B,441770005667
+64,Snickare ByggConstruct AB,Snickare|Sundsvall|positiv|Körkort B,441770008271
+65,Snickare Hekuri Svets & Montage AB,Snickare|Härnösand|Bada|Flexibel|Körkort B,441770015609
+66,Snickare Jatic Bygg AB,Snickare|Kramfors|Flexibel|Noggrann|Ansvarstagande|Körkort B,441770018421
+67,Snickare Style Bygg Land,Snickare|Timrå|Fotboll|självgående| serviceminded|Körkort B,441770021301
+68,Snickare All Snickeri & Design ,Snickare|Sundsvall|Promenad|positiv|Körkort B,441770025699
+69,Snickare Dryft Sverige,Snickare|Timrå|Flexibel|positiv|Körkort B,441770028766
+70,Snickare Bygg & BadrumsPartner,Snickare|Ånge|Friskvård|Snabb|Körkort B,441770031812
+71,Snickare RSH Bostad AB,Snickare|Timrå|Bada|kreativ|Körkort B,441770073674
+72,Snickare sökes ExpanderaMera Byggbemanning ,Snickare|Ånge|Flexibel|positiv|Körkort B,441770076613
+73, Snickare Göteborg Bang & Nielsen AB ,Snickare|Timrå|Ansvarstagande| Säljinriktad| Stresstålig|Körkort B,441770080316
+74,"självgående|snickare A Partners AB",Snickare|Örnsköldsvik|Strukturerad| självgående|Körkort B,441770083767
+75,Snickare sökes Montiga AB,Snickare|Örnsköldsvik|Stresstålig|Analytisk|Körkort B,441770089401
+76,Snickare +40 GOveteran,Snickare|Timrå|Snabb|Stresstålig|kreativ|Körkort B,441770093300
+77,Snickare Träarbetare D & B Bygg AB ,Snickare|Sundsvall|självgående|Körkort B,441770138235
+78,Snickare sökes Danderyds Konsult,Snickare|Sundsvall|Strukturerad| självgående|Körkort B,441770142307
+79,Snickare sökes! Hty Bygg,Snickare|Härnösand|Ansvarstagande| Säljinriktad|Körkort B,441770145700
+80,Snickare bygg Lnkw Entreprenad,Snickare|Timrå|Fotboll|Arbetsam|Stresstålig|Körkort B,441770149621
+81,Söker snickare Opazo Herrera Juan,Snickare|Sundsvall|Friskvård|Snabb|Körkort B,441770153316
+82,"Snickare sökes N L AB, Byggbolaget ",Snickare|Sundsvall|Flexibel|Körkort B,441770156237
+83,Erfaren Snickare Stockholm GOveteran,Snickare|Sundsvall|Strukturerad|Körkort B,441770159492
+84,Snickare (Servissnickare) ,Snickare|Timrå|självgående| serviceminded|Körkort B,441770162848
+85,Ecobygg söker snickare Ecobygh,Snickare|Timrå|Noggrann|Arbetsam|Körkort B,441770166496
+86,Snickare utan yrkesbevis,Snickare|Sollefteå|positiv| Analytisk|Körkort B,441770170994
+87,Snickare Fiddes Bygg,Snickare|Sollefteå|Stresstålig|självgående|Körkort B,441770179107
+88,"självgående|serviceinriktad snickare",Snickare|Timrå|positiv| Snabb|självgående|Körkort B,441770182001
+89,Snickare med erfarenhet,Snickare|Kramfors|Snabb|Körkort B,441770186830
+90,Snickare till Malmöregionen,Snickare|Sundsvall|Empatisk|Körkort B,441770192936
+91,Snickare i fjällen!,Snickare|Timrå|Noggrann|Körkort B,441770196937
+92,Snickare sökes (65770),Snickare|Örnsköldsvik|positiv| Stresstålig|Körkort B,441770200517
+93,Snickare / Carpenter,Snickare|Sollefteå|positiv| Stresstålig|Körkort B,441770203600
+94, TopWork söker duktiga snickare,Snickare|Örnsköldsvik|Arbetsam|Snabb|Körkort B,441770206656
+95,Snickare och Rivningsarbetare sökes,Snickare|Ånge|Flexibel|positiv|Körkort B,441770212479
+96,Erfaren Träarbetare Snickare sökes,Snickare|Sundsvall|Strukturerad| självgående|Körkort B,441770218047
+97,Snickare till Byggpojken AB,Snickare|Timrå|Arbetsam|Körkort B,441770220510
+98,Snickare sökes i borås,Snickare|Timrå|Flexibel|positiv| Noggrann|Körkort B,441770223080
+99,3 stycken snickare sökes,Snickare|Sundsvall|positiv|Körkort B,441770233748
+100,Snickare sökes för omgående start!,Snickare|Kramfors|Arbetsam|Snabb|Ansvarstagande|Körkort B,441770236741
+101,"Vi söker 2-3 självgående|snickare",Snickare|Ånge|Snabb|Körkort B,441770239705
+102,Duktiga SNICKARE sökes till företaget,Snickare|Ånge|Ansvarstagande| Stresstålig|Körkort B,441770242870
+103,"självgående|snickare med erfarenhet sökes",Snickare|Härnösand|Noggrann|Arbetsam|Körkort B,441770246088
+104,Göteborgs roligaste byggföretag söker snickare,Snickare|Timrå|Friskvård|Körkort B,441770249800
+105,Snickare med ansvar och eget driv!,Snickare|Kramfors|Stresstålig|Körkort B,441770252875
+106,Snickare som vill ha ny utmaning,Snickare|Sundsvall|Flexibel|Körkort B,441770274995
+107,Yrkeskunniga snickare sökes till framtida uppdrag,Snickare|Timrå|Friskvård|Strukturerad|Körkort B,441770276736
+108,Vi söker seniora snickare i Partille,Snickare|Sollefteå|Promenad|Empatisk|positiv|Körkort B,441770281133
+109,Snickare för kommande behov,Snickare|Sollefteå|Arbetsam|Snabb|Körkort B,441770284273
+110,Snickare till Klingsta Hus & Modul AB,Snickare|Örnsköldsvik|Arbetsam|Snabb|441770287071
+111,Tingsryds bostsäder söker Projektanställning snickare,Snickare|Kramfors|Noggrann|Arbetsam|Körkort B,441770290210
+112,Göteborgs Skärgård som arbetsplats? Snickare för direktrekrytering sökes!,Snickare|Örnsköldsvik|Stresstålig|Strukturerad|Körkort B,441770293775
+113,Söker nu ytterligare två snickare till ett vårt goa gäng,Snickare|Sundsvall|Flexibel|Snabb|Körkort B,441770296937
+114,TopWork söker industrisnickare,Snickare|Sollefteå|Flexibel|positiv|Körkort B,441770301122
+115,TopWork söker montör till träindustrin,Snickare|Örnsköldsvik|positiv| Strukturerad|Körkort B,441770304201
+116,Servicesnickare till A-team!,Snickare|Sollefteå|Stresstålig|Körkort B,441770309155
+117,Vi söker trähusarbetare,Snickare|Sollefteå|Empatisk|Flexibel|Körkort B,441770313369
+118,Fönsterrenoverare,Snickare|Ånge|Noggrann|Arbetsam|Körkort B,441770316484
+119,Träarbetare,Snickare|Sundsvall|Flexibel|Snabb|Körkort B,441770320534
+120,Grovsnickare /Segeltorp,Snickare|Timrå|Arbetsam|Ansvarstagande|Körkort B,441770323797
+121,Grovsnickare/ Hägersten,Snickare|Sundsvall|Flexibel|positiv| Noggrann|Körkort B,441770373494
+122,Produktionsmedarbetare till träindustri i Anneberg,Snickare|Sundsvall|Flexibel|positiv|Körkort B,441770376769
+123,Vi söker fabrikssnickare,Snickare|Härnösand|positiv| Snabb|Körkort B,441770381050
+124,Träarbetare sökes till kortare uppdrag i Örebro,Snickare|Timrå|Stresstålig|Körkort B,441770383779
+125,Snickare/träarbetare sökas,Snickare|Sundsvall|Friskvård|Arbetsam|Snabb|Körkort B,441770386679
+126,Erfaren träarbetare,Snickare|Ånge|Stresstålig|självgående|Körkort B,441770390215
+127,Träarbetare sökes till uppdrag i hela Sverige,Snickare|Flexibel|Körkort B,441770395676
+128,Fönstörmontörer till Sthlm-Norrort,Snickare|Ånge|Strukturerad| självgående|Körkort B,441770398267
+129,Serviceinriktad och ansvarsfull hantverkare sökes!,Snickare|Timrå|Flexibel|Noggrann|Körkort B,441770401488
+130,Snickare/BAS,Snickare|Sollefteå|Noggrann|Stresstålig|Körkort B,441770404017
+131,Vill du jobba som fabrikssnickare på Nock Massiva Trähus?,Snickare|Härnösand|Noggrann|Snabb|Körkort B,441770407514
+132, Vill du jobba som fabrikssnickare på Nock Massiva Trähus?,Snickare|Sollefteå|Stresstålig|Körkort B,441770411076
+133,Duktig Servicesnickare - stabilt företag - Borås,Snickare|Ånge|Strukturerad|Körkort B,441770414392
+134,Servicesnickare direktrekrytering,Snickare|Timrå|Arbetsam|Körkort B,441770416830
+135,Bygnadsarbetare för Brandsäkring till Dawson,Snickare|Timrå|Social|serviceminded|Körkort B,441770420684
+136,Fönster arbete,Snickare|Sollefteå|Snabb|Ansvarstagande|Körkort B,441770423008
+137,Produktion och Installation av PVC fönster,Snickare|Härnösand|Flexibel|Stresstålig|Körkort B,441770426042
+138,Träarbetare sökes till uppdrag i Örebro,Snickare|Timrå|Social|självgående|Körkort B,441770428473
+139,Traktamente runt om i landet,Snickare|Sundsvall|positiv| Arbetsam|Körkort B,441770431443
+140,Kanalreparatör,Snickare|Sollefteå|självgående|Körkort B,441770434458
+141,Erfaren Snickare/byggare sökes,Snickare|Örnsköldsvik|Bada|självgående|Körkort B,441770437154
+142,Trämontör till kund i Växjö,Snickare|Timrå|Strukturerad|Körkort B,441770440835
+143,Götenehus söker produktionspersonal,Snickare|Timrå|positiv| Stresstålig|Körkort B,441770443532
+144,Hansa Bygg söker snickare/träarbetare till byggservice,Snickare|Sollefteå|Ansvarstagande|Körkort B,441770448811
+145,Trähusarbetare,Snickare|Ånge|Flexibel|positiv|Körkort B,441770451069
+146,Trähusarbetare,Snickare|Ånge|Noggrann|självgående|Körkort B,441770453686
+147,Driven entreprenadsnickare till Höglandet,Snickare|Ånge|Snabb|Ansvarstagande|Körkort B,441770457574
+148,Prefabsnickare,Snickare|Sollefteå|Empatisk|Snabb|Körkort B,441770460591
+149,Snickare/Fasad murare,Snickare|Ånge|Friskvård|Arbetsam|Körkort B,441770463606
+150,Snickare/ Byggstädare,Snickare|Ånge|Ansvarstagande|Körkort B,441770465752
+151,Butikssäljare till Träbiten Byggvaror,Snickare|Timrå|Flexibel|Körkort B,441770468376
+152,Servicesnickare till växande byggföretag i norrort,Snickare|Kramfors|Arbetsam|Körkort B,441770470809

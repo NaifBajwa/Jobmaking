@@ -8,15 +8,23 @@ from surprise import Reader
 
 from collections import defaultdict
 import numpy as np
+import subprocess as sp
 
 class MovieLens:
 
     movieID_to_name = {}
     name_to_movieID = {}
-    ratingsPath = '../../ml-latest-small/ratings.csv'
-    moviesPath = '../../ml-latest-small/movies.csv'
+    ratingsPath = './Data/ratings.csv'
+    moviesPath = './Data/movies.csv'
+    snickarePath = './Data/snickarePath.csv'
+    snickareRatings = './Data/snickareRatings.csv'
+    lekarePath = './Data/lekarePath.csv'
+    lekareRatings = './Data/lekareRatings.csv'
+    nursePath = './Data/nursePath.csv'
+    nurseRatings = './Data/nurseRatings.csv'
+    grName = ''
     
-    def loadMovieLensLatestSmall(self):
+    def loadMovieLensLatestSmall(self, user):
 
         # Look for files relative to the directory we are running from
         os.chdir(os.path.dirname(sys.argv[0]))
@@ -24,6 +32,26 @@ class MovieLens:
         ratingsDataset = 0
         self.movieID_to_name = {}
         self.name_to_movieID = {}
+
+        # From the user get the genre
+        with open(self.ratingsPath, newline='') as csvfile:
+            ratingReader = csv.reader(csvfile)
+            next(ratingReader)
+            for row in ratingReader:
+                userID = int(row[0])
+                if (user == userID):
+                    self.grName = row[3]
+                    break
+
+        if (self.grName == 'Snickare'):
+            self.moviesPath = self.snickarePath
+            self.ratingsPath = self.snickareRatings
+        elif (self.grName == 'Läkare'):
+            self.moviesPath = self.lekarePath
+            self.ratingsPath = self.lekareRatings
+        elif (self.grName == 'Sjuksköterska'):
+            self.moviesPath = self.nursePath
+            self.ratingsPath = self.nurseRatings
 
         reader = Reader(line_format='user item rating timestamp', sep=',', skip_lines=1)
 

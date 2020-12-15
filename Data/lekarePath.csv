@@ -1,0 +1,103 @@
+movieId,title,genre,timestamp
+407,Läkare Närhälsan Gråbo vårdcentral,Läkare|Härnösand|Bada|Promenad|Social|Empatisk|Legitimerad|Högskola|Körkort B,441774525114
+408,Legitimerad Läkare,Läkare|Sundsvall|Friskvård|Promenad|Social|Arbetsam|Legitimerad|Högskola|Körkort B,441774528099
+409,Läkare Allmänmedicin,Läkare|Timrå|Promenad|Empatisk|Flexibel|Legitimerad|Högskola,441774532712
+410,Leg. Läkare Vårdcentral Hjärtat i Helsingborg ,Läkare|Timrå|Bada|Promenad|Flexibel|positiv| Strukturerad|Legitimerad|Högskola,441774535951
+411,Legitimerad Läkare SKHLM Vårdcentral AB,Läkare|Ånge|Promenad|Flexibel|Noggrann|Analytisk|Legitimerad|Högskola,441774539008
+412,Legitimerad läkare,Läkare|Sollefteå|Empatisk|Stresstålig|Analytisk|Legitimerad|Högskola,441774541621
+413,Legitimerad läkare Region Uppsala,Läkare|Örnsköldsvik|Social|Empatisk|positiv|Legitimerad|Högskola,441774544139
+414,Läkare akutsjukvård Region Uppsala,Läkare|Kramfors|Social|Empatisk|Flexibel|Legitimerad|Högskola,441774547280
+415,Läkare och Specialistläkare OMSORG & BEHANDLING,Läkare|Härnösand|Promenad|Flexibel|Legitimerad|Högskola,441774550030
+416,Läkare och Specialistläkare,Läkare|Timrå|Social|Flexibel|positiv| Arbetsam|Legitimerad|Högskola,441774561400
+417,Läkare och Specialistläkare,Läkare|Härnösand|Social|Empatisk|Flexibel|Snabb|Legitimerad|Högskola,441774566891
+418,Läkare och Specialistläkare OMSORG & BEHANDLING,Läkare|Härnösand|Social|Empatisk|Flexibel|Legitimerad|Högskola,441774575009
+419,Läkare och Specialistläkare OMSORG & BEHANDLING,Läkare|Härnösand|Promenad|Social|Flexibel|Legitimerad|Högskola|Körkort B,441774602549
+420,Läkare och Specialistläkare OMSORG & BEHANDLING - Hofors,Läkare|Sundsvall|Bada|Social|Empatisk|Analytisk|Legitimerad|Högskola,441774606983
+421,Läkare och Specialistläkare OMSORG & BEHANDLING Bollnäs,Läkare|Sundsvall|Friskvård|Kommunikativ| självgående|Legitimerad|Högskola,441774610852
+422,Läkare och Specialistläkare OMSORG & BEHANDLING - Åmål,Läkare|Timrå|Flexibel|Arbetsam|Legitimerad|Högskola,441774614308
+423,Läkare och Specialistläkare OMSORG & BEHANDLING - Vänersborg,Läkare|Timrå|Stresstålig|Analytisk|Legitimerad|Högskola,441774617127
+424,Läkare och Specialistläkare OMSORG & BEHANDLING - Vårgårda,Läkare|Ånge|Empatisk|positiv| Snabb|Legitimerad|Högskola,441774620614
+425,Läkare och Specialistläkare OMSORG & BEHANDLING - Vara,Läkare|Sollefteå|Empatisk|positiv|Legitimerad|Högskola,441774623073
+426,Läkare och Specialistläkare OMSORG & BEHANDLING - Uddevalla,Läkare|Örnsköldsvik|Friskvård|Empatisk|Flexibel|Legitimerad|Högskola,441774625526
+427,Läkare och Specialistläkare OMSORG & BEHANDLING - Töreboda,Läkare|Örnsköldsvik|Promenad|Flexibel|positiv|Legitimerad|Högskola,441774631982
+428,Läkare och Specialistläkare OMSORG & BEHANDLING - Tranemo,Läkare|Härnösand|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774634637
+429,Läkare och Specialistläkare,Läkare|Kramfors|Friskvård|Analytisk|Legitimerad|Högskola,441774638394
+430,Läkare och Specialistläkare OMSORG & BEHANDLING - Tibro,Läkare|Härnösand|Friskvård|Empatisk|Flexibel|Legitimerad|Högskola,441774641055
+431,Läkare och Specialistläkare OMSORG & BEHANDLING - Strömstad,Läkare|Härnösand|Empatisk|Flexibel|Snabb|Legitimerad|Högskola,441774644022
+432,Läkare och Specialistläkare OMSORG & BEHANDLING - Forshaga,Läkare|Härnösand|Fotboll|Noggrann|Arbetsam|Ansvarstagande|Legitimerad|Högskola,441774649307
+433,Läkare och Specialistläkare OMSORG & BEHANDLING - Stockholm,Läkare|Örnsköldsvik|Noggrann|Arbetsam|Säljinriktad| Stresstålig|Legitimerad,441774652552
+434,Läkare och Specialistläkare OMSORG & BEHANDLING - Sollentuna,Läkare|Kramfors|Empatisk|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441774655737
+435,Leg läkare och sjuksköterska ARKADENS LÄKARMOTTAGNING ,Läkare|Härnösand|Empatisk|Flexibel|Arbetsam|Legitimerad|Högskola|Körkort B,441774659463
+436,"Läkare till Vårdcentralen Degeberga Region Skåne, Primärvården",Läkare|Härnösand|Bada|Friskvård|Ansvarstagande| Analytisk|Legitimerad|Högskola,441774662989
+437,"Läkare till Södersjukhuset, spontanansökan Södersjukhuset SÖS - Stockholm",Läkare|Ånge|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola,441774666164
+438,Legitimerad läkare till Sölvesborgs vårdcentral Region Blekinge,Läkare|Timrå|Bada|Friskvård|Social|självgående|Legitimerad|Högskola,441774669778
+439,Läkare till primärvården inom Stockholm Medcura AB,Läkare|Örnsköldsvik|Social|Empatisk|Flexibel|Legitimerad|Högskola,441774672644
+440,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Kramfors|Empatisk|Noggrann|Stresstålig|Legitimerad|Högskola|Körkort B,441774675552
+441,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Härnösand|Flexibel|positiv| Stresstålig|Legitimerad|Högskola|Körkort B,441774678532
+442,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Anderstorp,Läkare|Sundsvall|Friskvård|Strukturerad| kreativ|Legitimerad|Högskola,441774681357
+443,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Arjeplog,Läkare|Timrå|Social|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441774684466
+444,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Arvika,Läkare|Härnösand|Fotboll|Social|kreativ|Legitimerad|Högskola|Körkort B,441774687384
+445,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Askersund ,Läkare|Sundsvall|Promenad|Social|Flexibel|Legitimerad|Högskola,441774689842
+446,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning ,Läkare|Timrå|Fotboll|Bada|Promenad|Legitimerad|Högskola|Körkort CE,441774692725
+447,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Borlänge ,Läkare|Sundsvall|Snabb|Stresstålig|Analytisk| kreativ|Legitimerad|Högskola|Körkort B,441774696535
+448,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Bäckefors,Läkare|Timrå|Snabb|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola,441774699521
+449,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Båstad,Läkare|Ånge|Social|Empatisk|positiv| Noggrann|Arbetsam|Legitimerad|Högskola,441774702602
+450,Leg. Läkare sökes till bemanningsuppdrag Viva Bemanning - Degerfors ,Läkare|Örnsköldsvik|Bada|Social|Stresstålig|Analytisk|Legitimerad|Högskola|Körkort B,441774706563
+451,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Härnösand|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola,441774710197
+452,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Kramfors|Empatisk|Flexibel|positiv| kreativ|Legitimerad|Högskola|Körkort B,441774720568
+453,Leg. Läkare sökes till bemanningsuppdrag,Läkare|Timrå|Bada|Promenad|Social|Legitimerad|Högskola,441774729506
+454,Leg. Läkare till Järna Vårdcentral,Läkare|Kramfors|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441774733410
+455,Leg. Läkare till Järna Vårdcentral Lideta Hälsovård ,Läkare|Härnösand|Empatisk|Flexibel|positiv|Legitimerad|Högskola|Körkort B,441774736049
+456,Leg. Läkare till Järna Vårdcentral Lideta Hälsovård ,Läkare|Sundsvall|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola|Körkort B,441774739005
+457,Halmstad: Legitimerad Läkare till Tudorkliniken,Läkare|Timrå|Social|Flexibel|positiv|Legitimerad|Högskola,441774741636
+458,Leg. Läkare till Järna Vårdcentral,Läkare|Ånge|Bada|Ansvarstagande| Analytisk|Legitimerad|Högskola,441774745511
+459,Legitimerade läkare Särskilt boende,Läkare|Sollefteå|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774747514
+460,Läkare med specialitet inom anestesi/intensivvård,Läkare|Sollefteå|Social|positiv| Arbetsam|Legitimerad|Högskola|Körkort B,441774750100
+461,Leg. Läkare till Hofors Din hälsocentral,Läkare|Örnsköldsvik|Fotboll|Analytisk| Strukturerad|Legitimerad|Körkort CE|Körkort B,441774753001
+462,Leg. läkare till Solna Centrums vårdcentral,Läkare|Kramfors|Arbetsam|Snabb|Ansvarstagande| Analytisk|Legitimerad|Högskola,441774756298
+463,"Legitimerad läkare till Vårdcentralen Kolla, Kungsbacka",Läkare|Härnösand|Friskvård|Arbetsam|Snabb|Analytisk|Legitimerad|Högskola,441774759162
+464,Läkare till specialiserad palliativ vård Ludvika/Smedjebacken,Läkare|Sundsvall|Empatisk|positiv| Arbetsam|Legitimerad|Högskola,441774762451
+465,Legitimerad läkare sökes för spännande uppdrag,Läkare|Sundsvall|Empatisk|positiv|Legitimerad|Högskola,441774765141
+466,Legitimerad läkare till Solljungahälsan i Örkelljunga,Läkare|Timrå|Friskvård|positiv| Snabb|Legitimerad|Högskola,441774768387
+467,Extra personal - Läkare till smittspårningsenheten,Läkare|Timrå|Promenad|Flexibel|Arbetsam|Legitimerad|Högskola,441774771489
+468,Läkare sökes till enhet för smärtrehabilitering,Läkare|Örnsköldsvik|Social|Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774774300
+469,Leg läkare till Previa i Göteborg Hisingen,Läkare|Sundsvall|Friskvård|Promenad|positiv|Legitimerad|Högskola,441774777297
+470,Husläkarmottagning i Täby Centrum söker Leg. Läkare,Läkare|Härnösand|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774781024
+471,"Läkare, vikariat, till Vårdcentralen Vänhem i Hässleholm",Läkare|Härnösand|Empatisk|Arbetsam|Snabb|Legitimerad|Högskola,441774783795
+472,Legitimerad läkare inför ST till Skärholmens vårdcentral,Läkare|Sollefteå|Friskvård|Kommunikativ| kreativ|Legitimerad|Högskola,441774786866
+473,5 Husläkare i Sollentuna söker legitimerad läkare,Läkare|Härnösand|Arbetsam|Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774789265
+474,Provtjänstgöring för läkare med examen utanför EU/EES,Läkare|Härnösand|Friskvård|Empatisk|Snabb|Legitimerad|Högskola,441774798930
+475,Legitimerad Läkare sökes för öppning ny Vårdcentral Eskilstuna,Läkare|Härnösand|Promenad|Flexibel|Noggrann|Legitimerad|Högskola,441774801712
+476,Legitimerad läkare till en vårdcentral i västar Stockholm!,Läkare|Härnösand|Empatisk|positiv| Arbetsam|Legitimerad|Högskola,441774805623
+477,Vi söker leg. läkare till ASIH Familjeläkarna Hammarbyhöjden,Läkare|Sundsvall|Bada|Promenad|självgående|Legitimerad|Högskola,441774809367
+478,Leg. läkare sökes till Krys nyöppnade vårdcentral i Malmö,Läkare|Härnösand|Social|Flexibel|Noggrann|Legitimerad|Högskola,441774813190
+479,Leg. läkare sökes till Krys nyöppnade vårdcentral i Malmö,Läkare|Sundsvall|Arbetsam|Snabb|Stresstålig|Legitimerad|Högskola,441774816259
+480,Leg. Läkare & allmänspecialister sökes till kombinerad tjänst på Doktor,Läkare|Timrå|Empatisk|Flexibel|självgående|Gymnasiet|Körkort CE,441774820726
+481,Leg. Läkare sökes till KRYs vårdcentraler i Stockholm samt för kvälls,Läkare|Sundsvall|Bada|Friskvård|Stresstålig|Legitimerad|Högskola,441774825788
+482,Specialistläkare inom kirurgi sökes till välbetalda uppdrag,Läkare|Timrå|Social|Strukturerad|Legitimerad|Högskola,441774829984
+483,Specialist i allmänmedicin till Vårdcentralen Borensberg,Läkare|Ånge|Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774833068
+484,Vikariat underläkare till Ögonmottagningen Hudiksvall,Läkare|Härnösand|Promenad|Empatisk|Flexibel|Legitimerad|Högskola,441774835942
+485,"Psykiatriker och delägare, Falun",Läkare|Sollefteå|Social|Noggrann|Snabb|Legitimerad|Högskola|Körkort B,441774839570
+486,Underläkare (vikariat) till Achima Care Eskilstuna vårdcentral,Läkare|Sundsvall|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola,441774842785
+487,Underläkare sökes till kombination av primärvård och digitala tjänster,Läkare|Härnösand|Bada|Promenad|positiv| Noggrann|Legitimerad|Högskola,441774850114
+488,Skolläkare till Kunskapsförvaltningen,Läkare|Örnsköldsvik|Friskvård|Flexibel|Stresstålig|Analytisk|Legitimerad|Högskola,441774852598
+489,"Underläkare, Kvinnokliniken",Läkare|Sundsvall|Fotboll|Stresstålig|Strukturerad|Legitimerad|Högskola,441774855409
+490,"HTA-ansvariga, Centrum för klinisk forskning",Läkare|Timrå|positiv| Arbetsam|Snabb|Legitimerad|Högskola,441774858135
+491,Legitimerad läkare/underläkare sökes till Råsunda vårdcentral,Läkare|Ånge|Bada|Promenad|självgående|Legitimerad|Högskola,441774861352
+492,Barnläkare till Barn- och Ungdomskliniken i Gävle,Läkare|Sollefteå|positiv| Stresstålig|Kommunikativ|Legitimerad|Högskola,441774864416
+493,Sem vik läkarassistent till VC Ludvika-Grängesberg,Läkare|Örnsköldsvik|Ansvarstagande| Analytisk| Kommunikativ|Legitimerad|Högskola,441774867167
+494,Vi söker underläkare till slutenvården!,Läkare|Örnsköldsvik|Flexibel|Arbetsam|Stresstålig|Legitimerad|Högskola,441774870762
+495,Specialistläkare i vuxenpsykiatri med inriktning mot ADHD,Läkare|Härnösand|Fotboll|Analytisk| Kommunikativ|Legitimerad|Högskola,441774873273
+496,"Läkarassistent, Skaraborgs Sjukhus Lidköping",Läkare|Ånge|positiv| Ansvarstagande| Stresstålig|Legitimerad|Högskola,441774876807
+497,"Läkarassistent, Skaraborgs Sjukhus Skövde",Läkare|Sundsvall|Flexibel|Stresstålig|Legitimerad|Högskola,441774879415
+498,Psykiatriker till bemanninguppdrag med hög ersättning,Läkare|Timrå|Social|Strukturerad| självgående|Legitimerad|Högskola,441774882878
+499,Specialistläkare/ ST-läkare,Läkare|Timrå|Flexibel|Kommunikativ| Strukturerad|Legitimerad|Högskola|Körkort B,441774885961
+500,Specialistläkare/överläkare till ÄlSa-team Sollefteå,Läkare|Örnsköldsvik|Empatisk|Flexibel|Arbetsam|Legitimerad|Högskola,441774888291
+501,Distriktsläkare,Läkare|Sundsvall|Friskvård|Arbetsam|Snabb|Legitimerad|Högskola,441774890896
+502,"Underläkare, ögonsjukvården",Läkare|Sollefteå|Flexibel|Noggrann|Arbetsam|Legitimerad|Högskola,441774893243
+503,Underläkare för sommarvikariat 2021 till ASIH Stockholm Södra,Läkare|Timrå|Empatisk|Noggrann|Legitimerad|Högskola,441774896477
+504,Underläkare med intresse för psykiatri/rättspsykiatri,Läkare|Ånge|Arbetsam|Stresstålig|Analytisk|Legitimerad|Högskola,441774898933
+505,Underläkare till infektionskliniken (vikariat,Läkare|Timrå|Promenad|Noggrann|kreativ|Legitimerad|Högskola,441774901180
+506,Allmänspecialist Väla Hälsocenter,Läkare|Härnösand|Bada|Stresstålig|Analytisk| Kommunikativ|Legitimerad|Högskola,441774904114
+507,Distriktsläkare till Vårdcentralen Svalöv,Läkare|Ånge|Bada|Arbetsam|Ansvarstagande| Kommunikativ|Legitimerad|Högskola,441774906816
+508,"Överläkare till Anestesi, Sollefteå",Läkare|Sollefteå|Flexibel|Noggrann|Arbetsam|Snabb|Legitimerad|Högskola,441775747166
