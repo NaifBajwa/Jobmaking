@@ -14,14 +14,10 @@ class MovieLens:
 
     movieID_to_name = {}
     name_to_movieID = {}
-    ratingsPath = './Data/ratings.csv'
-    moviesPath = './Data/movies.csv'
-    snickarePath = './Data/snickarePath.csv'
-    snickareRatings = './Data/snickareRatings.csv'
-    lekarePath = './Data/lekarePath.csv'
-    lekareRatings = './Data/lekareRatings.csv'
-    nursePath = './Data/nursePath.csv'
-    nurseRatings = './Data/nurseRatings.csv'
+    movieID_to_Arbetsgivare = {}
+    movieID_to_LastDate = {}
+    ratingsPath = './Data/jobRatings.csv'
+    moviesPath = './Data/jobPath.csv'
     grName = ''
     
     def loadMovieLensLatestSmall(self, user):
@@ -30,41 +26,35 @@ class MovieLens:
         os.chdir(os.path.dirname(sys.argv[0]))
 
         ratingsDataset = 0
-        self.movieID_to_name = {}
-        self.name_to_movieID = {}
 
         # From the user get the genre
-        with open(self.ratingsPath, newline='') as csvfile:
+        with open('./Data/usersPath.csv', newline='') as csvfile:
             ratingReader = csv.reader(csvfile)
             next(ratingReader)
             for row in ratingReader:
                 userID = int(row[0])
                 if (user == userID):
-                    self.grName = row[3]
+                    self.grName = row[2]
                     break
 
-        if (self.grName == 'Snickare'):
-            self.moviesPath = self.snickarePath
-            self.ratingsPath = self.snickareRatings
-        elif (self.grName == 'Läkare'):
-            self.moviesPath = self.lekarePath
-            self.ratingsPath = self.lekareRatings
-        elif (self.grName == 'Sjuksköterska'):
-            self.moviesPath = self.nursePath
-            self.ratingsPath = self.nurseRatings
+        # print (self.grName, self.moviesPath, self.ratingsPath)
 
         reader = Reader(line_format='user item rating timestamp', sep=',', skip_lines=1)
 
         ratingsDataset = Dataset.load_from_file(self.ratingsPath, reader=reader)
 
-        with open(self.moviesPath, newline='', encoding='ISO-8859-1') as csvfile:
+        with open(self.moviesPath, newline='') as csvfile:
                 movieReader = csv.reader(csvfile)
                 next(movieReader)  #Skip header line
                 for row in movieReader:
+                    # print ('Looking for ', self.grName, ' in ', row[2])
+                    # if (row[2].find(self.grName) != -1):
                     movieID = int(row[0])
                     movieName = row[1]
                     self.movieID_to_name[movieID] = movieName
                     self.name_to_movieID[movieName] = movieID
+                    self.movieID_to_Arbetsgivare[movieID] = row[3]
+                    self.movieID_to_LastDate[movieID] = row[4]
 
         return ratingsDataset
 
@@ -174,3 +164,15 @@ class MovieLens:
             return self.name_to_movieID[movieName]
         else:
             return 0
+   
+    def getArbetsgivare(self, movieID):
+        if movieID in self.movieID_to_Arbetsgivare:
+            return self.movieID_to_Arbetsgivare[movieID]
+        else:
+            return ""
+    
+    def getLastDate(self, movieID):
+        if movieID in self.movieID_to_LastDate:
+            return self.movieID_to_LastDate[movieID]
+        else:
+            return ""

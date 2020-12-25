@@ -1,0 +1,62 @@
+Retrieve:
+curl "https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Arbetss%C3%B6kande?maxRecords=3&view=Grid%20view" \
+   -H "Authorization: Bearer keyHbd3ja5QEm4pVa"
+
+Create:
+curl -v -X POST https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Lediga%20jobb \
+  -H "Authorization: Bearer keyHbd3ja5QEm4pVa" \
+  -H "Content-Type: application/json" \
+  --data '{
+  "records": [
+    {
+      "fields": {
+        "Job_ID": "2",
+        "Titel": "Nu söker vi en personlig assistent till 2årig flicka!",
+        "Yrke": "Personlig assistent ",
+        "Beskrivning": "gott  bemötande, snabb, ta hand barn",
+        "Ort": "Sundsvall",
+        "Arbetsgivare": "God Assistans"
+      }
+    },
+    {
+      "fields": {
+        "Job_ID": "3",
+        "Titel": "Nu söker vi en personlig assistent till 2årig flicka!",
+        "Yrke": "Personlig assistent ",
+        "Beskrivning": "gott  bemötande, snabb, ta hand barn",
+        "Ort": "Sundsvall",
+        "Arbetsgivare": "God Assistans"
+      }
+    }
+  ]
+  }'
+
+  Delete: 2: recGhg2ihs9Fkjarm, 3: rectrtOkWY1N8zGQA
+  curl -v -X DELETE https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Lediga%20jobb \
+  -H "Authorization: Bearer keyHbd3ja5QEm4pVa" \
+  -G \
+  --data-urlencode 'records[]=rectrtOkWY1N8zGQA'
+  
+
+
+
+
+Create:
+curl -v -X POST https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Individuell%20matchning \
+  -H "Authorization: Bearer keyHbd3ja5QEm4pVa" \
+  -H "Content-Type: application/json" \
+  --data '{
+  "records": [
+    {
+      "fields": {
+        "Name": "Siri Adamo",
+        "Yrke": "Sjuksköterska",
+        "Titel": "Psykiatrisjuksköterska med teamledaruppdrag",
+        "Arbetsgivare": "OnePartnerGroup Jämtland AB",
+        "Sista ansökningsdatum": "2021-01-22"
+      }
+    }
+  ]
+  }'
+
+curl -v -X POST https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Individuell%20matchning -H "Authorization: Bearer keyHbd3ja5QEm4pVa" -H "Content-Type: application/json" --data '{"records": [{"fields": {"Name": "Siri Adamo","Yrke": "Sjuksköterska","Titel": "Psykiatrisjuksköterska med teamledaruppdrag","Arbetsgivare": "OnePartnerGroup Jämtland AB","Sista ansökningsdatum": "2021-01-22"}}]}'
