@@ -22,7 +22,7 @@ def fetch_airtable(query):
         url_for_search = url_for_search + '=' + str(query)
 
     # query = 'Sundsvall'
-    limit = 3     # 100 is max number of hits that can be returned.
+    limit = 30     # 100 is max number of hits that can be returned.
     # If there are more (which you find with 'limit' : 0 ) you have to use offset and multiple requests to get all ads
     search_params = {'limit': limit, 'offset': offset} #'': query, 
 
@@ -70,8 +70,36 @@ def fetch_airtable(query):
     print(total_recs)
 
 
+    data = {}
+    with open('../../dev/Jobmaking/Data/najj.csv') as csvFile:
+        csvFileReader = csv.DictReader(csvFile)
+        next(csvFileReader)
+        for rows in csvFileReader:
+            id = rows[0]
+            data[id] = rows
+
+    with open('../../dev/Jobmaking/Data/najj.json', 'w') as jsonFile:
+        jsonFile.write(json.dumps(data, indent=4))
+
+
+
 query = 0
-fetch_airtable(query)
+# fetch_airtable(query)
+
+
+data = {}
+with open('Data/najj.csv', newline='') as csvFile:
+    csvFileReader = csv.DictReader(csvFile)
+    next(csvFileReader)
+    for rows in csvFileReader:
+        # print (rows)
+        # print(rows['ID'])
+        id = rows['ID']
+        data[id] = rows
+
+with open('Data/najj.json', 'w') as jsonFile:
+    jsonFile.write(json.dumps(data, indent=4))
+
 
 
 # #curl https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Arbetss%C3%B6kande -H "Authorization: Bearer keyHbd3ja5QEm4pVa" -d '{"sort": [ { "User_ID": "desc" } ] } '
