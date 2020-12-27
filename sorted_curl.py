@@ -96,7 +96,7 @@ def fetch_airtable(query):
     
     hits = json_response['records']
 
-    with open('../../dev/Jobmaking/Data/najj.csv', mode='w') as jobPath:
+    with open('../../dev/Jobmaking/Data/JobSeekers.csv', mode='w') as jobPath:
         employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         employee_writer.writerow(['ID', 'User_ID', 'Namn', 'Yrke','Beskrivning'])
         for hit in hits:
@@ -115,7 +115,7 @@ def fetch_airtable(query):
         
         hits = json_response['records']
 
-        with open('../../dev/Jobmaking/Data/najj.csv', mode='a+') as jobPath:
+        with open('../../dev/Jobmaking/Data/JobSeekers.csv', mode='a+') as jobPath:
             employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for hit in hits:
                 employee_writer.writerow([hit['id'], hit['fields']['User_ID'], hit['fields']['Namn'], hit['fields']['Yrke'], hit['fields']['Beskrivning'] ])
@@ -125,7 +125,7 @@ def fetch_airtable(query):
         else:
             offset = ''
 
-    converCSV2JSON('../../dev/Jobmaking/Data/najj.csv', '../../dev/Jobmaking/Data/JobSeekers.json')
+    converCSV2JSON('../../dev/Jobmaking/Data/JobSeekers.csv', '../../dev/Jobmaking/Data/JobSeekers.json')
 
 
 def fetch_airtableJOBS(query):
@@ -138,7 +138,7 @@ def fetch_airtableJOBS(query):
     json_response = json.loads(response.content.decode('utf8'))
     
     hits = json_response['records']
-    with open('../../dev/Jobmaking/Data/najj.csv', mode='w') as jobPath:
+    with open('../../dev/Jobmaking/Data/Lediga_jobb.csv', mode='w') as jobPath:
         employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         employee_writer.writerow(['ID', 'Job_ID', 'Titel', 'Yrke','Beskrivning', 'Ort', 'Arbetsgivare'])
         for hit in hits:
@@ -157,7 +157,7 @@ def fetch_airtableJOBS(query):
         
         hits = json_response['records']
 
-        with open('../../dev/Jobmaking/Data/najj.csv', mode='a+') as jobPath:
+        with open('../../dev/Jobmaking/Data/Lediga_jobb.csv', mode='a+') as jobPath:
             employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for hit in hits:
                 employee_writer.writerow([hit['id'], hit['fields']['Job_ID'], hit['fields']['Titel'], hit['fields']['Yrke'], hit['fields']['Beskrivning'], hit['fields']['Ort'], hit['fields']['Arbetsgivare'] ])
@@ -167,7 +167,7 @@ def fetch_airtableJOBS(query):
         else:
             offset = ''
 
-    converCSV2JSON('../../dev/Jobmaking/Data/najj.csv', '../../dev/Jobmaking/Data/Lediga_jobb.json')
+    converCSV2JSON('../../dev/Jobmaking/Data/Lediga_jobb.csv', '../../dev/Jobmaking/Data/Lediga_jobb.json')
 
 
 def fetch_airtableMATCHES(query):
@@ -180,7 +180,7 @@ def fetch_airtableMATCHES(query):
     json_response = json.loads(response.content.decode('utf8'))
     
     hits = json_response['records']
-    with open('../../dev/Jobmaking/Data/najj.csv', mode='w') as jobPath:
+    with open('../../dev/Jobmaking/Data/Matchning.csv', mode='w') as jobPath:
         employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         employee_writer.writerow(['ID', 'Name', 'Yrke', 'Annonstitel','Arbetsgivare', 'Sista ansökningsdatum'])
         for hit in hits:
@@ -199,7 +199,7 @@ def fetch_airtableMATCHES(query):
         
         hits = json_response['records']
 
-        with open('../../dev/Jobmaking/Data/najj.csv', mode='a+') as jobPath:
+        with open('../../dev/Jobmaking/Data/Matchning.csv', mode='a+') as jobPath:
             employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for hit in hits:
                 employee_writer.writerow([hit['id'], hit['fields']['Name'], hit['fields']['Yrke'], hit['fields']['Annonstitel'], hit['fields']['Arbetsgivare'], hit['fields']['Sista ansökningsdatum'] ])
@@ -209,11 +209,11 @@ def fetch_airtableMATCHES(query):
         else:
             offset = ''
 
-    converCSV2JSON('../../dev/Jobmaking/Data/najj.csv', '../../dev/Jobmaking/Data/Matchning.json')
+    converCSV2JSON('../../dev/Jobmaking/Data/Matchning.csv', '../../dev/Jobmaking/Data/Matchning.json')
 
 
 query = 0
-# fetch_airtable(query)
+fetch_airtable(query)
 fetch_airtableJOBS(query)
 fetch_airtableMATCHES(query)
 
