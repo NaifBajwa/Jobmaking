@@ -108,7 +108,7 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
         titel = ''
         Arbetsgivare = ''
         lastDate = ''
-        print("\nWe recommend ", ll, " jobs for ", userName, ":\n")
+        # print("\nWe recommend ", ll, " jobs for ", userName, ":\n")
         counter = 0
         for ratings in loved:
             if ( ml.getMovieName(ratings[0]) != '' and counter < 2):
