@@ -1,366 +1,366 @@
-{
-    "rec1tGZFIcQwvjrU7": {
+[
+    {
         "ID": "rec1tGZFIcQwvjrU7",
         "User_ID": "44",
         "Namn": "Lina Hansson",
         "Yrke": "Undersk\u00f6terska",
         "Beskrivning": "Bada -, Promenad -, Social -"
     },
-    "rec3c9aPZLWgsHREf": {
+    {
         "ID": "rec3c9aPZLWgsHREf",
         "User_ID": "15",
         "Namn": "Johan Olsson",
         "Yrke": "Lastbilsf\u00f6rare",
         "Beskrivning": "positiv -, serviceminded -"
     },
-    "rec4ZXLmJRn4C72Bq": {
+    {
         "ID": "rec4ZXLmJRn4C72Bq",
         "User_ID": "10",
         "Namn": "Erik Larsson",
         "Yrke": "L\u00e4rare i grundskolan",
         "Beskrivning": "Social -, positiv, pedagogisk -"
     },
-    "rec4mu5SN5ozgUePQ": {
+    {
         "ID": "rec4mu5SN5ozgUePQ",
         "User_ID": "3",
         "Namn": "Anders Karlsson",
         "Yrke": "Kundtj\u00e4nstmedarbetare",
         "Beskrivning": "Empatisk -, Noggrann -, Stresst\u00e5lig, Strukturerad -"
     },
-    "rec4zLkft41Xgi6Sx": {
+    {
         "ID": "rec4zLkft41Xgi6Sx",
         "User_ID": "24",
         "Namn": "Fatima Jama",
         "Yrke": "Personlig assistent",
         "Beskrivning": "Friskv\u00e5rd -, Promenad -, Social -, Empatisk -, sj\u00e4lvg\u00e5ende -"
     },
-    "rec50cxmv9FVhT95g": {
+    {
         "ID": "rec50cxmv9FVhT95g",
         "User_ID": "31",
         "Namn": "Mary Gibert",
         "Yrke": "Sjuksk\u00f6terska",
         "Beskrivning": "positiv -, Noggrann -, Snabb -, Ansvarstagande -, Stresst\u00e5lig -"
     },
-    "rec62NpyuHKZgsCyR": {
+    {
         "ID": "rec62NpyuHKZgsCyR",
         "User_ID": "16",
         "Namn": "karin Karlsson",
         "Yrke": "Lastbilsf\u00f6rare",
         "Beskrivning": "Flexibel -, positiv -"
     },
-    "rec6pWkG8budgWXzD": {
+    {
         "ID": "rec6pWkG8budgWXzD",
         "User_ID": "39",
         "Namn": "Thomas Svensson",
         "Yrke": "St\u00e4dare",
         "Beskrivning": "Promenad -, sj\u00e4lvg\u00e5ende -"
     },
-    "rec6qomqbyYtmWSb0": {
+    {
         "ID": "rec6qomqbyYtmWSb0",
         "User_ID": "40",
         "Namn": "Sara Olsson",
         "Yrke": "St\u00e4dare",
         "Beskrivning": "Arbetsam -, Snabb -, Stresst\u00e5lig -"
     },
-    "recARoG6Ojz1CvGjZ": {
+    {
         "ID": "recARoG6Ojz1CvGjZ",
         "User_ID": "50",
         "Namn": "Owen Sten",
         "Yrke": "Utvecklare",
         "Beskrivning": "Social -, Flexibel -, kreativ -"
     },
-    "recAobT0R1vuOb8mJ": {
+    {
         "ID": "recAobT0R1vuOb8mJ",
         "User_ID": "43",
         "Namn": "Janne Marks",
         "Yrke": "Undersk\u00f6terska",
         "Beskrivning": "Friskv\u00e5rd -, Promenad -, Empatisk -"
     },
-    "recEmzaiRtQFja4ax": {
+    {
         "ID": "recEmzaiRtQFja4ax",
         "User_ID": "19",
         "Namn": "Mikael Nilsson",
         "Yrke": "M\u00e4klare",
         "Beskrivning": "positiv -, Analytisk -, Kommunikativ -, Strukturerad -"
     },
-    "recG8aQyxq9ixeqmS": {
+    {
         "ID": "recG8aQyxq9ixeqmS",
         "User_ID": "38",
         "Namn": "Mikael Persson",
         "Yrke": "St\u00e4dare",
         "Beskrivning": "Bada -, Flexibel -, Arbetsam -"
     },
-    "recGZkk4WRq8eljjh": {
+    {
         "ID": "recGZkk4WRq8eljjh",
         "User_ID": "14",
         "Namn": "Karin Johansson ",
         "Yrke": "Lastbilsf\u00f6rare",
         "Beskrivning": "Promenad -, Ansvarstagande -"
     },
-    "recHfYtLOhErTztHO": {
+    {
         "ID": "recHfYtLOhErTztHO",
         "User_ID": "7",
         "Namn": "Annie Neither",
         "Yrke": "K\u00f6ksbitr\u00e4de",
         "Beskrivning": "Fotboll -, Social -, Flexibel -, Arbetsam -, Stresst\u00e5lig -, Analytisk -"
     },
-    "recHraO2CIc8qyyLo": {
+    {
         "ID": "recHraO2CIc8qyyLo",
         "User_ID": "46",
         "Namn": "Lo Andersson",
         "Yrke": "Undersk\u00f6terska",
         "Beskrivning": "Social -, Flexibel -, positiv -"
     },
-    "recIQ9yzhdL2YUoZ5": {
+    {
         "ID": "recIQ9yzhdL2YUoZ5",
         "User_ID": "35",
         "Namn": "Emma Nilsson",
         "Yrke": "Snickare",
         "Beskrivning": "Noggrann -, Arbetsam -, Snabb -, Strukturerad -"
     },
-    "recJ6JSJqk6OM3mTs": {
+    {
         "ID": "recJ6JSJqk6OM3mTs",
         "User_ID": "13",
         "Namn": "Irma Johansson",
         "Yrke": "L\u00e4rare i grundskolan",
         "Beskrivning": "Promenad -, Social -, Flexibel -, pedagogisk -"
     },
-    "recJAc2N8RAhHXTRQ": {
+    {
         "ID": "recJAc2N8RAhHXTRQ",
         "User_ID": "4",
         "Namn": "Ahmed Farah",
         "Yrke": "L\u00e4kare",
         "Beskrivning": "Friskv\u00e5rd -, Social -, Snabb -, Stresst\u00e5lig -, Analytisk -, sj\u00e4lvg\u00e5ende -"
     },
-    "recJf9ntErTom2V1B": {
+    {
         "ID": "recJf9ntErTom2V1B",
         "User_ID": "9",
         "Namn": "Eva Johansson",
         "Yrke": "L\u00e4rare i grundskolan",
         "Beskrivning": "Promenad -, Empatisk -, Arbetsam -, Ansvarstagande, pedagogisk -"
     },
-    "recLRWjgRKfXxu12I": {
+    {
         "ID": "recLRWjgRKfXxu12I",
         "User_ID": "22",
         "Namn": "Anders Karlsson",
         "Yrke": "Personlig assistent",
         "Beskrivning": "Bada -, Social -, Empatisk -, Ansvarstagande -"
     },
-    "recN7ivkKiJUraj1l": {
+    {
         "ID": "recN7ivkKiJUraj1l",
         "User_ID": "34",
         "Namn": "Anna Andersson",
         "Yrke": "Snickare",
         "Beskrivning": "Promenad -, Social -, Flexibel -, Snabb -"
     },
-    "recOKc1Zi7X1HfU0Z": {
+    {
         "ID": "recOKc1Zi7X1HfU0Z",
         "User_ID": "49",
         "Namn": "Sarah Najaf",
         "Yrke": "Utvecklare",
         "Beskrivning": "Flexibel -, positiv -, Noggrann -, Analytisk -"
     },
-    "recOffGi6ynPuAExK": {
+    {
         "ID": "recOffGi6ynPuAExK",
         "User_ID": "18",
         "Namn": "Jan Andersson",
         "Yrke": "M\u00e4klare",
         "Beskrivning": "Bada -, Social -, Flexibel -, positiv, Strukturerad, sj\u00e4lvg\u00e5ende -"
     },
-    "recPg2WNnpAeIv78A": {
+    {
         "ID": "recPg2WNnpAeIv78A",
         "User_ID": "21",
         "Namn": "Lars Svensson ",
         "Yrke": "Operat\u00f6r",
         "Beskrivning": "Fotboll -, Snabb -, Strukturerad -, sj\u00e4lvg\u00e5ende -"
     },
-    "recPmvjd6vSIb5Nkh": {
+    {
         "ID": "recPmvjd6vSIb5Nkh",
         "User_ID": "36",
         "Namn": "Ingrid Larsson",
         "Yrke": "Snickare",
         "Beskrivning": "Social -, Snabb -, sj\u00e4lvg\u00e5ende -"
     },
-    "recSqQ9sA7BIjNX5J": {
+    {
         "ID": "recSqQ9sA7BIjNX5J",
         "User_ID": "48",
         "Namn": "Fatima Mohair",
         "Yrke": "Undersk\u00f6terska",
         "Beskrivning": "Empatisk -, Flexibel -, positiv -"
     },
-    "recVY9B5CxDy74Ye5": {
+    {
         "ID": "recVY9B5CxDy74Ye5",
         "User_ID": "52",
         "Namn": "Lai Koh",
         "Yrke": "Utvecklare",
         "Beskrivning": "Flexibel -, positiv -, Analytisk -, Strukturerad -"
     },
-    "recWUZLQcY72aKpAi": {
+    {
         "ID": "recWUZLQcY72aKpAi",
         "User_ID": "42",
         "Namn": "Leah Olsson",
         "Yrke": "St\u00e4dare",
         "Beskrivning": "Friskv\u00e5rd -, Promenad -, sj\u00e4lvg\u00e5ende -"
     },
-    "recXpgj9ZILN16Ti5": {
+    {
         "ID": "recXpgj9ZILN16Ti5",
         "User_ID": "32",
         "Namn": "Adam Mark",
         "Yrke": "Sjuksk\u00f6terska",
         "Beskrivning": "Promenad -, Empatisk -, Flexibel -, Analytisk -, sj\u00e4lvg\u00e5ende -"
     },
-    "recY7UEmtHNKi19KM": {
+    {
         "ID": "recY7UEmtHNKi19KM",
         "User_ID": "47",
         "Namn": "Glen Johansson",
         "Yrke": "Undersk\u00f6terska",
         "Beskrivning": "Empatisk -, Flexibel -, positiv -"
     },
-    "recYZYrnxfmWd31ui": {
+    {
         "ID": "recYZYrnxfmWd31ui",
         "User_ID": "12",
         "Namn": "Anna Helin",
         "Yrke": "L\u00e4rare i grundskolan",
         "Beskrivning": "Flexibel -, positiv -, Arbetsam -, pedagogisk -, kreativ -"
     },
-    "recZJ5oQ7fIUFduRr": {
+    {
         "ID": "recZJ5oQ7fIUFduRr",
         "User_ID": "17",
         "Namn": "Maria Olsson",
         "Yrke": "Lastbilsf\u00f6rare",
         "Beskrivning": "Bada -, Friskv\u00e5rd -, sj\u00e4lvg\u00e5ende -, serviceminded -"
     },
-    "reca5vlOmRnyHqkQk": {
+    {
         "ID": "reca5vlOmRnyHqkQk",
         "User_ID": "41",
         "Namn": "Lars Karlsson",
         "Yrke": "St\u00e4dare",
         "Beskrivning": "Bada -, Social -, Analytisk -"
     },
-    "recaaZdyBB5xnjbnd": {
+    {
         "ID": "recaaZdyBB5xnjbnd",
         "User_ID": "11",
         "Namn": "Ali Ramalah",
         "Yrke": "L\u00e4rare i grundskolan",
         "Beskrivning": "Social -, Empatisk -, pedagogisk -"
     },
-    "recbMgt2x4n5guFeI": {
+    {
         "ID": "recbMgt2x4n5guFeI",
         "User_ID": "28",
         "Namn": "Peter Eriksson",
         "Yrke": "Sjuksk\u00f6terska",
         "Beskrivning": "Promenad -, positiv -, Stresst\u00e5lig -, Strukturerad -"
     },
-    "recdvfpQwWrveGPyk": {
+    {
         "ID": "recdvfpQwWrveGPyk",
         "User_ID": "5",
         "Namn": "Ola Manfred",
         "Yrke": "Kock",
         "Beskrivning": "Friskv\u00e5rd -, Social -, Ansvarstagande -, Analytisk -"
     },
-    "recfHET00Ir9OBFPB": {
+    {
         "ID": "recfHET00Ir9OBFPB",
         "User_ID": "1",
         "Namn": "Per Gustafsson",
         "Yrke": "Bussf\u00f6rare",
         "Beskrivning": "positiv -, Ansvarstagande, Kommunikativ, serviceminded -"
     },
-    "recgdpWbziObIfNGS": {
+    {
         "ID": "recgdpWbziObIfNGS",
         "User_ID": "20",
         "Namn": "Kristina Nilsson",
         "Yrke": "Operat\u00f6r",
         "Beskrivning": "Social -, Arbetsam -, Stresst\u00e5lig -"
     },
-    "reci6NOL1LV32vUSa": {
+    {
         "ID": "reci6NOL1LV32vUSa",
         "User_ID": "45",
         "Namn": "Rakel Alsm",
         "Yrke": "Undersk\u00f6terska",
         "Beskrivning": "Friskv\u00e5rd -, Snabb -, Ansvarstagande -"
     },
-    "reclsfmol1qWcjgcn": {
+    {
         "ID": "reclsfmol1qWcjgcn",
         "User_ID": "29",
         "Namn": "Ursula Bengtsson",
         "Yrke": "Sjuksk\u00f6terska",
         "Beskrivning": "Bada -, Promenad -, Stresst\u00e5lig -"
     },
-    "recmPTWemHWEqeT4y": {
+    {
         "ID": "recmPTWemHWEqeT4y",
         "User_ID": "27",
         "Namn": "Mimmi Maryan",
         "Yrke": "Personlig assistent",
         "Beskrivning": "Empatisk -, Flexibel -, positiv -"
     },
-    "recoGlwOBgDDSPPRr": {
+    {
         "ID": "recoGlwOBgDDSPPRr",
         "User_ID": "53",
         "Namn": "Najeem Lawal",
         "Yrke": "Developer",
         "Beskrivning": "Cool guy"
     },
-    "recqgBZDCtTgaEGe1": {
+    {
         "ID": "recqgBZDCtTgaEGe1",
         "User_ID": "37",
         "Namn": "Hassan Jama",
         "Yrke": "Snickare",
         "Beskrivning": "Social -, Strukturerad -, sj\u00e4lvg\u00e5ende -, serviceminded -"
     },
-    "recr4kE2m29OE4pep": {
+    {
         "ID": "recr4kE2m29OE4pep",
         "User_ID": "30",
         "Namn": "Siri Adamo",
         "Yrke": "Sjuksk\u00f6terska",
         "Beskrivning": "Social -, Empatisk -, Analytisk -, Kommunikativ -"
     },
-    "recsgaPUl0SHv6NQ6": {
+    {
         "ID": "recsgaPUl0SHv6NQ6",
         "User_ID": "6",
         "Namn": "Sara Kimball",
         "Yrke": "Butiksbitr\u00e4de",
         "Beskrivning": "Bada -, Social -, Empatisk -"
     },
-    "recvAZpr6OGlkdDW2": {
+    {
         "ID": "recvAZpr6OGlkdDW2",
         "User_ID": "33",
         "Namn": "Sofia Said ",
         "Yrke": "Sjuksk\u00f6terska",
         "Beskrivning": "positiv -, Arbetsam -, Snabb -"
     },
-    "recvW5Hhw9azqQONl": {
+    {
         "ID": "recvW5Hhw9azqQONl",
         "User_ID": "2",
         "Namn": "Lena Andersson ",
         "Yrke": "S\u00e4ljare",
         "Beskrivning": "Friskv\u00e5rd -, Promenad -, Empatisk -, Noggrann -, Ansvarstagande -, Stresst\u00e5lig -"
     },
-    "recwaI4Ee3z4jGKKB": {
+    {
         "ID": "recwaI4Ee3z4jGKKB",
         "User_ID": "51",
         "Namn": "Jason Mole",
         "Yrke": "Utvecklare",
         "Beskrivning": "Analytisk -, sj\u00e4lvg\u00e5ende -, kreativ -"
     },
-    "recyd5LNR1BRdBggo": {
+    {
         "ID": "recyd5LNR1BRdBggo",
         "User_ID": "23",
         "Namn": "Maria Nilsson",
         "Yrke": "Personlig assistent",
         "Beskrivning": "Fotboll -, Friskv\u00e5rd -, Social -, positiv -, Stresst\u00e5lig -"
     },
-    "recyoHjwsLSMsMCOf": {
+    {
         "ID": "recyoHjwsLSMsMCOf",
         "User_ID": "8",
         "Namn": "Mark Heja",
         "Yrke": "L\u00e4rare i grundskolan",
         "Beskrivning": "Promenad -, Social -, Empatisk -, Analytisk -"
     },
-    "reczDAoM4pDc9xX7e": {
+    {
         "ID": "reczDAoM4pDc9xX7e",
         "User_ID": "25",
         "Namn": "Andreas Holo",
         "Yrke": "Personlig assistent",
         "Beskrivning": "Friskv\u00e5rd -, Promenad -, Empatisk -, sj\u00e4lvg\u00e5ende -"
     }
-}
+]

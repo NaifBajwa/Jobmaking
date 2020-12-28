@@ -1,5 +1,5 @@
-{
-    "rec0C9NggYzcIb6oL": {
+[
+    {
         "ID": "rec0C9NggYzcIb6oL",
         "Job_ID": "24410337",
         "Titel": "Sjuksk\u00f6terskor till Ortopedavdelningen, \u00d6stersunds sjukhus",
@@ -8,7 +8,7 @@
         "Ort": "Omr\u00e5de Ortopedi",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec0GuO2YzEatK0kW": {
+    {
         "ID": "rec0GuO2YzEatK0kW",
         "Job_ID": "24412222",
         "Titel": "Sjuksk\u00f6terska, sommarvikariat, Kirurgens akutv\u00e5rdsavdelning KAVA, Sundsvall",
@@ -17,7 +17,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec0JMwPVwEX5NSpe": {
+    {
         "ID": "rec0JMwPVwEX5NSpe",
         "Job_ID": "24404012",
         "Titel": "Sjuksk\u00f6terska till kirurgavdelning i \u00d6rnsk\u00f6ldsvik!",
@@ -26,7 +26,7 @@
         "Ort": "Centric Care AB",
         "Arbetsgivare": "Centric Care AB"
     },
-    "rec0NyvbNgLycQRwi": {
+    {
         "ID": "rec0NyvbNgLycQRwi",
         "Job_ID": "24438570",
         "Titel": "Undersk\u00f6terska, sommarvikariat, IVA, Sundsvall",
@@ -35,7 +35,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec0V8BVNHteYtHYF": {
+    {
         "ID": "rec0V8BVNHteYtHYF",
         "Job_ID": "24437383",
         "Titel": "Sjuksk\u00f6terska till strokeavdelning",
@@ -44,7 +44,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "rec0Z2NB4mZJTShVq": {
+    {
         "ID": "rec0Z2NB4mZJTShVq",
         "Job_ID": "24403824",
         "Titel": "Butikss\u00e4ljare till kund i Sundsvall",
@@ -53,7 +53,7 @@
         "Ort": "StudentConsulting",
         "Arbetsgivare": "Studentconsulting Sweden AB (Publ)"
     },
-    "rec0glrNLFCTzltK0": {
+    {
         "ID": "rec0glrNLFCTzltK0",
         "Job_ID": "24441452",
         "Titel": "ST-l\u00e4kare till Kvinnosjukv\u00e5rden, \u00d6stersunds sjukhus",
@@ -62,7 +62,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Kvinna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec0jc7ndEeClxw7O": {
+    {
         "ID": "rec0jc7ndEeClxw7O",
         "Job_ID": "24445652",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -71,7 +71,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "rec0r4JXCmi7CcZ4u": {
+    {
         "ID": "rec0r4JXCmi7CcZ4u",
         "Job_ID": "24411259",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6r bemanningsuppdrag 2021 ",
@@ -80,7 +80,7 @@
         "Ort": "Viva Bemanning - Sundsvall",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "rec0yvmcD6tPKDPRo": {
+    {
         "ID": "rec0yvmcD6tPKDPRo",
         "Job_ID": "24449142",
         "Titel": "Erfaren kommunikationsstrateg inkl. h\u00e4rliga kollegor* ",
@@ -89,7 +89,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Kommunikationsavdelningen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec187Yz7KmrzGfHN": {
+    {
         "ID": "rec187Yz7KmrzGfHN",
         "Job_ID": "24435189",
         "Titel": "L\u00e4rare \u00e5k 4-6",
@@ -98,7 +98,7 @@
         "Ort": "Barn och utbildning, B\u00f6le skola",
         "Arbetsgivare": "Timr\u00e5 kommun"
     },
-    "rec19PCbVaHbNmpP1": {
+    {
         "ID": "rec19PCbVaHbNmpP1",
         "Job_ID": "24434854",
         "Titel": "Personlig assistent i \u00d6rnsk\u00f6ldsvik",
@@ -107,7 +107,7 @@
         "Ort": "Rehabassistans AB",
         "Arbetsgivare": "Inre Kraft i Norr AB"
     },
-    "rec1HgLpjRtROlzcL": {
+    {
         "ID": "rec1HgLpjRtROlzcL",
         "Job_ID": "24426993",
         "Titel": "Kvinnliga personliga assistenter \u00e5t en ung man i Sollefte\u00e5",
@@ -116,7 +116,7 @@
         "Ort": "Livsam Personlig Assistans AB",
         "Arbetsgivare": "Livsam Personlig Assistans AB"
     },
-    "rec1QQjkmcrA1XPK9": {
+    {
         "ID": "rec1QQjkmcrA1XPK9",
         "Job_ID": "24426908",
         "Titel": "Biomedicinsk analytiker, semestervikariat \u00d6rnsk\u00f6ldsvik",
@@ -125,7 +125,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec1U8p1ud2qSTxIS": {
+    {
         "ID": "rec1U8p1ud2qSTxIS",
         "Job_ID": "24393317",
         "Titel": "R\u00e5domsg\u00e5rden AB s\u00f6ker undersk\u00f6terska natt",
@@ -134,7 +134,7 @@
         "Ort": "R\u00e5domsg\u00e5rden AB",
         "Arbetsgivare": "R\u00e5domsg\u00e5rden AB"
     },
-    "rec1a9sn1sahVDnop": {
+    {
         "ID": "rec1a9sn1sahVDnop",
         "Job_ID": "24434395",
         "Titel": "Sjuksk\u00f6terska till Dialysmottagningen, \u00d6rnsk\u00f6ldsvik",
@@ -143,7 +143,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec1aKUTaanmJB947": {
+    {
         "ID": "rec1aKUTaanmJB947",
         "Job_ID": "24448705",
         "Titel": "HR-strateg med chefsansvar",
@@ -152,7 +152,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, HR och L\u00f6neservice",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec1bUlS7jL1aci3E": {
+    {
         "ID": "rec1bUlS7jL1aci3E",
         "Job_ID": "24431276",
         "Titel": "S\u00f6ker Sushi Kock",
@@ -161,7 +161,7 @@
         "Ort": "Ayan Sushi AB",
         "Arbetsgivare": "Ayan Sushi AB"
     },
-    "rec1fouoZdcBK10gZ": {
+    {
         "ID": "rec1fouoZdcBK10gZ",
         "Job_ID": "24240726",
         "Titel": "Specialistl\u00e4kare i allm\u00e4nmedicin till H\u00e4lsocentralerna i \u00c5dalenomr\u00e5det",
@@ -170,7 +170,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec1gDBadfzg7JgV2": {
+    {
         "ID": "rec1gDBadfzg7JgV2",
         "Job_ID": "24429045",
         "Titel": "Specialistl\u00e4kare L\u00e4nsverksamhet Psykiatri, H\u00e4rn\u00f6sand",
@@ -179,7 +179,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec1lvG0BkRabG337": {
+    {
         "ID": "rec1lvG0BkRabG337",
         "Job_ID": "24435509",
         "Titel": "\u00d6verl\u00e4kare/ST-l\u00e4kare inom V\u00e5rdhygien, Region JH",
@@ -188,7 +188,7 @@
         "Ort": "Omr\u00e5de Patients\u00e4kerhet",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec1nOQnSYBfixiVh": {
+    {
         "ID": "rec1nOQnSYBfixiVh",
         "Job_ID": "24327554",
         "Titel": "Vi v\u00e4lkomnar vikarier till ambulanssjukv\u00e5rden sommaren 2021!",
@@ -197,7 +197,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec1r7FcPCTQgAtzC": {
+    {
         "ID": "rec1r7FcPCTQgAtzC",
         "Job_ID": "24433549",
         "Titel": "Nya kollegor till Com Hem/Boxers s\u00e4ljande kundtj\u00e4nst i \u00d6stersund",
@@ -206,7 +206,7 @@
         "Ort": "Webhelp Sweden AB",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "rec1rcm0xiKAhs8TT": {
+    {
         "ID": "rec1rcm0xiKAhs8TT",
         "Job_ID": "24440586",
         "Titel": "S\u00e4ljare p\u00e5 distans #jobbjustnu",
@@ -215,7 +215,7 @@
         "Ort": "KS",
         "Arbetsgivare": "Eco Skydd Sverige AB"
     },
-    "rec1sW6tUR0m14OyV": {
+    {
         "ID": "rec1sW6tUR0m14OyV",
         "Job_ID": "24437524",
         "Titel": "Sjuksk\u00f6terska till Kirurgisk v\u00e5rdavdelning",
@@ -224,7 +224,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "rec1sym7ozjrvozyc": {
+    {
         "ID": "rec1sym7ozjrvozyc",
         "Job_ID": "24445652",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -233,7 +233,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "rec1vHAwE7xk8LoYi": {
+    {
         "ID": "rec1vHAwE7xk8LoYi",
         "Job_ID": "24438099",
         "Titel": "Sjuksk\u00f6terska till Akutmottagningen, Sollefte\u00e5",
@@ -242,7 +242,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec1x7fHH1Q6DMvdq": {
+    {
         "ID": "rec1x7fHH1Q6DMvdq",
         "Job_ID": "24438293",
         "Titel": "Sjuksk\u00f6terskestudent? S\u00f6k v\u00e5r- och sommarjobb som undersk\u00f6terska!",
@@ -251,7 +251,7 @@
         "Ort": "V\u00e4lf\u00e4rdsf\u00f6rvaltningen, Avdelningen f\u00f6r H\u00e4lso och sjukv\u00e5rd",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "rec21WuF6XHOgoI4G": {
+    {
         "ID": "rec21WuF6XHOgoI4G",
         "Job_ID": "24443327",
         "Titel": "Sjuksk\u00f6terska v\u00e4lkomnas till neonatalavdelningen sommaren 2021!",
@@ -260,7 +260,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec27KbFkjYyj97BM": {
+    {
         "ID": "rec27KbFkjYyj97BM",
         "Job_ID": "24412304",
         "Titel": "Undersk\u00f6terska, sommarvikariat, BB/F\u00f6rlossning avd 12, Sundsvall",
@@ -269,7 +269,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec2Gyv01JylRNrLF": {
+    {
         "ID": "rec2Gyv01JylRNrLF",
         "Job_ID": "24398121",
         "Titel": "Sjuksk\u00f6terskor till Kirurgavdelning 15A, Sundsvall",
@@ -278,7 +278,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec2JsawF3d0toYDF": {
+    {
         "ID": "rec2JsawF3d0toYDF",
         "Job_ID": "24426579",
         "Titel": "Sjuksk\u00f6terska/barnsjuksk\u00f6terska/IVA-sjuksk\u00f6terska till SSIH barn, Sundsvall",
@@ -287,7 +287,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec2MMiTfosKPDxIm": {
+    {
         "ID": "rec2MMiTfosKPDxIm",
         "Job_ID": "24427422",
         "Titel": "Sveriges b\u00e4sta undersk\u00f6terska",
@@ -296,7 +296,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "rec2YEbzHXazWdruW": {
+    {
         "ID": "rec2YEbzHXazWdruW",
         "Job_ID": "24397178",
         "Titel": "S\u00e4ljare till Timr\u00e5",
@@ -305,7 +305,7 @@
         "Ort": "Verisure Sales Sverige AB",
         "Arbetsgivare": "Verisure Sverige AB"
     },
-    "rec2lqwZ8HIfTBMiB": {
+    {
         "ID": "rec2lqwZ8HIfTBMiB",
         "Job_ID": "24449136",
         "Titel": "S\u00e4ljande kundtj\u00e4nstmedarbetare till Bonnier!",
@@ -314,7 +314,7 @@
         "Ort": "Webhelp Sweden",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "rec2wFaFMhFUBH2nc": {
+    {
         "ID": "rec2wFaFMhFUBH2nc",
         "Job_ID": "24401906",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Landskrona. Fast l\u00f6n plus provision",
@@ -323,7 +323,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "rec2xkDGmFLY7A3vY": {
+    {
         "ID": "rec2xkDGmFLY7A3vY",
         "Job_ID": "24414508",
         "Titel": "MSB Sand\u00f6 s\u00f6ker l\u00e4rare",
@@ -332,7 +332,7 @@
         "Ort": "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap",
         "Arbetsgivare": "Myndigheten F\u00f6r Samh\u00e4llsskydd och Beredskap (Msb"
     },
-    "rec33YmHeSn6qkk3M": {
+    {
         "ID": "rec33YmHeSn6qkk3M",
         "Job_ID": "24436819",
         "Titel": "Socionom/Beteendevetare till Socialtj\u00e4nstens \u00f6ppenv\u00e5rdsteam",
@@ -341,7 +341,7 @@
         "Ort": "Br\u00e4cke kommun, Sociala avdelningen",
         "Arbetsgivare": "Br\u00e4cke kommun"
     },
-    "rec37Wqih36k5ZKqg": {
+    {
         "ID": "rec37Wqih36k5ZKqg",
         "Job_ID": "24422509",
         "Titel": "AnnSam s\u00f6ker Sjuksk\u00f6terskor! V\u00e4lbetalda uppdrag i G\u00e4vle och Hudiksvall!",
@@ -350,7 +350,7 @@
         "Ort": "AnnSam - Sundsvall",
         "Arbetsgivare": "Annsam AB"
     },
-    "rec39jH3HEVNkB4aR": {
+    {
         "ID": "rec39jH3HEVNkB4aR",
         "Job_ID": "24415825",
         "Titel": "T\u00e4vlingsm\u00e4nniska? Abonnenta s\u00f6ker taggade Events\u00e4ljare!",
@@ -359,7 +359,7 @@
         "Ort": "Abonnenta AB",
         "Arbetsgivare": "A 95 Consulting AB"
     },
-    "rec3SaE1NlgwZcSGQ": {
+    {
         "ID": "rec3SaE1NlgwZcSGQ",
         "Job_ID": "24419082",
         "Titel": "Personlig assistent s\u00f6kes till kille i \u00d6stersund!",
@@ -368,7 +368,7 @@
         "Ort": "Humana AB",
         "Arbetsgivare": "Humana AB"
     },
-    "rec3TKX9F5BtgJeK1": {
+    {
         "ID": "rec3TKX9F5BtgJeK1",
         "Job_ID": "24429604",
         "Titel": "Dedicare s\u00f6ker undersk\u00f6terskor till V\u00e4sternorrland",
@@ -377,7 +377,7 @@
         "Ort": "Dedicare AB",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "rec3TdJNUYWPfNMqj": {
+    {
         "ID": "rec3TdJNUYWPfNMqj",
         "Job_ID": "24440675",
         "Titel": "S\u00e4ljare p\u00e5 distans #jobbjustnu",
@@ -386,7 +386,7 @@
         "Ort": "KS",
         "Arbetsgivare": "Eco Skydd Sverige AB"
     },
-    "rec3bgbAfwYQvRJqS": {
+    {
         "ID": "rec3bgbAfwYQvRJqS",
         "Job_ID": "24414952",
         "Titel": "Klara s\u00f6ker sjuksk\u00f6terskor till v\u00e5rdavdelning i Sundsvall",
@@ -395,7 +395,7 @@
         "Ort": "Klara D AB",
         "Arbetsgivare": "Klara D AB"
     },
-    "rec3jLcQagH8y1wdp": {
+    {
         "ID": "rec3jLcQagH8y1wdp",
         "Job_ID": "24414764",
         "Titel": "M\u00f6jligg\u00f6rande assistent till kvinna med Retts syndrom s\u00f6kes p\u00e5 fast sche...",
@@ -404,7 +404,7 @@
         "Ort": "Lystra personlig assistans",
         "Arbetsgivare": "Lystra Personlig Assistans AB"
     },
-    "rec3smFM52Hj4u5Ti": {
+    {
         "ID": "rec3smFM52Hj4u5Ti",
         "Job_ID": "24450560",
         "Titel": "Socionom/Kurator till Omr\u00e5de Psykiatri \u00d6ppenv\u00e5rd",
@@ -413,7 +413,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Psykiatri",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec3trNfSMwhgFPB1": {
+    {
         "ID": "rec3trNfSMwhgFPB1",
         "Job_ID": "24423834",
         "Titel": "Sjuksk\u00f6terska till kirurgavdelning i Sundsvall",
@@ -422,7 +422,7 @@
         "Ort": "Ofelia V\u00e5rd AB",
         "Arbetsgivare": "Ofelia V\u00e5rd AB"
     },
-    "rec3umwyOEPn7CPFk": {
+    {
         "ID": "rec3umwyOEPn7CPFk",
         "Job_ID": "24428223",
         "Titel": "PERSONLIGA ASSISTENTER TILL UNG MAN MED AUTISM",
@@ -431,7 +431,7 @@
         "Ort": "Jengla Omsorg AB",
         "Arbetsgivare": "Jengla Omsorg AB"
     },
-    "rec3wn9KYvK9B3Mdz": {
+    {
         "ID": "rec3wn9KYvK9B3Mdz",
         "Job_ID": "24429304",
         "Titel": "Erfaren .NET-utvecklare som motiveras av lagarbete",
@@ -440,7 +440,7 @@
         "Ort": "Sopra Steria",
         "Arbetsgivare": "Sopra Steria Sweden AB"
     },
-    "rec46kQCVSECbMpj4": {
+    {
         "ID": "rec46kQCVSECbMpj4",
         "Job_ID": "24441510",
         "Titel": "System developer to inhouse team in \u00d6rnsk\u00f6ldsvik",
@@ -449,7 +449,7 @@
         "Ort": "Knightec",
         "Arbetsgivare": "Knightec AB"
     },
-    "rec4E94sncTvHCsko": {
+    {
         "ID": "rec4E94sncTvHCsko",
         "Job_ID": "24391099",
         "Titel": "Bemanningsundersk\u00f6terska i Sundsvall",
@@ -458,7 +458,7 @@
         "Ort": "PersonalExpressen",
         "Arbetsgivare": "PersonalExpressen AB"
     },
-    "rec4IxtGuNeUN8U1j": {
+    {
         "ID": "rec4IxtGuNeUN8U1j",
         "Job_ID": "24427591",
         "Titel": "Distriktsl\u00e4kare till Lugnviks v\u00e4lbemannade h\u00e4lsocentral",
@@ -467,7 +467,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec4XvCL903vxRs61": {
+    {
         "ID": "rec4XvCL903vxRs61",
         "Job_ID": "24435796",
         "Titel": "Undersk\u00f6terska till Kirurgisk akutv\u00e5rdsavdelning i Sundsvall",
@@ -476,7 +476,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec4gJlbINvLPcvgE": {
+    {
         "ID": "rec4gJlbINvLPcvgE",
         "Job_ID": "24446651",
         "Titel": "Systemf\u00f6rvaltare",
@@ -485,7 +485,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec4uvIJ3dn0lTlLE": {
+    {
         "ID": "rec4uvIJ3dn0lTlLE",
         "Job_ID": "24424028",
         "Titel": "Personlig Assistent, (Bj\u00e4sta)",
@@ -494,7 +494,7 @@
         "Ort": "ENKV",
         "Arbetsgivare": "Enkv Assistans AB"
     },
-    "rec58EwhLgkSkvtN8": {
+    {
         "ID": "rec58EwhLgkSkvtN8",
         "Job_ID": "24428655",
         "Titel": "Sjuksk\u00f6terska till Infektionsavdelningen",
@@ -503,7 +503,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Infektion",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec5M4Bd5t97kS9bQ": {
+    {
         "ID": "rec5M4Bd5t97kS9bQ",
         "Job_ID": "24430306",
         "Titel": "Sjuksk\u00f6terska till kommande vaccinationsuppdrag",
@@ -512,7 +512,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "rec5Nb6GV6zHlL6Qu": {
+    {
         "ID": "rec5Nb6GV6zHlL6Qu",
         "Job_ID": "24440125",
         "Titel": "Sommarjobb inom Folktandv\u00e5rden V\u00e4sternorrland",
@@ -521,7 +521,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec5TZnPfFU2omZsO": {
+    {
         "ID": "rec5TZnPfFU2omZsO",
         "Job_ID": "24397262",
         "Titel": "Sjuksk\u00f6terskor",
@@ -530,7 +530,7 @@
         "Ort": "Sundsvalls kommun",
         "Arbetsgivare": "Sveda & V\u00e4rk"
     },
-    "rec5oGWljyPqfyrsV": {
+    {
         "ID": "rec5oGWljyPqfyrsV",
         "Job_ID": "24450237",
         "Titel": "Administrat\u00f6r / Support / 2nd line support",
@@ -539,7 +539,7 @@
         "Ort": "Bravura",
         "Arbetsgivare": "Bravura Sverige AB"
     },
-    "rec5qOkECrDzPWaZW": {
+    {
         "ID": "rec5qOkECrDzPWaZW",
         "Job_ID": "24420299",
         "Titel": "Akutmottagningen p\u00e5 \u00d6stersunds sjukhus s\u00f6ker bitr\u00e4dande enhetschef",
@@ -548,7 +548,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec5sEzHlSV3GSZ9G": {
+    {
         "ID": "rec5sEzHlSV3GSZ9G",
         "Job_ID": "24434725",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes till  akutmotttagning Sundsvalls sjuhus",
@@ -557,7 +557,7 @@
         "Ort": "Prime Care AB",
         "Arbetsgivare": "Prime Care & Professional AB"
     },
-    "rec60XXS6mUg6mJxy": {
+    {
         "ID": "rec60XXS6mUg6mJxy",
         "Job_ID": "24442702",
         "Titel": "Vi s\u00f6ker undersk\u00f6terskor till \u00d6stersunds H\u00e4lsocentraler",
@@ -566,7 +566,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec67ZTwwvVUbAqjd": {
+    {
         "ID": "rec67ZTwwvVUbAqjd",
         "Job_ID": "24437683",
         "Titel": "Vi v\u00e4lkomnar sjuksk\u00f6terskor till akutmottagningen!",
@@ -575,7 +575,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec6FDHmY3Ke4v9tB": {
+    {
         "ID": "rec6FDHmY3Ke4v9tB",
         "Job_ID": "24435819",
         "Titel": "Almia s\u00f6ker sjuksk\u00f6terska till strokeavdelningen i \u00d6stersund under vintern",
@@ -584,7 +584,7 @@
         "Ort": "Almia Bemanning",
         "Arbetsgivare": "Almia AB"
     },
-    "rec6L0kgKeMsvvcpc": {
+    {
         "ID": "rec6L0kgKeMsvvcpc",
         "Job_ID": "24395401",
         "Titel": "Fr\u00f6s\u00f6 H\u00e4lsocentral s\u00f6ker distriktsl\u00e4kare med intresse f\u00f6r N\u00e4ra V\u00e5rd",
@@ -593,7 +593,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec6NrC8tD5V0RSn6": {
+    {
         "ID": "rec6NrC8tD5V0RSn6",
         "Job_ID": "24438881",
         "Titel": "Vikarier s\u00f6kes! Vi s\u00f6ker personlig assistent till 7-\u00e5rig tjej. 2064",
@@ -602,7 +602,7 @@
         "Ort": "STORSJ\u00d6BYGDENS PERSONLIGA ASSISTANS AB",
         "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB"
     },
-    "rec6VeMEsH7SwZctc": {
+    {
         "ID": "rec6VeMEsH7SwZctc",
         "Job_ID": "24387312",
         "Titel": "Lokalv\u00e5rdare",
@@ -611,7 +611,7 @@
         "Ort": "Veterankraft AB",
         "Arbetsgivare": "Veterankraft AB"
     },
-    "rec6XTVfP9YTNKTxJ": {
+    {
         "ID": "rec6XTVfP9YTNKTxJ",
         "Job_ID": "24438118",
         "Titel": "Sjuksk\u00f6terska till Akutmottagningen, Sollefte\u00e5",
@@ -620,7 +620,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec6eujHKYRZ9kZiL": {
+    {
         "ID": "rec6eujHKYRZ9kZiL",
         "Job_ID": "24342958",
         "Titel": "Systemutvecklare till v\u00e5ra agila team",
@@ -629,7 +629,7 @@
         "Ort": "Skatteverket, IT/ST\u00d6D, It-avdelningen",
         "Arbetsgivare": "Skatteverket"
     },
-    "rec6hvV0URLTdmkAO": {
+    {
         "ID": "rec6hvV0URLTdmkAO",
         "Job_ID": "24401912",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i H\u00f6rby. Fast l\u00f6n plus provision",
@@ -638,7 +638,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "rec6kNwLa8c4kyDgW": {
+    {
         "ID": "rec6kNwLa8c4kyDgW",
         "Job_ID": "24439141",
         "Titel": "Vill du g\u00f6ra skillnad och hj\u00e4lpa 1000-tals f\u00f6retag p\u00e5 Internet?",
@@ -647,7 +647,7 @@
         "Ort": "Webbkonsulterna i J\u00e4mtland AB",
         "Arbetsgivare": "Webbkonsulterna i J\u00e4mtland AB"
     },
-    "rec6lHne4aiLXpOZf": {
+    {
         "ID": "rec6lHne4aiLXpOZf",
         "Job_ID": "24442878",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -656,7 +656,7 @@
         "Ort": "Viva Bemanning - \u00d6rnsk\u00f6ldsvik",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "rec6nyGxk2dJnLrY0": {
+    {
         "ID": "rec6nyGxk2dJnLrY0",
         "Job_ID": "24437830",
         "Titel": "\u00d6verl\u00e4kare inom Reumatologi till L\u00e4karenheten Medicin, Sollefte\u00e5",
@@ -665,7 +665,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec6qsfFa7HZM2l5O": {
+    {
         "ID": "rec6qsfFa7HZM2l5O",
         "Job_ID": "24282979",
         "Titel": "Ambulanssjukv\u00e5rden V\u00e4sternorrland s\u00f6ker sjuksk\u00f6terskor till vikariat",
@@ -674,7 +674,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec6yPCKACDg6JGmi": {
+    {
         "ID": "rec6yPCKACDg6JGmi",
         "Job_ID": "24401801",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Alings\u00e5s. Fast l\u00f6n plus provision",
@@ -683,7 +683,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "rec6ygpWon9WIVIKB": {
+    {
         "ID": "rec6ygpWon9WIVIKB",
         "Job_ID": "24435636",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6rr kommunuppdrag",
@@ -692,7 +692,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "rec7CGzsD3wbVGjAd": {
+    {
         "ID": "rec7CGzsD3wbVGjAd",
         "Job_ID": "24427416",
         "Titel": "Sveriges b\u00e4sta undersk\u00f6terska",
@@ -701,7 +701,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "rec7PoA3IF982KSL9": {
+    {
         "ID": "rec7PoA3IF982KSL9",
         "Job_ID": "24406761",
         "Titel": "Du som vill g\u00f6ra skillnad ! Jobb som personlig assistent.",
@@ -710,7 +710,7 @@
         "Ort": "Helsa Omsorg & Bemanning i Norden AB",
         "Arbetsgivare": "Helsa Omsorg & Bemanning i Norden AB"
     },
-    "rec7RRUrBMKWM7yO0": {
+    {
         "ID": "rec7RRUrBMKWM7yO0",
         "Job_ID": "24383477",
         "Titel": "Erfaren kock till nya italienaren Basta p\u00e5 Stora Torget i Sundsvall",
@@ -719,7 +719,7 @@
         "Ort": "Basta",
         "Arbetsgivare": "Restaurang Basta Falun AB"
     },
-    "rec7fTX7QRxBKGNdx": {
+    {
         "ID": "rec7fTX7QRxBKGNdx",
         "Job_ID": "24439951",
         "Titel": "F\u00f6rs\u00e4ljare med ledningsgruppsansvar till \u00d6stersund, Lill\u00e4nge",
@@ -728,7 +728,7 @@
         "Ort": "Systembolaget AB",
         "Arbetsgivare": "Systembolaget AB"
     },
-    "rec7hvndQBgmj2KqA": {
+    {
         "ID": "rec7hvndQBgmj2KqA",
         "Job_ID": "24417970",
         "Titel": "Snickare till Klingsta Hus & Modul AB",
@@ -737,7 +737,7 @@
         "Ort": "Adecco Sweden AB",
         "Arbetsgivare": "Adecco Sweden AB"
     },
-    "rec7wscjQXdGlJUfD": {
+    {
         "ID": "rec7wscjQXdGlJUfD",
         "Job_ID": "24443563",
         "Titel": "BUP v\u00e4lkomnar en socionom med psykoterapiutbildning till mottagning",
@@ -746,7 +746,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och unga vuxna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec7zAHWAQGJ2vdlL": {
+    {
         "ID": "rec7zAHWAQGJ2vdlL",
         "Job_ID": "24430468",
         "Titel": "Utvecklare till Softronic ",
@@ -755,7 +755,7 @@
         "Ort": "Professionals Nord Rekrytering AB",
         "Arbetsgivare": "Professionals Nord Rekrytering AB"
     },
-    "rec828SuiQMpuZOKw": {
+    {
         "ID": "rec828SuiQMpuZOKw",
         "Job_ID": "24432676",
         "Titel": "Specialistl\u00e4kare till sm\u00e4rtenheten i \u00d6stersund",
@@ -764,7 +764,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Hj\u00e4rta, neurologi och rehabilitering",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec8Du1C9crpHXKsM": {
+    {
         "ID": "rec8Du1C9crpHXKsM",
         "Job_ID": "24441954",
         "Titel": "Kundtj\u00e4nstmedarbetare p\u00e5 Kreta",
@@ -773,7 +773,7 @@
         "Ort": "Otiga Stockholm AB",
         "Arbetsgivare": "Otiga Stockholm AB"
     },
-    "rec8OGU2IFDVhUmtP": {
+    {
         "ID": "rec8OGU2IFDVhUmtP",
         "Job_ID": "24447810",
         "Titel": "\u00d6stersundshem s\u00f6ker en Byggprojektledare med inriktning installationsteknik",
@@ -782,7 +782,7 @@
         "Ort": "\u00d6stersundshem",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "rec8OsxBoooUw54sw": {
+    {
         "ID": "rec8OsxBoooUw54sw",
         "Job_ID": "24438447",
         "Titel": "Sk\u00f6tare sommarvikariat R\u00e4ttspsykiatriska Regionkliniken, Sundsvall",
@@ -791,7 +791,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec8RXGN9Bf4fh1XJ": {
+    {
         "ID": "rec8RXGN9Bf4fh1XJ",
         "Job_ID": "24443051",
         "Titel": "Vik undersk\u00f6terska v\u00e4lkomnas till intensivv\u00e5rdsavdelningen!",
@@ -800,7 +800,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec8jWnMQTfsZwGJb": {
+    {
         "ID": "rec8jWnMQTfsZwGJb",
         "Job_ID": "24402406",
         "Titel": "Personlig assistent till en omt\u00e4nksam tjej bosatt i Bredbyn",
@@ -809,7 +809,7 @@
         "Ort": "Kura Omsorg",
         "Arbetsgivare": "Kura Omsorg i Sverige AB"
     },
-    "rec8xbY4LsxkQdefe": {
+    {
         "ID": "rec8xbY4LsxkQdefe",
         "Job_ID": "24401850",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Trelleborg. Fast l\u00f6n plus provision",
@@ -818,7 +818,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "rec912whUoOEW6Ndc": {
+    {
         "ID": "rec912whUoOEW6Ndc",
         "Job_ID": "24446157",
         "Titel": "En individual- och en familjebehandlare till IKB teamet vid BUP",
@@ -827,7 +827,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och unga vuxna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec92LXaH2PspYeAT": {
+    {
         "ID": "rec92LXaH2PspYeAT",
         "Job_ID": "24438118",
         "Titel": "Sjuksk\u00f6terska till Akutmottagningen, Sollefte\u00e5",
@@ -836,7 +836,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec9M7eJaO2r5zKVc": {
+    {
         "ID": "rec9M7eJaO2r5zKVc",
         "Job_ID": "24440451",
         "Titel": "Vi s\u00f6ker tv\u00e5 undersk\u00f6terskor till Fun\u00e4sdalens & Svegs H\u00e4lsocentraler",
@@ -845,7 +845,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec9UxumArhONbEvN": {
+    {
         "ID": "rec9UxumArhONbEvN",
         "Job_ID": "24437859",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes till strokeavdelning, \u00d6stersund",
@@ -854,7 +854,7 @@
         "Ort": "Ofelia V\u00e5rd AB",
         "Arbetsgivare": "Ofelia V\u00e5rd AB"
     },
-    "rec9XO92I0LoH75s1": {
+    {
         "ID": "rec9XO92I0LoH75s1",
         "Job_ID": "24415867",
         "Titel": "Undersk\u00f6terska f\u00f6r sommarvikariat till Akutmottagningen, Sundsvall",
@@ -863,7 +863,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rec9ZXKxAIUsuH2vG": {
+    {
         "ID": "rec9ZXKxAIUsuH2vG",
         "Job_ID": "24401761",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i \u00d6stersund. Fast l\u00f6n plus provision",
@@ -872,7 +872,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "rec9gznQk2D0YZAel": {
+    {
         "ID": "rec9gznQk2D0YZAel",
         "Job_ID": "24437317",
         "Titel": "L\u00e4rare \u00e5k 4-6 Mariedalsskolan",
@@ -881,7 +881,7 @@
         "Ort": "Barn och utbildning, Mariedals skola",
         "Arbetsgivare": "Timr\u00e5 kommun"
     },
-    "rec9hZnyj2mRE74xK": {
+    {
         "ID": "rec9hZnyj2mRE74xK",
         "Job_ID": "24403365",
         "Titel": "Objektsspecialist O365 till samordningskansliet i \u00d6stersund",
@@ -890,7 +890,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Regionstaben",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec9hzw9mAJehG2H1": {
+    {
         "ID": "rec9hzw9mAJehG2H1",
         "Job_ID": "24447305",
         "Titel": "Driven s\u00e4ljare till Bonnier News Local i Sundsvall",
@@ -899,7 +899,7 @@
         "Ort": "Amendo ",
         "Arbetsgivare": "Amendo Bemanning & Rekrytering AB"
     },
-    "rec9iUZRfYROX0KxR": {
+    {
         "ID": "rec9iUZRfYROX0KxR",
         "Job_ID": "24404951",
         "Titel": "Norrland beh\u00f6ver leg.sjuksk\u00f6terskor i vinter/v\u00e5r",
@@ -908,7 +908,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "rec9jEbZ0qYihZizE": {
+    {
         "ID": "rec9jEbZ0qYihZizE",
         "Job_ID": "24441845",
         "Titel": "Dansktalande Teknisk Support/Kundservice",
@@ -917,7 +917,7 @@
         "Ort": "H1 Communication AB",
         "Arbetsgivare": "H1 Communication AB"
     },
-    "rec9lerMzIMwhFAvw": {
+    {
         "ID": "rec9lerMzIMwhFAvw",
         "Job_ID": "24433558",
         "Titel": "Nya kollegor till Com Hem/Boxers s\u00e4ljande kundtj\u00e4nst i \u00d6stersund",
@@ -926,7 +926,7 @@
         "Ort": "Webhelp Sweden AB",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "rec9oGDnWIGvaVmYt": {
+    {
         "ID": "rec9oGDnWIGvaVmYt",
         "Job_ID": "24443179",
         "Titel": "Vill du jobba som undersk\u00f6terska p\u00e5 IVA sommaren 2021? ",
@@ -935,7 +935,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rec9phLEUtqlVSSZR": {
+    {
         "ID": "rec9phLEUtqlVSSZR",
         "Job_ID": "24421890",
         "Titel": "Sjuksk\u00f6terskor till strokeavdelning v.02-11",
@@ -944,7 +944,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recA8TtPQ6Evdddvu": {
+    {
         "ID": "recA8TtPQ6Evdddvu",
         "Job_ID": "24373575",
         "Titel": "Studierektor f\u00f6r AT-l\u00e4kare Prim\u00e4rv\u00e5rd Sundsvall-H\u00e4rn\u00f6sand",
@@ -953,7 +953,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recA9NjzgJWKvqJHe": {
+    {
         "ID": "recA9NjzgJWKvqJHe",
         "Job_ID": "24401964",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Kungsbacka. Fast l\u00f6n plus provision",
@@ -962,7 +962,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recAHRHEWceQmIj4K": {
+    {
         "ID": "recAHRHEWceQmIj4K",
         "Job_ID": "24445798",
         "Titel": "Personlig assistent p\u00e5 50% till 4,5 \u00e5rig flicka i J\u00e4rna, S\u00f6dert\u00e4lje ",
@@ -971,7 +971,7 @@
         "Ort": "Kooperativet Hand i Hand ekonomisk f\u00f6rening",
         "Arbetsgivare": "Kooperativet Hand i Hand Ekonomisk F\u00f6ren"
     },
-    "recAQDwxiWiC3ARBC": {
+    {
         "ID": "recAQDwxiWiC3ARBC",
         "Job_ID": "24439136",
         "Titel": "Sveriges B\u00e4sta L\u00e4kare S\u00f6kes",
@@ -980,7 +980,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recAXJDK2TXwGD9yF": {
+    {
         "ID": "recAXJDK2TXwGD9yF",
         "Job_ID": "24422193",
         "Titel": "Barnsjuksk\u00f6terska/Sjuksk\u00f6terska till Barnmottagningen, Sundsvall",
@@ -989,7 +989,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recAZP6lk8Vq5RY7A": {
+    {
         "ID": "recAZP6lk8Vq5RY7A",
         "Job_ID": "24443051",
         "Titel": "Vik undersk\u00f6terska v\u00e4lkomnas till intensivv\u00e5rdsavdelningen!",
@@ -998,7 +998,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recAccLkwHcPRBWyt": {
+    {
         "ID": "recAccLkwHcPRBWyt",
         "Job_ID": "24448724",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -1007,7 +1007,7 @@
         "Ort": "Viva Bemanning - Matfors",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recAju2dpUIdkwvAt": {
+    {
         "ID": "recAju2dpUIdkwvAt",
         "Job_ID": "24401702",
         "Titel": "Undersk\u00f6terska till Svegs h\u00e4lsocentral  ",
@@ -1016,7 +1016,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recAw8tVShhc5sPvL": {
+    {
         "ID": "recAw8tVShhc5sPvL",
         "Job_ID": "24402011",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Markaryd. Fast l\u00f6n plus provision",
@@ -1025,7 +1025,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recAwVrMGM0qtcQrw": {
+    {
         "ID": "recAwVrMGM0qtcQrw",
         "Job_ID": "24316837",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Str\u00f6msund f\u00f6r antikroppstestning av Covid-19",
@@ -1034,7 +1034,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recAwv1PHuTlYxF83": {
+    {
         "ID": "recAwv1PHuTlYxF83",
         "Job_ID": "24448663",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -1043,7 +1043,7 @@
         "Ort": "Viva Bemanning - Sollefte\u00e5",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recAymU1ZRiSpEVVb": {
+    {
         "ID": "recAymU1ZRiSpEVVb",
         "Job_ID": "24437233",
         "Titel": "Senior Software Engineer with focus on Optimization and AI",
@@ -1052,7 +1052,7 @@
         "Ort": "Lifesize \u00d6stersund",
         "Arbetsgivare": "Loxysoft WFM AB"
     },
-    "recB7Swu8RV4wzPcD": {
+    {
         "ID": "recB7Swu8RV4wzPcD",
         "Job_ID": "24449069",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -1061,7 +1061,7 @@
         "Ort": "Viva Bemanning - Kramfors",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recBOd0w4cXExH3mb": {
+    {
         "ID": "recBOd0w4cXExH3mb",
         "Job_ID": "24437623",
         "Titel": "Undersk\u00f6terska, sommarvikariat, Specialistv\u00e5rdsmottagning, Sollefte\u00e5",
@@ -1070,7 +1070,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recBXLFPc853ClQ2T": {
+    {
         "ID": "recBXLFPc853ClQ2T",
         "Job_ID": "24430066",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -1079,7 +1079,7 @@
         "Ort": "Sollefte\u00e5 ",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recBeR8AYFJMCBPQM": {
+    {
         "ID": "recBeR8AYFJMCBPQM",
         "Job_ID": "24408652",
         "Titel": "Kundtj\u00e4nstmedarbetare",
@@ -1088,7 +1088,7 @@
         "Ort": "Energihem i Sverige AB",
         "Arbetsgivare": "Energihem i Sverige AB"
     },
-    "recBh2quhd8MqGL6j": {
+    {
         "ID": "recBh2quhd8MqGL6j",
         "Job_ID": "24438447",
         "Titel": "Sk\u00f6tare sommarvikariat R\u00e4ttspsykiatriska Regionkliniken, Sundsvall",
@@ -1097,7 +1097,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recC3n9PcYBIOj2Gk": {
+    {
         "ID": "recC3n9PcYBIOj2Gk",
         "Job_ID": "24381502",
         "Titel": "Veterin\u00e4r till Distriktsveterin\u00e4rerna i V\u00e4sternorrland",
@@ -1106,7 +1106,7 @@
         "Ort": "Jordbruksverket, Distriktsveterin\u00e4rerna Region Nord",
         "Arbetsgivare": "Statens Jordbruksverk"
     },
-    "recC8pzM3NwGTdLD2": {
+    {
         "ID": "recC8pzM3NwGTdLD2",
         "Job_ID": "24417459",
         "Titel": "Undersk\u00f6terska sommarvikariat Kardiologen avd 16 och GNR avd 17, Sollefte\u00e5",
@@ -1115,7 +1115,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recCC2qbVHRMW1H1f": {
+    {
         "ID": "recCC2qbVHRMW1H1f",
         "Job_ID": "24434547",
         "Titel": "Sjuksk\u00f6terska Specialist Psykiatriskt Omv\u00e5rdnads Team, \u00d6rnsk\u00f6ldsvik",
@@ -1124,7 +1124,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recCJYxwFcaCTVzaz": {
+    {
         "ID": "recCJYxwFcaCTVzaz",
         "Job_ID": "24419400",
         "Titel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
@@ -1133,7 +1133,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "recCVYay5yUraE7wT": {
+    {
         "ID": "recCVYay5yUraE7wT",
         "Job_ID": "24426635",
         "Titel": "Speciall\u00e4rare till Bobergsgymnasiet",
@@ -1142,7 +1142,7 @@
         "Ort": "\u00c5nge kommun",
         "Arbetsgivare": "\u00c5nge kommun"
     },
-    "recCkxNvONwe5elsu": {
+    {
         "ID": "recCkxNvONwe5elsu",
         "Job_ID": "24441452",
         "Titel": "ST-l\u00e4kare till Kvinnosjukv\u00e5rden, \u00d6stersunds sjukhus",
@@ -1151,7 +1151,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Kvinna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recCnqvaLCcLGIqzh": {
+    {
         "ID": "recCnqvaLCcLGIqzh",
         "Job_ID": "24411810",
         "Titel": "Farmaceut till L\u00e4kemedelsenheten, Region V\u00e4sternorrland",
@@ -1160,7 +1160,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recCo4RF9cACIw8FF": {
+    {
         "ID": "recCo4RF9cACIw8FF",
         "Job_ID": "24401957",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i H\u00f6\u00f6r. Fast l\u00f6n plus provision",
@@ -1169,7 +1169,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recCqbGDipRHky0Vg": {
+    {
         "ID": "recCqbGDipRHky0Vg",
         "Job_ID": "24436153",
         "Titel": "\u00d6verl\u00e4kare till \u00d6NH V\u00e4sternorrland",
@@ -1178,7 +1178,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recCtDK9tzndoMf2B": {
+    {
         "ID": "recCtDK9tzndoMf2B",
         "Job_ID": "24419716",
         "Titel": "Undersk\u00f6terskor v\u00e4lkomnas till akutmottagningen sommaren 2021!",
@@ -1187,7 +1187,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recCtaK5yGrzABRNX": {
+    {
         "ID": "recCtaK5yGrzABRNX",
         "Job_ID": "24417547",
         "Titel": "Sjuksk\u00f6terska till Kirurgmottagningen, Sundsvall",
@@ -1196,7 +1196,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recCzU869ZNDYuuVN": {
+    {
         "ID": "recCzU869ZNDYuuVN",
         "Job_ID": "24390004",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Sveg f\u00f6r antikroppstestning av Covid-19",
@@ -1205,7 +1205,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recD9cFY0Kq49WIAn": {
+    {
         "ID": "recD9cFY0Kq49WIAn",
         "Job_ID": "24448370",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -1214,7 +1214,7 @@
         "Ort": "Viva Bemanning - Sundsvall",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recDAPhkB5pPl56ae": {
+    {
         "ID": "recDAPhkB5pPl56ae",
         "Job_ID": "24420224",
         "Titel": "Sjuksk\u00f6terska till Onkologi avd 13, Sundsvall",
@@ -1223,7 +1223,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recDDIHVXQoSkd4au": {
+    {
         "ID": "recDDIHVXQoSkd4au",
         "Job_ID": "24417435",
         "Titel": "Sjuksk\u00f6terska sommarvikariat Kardiologen avd 16 och GNR avd 17, Sollefte\u00e5",
@@ -1232,7 +1232,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recDHqvti5LpOzZlN": {
+    {
         "ID": "recDHqvti5LpOzZlN",
         "Job_ID": "24276221",
         "Titel": "Hamrestugan Duved/\u00c5re s\u00f6ker f\u00f6rst\u00e4rkning till k\u00f6ket inf\u00f6r vintern",
@@ -1241,7 +1241,7 @@
         "Ort": "Hamrestugan Burgers & Beer",
         "Arbetsgivare": "WMM Gastronomi AB"
     },
-    "recDjmD9n3KVbt4JJ": {
+    {
         "ID": "recDjmD9n3KVbt4JJ",
         "Job_ID": "24420555",
         "Titel": "S\u00e4ljare till Berners i Sundsvall",
@@ -1250,7 +1250,7 @@
         "Ort": "Stegra Rekrytering AB",
         "Arbetsgivare": "Stegra Rekrytering AB"
     },
-    "recDo5rl4jPsvCbd9": {
+    {
         "ID": "recDo5rl4jPsvCbd9",
         "Job_ID": "24435258",
         "Titel": "Utvecklare/\u201dJunior Developer\u201d",
@@ -1259,7 +1259,7 @@
         "Ort": "Iron Mountain/Recall Sweden AB (\u00d6stersund)",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recDpgI4dJgYMj9cP": {
+    {
         "ID": "recDpgI4dJgYMj9cP",
         "Job_ID": "24432288",
         "Titel": "R\u00f6ntgensjuksk\u00f6terska till R\u00f6ntgenmottagningen, Sollefte\u00e5",
@@ -1268,7 +1268,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recDs9urdrIgy5HzO": {
+    {
         "ID": "recDs9urdrIgy5HzO",
         "Job_ID": "24429979",
         "Titel": "Sjuksk\u00f6terska till Akutmottagningen, \u00d6rnsk\u00f6ldsvik",
@@ -1277,7 +1277,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recDz5MtmHH78y2U7": {
+    {
         "ID": "recDz5MtmHH78y2U7",
         "Job_ID": "24425417",
         "Titel": "Sjuksk\u00f6terskor",
@@ -1286,7 +1286,7 @@
         "Ort": "Br\u00e4cke kommun, V\u00e5rd- och omsorgsavdelningen",
         "Arbetsgivare": "Br\u00e4cke kommun"
     },
-    "recE51pBmcPoj7zBu": {
+    {
         "ID": "recE51pBmcPoj7zBu",
         "Job_ID": "24395950",
         "Titel": "Sjuksk\u00f6terskor till \u00e4ldreomsorgen i J\u00e4mtland!",
@@ -1295,7 +1295,7 @@
         "Ort": "Stellacura AB",
         "Arbetsgivare": "StellaCura AB"
     },
-    "recEF8wAwJAunvPQO": {
+    {
         "ID": "recEF8wAwJAunvPQO",
         "Job_ID": "24439141",
         "Titel": "Vill du g\u00f6ra skillnad och hj\u00e4lpa 1000-tals f\u00f6retag p\u00e5 Internet?",
@@ -1304,7 +1304,7 @@
         "Ort": "Webbkonsulterna i J\u00e4mtland AB",
         "Arbetsgivare": "Webbkonsulterna i J\u00e4mtland AB"
     },
-    "recEL7U248pB2w1C5": {
+    {
         "ID": "recEL7U248pB2w1C5",
         "Job_ID": "24424194",
         "Titel": "Personlig assistent f\u00f6r extrajobb s\u00f6kes till kvinna utanf\u00f6r \u00d6stersund!",
@@ -1313,7 +1313,7 @@
         "Ort": "Humana AB",
         "Arbetsgivare": "Humana AB"
     },
-    "recEV44LUQSC3auFQ": {
+    {
         "ID": "recEV44LUQSC3auFQ",
         "Job_ID": "24424210",
         "Titel": "Kock till Kostenheten",
@@ -1322,7 +1322,7 @@
         "Ort": "H\u00e4rn\u00f6sands Kommun",
         "Arbetsgivare": "H\u00e4rn\u00f6sands kommun"
     },
-    "recEa34tTwMMrpG8I": {
+    {
         "ID": "recEa34tTwMMrpG8I",
         "Job_ID": "24334393",
         "Titel": "Distansl\u00e4rare till Arena Utbildning",
@@ -1331,7 +1331,7 @@
         "Ort": "Arena Utbildning \u00d6stersund",
         "Arbetsgivare": "Svensk V\u00e5rd & Kompetensutveckling i Stockholm AB"
     },
-    "recEc6iyo0nzDDHAL": {
+    {
         "ID": "recEc6iyo0nzDDHAL",
         "Job_ID": "24427396",
         "Titel": "ST-l\u00e4kare geriatrik Sundsvall",
@@ -1340,7 +1340,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recEl7hwiOFtVKNRV": {
+    {
         "ID": "recEl7hwiOFtVKNRV",
         "Job_ID": "24420371",
         "Titel": "Verksamhetsanalytiker, Region V\u00e4sternorrland",
@@ -1349,7 +1349,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recErUq3H6vcf2HKn": {
+    {
         "ID": "recErUq3H6vcf2HKn",
         "Job_ID": "24433983",
         "Titel": "Samverkanskoordinator till Kommunf\u00f6rbundet V\u00e4sternorrland",
@@ -1358,7 +1358,7 @@
         "Ort": "Randstad",
         "Arbetsgivare": "Randstad AB"
     },
-    "recEugrGMQeiPSIa8": {
+    {
         "ID": "recEugrGMQeiPSIa8",
         "Job_ID": "24415952",
         "Titel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
@@ -1367,7 +1367,7 @@
         "Ort": "Nordic Bemanning & Rekrytering Norr AB",
         "Arbetsgivare": "Nordic BR Norr AB"
     },
-    "recExBwQI1kkoDkco": {
+    {
         "ID": "recExBwQI1kkoDkco",
         "Job_ID": "24383329",
         "Titel": "Account manager   (distrikt Sthlm, Mitt-Nord) ",
@@ -1376,7 +1376,7 @@
         "Ort": "JURA SWEDEN AB",
         "Arbetsgivare": "Jura Sweden AB"
     },
-    "recEz5PSN7Rxhlzlk": {
+    {
         "ID": "recEz5PSN7Rxhlzlk",
         "Job_ID": "24405984",
         "Titel": "S\u00f6ker kockar till Tiki ",
@@ -1385,7 +1385,7 @@
         "Ort": "\u00d6stersund Multichallenge AB",
         "Arbetsgivare": "\u00d6stersund Multichallenge AB"
     },
-    "recF8dy1DiZwEDhl0": {
+    {
         "ID": "recF8dy1DiZwEDhl0",
         "Job_ID": "24429045",
         "Titel": "Specialistl\u00e4kare L\u00e4nsverksamhet Psykiatri, H\u00e4rn\u00f6sand",
@@ -1394,7 +1394,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recFA3dFPuu9k4mWO": {
+    {
         "ID": "recFA3dFPuu9k4mWO",
         "Job_ID": "24438544",
         "Titel": "Psykolog/ PTP psykolog till Vuxenpsykiatriska mottagningen, Sollefte\u00e5",
@@ -1403,7 +1403,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recFLlpbLcOSNq303": {
+    {
         "ID": "recFLlpbLcOSNq303",
         "Job_ID": "24445154",
         "Titel": "Vi s\u00f6ker nya kollegor till Com Hem/Boxers s\u00e4ljande kundtj\u00e4nst",
@@ -1412,7 +1412,7 @@
         "Ort": "Webhelp Sweden",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "recFVq9MPJjOE4pI5": {
+    {
         "ID": "recFVq9MPJjOE4pI5",
         "Job_ID": "24440189",
         "Titel": "Br\u00e4cke h\u00e4lsocentral s\u00f6ker en sjuksk\u00f6terska/distriktssk\u00f6terska",
@@ -1421,7 +1421,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recFakUTkT0D3P0jl": {
+    {
         "ID": "recFakUTkT0D3P0jl",
         "Job_ID": "24428372",
         "Titel": "Undersk\u00f6terskor s\u00f6kes till Sundsvall",
@@ -1430,7 +1430,7 @@
         "Ort": "Svea Work AB",
         "Arbetsgivare": "Svea Work AB"
     },
-    "recFcbsY3ILKKfRb3": {
+    {
         "ID": "recFcbsY3ILKKfRb3",
         "Job_ID": "24423333",
         "Titel": "St\u00f6dassistent",
@@ -1439,7 +1439,7 @@
         "Ort": "\u00d6stersunds kommun",
         "Arbetsgivare": "\u00d6stersunds kommun"
     },
-    "recFruYd6ZlfIGWyF": {
+    {
         "ID": "recFruYd6ZlfIGWyF",
         "Job_ID": "24450544",
         "Titel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
@@ -1448,7 +1448,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Psykiatri",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recFspzAY8atUXA33": {
+    {
         "ID": "recFspzAY8atUXA33",
         "Job_ID": "24434943",
         "Titel": "Nya kollegor till Com Hem/Boxers s\u00e4ljande kundtj\u00e4nst i \u00d6stersund",
@@ -1457,7 +1457,7 @@
         "Ort": "Webhelp Sweden AB",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "recFxbnonO4QaNs8t": {
+    {
         "ID": "recFxbnonO4QaNs8t",
         "Job_ID": "24411491",
         "Titel": "Vi s\u00f6ker administrativ assistent till N\u00c4VA - N\u00e4rv\u00e5rdsavdelning i Str\u00f6msund",
@@ -1466,7 +1466,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, N\u00c4VA (N\u00e4rv\u00e5rdsavdelning)",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recFyBvMWT6q2Pb3z": {
+    {
         "ID": "recFyBvMWT6q2Pb3z",
         "Job_ID": "24347857",
         "Titel": "C/C++ utvecklare till Cybercom \u00d6stersund",
@@ -1475,7 +1475,7 @@
         "Ort": "Cybercom Sweden & Denmark",
         "Arbetsgivare": "Cybercom Sweden AB"
     },
-    "recGA1aUGWYwLuPwF": {
+    {
         "ID": "recGA1aUGWYwLuPwF",
         "Job_ID": "24438415",
         "Titel": "Vill du utvecklas inom service och f\u00f6rs\u00e4ljning? S\u00f6k jobb inom kundtj\u00e4nst!",
@@ -1484,7 +1484,7 @@
         "Ort": "StudentConsulting",
         "Arbetsgivare": "Studentconsulting Sweden AB (Publ)"
     },
-    "recGDfiNOhjdeAeb6": {
+    {
         "ID": "recGDfiNOhjdeAeb6",
         "Job_ID": "24431363",
         "Titel": "Lyh\u00f6rd och engagerad Kundr\u00e5dgivare/Representant till Fonus \u00d6stersund",
@@ -1493,7 +1493,7 @@
         "Ort": "Fonus",
         "Arbetsgivare": "Fonus, Ekonomisk F\u00f6ren"
     },
-    "recGVGtnwj5Un5j2m": {
+    {
         "ID": "recGVGtnwj5Un5j2m",
         "Job_ID": "24446188",
         "Titel": "Kommunikat\u00f6r till Savedesk p\u00e5 Tele2",
@@ -1502,7 +1502,7 @@
         "Ort": "StudentConsulting",
         "Arbetsgivare": "Studentconsulting Sweden AB (Publ)"
     },
-    "recGVNHzwYM15ZymS": {
+    {
         "ID": "recGVNHzwYM15ZymS",
         "Job_ID": "24437921",
         "Titel": "L\u00e4rare i Svenska och Engelska",
@@ -1511,7 +1511,7 @@
         "Ort": "Nordic Recruitment Solutions AB",
         "Arbetsgivare": "Karri\u00e4ren Sverige AB"
     },
-    "recGgf5fRGUZ0HD0y": {
+    {
         "ID": "recGgf5fRGUZ0HD0y",
         "Job_ID": "24450544",
         "Titel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
@@ -1520,7 +1520,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Psykiatri",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recGgzBUhaReTmW8i": {
+    {
         "ID": "recGgzBUhaReTmW8i",
         "Job_ID": "24435537",
         "Titel": "Nu s\u00f6ker vi fastighetssk\u00f6tare",
@@ -1529,7 +1529,7 @@
         "Ort": "Onepartnergroup J\u00e4mtland AB",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recGjPJ43UiBbHbHo": {
+    {
         "ID": "recGjPJ43UiBbHbHo",
         "Job_ID": "24411824",
         "Titel": "Farmaceut till L\u00e4kemedelsenheten, Region V\u00e4sternorrland",
@@ -1538,7 +1538,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recGxa4v1iAny85It": {
+    {
         "ID": "recGxa4v1iAny85It",
         "Job_ID": "24409783",
         "Titel": "\u00d6verl\u00e4kare till l\u00e4nsverksamhet Kvinnosjukv\u00e5rd \u00d6rnsk\u00f6ldsvik",
@@ -1547,7 +1547,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recH19ZVjUw93yjiR": {
+    {
         "ID": "recH19ZVjUw93yjiR",
         "Job_ID": "24283053",
         "Titel": "Ambulanssjukv\u00e5rden V\u00e4sternorrland s\u00f6ker sjuksk\u00f6terskor till vikariat",
@@ -1556,7 +1556,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recH1oXMg3HvqBZDE": {
+    {
         "ID": "recH1oXMg3HvqBZDE",
         "Job_ID": "24409631",
         "Titel": "Sjuksk\u00f6terska till  Hematologi avd 2, Sundsvall",
@@ -1565,7 +1565,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recHD6UDp6FYbhsT3": {
+    {
         "ID": "recHD6UDp6FYbhsT3",
         "Job_ID": "24391125",
         "Titel": "Regionjurist alt. jurist till Region V\u00e4sternorrland",
@@ -1574,7 +1574,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recHEZfqraq7a3Lwb": {
+    {
         "ID": "recHEZfqraq7a3Lwb",
         "Job_ID": "24327554",
         "Titel": "Vi v\u00e4lkomnar vikarier till ambulanssjukv\u00e5rden sommaren 2021!",
@@ -1583,7 +1583,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recHT0DhSnlUV1o7k": {
+    {
         "ID": "recHT0DhSnlUV1o7k",
         "Job_ID": "24402120",
         "Titel": "S\u00e4ljare i Sundsvall med f\u00f6rbokade kundm\u00f6ten",
@@ -1592,7 +1592,7 @@
         "Ort": "Clean cloud AB",
         "Arbetsgivare": "Clean cloud AB"
     },
-    "recHhXIijcr0dKrdg": {
+    {
         "ID": "recHhXIijcr0dKrdg",
         "Job_ID": "24417348",
         "Titel": "Individ- och familjeomsorgen i Ragunda s\u00f6ker socionom 100 %",
@@ -1601,7 +1601,7 @@
         "Ort": "Ragunda kommun, IFO",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recHn6GotTDQdnH3a": {
+    {
         "ID": "recHn6GotTDQdnH3a",
         "Job_ID": "24445742",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -1610,7 +1610,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "recHoiHCyXVY0ehRR": {
+    {
         "ID": "recHoiHCyXVY0ehRR",
         "Job_ID": "24368675",
         "Titel": "Intresseanm\u00e4lan under Covid-19 f\u00f6r tillf\u00e4lligt arbete som undersk\u00f6terska",
@@ -1619,7 +1619,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recHuh46oag7f2Tgy": {
+    {
         "ID": "recHuh46oag7f2Tgy",
         "Job_ID": "24440680",
         "Titel": "S\u00e4ljare p\u00e5 distans #jobbjustnu",
@@ -1628,7 +1628,7 @@
         "Ort": "KS",
         "Arbetsgivare": "Eco Skydd Sverige AB"
     },
-    "recHzTICZaCJlDFFJ": {
+    {
         "ID": "recHzTICZaCJlDFFJ",
         "Job_ID": "24420662",
         "Titel": "S\u00e4ljare till Fazer",
@@ -1637,7 +1637,7 @@
         "Ort": "Adecco Sweden AB",
         "Arbetsgivare": "Adecco Sweden AB"
     },
-    "recI0cEWk10UeGwfY": {
+    {
         "ID": "recI0cEWk10UeGwfY",
         "Job_ID": "24445824",
         "Titel": "Specialistl\u00e4kare/\u00f6verl\u00e4kare till \u00c4lSa-team Sollefte\u00e5",
@@ -1646,7 +1646,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recI3sVYboCh3rsPD": {
+    {
         "ID": "recI3sVYboCh3rsPD",
         "Job_ID": "24202055",
         "Titel": "Kock",
@@ -1655,7 +1655,7 @@
         "Ort": "The Bishops Arms",
         "Arbetsgivare": "Bishop Scandinavia AB"
     },
-    "recI4snFWTNwvXJlJ": {
+    {
         "ID": "recI4snFWTNwvXJlJ",
         "Job_ID": "24431882",
         "Titel": "Projektledare/verksamhetsutvecklare till E-h\u00e4lsocentrum och IoT Sverige ",
@@ -1664,7 +1664,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Regionstaben",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recI9Kw8kCfV7HWEV": {
+    {
         "ID": "recI9Kw8kCfV7HWEV",
         "Job_ID": "24394871",
         "Titel": "Sjuksk\u00f6terskor till Ortopedavdelningen, \u00d6rnsk\u00f6ldsvik",
@@ -1673,7 +1673,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recIBN57Aj9DEr7C6": {
+    {
         "ID": "recIBN57Aj9DEr7C6",
         "Job_ID": "24412217",
         "Titel": "Undersk\u00f6terska, sommarvikariat, Kirurgisk akutv\u00e5rdsavdelning, Sundsvall",
@@ -1682,7 +1682,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recIGl3mcSFYAiz3b": {
+    {
         "ID": "recIGl3mcSFYAiz3b",
         "Job_ID": "24448068",
         "Titel": "Undersk\u00f6terska s\u00f6kes f\u00f6r v\u00e4lbetalda uppdrag! ",
@@ -1691,7 +1691,7 @@
         "Ort": "Viva Bemanning - Sundsvall",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recINTxCIoBBkkNTc": {
+    {
         "ID": "recINTxCIoBBkkNTc",
         "Job_ID": "24322585",
         "Titel": "Klima-Therm AB s\u00f6ker via LENZO en Teknisk S\u00e4ljare till Norra Sverige",
@@ -1700,7 +1700,7 @@
         "Ort": "Klima Therm AB",
         "Arbetsgivare": "LENZO Utveckling & Rekrytering AB"
     },
-    "recIQJmsgoxF69M5D": {
+    {
         "ID": "recIQJmsgoxF69M5D",
         "Job_ID": "24413989",
         "Titel": "Vi s\u00f6ker fantastiska assistenter som vill utvecklas med oss!",
@@ -1709,7 +1709,7 @@
         "Ort": "S\u00e4rnmark Assistans AB",
         "Arbetsgivare": "S\u00e4rnmark Assistans AB"
     },
-    "recIbl7khztndPWFJ": {
+    {
         "ID": "recIbl7khztndPWFJ",
         "Job_ID": "24450125",
         "Titel": "Kundtj\u00e4nstmedarbetare / Kundservice / Customer Support",
@@ -1718,7 +1718,7 @@
         "Ort": "Bravura",
         "Arbetsgivare": "Bravura Sverige AB"
     },
-    "recIopyamQi6mSHdd": {
+    {
         "ID": "recIopyamQi6mSHdd",
         "Job_ID": "24376192",
         "Titel": "Specialistl\u00e4kare till Barn- och ungdomspsykiatrisk verksamhet",
@@ -1727,7 +1727,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och unga vuxna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recIuJHLiZsZVZcSw": {
+    {
         "ID": "recIuJHLiZsZVZcSw",
         "Job_ID": "24437280",
         "Titel": "Psykolog till Neuropsykiatriska affektiva mottagningen, Sundsvall",
@@ -1736,7 +1736,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recIz9s7vybJUFy6V": {
+    {
         "ID": "recIz9s7vybJUFy6V",
         "Job_ID": "24414395",
         "Titel": "Serviceinriktad kundkoordinator till Tibnor!",
@@ -1745,7 +1745,7 @@
         "Ort": "Academic Work",
         "Arbetsgivare": "Academic Work Sweden AB"
     },
-    "recJ1y7q0mi3VlhY2": {
+    {
         "ID": "recJ1y7q0mi3VlhY2",
         "Job_ID": "24436042",
         "Titel": "Dags att ta n\u00e4sta steg inom javautveckling?",
@@ -1754,7 +1754,7 @@
         "Ort": "Alten Sverige AB",
         "Arbetsgivare": "Alten Sverige AB"
     },
-    "recJ4JPekruY8u4T5": {
+    {
         "ID": "recJ4JPekruY8u4T5",
         "Job_ID": "24445706",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -1763,7 +1763,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "recJ8dfhNxv4mg69Z": {
+    {
         "ID": "recJ8dfhNxv4mg69Z",
         "Job_ID": "24435258",
         "Titel": "Utvecklare/\u201dJunior Developer\u201d",
@@ -1772,7 +1772,7 @@
         "Ort": "Iron Mountain/Recall Sweden AB (\u00d6stersund)",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recJ9dynj2wi8Mw8E": {
+    {
         "ID": "recJ9dynj2wi8Mw8E",
         "Job_ID": "24411293",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6r bemanningsuppdrag 2021 ",
@@ -1781,7 +1781,7 @@
         "Ort": "Viva Bemanning - H\u00e4rn\u00f6sand",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recJPlRQEqxsIAjtg": {
+    {
         "ID": "recJPlRQEqxsIAjtg",
         "Job_ID": "24438099",
         "Titel": "Sjuksk\u00f6terska till Akutmottagningen, Sollefte\u00e5",
@@ -1790,7 +1790,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recJUjo80CTwNmrJ6": {
+    {
         "ID": "recJUjo80CTwNmrJ6",
         "Job_ID": "24391103",
         "Titel": "Regionjurist alt. jurist till Region V\u00e4sternorrland",
@@ -1799,7 +1799,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recJfVVrBk2VDhS2Y": {
+    {
         "ID": "recJfVVrBk2VDhS2Y",
         "Job_ID": "24388905",
         "Titel": "First line supportmedarbetare till Fujitsu",
@@ -1808,7 +1808,7 @@
         "Ort": "OnePartnerGroup J\u00e4mtland",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recJkl5BCHkmeeOTs": {
+    {
         "ID": "recJkl5BCHkmeeOTs",
         "Job_ID": "24427700",
         "Titel": "Sveriges b\u00e4sta sjuksk\u00f6terska s\u00f6kes",
@@ -1817,7 +1817,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recJpS198OAWYkgE4": {
+    {
         "ID": "recJpS198OAWYkgE4",
         "Job_ID": "24448436",
         "Titel": "Senior utvecklare",
@@ -1826,7 +1826,7 @@
         "Ort": "Myndigheten f\u00f6r digital f\u00f6rvaltning",
         "Arbetsgivare": "Myndigheten F\u00f6r Digital F\u00f6rvaltning"
     },
-    "recJqXOSUirfFr9uz": {
+    {
         "ID": "recJqXOSUirfFr9uz",
         "Job_ID": "24440748",
         "Titel": "Kommunikat\u00f6r till Savedesk p\u00e5 Tele2",
@@ -1835,7 +1835,7 @@
         "Ort": "StudentConsulting",
         "Arbetsgivare": "Studentconsulting Sweden AB (Publ)"
     },
-    "recJrufJs39LvUmDk": {
+    {
         "ID": "recJrufJs39LvUmDk",
         "Job_ID": "24420006",
         "Titel": "Vi v\u00e4lkomnar sjuksk\u00f6terskor till akutmottagningen sommaren 2021!",
@@ -1844,7 +1844,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recJxRq3phaJLE4ME": {
+    {
         "ID": "recJxRq3phaJLE4ME",
         "Job_ID": "24415844",
         "Titel": "T\u00e4vlingsm\u00e4nniska? Abonnenta s\u00f6ker taggade Events\u00e4ljare!",
@@ -1853,7 +1853,7 @@
         "Ort": "Abonnenta AB",
         "Arbetsgivare": "A 95 Consulting AB"
     },
-    "recKKWF05wIx225mw": {
+    {
         "ID": "recKKWF05wIx225mw",
         "Job_ID": "24438131",
         "Titel": "Operationssjuksk\u00f6terska till konsultuppdrag",
@@ -1862,7 +1862,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recKOjMh6wNCd5A3d": {
+    {
         "ID": "recKOjMh6wNCd5A3d",
         "Job_ID": "24404150",
         "Titel": "Undersk\u00f6terska till Myrans S\u00c4BO \u00d6stersund",
@@ -1871,7 +1871,7 @@
         "Ort": "Vardaga",
         "Arbetsgivare": "Vardaga AB"
     },
-    "recKPqmnMXShgo3MD": {
+    {
         "ID": "recKPqmnMXShgo3MD",
         "Job_ID": "24449742",
         "Titel": "Distriktsl\u00e4kare till Fun\u00e4sdalens H\u00e4lsocentral",
@@ -1880,7 +1880,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recKW7bwhEUVEyyhj": {
+    {
         "ID": "recKW7bwhEUVEyyhj",
         "Job_ID": "24449339",
         "Titel": "Bredbandssamordnare till kollektivtrafik och infrastruktur",
@@ -1889,7 +1889,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recKaViRrvbydZpyr": {
+    {
         "ID": "recKaViRrvbydZpyr",
         "Job_ID": "24440673",
         "Titel": "S\u00e4ljare p\u00e5 distans #jobbjustnu",
@@ -1898,7 +1898,7 @@
         "Ort": "KS",
         "Arbetsgivare": "Eco Skydd Sverige AB"
     },
-    "recKjvYgVdZB2yw9i": {
+    {
         "ID": "recKjvYgVdZB2yw9i",
         "Job_ID": "24445058",
         "Titel": "Dagtidstj\u00e4nst p\u00e5 85% som personlig assistent",
@@ -1907,7 +1907,7 @@
         "Ort": "Kooperativet Hand i Hand ekonomisk f\u00f6rening",
         "Arbetsgivare": "Kooperativet Hand i Hand Ekonomisk F\u00f6ren"
     },
-    "recLFtJW43XHYGEZr": {
+    {
         "ID": "recLFtJW43XHYGEZr",
         "Job_ID": "24402128",
         "Titel": "S\u00e4ljare i Kramfors med f\u00f6rbokade kundm\u00f6ten",
@@ -1916,7 +1916,7 @@
         "Ort": "Clean cloud AB",
         "Arbetsgivare": "Clean cloud AB"
     },
-    "recLTHKGzxxRWTM6J": {
+    {
         "ID": "recLTHKGzxxRWTM6J",
         "Job_ID": "24247463",
         "Titel": "S\u00e4ljande distribut\u00f6r - vikarie till \u00d6stersund !",
@@ -1925,7 +1925,7 @@
         "Ort": "P\u00e5gen AB",
         "Arbetsgivare": "P\u00e5gen AB"
     },
-    "recLcLBnUXGw8tnT6": {
+    {
         "ID": "recLcLBnUXGw8tnT6",
         "Job_ID": "24425787",
         "Titel": "Biomedicinsk analytiker, semestervikariat Sundsvall",
@@ -1934,7 +1934,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recLrev71cvlPg5Dg": {
+    {
         "ID": "recLrev71cvlPg5Dg",
         "Job_ID": "24430080",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -1943,7 +1943,7 @@
         "Ort": "Hammarstrand",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recMV9xVMbDmRDRVx": {
+    {
         "ID": "recMV9xVMbDmRDRVx",
         "Job_ID": "24443182",
         "Titel": "Vikariat undersk\u00f6terska till Lugnviks h\u00e4lsocentral",
@@ -1952,7 +1952,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recMYCP6wR25vF0Ef": {
+    {
         "ID": "recMYCP6wR25vF0Ef",
         "Job_ID": "24367229",
         "Titel": "Sjuksk\u00f6terska till bemanningsuppdrag inom kommunal sjukv\u00e5rd i \u00d6stersund",
@@ -1961,7 +1961,7 @@
         "Ort": "BONLIVA AB",
         "Arbetsgivare": "Bonliva AB"
     },
-    "recMafU5eEbbLCQ27": {
+    {
         "ID": "recMafU5eEbbLCQ27",
         "Job_ID": "24282964",
         "Titel": "Ambulanssjukv\u00e5rden V\u00e4sternorrland s\u00f6ker sjuksk\u00f6terskor till vikariat",
@@ -1970,7 +1970,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recMf6JEAIy051D3j": {
+    {
         "ID": "recMf6JEAIy051D3j",
         "Job_ID": "24446052",
         "Titel": "PwC s\u00f6ker revisionsassistent!",
@@ -1979,7 +1979,7 @@
         "Ort": "Adecco Sweden AB",
         "Arbetsgivare": "Adecco Sweden AB"
     },
-    "recMgvXDHotHwipN0": {
+    {
         "ID": "recMgvXDHotHwipN0",
         "Job_ID": "24430100",
         "Titel": "Sjuksk\u00f6terska till kirurgisk v\u00e5rdavdelning 15B, Sundsvall",
@@ -1988,7 +1988,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recMi86w8xkt91V2r": {
+    {
         "ID": "recMi86w8xkt91V2r",
         "Job_ID": "24322641",
         "Titel": "Klima-Therm AB s\u00f6ker via LENZO en Teknisk S\u00e4ljare till Norra Sverige",
@@ -1997,7 +1997,7 @@
         "Ort": "Klima Therm (\u00d6rnsk\u00f6ldsvik )",
         "Arbetsgivare": "LENZO Utveckling & Rekrytering AB"
     },
-    "recMpIBTs114tQTug": {
+    {
         "ID": "recMpIBTs114tQTug",
         "Job_ID": "24440467",
         "Titel": "Vi s\u00f6ker tv\u00e5 sjuksk\u00f6terskor till Fun\u00e4sdalens & Svegs H\u00e4lsocentraler",
@@ -2006,7 +2006,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recMvLDhaR8m8KMCP": {
+    {
         "ID": "recMvLDhaR8m8KMCP",
         "Job_ID": "24367217",
         "Titel": "Sjuksk\u00f6terska till bemanningsuppdrag inom kommunal sjukv\u00e5rd i \u00d6rnsk\u00f6ldsvik",
@@ -2015,7 +2015,7 @@
         "Ort": "BONLIVA AB",
         "Arbetsgivare": "Bonliva AB"
     },
-    "recN1gQ6vF3rfDIJA": {
+    {
         "ID": "recN1gQ6vF3rfDIJA",
         "Job_ID": "24436861",
         "Titel": "Sjuksk\u00f6terska till medicinavdelning",
@@ -2024,7 +2024,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recNC3a1Ychj0NpjS": {
+    {
         "ID": "recNC3a1Ychj0NpjS",
         "Job_ID": "24415142",
         "Titel": "Te Crea Care s\u00f6ker sjuksk\u00f6terskor till kommun",
@@ -2033,7 +2033,7 @@
         "Ort": "Te Crea Care AB ",
         "Arbetsgivare": "Te Crea Care AB"
     },
-    "recNWebsHUOgAxIsY": {
+    {
         "ID": "recNWebsHUOgAxIsY",
         "Job_ID": "24395950",
         "Titel": "Sjuksk\u00f6terskor till \u00e4ldreomsorgen i J\u00e4mtland!",
@@ -2042,7 +2042,7 @@
         "Ort": "Stellacura AB",
         "Arbetsgivare": "StellaCura AB"
     },
-    "recNYYJOcl40D9AKT": {
+    {
         "ID": "recNYYJOcl40D9AKT",
         "Job_ID": "24445034",
         "Titel": "Sjuksk\u00f6terska till Medicinenheten",
@@ -2051,7 +2051,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Medicin",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recNbrLnNoXq1FV9U": {
+    {
         "ID": "recNbrLnNoXq1FV9U",
         "Job_ID": "24401779",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Sala. Fast l\u00f6n plus provision",
@@ -2060,7 +2060,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recNgkGsbFKcJLlMe": {
+    {
         "ID": "recNgkGsbFKcJLlMe",
         "Job_ID": "24446709",
         "Titel": "Personlig assistent deltid till kille i ton\u00e5ren",
@@ -2069,7 +2069,7 @@
         "Ort": "Kura Omsorg",
         "Arbetsgivare": "Kura Omsorg i Sverige AB"
     },
-    "recNqgH3l1CZ5Klpf": {
+    {
         "ID": "recNqgH3l1CZ5Klpf",
         "Job_ID": "24439203",
         "Titel": "Undersk\u00f6terska, sommarvikariat, Ortopedavdelning, \u00d6rnsk\u00f6ldsvik",
@@ -2078,7 +2078,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recNuhSQIKvjasOWC": {
+    {
         "ID": "recNuhSQIKvjasOWC",
         "Job_ID": "24421113",
         "Titel": "Semestervikarier till \u00c4ldreomsorgen",
@@ -2087,7 +2087,7 @@
         "Ort": "Sollefte\u00e5 kommun, \u00c4ldreomsorg",
         "Arbetsgivare": "Sollefte\u00e5 kommun"
     },
-    "recNv2I7OW2JFJYe4": {
+    {
         "ID": "recNv2I7OW2JFJYe4",
         "Job_ID": "24368673",
         "Titel": "Intresseanm\u00e4lan under Covid-19 f\u00f6r tillf\u00e4lligt arbete som undersk\u00f6terska",
@@ -2096,7 +2096,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recNwfW2KpuX9oAE1": {
+    {
         "ID": "recNwfW2KpuX9oAE1",
         "Job_ID": "24446632",
         "Titel": "Systemf\u00f6rvaltare",
@@ -2105,7 +2105,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recO23DdPRMm5oXEN": {
+    {
         "ID": "recO23DdPRMm5oXEN",
         "Job_ID": "24401901",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Ystad. Fast l\u00f6n plus provision",
@@ -2114,7 +2114,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recO8pgvSJ5Ys1a37": {
+    {
         "ID": "recO8pgvSJ5Ys1a37",
         "Job_ID": "24449103",
         "Titel": "Inlandsbanan s\u00f6ker Ekonomichef",
@@ -2123,7 +2123,7 @@
         "Ort": "Inlandsbanan AB",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recODEOAtNaEkQf9h": {
+    {
         "ID": "recODEOAtNaEkQf9h",
         "Job_ID": "24386433",
         "Titel": "Barnsjuksk\u00f6terska/ Sjuksk\u00f6terska Neonatal avdelning 45, Sundsvall",
@@ -2132,7 +2132,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recODiRR93W9LA7yI": {
+    {
         "ID": "recODiRR93W9LA7yI",
         "Job_ID": "24396462",
         "Titel": "Sjuksk\u00f6terska till Kardiologen Avd 1, \u00d6rnsk\u00f6ldsvik",
@@ -2141,7 +2141,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOE1jRb4lNACb2y": {
+    {
         "ID": "recOE1jRb4lNACb2y",
         "Job_ID": "24432676",
         "Titel": "Specialistl\u00e4kare till sm\u00e4rtenheten i \u00d6stersund",
@@ -2150,7 +2150,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Hj\u00e4rta, neurologi och rehabilitering",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recOKOwYVhrU4EYIE": {
+    {
         "ID": "recOKOwYVhrU4EYIE",
         "Job_ID": "24440126",
         "Titel": "Sommarjobb inom Folktandv\u00e5rden V\u00e4sternorrland",
@@ -2159,7 +2159,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOOLUsXMS8Jpygd": {
+    {
         "ID": "recOOLUsXMS8Jpygd",
         "Job_ID": "24412536",
         "Titel": "Sjuksk\u00f6terska f\u00f6r sommarvikariat till Kardiologen Avd 1, \u00d6rnsk\u00f6ldsvik",
@@ -2168,7 +2168,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOSQImYMoVieepZ": {
+    {
         "ID": "recOSQImYMoVieepZ",
         "Job_ID": "24420367",
         "Titel": "Verksamhetsanalytiker, Region V\u00e4sternorrland",
@@ -2177,7 +2177,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOSfUAAqPqSE6Z0": {
+    {
         "ID": "recOSfUAAqPqSE6Z0",
         "Job_ID": "24322655",
         "Titel": "Klima-Therm AB s\u00f6ker via LENZO en Teknisk S\u00e4ljare till Norra Sverige",
@@ -2186,7 +2186,7 @@
         "Ort": "Klima-Therm AB (Ume\u00e5)",
         "Arbetsgivare": "LENZO Utveckling & Rekrytering AB"
     },
-    "recOb7F6D4cmN8z2o": {
+    {
         "ID": "recOb7F6D4cmN8z2o",
         "Job_ID": "24368657",
         "Titel": "Intresseanm\u00e4lan under Covid-19 f\u00f6r tillf\u00e4lligt arbete som undersk\u00f6terska",
@@ -2195,7 +2195,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOc9w4uByuTR2ou": {
+    {
         "ID": "recOc9w4uByuTR2ou",
         "Job_ID": "24438123",
         "Titel": "Projektledare - utveckling av V\u00e4sternorrlands bes\u00f6ksn\u00e4ring",
@@ -2204,7 +2204,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOe2lhmU85qSN1Q": {
+    {
         "ID": "recOe2lhmU85qSN1Q",
         "Job_ID": "24368686",
         "Titel": "Intresseanm\u00e4lan under Covid-19 f\u00f6r tillf\u00e4lligt arbete som sjuksk\u00f6terska",
@@ -2213,7 +2213,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recOmHi3GZyWMpKAc": {
+    {
         "ID": "recOmHi3GZyWMpKAc",
         "Job_ID": "24414705",
         "Titel": "Undersk\u00f6terska",
@@ -2222,7 +2222,7 @@
         "Ort": "Bergs kommun",
         "Arbetsgivare": "Bergs kommun"
     },
-    "recOuWUN6u4d2RsyT": {
+    {
         "ID": "recOuWUN6u4d2RsyT",
         "Job_ID": "24395937",
         "Titel": "Sjuksk\u00f6terskor till \u00e4ldreomsorgen i V\u00e4sternorrland!",
@@ -2231,7 +2231,7 @@
         "Ort": "Stellacura AB",
         "Arbetsgivare": "StellaCura AB"
     },
-    "recOug1VlgDSedju5": {
+    {
         "ID": "recOug1VlgDSedju5",
         "Job_ID": "24435595",
         "Titel": "Undersk\u00f6terska sommarvikariat till Gyn/F\u00f6rlossning/BB, \u00d6-vik",
@@ -2240,7 +2240,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recP67yTYOudb0sHA": {
+    {
         "ID": "recP67yTYOudb0sHA",
         "Job_ID": "24411491",
         "Titel": "Vi s\u00f6ker administrativ assistent till N\u00c4VA - N\u00e4rv\u00e5rdsavdelning i Str\u00f6msund",
@@ -2249,7 +2249,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, N\u00c4VA (N\u00e4rv\u00e5rdsavdelning)",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recPMOnQT3usU7hWs": {
+    {
         "ID": "recPMOnQT3usU7hWs",
         "Job_ID": "24415856",
         "Titel": "T\u00e4vlingsm\u00e4nniska? Abonnenta s\u00f6ker taggade Events\u00e4ljare!",
@@ -2258,7 +2258,7 @@
         "Ort": "Abonnenta AB",
         "Arbetsgivare": "A 95 Consulting AB"
     },
-    "recPQAnE60bDs7zPX": {
+    {
         "ID": "recPQAnE60bDs7zPX",
         "Job_ID": "24446534",
         "Titel": "Sommarvikarie brandman",
@@ -2267,7 +2267,7 @@
         "Ort": "R\u00e4ddningstj\u00e4nsten J\u00e4mtland",
         "Arbetsgivare": "J\u00e4mtlands R\u00e4ddningstj\u00e4nstf\u00f6rbund"
     },
-    "recPXCHBggOYMTS1g": {
+    {
         "ID": "recPXCHBggOYMTS1g",
         "Job_ID": "24411841",
         "Titel": "Farmaceut till L\u00e4kemedelsenheten, Region V\u00e4sternorrland",
@@ -2276,7 +2276,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recPbFcMB8La5rYsD": {
+    {
         "ID": "recPbFcMB8La5rYsD",
         "Job_ID": "24413053",
         "Titel": "Personlig assistent med n\u00e4ra till skratt, timanst\u00e4llning (Re56)",
@@ -2285,7 +2285,7 @@
         "Ort": "Kooperativet Hand i Hand ekonomisk f\u00f6rening",
         "Arbetsgivare": "Kooperativet Hand i Hand Ekonomisk F\u00f6ren"
     },
-    "recPlJrXvmIdjp1v6": {
+    {
         "ID": "recPlJrXvmIdjp1v6",
         "Job_ID": "24427814",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes till kirurgen, \u00d6stersund",
@@ -2294,7 +2294,7 @@
         "Ort": "Skandinavisk H\u00e4lsov\u00e5rd AB",
         "Arbetsgivare": "Ofelia V\u00e5rd AB"
     },
-    "recPnIAeRgkWxonGA": {
+    {
         "ID": "recPnIAeRgkWxonGA",
         "Job_ID": "24425587",
         "Titel": "Sjuksk\u00f6terskor sommarvikariat till Kirurgavdelning 15A, Sundsvall",
@@ -2303,7 +2303,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recPuR2ZRhZNN73iM": {
+    {
         "ID": "recPuR2ZRhZNN73iM",
         "Job_ID": "24282950",
         "Titel": "Ambulanssjukv\u00e5rden V\u00e4sternorrland s\u00f6ker sjuksk\u00f6terskor till vikariat",
@@ -2312,7 +2312,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recPy55zc1FDv2HaL": {
+    {
         "ID": "recPy55zc1FDv2HaL",
         "Job_ID": "24342137",
         "Titel": "Hemst\u00e4d",
@@ -2321,7 +2321,7 @@
         "Ort": "Veterankraft AB",
         "Arbetsgivare": "Veterankraft AB"
     },
-    "recPzXBeu2MyPYQ8s": {
+    {
         "ID": "recPzXBeu2MyPYQ8s",
         "Job_ID": "24425112",
         "Titel": "L\u00e4nsf\u00f6rs\u00e4kringar J\u00e4mtland s\u00f6ker gruppchef till Kundtj\u00e4nst Bank ",
@@ -2330,7 +2330,7 @@
         "Ort": "L\u00e4nsf\u00f6rs\u00e4kringar J\u00e4mtland",
         "Arbetsgivare": "Experis AB"
     },
-    "recQ22kDBCJs4HSf4": {
+    {
         "ID": "recQ22kDBCJs4HSf4",
         "Job_ID": "24446288",
         "Titel": "G\u00e4ll\u00f6 Timber s\u00f6ker en Underh\u00e5lls ingenj\u00f6r/tekniker",
@@ -2339,7 +2339,7 @@
         "Ort": "G\u00e4ll\u00f6 Timber AB",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recQ4Z29kRByWyIH9": {
+    {
         "ID": "recQ4Z29kRByWyIH9",
         "Job_ID": "24448873",
         "Titel": "Elevassistent till Gymnasies\u00e4rskolans individuella program, IAIND V\u00e4stermal",
@@ -2348,7 +2348,7 @@
         "Ort": "Sundsvalls kommun, Barn- och utbildningsf\u00f6rvaltningen",
         "Arbetsgivare": "Sundsvalls kommun"
     },
-    "recQFZNZ5MLds67V9": {
+    {
         "ID": "recQFZNZ5MLds67V9",
         "Job_ID": "24446737",
         "Titel": "Omr\u00e5de psykiatri s\u00f6ker enhetschef till \u00f6ppenv\u00e5rd",
@@ -2357,7 +2357,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Psykiatri",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recQFyo6UkuPpxDt4": {
+    {
         "ID": "recQFyo6UkuPpxDt4",
         "Job_ID": "24406064",
         "Titel": "Programmerande konsultchef - Cybercom \u00d6stersund",
@@ -2366,7 +2366,7 @@
         "Ort": "Cybercom Sweden & Denmark",
         "Arbetsgivare": "Cybercom Sweden AB"
     },
-    "recQbILkhCvlgfIjl": {
+    {
         "ID": "recQbILkhCvlgfIjl",
         "Job_ID": "24423469",
         "Titel": "Sjuksk\u00f6terska till L\u00e4nsverksamhet Psykiatri avd 51, Sundsvall",
@@ -2375,7 +2375,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recQoYCCUxzd6KHGl": {
+    {
         "ID": "recQoYCCUxzd6KHGl",
         "Job_ID": "24412253",
         "Titel": "Undersk\u00f6terska sommarvikariat till  Kirurgmottagningen, \u00d6rnsk\u00f6ldsvik",
@@ -2384,7 +2384,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recQxAOkQCjFd9VKD": {
+    {
         "ID": "recQxAOkQCjFd9VKD",
         "Job_ID": "24430074",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -2393,7 +2393,7 @@
         "Ort": "\u00d6stersund",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recRRk8XfURP4AK3Y": {
+    {
         "ID": "recRRk8XfURP4AK3Y",
         "Job_ID": "24403040",
         "Titel": "iOS-utvecklare till Evado i Sundsvall",
@@ -2402,7 +2402,7 @@
         "Ort": "Ghost Competence AB",
         "Arbetsgivare": "Ghost Competence AB"
     },
-    "recRbO6n1rxKgLH9u": {
+    {
         "ID": "recRbO6n1rxKgLH9u",
         "Job_ID": "24414395",
         "Titel": "Serviceinriktad kundkoordinator till Tibnor!",
@@ -2411,7 +2411,7 @@
         "Ort": "Academic Work",
         "Arbetsgivare": "Academic Work Sweden AB"
     },
-    "recRel9ZCArwr7Gc2": {
+    {
         "ID": "recRel9ZCArwr7Gc2",
         "Job_ID": "24432606",
         "Titel": "Grundskoll\u00e4rare i svenska och engelska till Bj\u00e4staskolan",
@@ -2420,7 +2420,7 @@
         "Ort": "Bildningsf\u00f6rvaltningen, Grundskolan",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "recRt59bHfmp0zz6E": {
+    {
         "ID": "recRt59bHfmp0zz6E",
         "Job_ID": "24413092",
         "Titel": "Timanst\u00e4llning busschauff\u00f6r Sundsvall",
@@ -2429,7 +2429,7 @@
         "Ort": "Nobina",
         "Arbetsgivare": "Nobina Sverige AB"
     },
-    "recRtiCZGxLpiYr5C": {
+    {
         "ID": "recRtiCZGxLpiYr5C",
         "Job_ID": "24430426",
         "Titel": "V\u00e5r och sommarvikariat - v\u00e5rd och omsorgsboenden samt hemtj\u00e4nst",
@@ -2438,7 +2438,7 @@
         "Ort": "V\u00e4lf\u00e4rdsf\u00f6rvaltningen",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "recRyx6Ku9kash57x": {
+    {
         "ID": "recRyx6Ku9kash57x",
         "Job_ID": "24368661",
         "Titel": "Intresseanm\u00e4lan under Covid-19 f\u00f6r tillf\u00e4lligt arbete som sjuksk\u00f6terska",
@@ -2447,7 +2447,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recS6vlIhXhzImWI3": {
+    {
         "ID": "recS6vlIhXhzImWI3",
         "Job_ID": "24419194",
         "Titel": "Kock",
@@ -2456,7 +2456,7 @@
         "Ort": "G\u00f6rviksj\u00f6n AB",
         "Arbetsgivare": "G\u00f6rviksj\u00f6n AB"
     },
-    "recS7Pr4X81Ul4epX": {
+    {
         "ID": "recS7Pr4X81Ul4epX",
         "Job_ID": "24413294",
         "Titel": "Sjuksk\u00f6terska till Psykiatrisk mottagning, \u00d6rnsk\u00f6ldsvik",
@@ -2465,7 +2465,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recSQj1YREtMqE2Ot": {
+    {
         "ID": "recSQj1YREtMqE2Ot",
         "Job_ID": "24406134",
         "Titel": "G\u00f6r ditt Ex-jobb p\u00e5 Cybercom i \u00d6stersund!",
@@ -2474,7 +2474,7 @@
         "Ort": "Cybercom Sweden & Denmark",
         "Arbetsgivare": "Cybercom Sweden AB"
     },
-    "recSW66jcFYtbkitD": {
+    {
         "ID": "recSW66jcFYtbkitD",
         "Job_ID": "24440857",
         "Titel": "S\u00e4ljare p\u00e5 distans #jobbjustnu",
@@ -2483,7 +2483,7 @@
         "Ort": "KS",
         "Arbetsgivare": "Eco Skydd Sverige AB"
     },
-    "recSbOuB40eTwnWf8": {
+    {
         "ID": "recSbOuB40eTwnWf8",
         "Job_ID": "24442104",
         "Titel": "Psykolog till Habiliteringsmottagning, \u00d6rnsk\u00f6ldsvik",
@@ -2492,7 +2492,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recShEh5cWTYKmoj8": {
+    {
         "ID": "recShEh5cWTYKmoj8",
         "Job_ID": "24390748",
         "Titel": "Undersk\u00f6terska till hemtj\u00e4nsten",
@@ -2501,7 +2501,7 @@
         "Ort": "F\u00f6renade Care",
         "Arbetsgivare": "F\u00f6renade Care AB"
     },
-    "recSlddhNxP3TlZi0": {
+    {
         "ID": "recSlddhNxP3TlZi0",
         "Job_ID": "24394444",
         "Titel": "Framtidens s\u00e4ljare",
@@ -2510,7 +2510,7 @@
         "Ort": "Energihem i Sverige AB",
         "Arbetsgivare": "Energihem i Sverige AB"
     },
-    "recSm1CLENdCnS8GX": {
+    {
         "ID": "recSm1CLENdCnS8GX",
         "Job_ID": "24447876",
         "Titel": "Sjuksk\u00f6terska till LARO-mottagningen, Sundsvall",
@@ -2519,7 +2519,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recT3WM93QBxEV9Hu": {
+    {
         "ID": "recT3WM93QBxEV9Hu",
         "Job_ID": "24445706",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -2528,7 +2528,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "recTOnQotlc2tfcLX": {
+    {
         "ID": "recTOnQotlc2tfcLX",
         "Job_ID": "24402040",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Mora. Fast l\u00f6n plus provision",
@@ -2537,7 +2537,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recTS9pK8hRfR0lU5": {
+    {
         "ID": "recTS9pK8hRfR0lU5",
         "Job_ID": "24433351",
         "Titel": "S\u00f6ker dig som vill jobba i Sundsvall inom kommunen",
@@ -2546,7 +2546,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "recTVkZLS6u0QNFRd": {
+    {
         "ID": "recTVkZLS6u0QNFRd",
         "Job_ID": "24391105",
         "Titel": "Bemanningsundersk\u00f6terska i Sundsvall",
@@ -2555,7 +2555,7 @@
         "Ort": "PersonalExpressen",
         "Arbetsgivare": "PersonalExpressen AB"
     },
-    "recTZTt2fkj4FsC1r": {
+    {
         "ID": "recTZTt2fkj4FsC1r",
         "Job_ID": "24439103",
         "Titel": "ST l\u00e4kare, Klinisk fysiologi",
@@ -2564,7 +2564,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recTeatlw0mqWTKr5": {
+    {
         "ID": "recTeatlw0mqWTKr5",
         "Job_ID": "24170264",
         "Titel": "Topps\u00e4ljare till kontor i Sundsvall!",
@@ -2573,7 +2573,7 @@
         "Ort": "Garda Alarm",
         "Arbetsgivare": "Garda Alarm AB"
     },
-    "recToZ4cyALvwkRC2": {
+    {
         "ID": "recToZ4cyALvwkRC2",
         "Job_ID": "24445742",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -2582,7 +2582,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "recTtWNDbPVMy9vW2": {
+    {
         "ID": "recTtWNDbPVMy9vW2",
         "Job_ID": "24434395",
         "Titel": "Sjuksk\u00f6terska till Dialysmottagningen, \u00d6rnsk\u00f6ldsvik",
@@ -2591,7 +2591,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recUDRhBy9nQZoAug": {
+    {
         "ID": "recUDRhBy9nQZoAug",
         "Job_ID": "24401787",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Trollh\u00e4ttan. Fast l\u00f6n plus provision",
@@ -2600,7 +2600,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recUEr4uoBtQ2sMZs": {
+    {
         "ID": "recUEr4uoBtQ2sMZs",
         "Job_ID": "24423509",
         "Titel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
@@ -2609,7 +2609,7 @@
         "Ort": "Ragunda kommun, St\u00f6d- och omsorg",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recUUIf3kTmZzImft": {
+    {
         "ID": "recUUIf3kTmZzImft",
         "Job_ID": "24439659",
         "Titel": "F\u00f6rvaltare  med GIS-kompetens",
@@ -2618,7 +2618,7 @@
         "Ort": "L\u00e4nsstyrelsen J\u00e4mtlands l\u00e4n",
         "Arbetsgivare": "L\u00e4nsstyrelsen i J\u00e4mtlands l\u00e4n"
     },
-    "recUXP4nA7pbXmtoh": {
+    {
         "ID": "recUXP4nA7pbXmtoh",
         "Job_ID": "24415352",
         "Titel": "Arbetsterapeut till kommunens rehabteam",
@@ -2627,7 +2627,7 @@
         "Ort": "Br\u00e4cke kommun, V\u00e5rd- och omsorgsavdelningen",
         "Arbetsgivare": "Br\u00e4cke kommun"
     },
-    "recUaRhmO68Dl2Iwk": {
+    {
         "ID": "recUaRhmO68Dl2Iwk",
         "Job_ID": "24414209",
         "Titel": "Utvecklare/samordnare inom social h\u00e5llbarhet ",
@@ -2636,7 +2636,7 @@
         "Ort": "L\u00e4nsstyrelsen V\u00e4sternorrland",
         "Arbetsgivare": "L\u00e4nsstyrelsen i V\u00e4sternorrlands l\u00e4n"
     },
-    "recUjDY8aK3mFV6O6": {
+    {
         "ID": "recUjDY8aK3mFV6O6",
         "Job_ID": "24379480",
         "Titel": "Ambulanssjukv\u00e5rden V\u00e4sternorrland s\u00f6ker sjuksk\u00f6terskor till vikariat",
@@ -2645,7 +2645,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recUnGJU0BenB7agO": {
+    {
         "ID": "recUnGJU0BenB7agO",
         "Job_ID": "24445145",
         "Titel": "Medicinsk sekreterare till medicinenheten",
@@ -2654,7 +2654,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Medicin",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recUrWNwmqpbhfx4r": {
+    {
         "ID": "recUrWNwmqpbhfx4r",
         "Job_ID": "24447873",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -2663,7 +2663,7 @@
         "Ort": "Viva Bemanning - Timr\u00e5",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recV52Br4UXBHZ9vj": {
+    {
         "ID": "recV52Br4UXBHZ9vj",
         "Job_ID": "24439226",
         "Titel": "Undersk\u00f6terska f\u00f6r sommarvikariat till Medicin Avd 2, \u00d6rnsk\u00f6ldsvik",
@@ -2672,7 +2672,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recV76IGa2KHxMk1s": {
+    {
         "ID": "recV76IGa2KHxMk1s",
         "Job_ID": "24425404",
         "Titel": "Undersk\u00f6terska sommarvikariat till Kirurgavdelning 15A, Sundsvall",
@@ -2681,7 +2681,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recVMMtouHI32bH3M": {
+    {
         "ID": "recVMMtouHI32bH3M",
         "Job_ID": "24432885",
         "Titel": "L\u00e4rare i musik till Kastalskolan",
@@ -2690,7 +2690,7 @@
         "Ort": "\u00d6stersunds kommun",
         "Arbetsgivare": "\u00d6stersunds kommun"
     },
-    "recVUptMFyZiVUKiX": {
+    {
         "ID": "recVUptMFyZiVUKiX",
         "Job_ID": "24427396",
         "Titel": "ST-l\u00e4kare geriatrik Sundsvall",
@@ -2699,7 +2699,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recVefleKO5P3jEkC": {
+    {
         "ID": "recVefleKO5P3jEkC",
         "Job_ID": "24391118",
         "Titel": "Regionjurist alt. jurist till Region V\u00e4sternorrland",
@@ -2708,7 +2708,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recVpO0Xsdi3nGipw": {
+    {
         "ID": "recVpO0Xsdi3nGipw",
         "Job_ID": "24429382",
         "Titel": "Familjehem s\u00f6kes i J\u00e4mtland",
@@ -2717,7 +2717,7 @@
         "Ort": "Nytida",
         "Arbetsgivare": "Nytida AB"
     },
-    "recVpsDZDdMyoA7Pd": {
+    {
         "ID": "recVpsDZDdMyoA7Pd",
         "Job_ID": "24418273",
         "Titel": "Sjuksk\u00f6terskor s\u00f6kes till kommunuppdrag",
@@ -2726,7 +2726,7 @@
         "Ort": "Medkomp",
         "Arbetsgivare": "Medkomp V\u00e5rdbemanning AB"
     },
-    "recVyRVciYvx54FBe": {
+    {
         "ID": "recVyRVciYvx54FBe",
         "Job_ID": "24436147",
         "Titel": "Undersk\u00f6terskor s\u00f6kes till H\u00e4rn\u00f6sand",
@@ -2735,7 +2735,7 @@
         "Ort": "Medkomp",
         "Arbetsgivare": "Medkomp V\u00e5rdbemanning AB"
     },
-    "recW2icxDhVRoMFmo": {
+    {
         "ID": "recW2icxDhVRoMFmo",
         "Job_ID": "24444293",
         "Titel": "Underl\u00e4kare till Lungkliniken i Sundsvall",
@@ -2744,7 +2744,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recW2jpB5Jp9KvEm6": {
+    {
         "ID": "recW2jpB5Jp9KvEm6",
         "Job_ID": "24401769",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i V\u00e4ster\u00e5s. Fast l\u00f6n plus provision",
@@ -2753,7 +2753,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recW6PghsOxb8omhV": {
+    {
         "ID": "recW6PghsOxb8omhV",
         "Job_ID": "24430402",
         "Titel": "Spelutvecklare till Frontwalker ",
@@ -2762,7 +2762,7 @@
         "Ort": "Professionals Nord Rekrytering AB",
         "Arbetsgivare": "Professionals Nord Rekrytering AB"
     },
-    "recWE5jRpjoRwSteK": {
+    {
         "ID": "recWE5jRpjoRwSteK",
         "Job_ID": "24426612",
         "Titel": "Kundtj\u00e4nst till h\u00e4rliga Kreta",
@@ -2771,7 +2771,7 @@
         "Ort": "TNG Group AB",
         "Arbetsgivare": "Tng Group AB"
     },
-    "recWGfZxR1F0y16qF": {
+    {
         "ID": "recWGfZxR1F0y16qF",
         "Job_ID": "24437936",
         "Titel": "Samordnare till verksamhet H\u00e4lso-och sjukv\u00e5rdsadministration",
@@ -2780,7 +2780,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recWPIk0t9bBbWekE": {
+    {
         "ID": "recWPIk0t9bBbWekE",
         "Job_ID": "24412236",
         "Titel": "Undersk\u00f6terska, sommarvikariat, Ortopeden avd 14, Sundsvall",
@@ -2789,7 +2789,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recWQA6BWwZDlaAB6": {
+    {
         "ID": "recWQA6BWwZDlaAB6",
         "Job_ID": "24401232",
         "Titel": "Undersk\u00f6terska",
@@ -2798,7 +2798,7 @@
         "Ort": "KOOPERATIVET HOTAGSFJ\u00c4RDEN I HOTAGEN EK F\u00d6R",
         "Arbetsgivare": "Kooperativet Hotagsfj\u00e4rden Ekonomisk f\u00f6ren"
     },
-    "recWbc3MOTpfMrHtv": {
+    {
         "ID": "recWbc3MOTpfMrHtv",
         "Job_ID": "24445824",
         "Titel": "Specialistl\u00e4kare/\u00f6verl\u00e4kare till \u00c4lSa-team Sollefte\u00e5",
@@ -2807,7 +2807,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recWeNHRcUp279emJ": {
+    {
         "ID": "recWeNHRcUp279emJ",
         "Job_ID": "24441417",
         "Titel": "Undersk\u00f6terska till Medicinavdelningen 24, Sundsvall",
@@ -2816,7 +2816,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recWmrtgBg0hXeNMR": {
+    {
         "ID": "recWmrtgBg0hXeNMR",
         "Job_ID": "24429932",
         "Titel": "Enhetschef Administrativa enheten - R\u00e4ttspsykiatriska regionkliniken",
@@ -2825,7 +2825,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recWwcrzPN5K8BToO": {
+    {
         "ID": "recWwcrzPN5K8BToO",
         "Job_ID": "24412564",
         "Titel": "Undersk\u00f6terska f\u00f6r sommarvikariat till Kardiologen Avd 1, \u00d6rnsk\u00f6ldsvik",
@@ -2834,7 +2834,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recWzb65Id2I5RUJE": {
+    {
         "ID": "recWzb65Id2I5RUJE",
         "Job_ID": "24423863",
         "Titel": "Sjuksk\u00f6terskor till h\u00e4rliga Norrland 2021",
@@ -2843,7 +2843,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "recX8Q8rRQDobLDkL": {
+    {
         "ID": "recX8Q8rRQDobLDkL",
         "Job_ID": "24439251",
         "Titel": "Sjuksk\u00f6terska f\u00f6r sommarvikariat till Medicin Avd 2, \u00d6rnsk\u00f6ldsvik",
@@ -2852,7 +2852,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recXDgVTS5KrdO5BJ": {
+    {
         "ID": "recXDgVTS5KrdO5BJ",
         "Job_ID": "24446497",
         "Titel": "Vass s\u00e4ljare till Strongpoint Labels - \u00f6vre Mellansverige",
@@ -2861,7 +2861,7 @@
         "Ort": "Standby Workteam AB",
         "Arbetsgivare": "Standby Workteam AB"
     },
-    "recXLKv5hvETQdypc": {
+    {
         "ID": "recXLKv5hvETQdypc",
         "Job_ID": "24416518",
         "Titel": "S\u00e4ljare och kundr\u00e5dgivare till Synsam \u00d6stersund 50%",
@@ -2870,7 +2870,7 @@
         "Ort": "Synsam Group Sverige AB",
         "Arbetsgivare": "Synsam Group Sweden AB"
     },
-    "recXQiDTnFDUhabiR": {
+    {
         "ID": "recXQiDTnFDUhabiR",
         "Job_ID": "24424830",
         "Titel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
@@ -2879,7 +2879,7 @@
         "Ort": "Mockfj\u00e4rds",
         "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB"
     },
-    "recXRaBq0hmVRYP5w": {
+    {
         "ID": "recXRaBq0hmVRYP5w",
         "Job_ID": "24428655",
         "Titel": "Sjuksk\u00f6terska till Infektionsavdelningen",
@@ -2888,7 +2888,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Infektion",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recXeJYJDoygh0aTZ": {
+    {
         "ID": "recXeJYJDoygh0aTZ",
         "Job_ID": "24436565",
         "Titel": "Neurointerventionist till trombektomiverksamhet Sundsvall",
@@ -2897,7 +2897,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recXjaddFjXg1nDsn": {
+    {
         "ID": "recXjaddFjXg1nDsn",
         "Job_ID": "24446553",
         "Titel": "Kommunikat\u00f6r \u00d6rnsk\u00f6ldsviks folkh\u00f6gskola/Hola folkh\u00f6gskola",
@@ -2906,7 +2906,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recXmJKCcQpgHmcht": {
+    {
         "ID": "recXmJKCcQpgHmcht",
         "Job_ID": "24316264",
         "Titel": "Sk\u00f6terskor s\u00f6kes till \u00c5re f\u00f6r antikroppstestning av Covid-19",
@@ -2915,7 +2915,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recXr8QFUGLjW60YU": {
+    {
         "ID": "recXr8QFUGLjW60YU",
         "Job_ID": "24405864",
         "Titel": "Sjuksyrra AB s\u00f6ker en kompetent och driven leg. sjuksk\u00f6terska till kirur...",
@@ -2924,7 +2924,7 @@
         "Ort": "Sjuksyrra AB",
         "Arbetsgivare": "Sjuksyrra SWE AB"
     },
-    "recXrJHwD1nuqLD1p": {
+    {
         "ID": "recXrJHwD1nuqLD1p",
         "Job_ID": "24425705",
         "Titel": "Semestervikariat Biomedicinsk analytiker Laboratoriemedicin Sollefte\u00e5",
@@ -2933,7 +2933,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recY9Q2jhCxJiVuRh": {
+    {
         "ID": "recY9Q2jhCxJiVuRh",
         "Job_ID": "24437952",
         "Titel": "L\u00e4rare Teknik/Fysik/Kemi och Matematik",
@@ -2942,7 +2942,7 @@
         "Ort": "Nordic Recruitment Solutions AB",
         "Arbetsgivare": "Karri\u00e4ren Sverige AB"
     },
-    "recY9QSz8UM9HeAFZ": {
+    {
         "ID": "recY9QSz8UM9HeAFZ",
         "Job_ID": "24224578",
         "Titel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
@@ -2951,7 +2951,7 @@
         "Ort": "Bergs kommun",
         "Arbetsgivare": "Bergs kommun"
     },
-    "recYG1lrcW3mQ3mZv": {
+    {
         "ID": "recYG1lrcW3mQ3mZv",
         "Job_ID": "24450631",
         "Titel": "Fastighetssk\u00f6tare",
@@ -2960,7 +2960,7 @@
         "Ort": "Storhogna H\u00f6gfj\u00e4llshotell & Spa",
         "Arbetsgivare": "Storhogna H\u00f6gfj\u00e4llshotell och Spa AB"
     },
-    "recYLZElJV850WiNZ": {
+    {
         "ID": "recYLZElJV850WiNZ",
         "Job_ID": "24439131",
         "Titel": "Sveriges B\u00e4sta L\u00e4kare S\u00f6kes",
@@ -2969,7 +2969,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recYOLJ5ckahD5HCQ": {
+    {
         "ID": "recYOLJ5ckahD5HCQ",
         "Job_ID": "24445742",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -2978,7 +2978,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "recYRKBIWKVsLfSr0": {
+    {
         "ID": "recYRKBIWKVsLfSr0",
         "Job_ID": "24439226",
         "Titel": "Undersk\u00f6terska f\u00f6r sommarvikariat till Medicin Avd 2, \u00d6rnsk\u00f6ldsvik",
@@ -2987,7 +2987,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recYTcTO7kDnkbeR1": {
+    {
         "ID": "recYTcTO7kDnkbeR1",
         "Job_ID": "24443293",
         "Titel": "Z\u00e4tagr\u00e4nds h\u00e4lsocentral s\u00f6ker distriktsl\u00e4kare med intresse f\u00f6r N\u00e4ra V\u00e5rd",
@@ -2996,7 +2996,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recYW9yppgBBtU6D7": {
+    {
         "ID": "recYW9yppgBBtU6D7",
         "Job_ID": "24425634",
         "Titel": "\u00c5k 4 l\u00e4rare till Tre\u00e4lvsskolan",
@@ -3005,7 +3005,7 @@
         "Ort": "\u00d6stersunds kommun",
         "Arbetsgivare": "\u00d6stersunds kommun"
     },
-    "recYXrWgZa6F4SLDm": {
+    {
         "ID": "recYXrWgZa6F4SLDm",
         "Job_ID": "24415134",
         "Titel": "Te Crea Care s\u00f6ker sjuksk\u00f6terskor till kommun",
@@ -3014,7 +3014,7 @@
         "Ort": "Te Crea Care AB ",
         "Arbetsgivare": "Te Crea Care AB"
     },
-    "recYdBWFL1Yjdy6Vv": {
+    {
         "ID": "recYdBWFL1Yjdy6Vv",
         "Job_ID": "24435346",
         "Titel": "Undersk\u00f6terska sommarvikariat till Lungavdelningen, Sundsvall",
@@ -3023,7 +3023,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recYgHzka14PRI2LO": {
+    {
         "ID": "recYgHzka14PRI2LO",
         "Job_ID": "24436153",
         "Titel": "\u00d6verl\u00e4kare till \u00d6NH V\u00e4sternorrland",
@@ -3032,7 +3032,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recYiCtldVKYmX8bM": {
+    {
         "ID": "recYiCtldVKYmX8bM",
         "Job_ID": "24443851",
         "Titel": "Fysioterapeut till H\u00e4lsocentralen Nyland",
@@ -3041,7 +3041,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recYiI9GuuZId72x4": {
+    {
         "ID": "recYiI9GuuZId72x4",
         "Job_ID": "24401984",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Lund. Fast l\u00f6n plus provision",
@@ -3050,7 +3050,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recYndJWpQqbbDrST": {
+    {
         "ID": "recYndJWpQqbbDrST",
         "Job_ID": "24426579",
         "Titel": "Sjuksk\u00f6terska/barnsjuksk\u00f6terska/IVA-sjuksk\u00f6terska till SSIH barn, Sundsvall",
@@ -3059,7 +3059,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recYq2jIwAOo6r4ri": {
+    {
         "ID": "recYq2jIwAOo6r4ri",
         "Job_ID": "24370093",
         "Titel": "Agil teammedlem med inriktning mot systemutveckling",
@@ -3068,7 +3068,7 @@
         "Ort": "Bolagsverket, IT-avdelningen ",
         "Arbetsgivare": "Bolagsverket"
     },
-    "recYqCN498wc9WSV9": {
+    {
         "ID": "recYqCN498wc9WSV9",
         "Job_ID": "24425746",
         "Titel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
@@ -3077,7 +3077,7 @@
         "Ort": "Ragunda kommun, J\u00e4r\u00e5skolan",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recYubBTQKAwfrCo0": {
+    {
         "ID": "recYubBTQKAwfrCo0",
         "Job_ID": "24446644",
         "Titel": "Systemf\u00f6rvaltare",
@@ -3086,7 +3086,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recZWv3KN8gfIDYep": {
+    {
         "ID": "recZWv3KN8gfIDYep",
         "Job_ID": "24416453",
         "Titel": "Personliga assistenter (timvikarier) s\u00f6kes till kund i Sollefte\u00e5",
@@ -3095,7 +3095,7 @@
         "Ort": "Fr\u00f6sunda Personlig assistans",
         "Arbetsgivare": "Fr\u00f6sunda Omsorg AB"
     },
-    "recZZ3UuQBXLhkpZ1": {
+    {
         "ID": "recZZ3UuQBXLhkpZ1",
         "Job_ID": "24416931",
         "Titel": "Specialist p\u00e5 publika molntj\u00e4nster",
@@ -3104,7 +3104,7 @@
         "Ort": "GDM Konsult",
         "Arbetsgivare": "GDM Konsult AB"
     },
-    "recZn8R7tV8g0kJdX": {
+    {
         "ID": "recZn8R7tV8g0kJdX",
         "Job_ID": "24440129",
         "Titel": "Sommarjobb inom Folktandv\u00e5rden V\u00e4sternorrland",
@@ -3113,7 +3113,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recZu5OCsFYlrpvjb": {
+    {
         "ID": "recZu5OCsFYlrpvjb",
         "Job_ID": "24401975",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i R\u00e4ttvik. Fast l\u00f6n plus provision",
@@ -3122,7 +3122,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recZuAqdkJWQ2BjRB": {
+    {
         "ID": "recZuAqdkJWQ2BjRB",
         "Job_ID": "24429604",
         "Titel": "Dedicare s\u00f6ker undersk\u00f6terskor till V\u00e4sternorrland",
@@ -3131,7 +3131,7 @@
         "Ort": "Dedicare AB",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "recZxl8oijdNY8BCi": {
+    {
         "ID": "recZxl8oijdNY8BCi",
         "Job_ID": "24435783",
         "Titel": "Sjuksk\u00f6terska till S\u00c4BO",
@@ -3140,7 +3140,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "reca8wb1AK1IXzVLT": {
+    {
         "ID": "reca8wb1AK1IXzVLT",
         "Job_ID": "24353195",
         "Titel": "Specialistl\u00e4kare i allm\u00e4nmedicin till H\u00e4lsocentralerna i \u00c5dalenomr\u00e5det",
@@ -3149,7 +3149,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recaFKtcIHHRXmchd": {
+    {
         "ID": "recaFKtcIHHRXmchd",
         "Job_ID": "24352971",
         "Titel": "Sjuksk\u00f6terska till KAVA i Sundsvall i v\u00e5r- l\u00e5ngt uppdrag",
@@ -3158,7 +3158,7 @@
         "Ort": "Centric Care AB",
         "Arbetsgivare": "Centric Care AB"
     },
-    "recaeDTyy4JRWwMzO": {
+    {
         "ID": "recaeDTyy4JRWwMzO",
         "Job_ID": "24441025",
         "Titel": "Bilb\u00e4rgare BE/C Kort",
@@ -3167,7 +3167,7 @@
         "Ort": "Sundsvalls Bildemontering AB",
         "Arbetsgivare": "Sundsvalls Bildemontering AB"
     },
-    "recaeaakxAvZVwol4": {
+    {
         "ID": "recaeaakxAvZVwol4",
         "Job_ID": "24437300",
         "Titel": "Sjuksk\u00f6terska till hemsjukv\u00e5rden",
@@ -3176,7 +3176,7 @@
         "Ort": "Dedicare AB (publ)",
         "Arbetsgivare": "Dedicare AB (publ)"
     },
-    "recahqRly0f2JRCsP": {
+    {
         "ID": "recahqRly0f2JRCsP",
         "Job_ID": "24316860",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Svenstavik f\u00f6r antikroppstestning av Covid-19",
@@ -3185,7 +3185,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recalwe0fddoVNkYl": {
+    {
         "ID": "recalwe0fddoVNkYl",
         "Job_ID": "24437964",
         "Titel": "Distriktssk\u00f6terska till Bist\u00e5nd, H\u00e4lsa och Sjukv\u00e5rd",
@@ -3194,7 +3194,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "recam3ELWFn4NNKHb": {
+    {
         "ID": "recam3ELWFn4NNKHb",
         "Job_ID": "24350060",
         "Titel": "L\u00e4rare i Svenska och Engelska",
@@ -3203,7 +3203,7 @@
         "Ort": "Hampn\u00e4s gymnasium/Impius v\u00e5rd och utbildning AB",
         "Arbetsgivare": "Impius V\u00e5rd och Utbildning AB"
     },
-    "recamhLUyxlKr5CB4": {
+    {
         "ID": "recamhLUyxlKr5CB4",
         "Job_ID": "24450277",
         "Titel": "Rekrytering av juniora Systemutvecklare till Biometria Traineeprogram",
@@ -3212,7 +3212,7 @@
         "Ort": "Professionals Nord Rekrytering AB",
         "Arbetsgivare": "Professionals Nord Rekrytering AB"
     },
-    "recaqQkJNxmq3Bmde": {
+    {
         "ID": "recaqQkJNxmq3Bmde",
         "Job_ID": "24447863",
         "Titel": "Undersk\u00f6terskor s\u00f6kes till Sundsvall",
@@ -3221,7 +3221,7 @@
         "Ort": "Medkomp",
         "Arbetsgivare": "Medkomp V\u00e5rdbemanning AB"
     },
-    "recavoOGOin1oaGAy": {
+    {
         "ID": "recavoOGOin1oaGAy",
         "Job_ID": "24377243",
         "Titel": "KOCK s\u00f6kes till indisk restaurang Tripti #jobbjustnu",
@@ -3230,7 +3230,7 @@
         "Ort": "Tripti AB",
         "Arbetsgivare": "Tripti AB"
     },
-    "recawm2jJE0BOPJhp": {
+    {
         "ID": "recawm2jJE0BOPJhp",
         "Job_ID": "24429326",
         "Titel": "L\u00e5gstadiel\u00e4rare till Hans\u00e5kerskolan",
@@ -3239,7 +3239,7 @@
         "Ort": "Ragunda kommun, Barn- och utbildning",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recazPJlEDhGpabKE": {
+    {
         "ID": "recazPJlEDhGpabKE",
         "Job_ID": "24417964",
         "Titel": "Snickare till Klingsta Hus & Modul AB",
@@ -3248,7 +3248,7 @@
         "Ort": "Adecco Sweden AB",
         "Arbetsgivare": "Adecco Sweden AB"
     },
-    "recbAVfIkwI4kOG7N": {
+    {
         "ID": "recbAVfIkwI4kOG7N",
         "Job_ID": "24439179",
         "Titel": "Omr\u00e5de Psykiatri s\u00f6ker ST-l\u00e4kare med m\u00f6jlighet till distansarbete",
@@ -3257,7 +3257,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Psykiatri",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recbNpIMvMqYCeJXn": {
+    {
         "ID": "recbNpIMvMqYCeJXn",
         "Job_ID": "24393773",
         "Titel": "Sjuksk\u00f6terskor till kommunalverksamhet i Ragunda. ",
@@ -3266,7 +3266,7 @@
         "Ort": "V\u00e5rdkuriren AB",
         "Arbetsgivare": "V\u00e5rdkuriren AB"
     },
-    "recbOwQuN3qCluuBp": {
+    {
         "ID": "recbOwQuN3qCluuBp",
         "Job_ID": "24402017",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Hedemora. Fast l\u00f6n plus provision",
@@ -3275,7 +3275,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recbWQ0E925eHt6CG": {
+    {
         "ID": "recbWQ0E925eHt6CG",
         "Job_ID": "24338222",
         "Titel": "16-\u00e5rig kille s\u00f6ker personlig assistent (man) 2037",
@@ -3284,7 +3284,7 @@
         "Ort": "STORSJ\u00d6BYGDENS PERSONLIGA ASSISTANS AB",
         "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB"
     },
-    "recbcB1a7of4PMlRx": {
+    {
         "ID": "recbcB1a7of4PMlRx",
         "Job_ID": "24423774",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes till kirurgen \u00d6rnsk\u00f6ldsvik",
@@ -3293,7 +3293,7 @@
         "Ort": "Prime Care AB",
         "Arbetsgivare": "Prime Care & Professional AB"
     },
-    "recbd4ANzHpzcPuAh": {
+    {
         "ID": "recbd4ANzHpzcPuAh",
         "Job_ID": "24420801",
         "Titel": "Utlastare / Chauff\u00f6r natt CE-kort, Sundsvall",
@@ -3302,7 +3302,7 @@
         "Ort": "Birstaterminalen",
         "Arbetsgivare": "Kyl och Frysexpressen Nord AB"
     },
-    "recbhihMwzsEHWjPL": {
+    {
         "ID": "recbhihMwzsEHWjPL",
         "Job_ID": "24401731",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Krokom. Fast l\u00f6n plus provision",
@@ -3311,7 +3311,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recbikMPmiEQoIcWS": {
+    {
         "ID": "recbikMPmiEQoIcWS",
         "Job_ID": "24443182",
         "Titel": "Vikariat undersk\u00f6terska till Lugnviks h\u00e4lsocentral",
@@ -3320,7 +3320,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recbkuuuk6iASHOdv": {
+    {
         "ID": "recbkuuuk6iASHOdv",
         "Job_ID": "24432218",
         "Titel": "Timvikarie, personlig assistent, i centrala \u00d6stersund s\u00f6kes",
@@ -3329,7 +3329,7 @@
         "Ort": "A-Assistans",
         "Arbetsgivare": "A-Assistans Leimir AB"
     },
-    "recbos7DgDpxfv7JM": {
+    {
         "ID": "recbos7DgDpxfv7JM",
         "Job_ID": "24442892",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -3338,7 +3338,7 @@
         "Ort": "Viva Bemanning - \u00c5re",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recbqgHdnHAEqUOZg": {
+    {
         "ID": "recbqgHdnHAEqUOZg",
         "Job_ID": "24384313",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Br\u00e4cke f\u00f6r antikroppstestning av Covid-19",
@@ -3347,7 +3347,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recbwjC6Aluz0Awrh": {
+    {
         "ID": "recbwjC6Aluz0Awrh",
         "Job_ID": "24389134",
         "Titel": "Driven s\u00e4ljare / Franchisetagare s\u00f6kes till Moogio",
@@ -3356,7 +3356,7 @@
         "Ort": "Moogio Sundsvall",
         "Arbetsgivare": "Moogio International AB"
     },
-    "recby2fDaLJIZrS93": {
+    {
         "ID": "recby2fDaLJIZrS93",
         "Job_ID": "24273309",
         "Titel": "Account Manager/S\u00e4ljare",
@@ -3365,7 +3365,7 @@
         "Ort": "Cybercom Sweden & Denmark",
         "Arbetsgivare": "Cybercom Sweden AB"
     },
-    "recc0yGZgAGjGAity": {
+    {
         "ID": "recc0yGZgAGjGAity",
         "Job_ID": "24442876",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -3374,7 +3374,7 @@
         "Ort": "Viva Bemanning - \u00d6stersund",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "reccJwNluW0ohEWQf": {
+    {
         "ID": "reccJwNluW0ohEWQf",
         "Job_ID": "24434883",
         "Titel": "Personlig assistent i Sollefte\u00e5",
@@ -3383,7 +3383,7 @@
         "Ort": "Rehabassistans AB",
         "Arbetsgivare": "Inre Kraft i Norr AB"
     },
-    "reccOAdT3ZV6GMks5": {
+    {
         "ID": "reccOAdT3ZV6GMks5",
         "Job_ID": "24449183",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -3392,7 +3392,7 @@
         "Ort": "Viva Bemanning - H\u00e4rn\u00f6sand",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "reccnLXACSrWYxbB3": {
+    {
         "ID": "reccnLXACSrWYxbB3",
         "Job_ID": "24427407",
         "Titel": "Sveriges b\u00e4sta undersk\u00f6terska",
@@ -3401,7 +3401,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "reccnPlpus3fFMB8s": {
+    {
         "ID": "reccnPlpus3fFMB8s",
         "Job_ID": "24445034",
         "Titel": "Sjuksk\u00f6terska till Medicinenheten",
@@ -3410,7 +3410,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Medicin",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "reccqIGT0F3ziHS8O": {
+    {
         "ID": "reccqIGT0F3ziHS8O",
         "Job_ID": "24417170",
         "Titel": "Personlig assisten till kvinna i \u00d6stersund - timanst\u00e4llning",
@@ -3419,7 +3419,7 @@
         "Ort": "L&S Assistans AB",
         "Arbetsgivare": "L&S Assistans AB"
     },
-    "reccuhLCwt1iNtFE0": {
+    {
         "ID": "reccuhLCwt1iNtFE0",
         "Job_ID": "24430074",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -3428,7 +3428,7 @@
         "Ort": "\u00d6stersund",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "reccvctkcEeuuNZJs": {
+    {
         "ID": "reccvctkcEeuuNZJs",
         "Job_ID": "24447469",
         "Titel": "Undersk\u00f6terska/V\u00e5rdare till hemtj\u00e4nst Bj\u00f6rnen",
@@ -3437,7 +3437,7 @@
         "Ort": "V\u00e4lf\u00e4rdsf\u00f6rvaltningen, Ordin\u00e4rt boende",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "recd7bIu8pr2m28bj": {
+    {
         "ID": "recd7bIu8pr2m28bj",
         "Job_ID": "24402005",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i V\u00e4xj\u00f6. Fast l\u00f6n plus provision",
@@ -3446,7 +3446,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recdDfOqysSYX52Jc": {
+    {
         "ID": "recdDfOqysSYX52Jc",
         "Job_ID": "24427440",
         "Titel": "Sveriges b\u00e4sta undersk\u00f6terska",
@@ -3455,7 +3455,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recdG6vCK5fgrdq65": {
+    {
         "ID": "recdG6vCK5fgrdq65",
         "Job_ID": "24442775",
         "Titel": "Sjuksk\u00f6terska f\u00f6r Sommarvikariat till Akutmottagningen, Sollefte\u00e5",
@@ -3464,7 +3464,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recdRKHKHz8sgcxJl": {
+    {
         "ID": "recdRKHKHz8sgcxJl",
         "Job_ID": "24419400",
         "Titel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
@@ -3473,7 +3473,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "recdcGEg80K9awoBl": {
+    {
         "ID": "recdcGEg80K9awoBl",
         "Job_ID": "24427365",
         "Titel": "Medicinsk sekreterare LV geriatrik, neurologi och rehabilitering, Sundsvall",
@@ -3482,7 +3482,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recdevGiClqKfBEmU": {
+    {
         "ID": "recdevGiClqKfBEmU",
         "Job_ID": "24420365",
         "Titel": "Verksamhetsanalytiker, Region V\u00e4sternorrland",
@@ -3491,7 +3491,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recdf6lXEkc1GPr0N": {
+    {
         "ID": "recdf6lXEkc1GPr0N",
         "Job_ID": "24432027",
         "Titel": "Nu s\u00f6ker vi dig!",
@@ -3500,7 +3500,7 @@
         "Ort": "Modern Omsorg Elle AB",
         "Arbetsgivare": "Modern Omsorg Elle AB"
     },
-    "recdh9AFYc8YdB6kM": {
+    {
         "ID": "recdh9AFYc8YdB6kM",
         "Job_ID": "24412090",
         "Titel": "L\u00e4rare i tr\u00e4- och metallsl\u00f6jd",
@@ -3509,7 +3509,7 @@
         "Ort": "Bergs kommun",
         "Arbetsgivare": "Bergs kommun"
     },
-    "recdjdPl1vWqUtNYq": {
+    {
         "ID": "recdjdPl1vWqUtNYq",
         "Job_ID": "24435552",
         "Titel": "AnnSam en Sjuksk\u00f6terska! Uppdrag inom \u00c4ldrev\u00e5rd i Hammerdal.",
@@ -3518,7 +3518,7 @@
         "Ort": "AnnSam - Hammerdal",
         "Arbetsgivare": "Annsam AB"
     },
-    "recdmqRVVbQmCMsG6": {
+    {
         "ID": "recdmqRVVbQmCMsG6",
         "Job_ID": "24441981",
         "Titel": "Systemutvecklare inbyggda system",
@@ -3527,7 +3527,7 @@
         "Ort": "Bae Systems H\u00e4gglunds AB",
         "Arbetsgivare": "Bae Systems H\u00e4gglunds AB"
     },
-    "recdwCOhlCod6d6h2": {
+    {
         "ID": "recdwCOhlCod6d6h2",
         "Job_ID": "24395937",
         "Titel": "Sjuksk\u00f6terskor till \u00e4ldreomsorgen i V\u00e4sternorrland!",
@@ -3536,7 +3536,7 @@
         "Ort": "Stellacura AB",
         "Arbetsgivare": "StellaCura AB"
     },
-    "recefdji3emV6Aa1j": {
+    {
         "ID": "recefdji3emV6Aa1j",
         "Job_ID": "24377465",
         "Titel": "Personlig assistenter till en fartfylld man",
@@ -3545,7 +3545,7 @@
         "Ort": "Helsa Omsorg & Bemanning i Norden AB",
         "Arbetsgivare": "Helsa Omsorg & Bemanning i Norden AB"
     },
-    "recek0cgypfyCytoe": {
+    {
         "ID": "recek0cgypfyCytoe",
         "Job_ID": "24445389",
         "Titel": "Underl\u00e4kare medicinkliniken, Sundsvall",
@@ -3554,7 +3554,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recezt9s8HZ3st5Aa": {
+    {
         "ID": "recezt9s8HZ3st5Aa",
         "Job_ID": "24423947",
         "Titel": "Spelutvecklare / Systemutvecklare till Frontwalker i Sundsvall",
@@ -3563,7 +3563,7 @@
         "Ort": "Bravura",
         "Arbetsgivare": "Bravura Sverige AB"
     },
-    "recfFia5TfzRP6i1G": {
+    {
         "ID": "recfFia5TfzRP6i1G",
         "Job_ID": "24434888",
         "Titel": "Nya kollegor till Com Hem/Boxers s\u00e4ljande kundtj\u00e4nst i \u00d6stersund",
@@ -3572,7 +3572,7 @@
         "Ort": "Webhelp Sweden AB",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "recfMfkTSOSVa0069": {
+    {
         "ID": "recfMfkTSOSVa0069",
         "Job_ID": "24441417",
         "Titel": "Undersk\u00f6terska till Medicinavdelningen 24, Sundsvall",
@@ -3581,7 +3581,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recfT7uSbmbBGXbRi": {
+    {
         "ID": "recfT7uSbmbBGXbRi",
         "Job_ID": "24441668",
         "Titel": "Undersk\u00f6terskor s\u00f6kes till J\u00e4rna f\u00f6r antikroppstestning av Covid-19",
@@ -3590,7 +3590,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recfdaSCNEIpyO45S": {
+    {
         "ID": "recfdaSCNEIpyO45S",
         "Job_ID": "24440451",
         "Titel": "Vi s\u00f6ker tv\u00e5 undersk\u00f6terskor till Fun\u00e4sdalens & Svegs H\u00e4lsocentraler",
@@ -3599,7 +3599,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recfjyphg3G82BGMs": {
+    {
         "ID": "recfjyphg3G82BGMs",
         "Job_ID": "24418182",
         "Titel": "Beh\u00f6rig l\u00e4rare i engelska, svenska och/eller matematik",
@@ -3608,7 +3608,7 @@
         "Ort": "Astar AB",
         "Arbetsgivare": "Astar AB"
     },
-    "recfu8aVlj6obCy8d": {
+    {
         "ID": "recfu8aVlj6obCy8d",
         "Job_ID": "24405606",
         "Titel": "Speciall\u00e4rare/specialpedagog",
@@ -3617,7 +3617,7 @@
         "Ort": "H\u00e4rn\u00f6sands Kommun",
         "Arbetsgivare": "H\u00e4rn\u00f6sands kommun"
     },
-    "recfzREMbrNaolUFS": {
+    {
         "ID": "recfzREMbrNaolUFS",
         "Job_ID": "24428178",
         "Titel": "Personliga assistenter till man i Ottsj\u00f6!",
@@ -3626,7 +3626,7 @@
         "Ort": "Humana AB",
         "Arbetsgivare": "Humana AB"
     },
-    "recg27CzA8T4r0Ro4": {
+    {
         "ID": "recg27CzA8T4r0Ro4",
         "Job_ID": "24366831",
         "Titel": "Timanst\u00e4lld Omv\u00e5rdnadspersonal",
@@ -3635,7 +3635,7 @@
         "Ort": "H\u00e4rn\u00f6sands Kommun",
         "Arbetsgivare": "H\u00e4rn\u00f6sands kommun"
     },
-    "recg51KJ0DMbjiX4q": {
+    {
         "ID": "recg51KJ0DMbjiX4q",
         "Job_ID": "24435595",
         "Titel": "Undersk\u00f6terska sommarvikariat till Gyn/F\u00f6rlossning/BB, \u00d6-vik",
@@ -3644,7 +3644,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recgBi2BewxSGTxBs": {
+    {
         "ID": "recgBi2BewxSGTxBs",
         "Job_ID": "24403932",
         "Titel": "AnnSam s\u00f6ker Sjuksk\u00f6terska! Uppdrag inom Hemsjukv\u00e5rden i Ragunda.",
@@ -3653,7 +3653,7 @@
         "Ort": "AnnSam - Ragunda",
         "Arbetsgivare": "Annsam AB"
     },
-    "recgCuF6RiYX4gIV2": {
+    {
         "ID": "recgCuF6RiYX4gIV2",
         "Job_ID": "24437950",
         "Titel": "Samordnare till verksamhet H\u00e4lso-och sjukv\u00e5rdsadministration",
@@ -3662,7 +3662,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recgFiZ4tEPUbuXbS": {
+    {
         "ID": "recgFiZ4tEPUbuXbS",
         "Job_ID": "24417584",
         "Titel": "Leg, Sjuksk\u00f6terska till H\u00e4rn\u00f6sands omg\u00e5ende",
@@ -3671,7 +3671,7 @@
         "Ort": "AB V\u00e5rdl\u00e4nken Bemanning & Rekrytering ",
         "Arbetsgivare": "AB V\u00e5rdl\u00e4nken Bemanning & Rekrytering"
     },
-    "recgTGJBr8BlN4VXn": {
+    {
         "ID": "recgTGJBr8BlN4VXn",
         "Job_ID": "24446295",
         "Titel": "G\u00e4ll\u00f6 Timber s\u00f6ker en Underh\u00e5llschef",
@@ -3680,7 +3680,7 @@
         "Ort": "G\u00e4ll\u00f6 Timber AB",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recggEQoZYEQMNuyi": {
+    {
         "ID": "recggEQoZYEQMNuyi",
         "Job_ID": "24437782",
         "Titel": "L\u00e4rare med beh\u00f6righet fritidshem till Tr\u00e5ngsviken",
@@ -3689,7 +3689,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "recggZ0u7QtvHUAtz": {
+    {
         "ID": "recggZ0u7QtvHUAtz",
         "Job_ID": "24416058",
         "Titel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker agent i V\u00e4sternorrland",
@@ -3698,7 +3698,7 @@
         "Ort": "Mockfj\u00e4rds",
         "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB"
     },
-    "recgr4Y2a6ygqIB7l": {
+    {
         "ID": "recgr4Y2a6ygqIB7l",
         "Job_ID": "24325268",
         "Titel": "Sjuksk\u00f6terskor till Medicinavdelning 24, Sundsvall",
@@ -3707,7 +3707,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recgx4RSwh26t1zCX": {
+    {
         "ID": "recgx4RSwh26t1zCX",
         "Job_ID": "24437257",
         "Titel": "Medicinsk sekreterare till NPA mottagningen, Sundsvall",
@@ -3716,7 +3716,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recgxBc7sWSz5nGkL": {
+    {
         "ID": "recgxBc7sWSz5nGkL",
         "Job_ID": "24446879",
         "Titel": "Kundansvarig/s\u00e4ljare till T.O.R Partner",
@@ -3725,7 +3725,7 @@
         "Ort": "T.O.R Partner",
         "Arbetsgivare": "T.O.R Taktik Omst\u00e4llning & Rekrytering AB"
     },
-    "rech9ijKhVZVmyumF": {
+    {
         "ID": "rech9ijKhVZVmyumF",
         "Job_ID": "24398020",
         "Titel": "Timvikarie dagtid som personlig assistent (Re54)",
@@ -3734,7 +3734,7 @@
         "Ort": "Kooperativet Hand i Hand ekonomisk f\u00f6rening",
         "Arbetsgivare": "Kooperativet Hand i Hand Ekonomisk F\u00f6ren"
     },
-    "rech9uqQr6nvZxBB6": {
+    {
         "ID": "rech9uqQr6nvZxBB6",
         "Job_ID": "24424672",
         "Titel": "S\u00e4ljare till Pressbyr\u00e5n, \u00c5re",
@@ -3743,7 +3743,7 @@
         "Ort": "Pressbyr\u00e5n",
         "Arbetsgivare": "Reitan Convenience Sweden AB"
     },
-    "rechIIZH3NeVdvNWN": {
+    {
         "ID": "rechIIZH3NeVdvNWN",
         "Job_ID": "24415051",
         "Titel": "Sjuksk\u00f6terska till Lungavdelningen Sundsvall",
@@ -3752,7 +3752,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rechKrD2haV07bs5d": {
+    {
         "ID": "rechKrD2haV07bs5d",
         "Job_ID": "24439144",
         "Titel": "Specialistl\u00e4kare Klinisk fysiologi eller annan relevant specialitet",
@@ -3761,7 +3761,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rechPID2cRl7sCEkr": {
+    {
         "ID": "rechPID2cRl7sCEkr",
         "Job_ID": "24416074",
         "Titel": "Sjuksk\u00f6terskor sommarvikariat till Akutmottagningen, Sundsvall",
@@ -3770,7 +3770,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rechXIZDEj9AVsQS6": {
+    {
         "ID": "rechXIZDEj9AVsQS6",
         "Job_ID": "24439208",
         "Titel": "\u00d6verl\u00e4kare med m\u00f6jlighet till distans p\u00e5 deltid",
@@ -3779,7 +3779,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Psykiatri",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rechbMXEWQbkKQPw9": {
+    {
         "ID": "rechbMXEWQbkKQPw9",
         "Job_ID": "24411115",
         "Titel": "Tak och t\u00e4tskiktsmont\u00f6rer V\u00e4sternorrland",
@@ -3788,7 +3788,7 @@
         "Ort": "Biscaya Tak AB",
         "Arbetsgivare": "Biscaya Tak AB"
     },
-    "rechd3DQUT2H6bg8e": {
+    {
         "ID": "rechd3DQUT2H6bg8e",
         "Job_ID": "24430100",
         "Titel": "Sjuksk\u00f6terska till kirurgisk v\u00e5rdavdelning 15B, Sundsvall",
@@ -3797,7 +3797,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "rechgj1MqAg9kCu2R": {
+    {
         "ID": "rechgj1MqAg9kCu2R",
         "Job_ID": "24407332",
         "Titel": "Tandhygienist till Folktandv\u00e5rden i Hammarstrand",
@@ -3806,7 +3806,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Folktandv\u00e5rden",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rechuSBAZAJ0KZKaO": {
+    {
         "ID": "rechuSBAZAJ0KZKaO",
         "Job_ID": "24417964",
         "Titel": "Snickare till Klingsta Hus & Modul AB",
@@ -3815,7 +3815,7 @@
         "Ort": "Adecco Sweden AB",
         "Arbetsgivare": "Adecco Sweden AB"
     },
-    "reciDkjwTu1c6tHEL": {
+    {
         "ID": "reciDkjwTu1c6tHEL",
         "Job_ID": "24421271",
         "Titel": "Med sekr/Kanslist sommarvikariat sekretariat kirurgkliniken, Sundsvall",
@@ -3824,7 +3824,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reciMHxEpwv4BKHQ3": {
+    {
         "ID": "reciMHxEpwv4BKHQ3",
         "Job_ID": "24443179",
         "Titel": "Vill du jobba som undersk\u00f6terska p\u00e5 IVA sommaren 2021? ",
@@ -3833,7 +3833,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "reciVgPo8ZALU935q": {
+    {
         "ID": "reciVgPo8ZALU935q",
         "Job_ID": "24415439",
         "Titel": "Sjuksk\u00f6terska mottagning geriatrik, neurologi och rehabilitering Sundsvall",
@@ -3842,7 +3842,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reciWHBpyTe97LTnG": {
+    {
         "ID": "reciWHBpyTe97LTnG",
         "Job_ID": "24445652",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -3851,7 +3851,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "reciWUsEbePmApfJc": {
+    {
         "ID": "reciWUsEbePmApfJc",
         "Job_ID": "24403660",
         "Titel": "Medlemsrekryterare LRF!",
@@ -3860,7 +3860,7 @@
         "Ort": "2004 Wecall AB",
         "Arbetsgivare": "NUDDA AB"
     },
-    "reciXuLdnVXK2B5Kc": {
+    {
         "ID": "reciXuLdnVXK2B5Kc",
         "Job_ID": "24435621",
         "Titel": "Sk\u00f6tare Specialist Psykiatriskt Omv\u00e5rdnads Team, \u00d6rnsk\u00f6ldsvik",
@@ -3869,7 +3869,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recia1Sjl7csqKUTs": {
+    {
         "ID": "recia1Sjl7csqKUTs",
         "Job_ID": "24401782",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i H\u00e4rryda. Fast l\u00f6n plus provision",
@@ -3878,7 +3878,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "reciaK7NdV6jqyZ7b": {
+    {
         "ID": "reciaK7NdV6jqyZ7b",
         "Job_ID": "24449368",
         "Titel": "Upphandlare f\u00f6r fastighetsrelaterade upphandlingar ",
@@ -3887,7 +3887,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recidzd1CHJ5mYYX5": {
+    {
         "ID": "recidzd1CHJ5mYYX5",
         "Job_ID": "24432959",
         "Titel": "Sjuksk\u00f6terska till hud- och STI-mottagningen \u00d6stersunds sjukhus",
@@ -3896,7 +3896,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Hud",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recifcqfLnIiGUs9d": {
+    {
         "ID": "recifcqfLnIiGUs9d",
         "Job_ID": "24439103",
         "Titel": "ST l\u00e4kare, Klinisk fysiologi",
@@ -3905,7 +3905,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recihCjZWs6ReYVqs": {
+    {
         "ID": "recihCjZWs6ReYVqs",
         "Job_ID": "24434092",
         "Titel": "Fysioterapeut sommarvikariat till Fysioterapimottagningen, Sundsvall",
@@ -3914,7 +3914,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recirb8Cdw53wZMBL": {
+    {
         "ID": "recirb8Cdw53wZMBL",
         "Job_ID": "24448243",
         "Titel": "Arbetskonsulent",
@@ -3923,7 +3923,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "reciuEpjlX9hQbwf8": {
+    {
         "ID": "reciuEpjlX9hQbwf8",
         "Job_ID": "24446617",
         "Titel": "Systemf\u00f6rvaltare",
@@ -3932,7 +3932,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recj4iHzSCwtZJZD7": {
+    {
         "ID": "recj4iHzSCwtZJZD7",
         "Job_ID": "24446552",
         "Titel": "C/CE Chauff\u00f6r s\u00f6kes ",
@@ -3941,7 +3941,7 @@
         "Ort": "Uniflex Sverige AB",
         "Arbetsgivare": "Uniflex Sverige AB"
     },
-    "recj6fzIGoMzZqyS7": {
+    {
         "ID": "recj6fzIGoMzZqyS7",
         "Job_ID": "24294490",
         "Titel": "L\u00e4rare Sankt Ignatios Folkh\u00f6gskola, Sundsvall ",
@@ -3950,7 +3950,7 @@
         "Ort": "Sundsvall, Syntesv\u00e4gen 4",
         "Arbetsgivare": "Stift Sankt Ignatios"
     },
-    "recj9PDULwNC83EvT": {
+    {
         "ID": "recj9PDULwNC83EvT",
         "Job_ID": "24417970",
         "Titel": "Snickare till Klingsta Hus & Modul AB",
@@ -3959,7 +3959,7 @@
         "Ort": "Adecco Sweden AB",
         "Arbetsgivare": "Adecco Sweden AB"
     },
-    "recjIPxZg6Cxup4nh": {
+    {
         "ID": "recjIPxZg6Cxup4nh",
         "Job_ID": "24393509",
         "Titel": "R\u00e5domsg\u00e5rden AB s\u00f6ker sommarvikarier",
@@ -3968,7 +3968,7 @@
         "Ort": "R\u00e5domsg\u00e5rden AB",
         "Arbetsgivare": "R\u00e5domsg\u00e5rden AB"
     },
-    "recjLc7wDddKwkPHi": {
+    {
         "ID": "recjLc7wDddKwkPHi",
         "Job_ID": "24391107",
         "Titel": "Regionjurist alt. jurist till Region V\u00e4sternorrland",
@@ -3977,7 +3977,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recjMCtz9E5qObjgT": {
+    {
         "ID": "recjMCtz9E5qObjgT",
         "Job_ID": "24429326",
         "Titel": "L\u00e5gstadiel\u00e4rare till Hans\u00e5kerskolan",
@@ -3986,7 +3986,7 @@
         "Ort": "Ragunda kommun, Barn- och utbildning",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recjWWDNNoDWSuXPU": {
+    {
         "ID": "recjWWDNNoDWSuXPU",
         "Job_ID": "24389189",
         "Titel": "Beh\u00f6ver ut\u00f6ka min assistans med en eller tv\u00e5 till personliga assistenter",
@@ -3995,7 +3995,7 @@
         "Ort": "Brukarkooperativet JAG",
         "Arbetsgivare": "Brukarkooperativet JAG Personlig Assistans AB"
     },
-    "recjXAP5aDasNaxYj": {
+    {
         "ID": "recjXAP5aDasNaxYj",
         "Job_ID": "24435769",
         "Titel": "Personlig Assistent till en kille i Junsele.",
@@ -4004,7 +4004,7 @@
         "Ort": "Helsa Omsorg & Bemanning i Norden AB",
         "Arbetsgivare": "Helsa Omsorg & Bemanning i Norden AB"
     },
-    "recjfsKleAy4rVMiX": {
+    {
         "ID": "recjfsKleAy4rVMiX",
         "Job_ID": "24437834",
         "Titel": "Sjuksk\u00f6terskor Natt H\u00e4rn\u00f6sands Kommun",
@@ -4013,7 +4013,7 @@
         "Ort": "H\u00e4rn\u00f6sands Kommun",
         "Arbetsgivare": "H\u00e4rn\u00f6sands kommun"
     },
-    "recjiMnWNuOGPqPDp": {
+    {
         "ID": "recjiMnWNuOGPqPDp",
         "Job_ID": "24437623",
         "Titel": "Undersk\u00f6terska, sommarvikariat, Specialistv\u00e5rdsmottagning, Sollefte\u00e5",
@@ -4022,7 +4022,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recjoSoq8iEg41axj": {
+    {
         "ID": "recjoSoq8iEg41axj",
         "Job_ID": "24316875",
         "Titel": "Sk\u00f6terskor s\u00f6kes till \u00d6stersund f\u00f6r antikroppstestning av Covid-19",
@@ -4031,7 +4031,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recjppKN2LM8GTxXz": {
+    {
         "ID": "recjppKN2LM8GTxXz",
         "Job_ID": "24430694",
         "Titel": "Undersk\u00f6terska",
@@ -4040,7 +4040,7 @@
         "Ort": "Socialf\u00f6rvaltningen, Hagalid, R\u00f6nnen",
         "Arbetsgivare": "Timr\u00e5 kommun"
     },
-    "recjppvdQUca6ZOUu": {
+    {
         "ID": "recjppvdQUca6ZOUu",
         "Job_ID": "24430051",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -4049,7 +4049,7 @@
         "Ort": "Sundsvall",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recjprDkznH9Dv4sj": {
+    {
         "ID": "recjprDkznH9Dv4sj",
         "Job_ID": "24440120",
         "Titel": "Sommarjobb inom Folktandv\u00e5rden V\u00e4sternorrland",
@@ -4058,7 +4058,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recjrucuIlQRpKBxl": {
+    {
         "ID": "recjrucuIlQRpKBxl",
         "Job_ID": "24443292",
         "Titel": "Operationssjuksk\u00f6terska till \u00f6ron- n\u00e4sa- halskliniken",
@@ -4067,7 +4067,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de \u00d6gon, \u00f6ron",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recjtXD1NMgspm9F9": {
+    {
         "ID": "recjtXD1NMgspm9F9",
         "Job_ID": "24448648",
         "Titel": "Leg. L\u00e4kare s\u00f6kes till bemanningsuppdrag",
@@ -4076,7 +4076,7 @@
         "Ort": "Viva Bemanning - Str\u00f6msund",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "reck7OVY8rMYNmdSp": {
+    {
         "ID": "reck7OVY8rMYNmdSp",
         "Job_ID": "24415732",
         "Titel": "2 Tandl\u00e4kare till Folktandv\u00e5rden Br\u00e4cke",
@@ -4085,7 +4085,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Folktandv\u00e5rden",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "reckTzctN5wDh2gKk": {
+    {
         "ID": "reckTzctN5wDh2gKk",
         "Job_ID": "24425587",
         "Titel": "Sjuksk\u00f6terskor sommarvikariat till Kirurgavdelning 15A, Sundsvall",
@@ -4094,7 +4094,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recka4ynxm6Rgk4jG": {
+    {
         "ID": "recka4ynxm6Rgk4jG",
         "Job_ID": "24431167",
         "Titel": "Sjuksk\u00f6terska till Kardiologavdelning i Sundsvall",
@@ -4103,7 +4103,7 @@
         "Ort": "Ofelia V\u00e5rd AB",
         "Arbetsgivare": "Ofelia V\u00e5rd AB"
     },
-    "reckeOWREY61kY1CE": {
+    {
         "ID": "reckeOWREY61kY1CE",
         "Job_ID": "24398342",
         "Titel": "Gl\u00e4dje och trygghet i vardagen. Tj\u00e4nster som timvikarie och arbetsledare (R",
@@ -4112,7 +4112,7 @@
         "Ort": "Kooperativet Hand i Hand ekonomisk f\u00f6rening",
         "Arbetsgivare": "Kooperativet Hand i Hand Ekonomisk F\u00f6ren"
     },
-    "reckj7m38YtmKnReY": {
+    {
         "ID": "reckj7m38YtmKnReY",
         "Job_ID": "24366791",
         "Titel": "Sjuksk\u00f6terska till bemanningsuppdrag inom kommunal sjukv\u00e5rd i Sundsvall",
@@ -4121,7 +4121,7 @@
         "Ort": "BONLIVA AB",
         "Arbetsgivare": "Bonliva AB"
     },
-    "recklHlDcjGOJTFNU": {
+    {
         "ID": "recklHlDcjGOJTFNU",
         "Job_ID": "24442775",
         "Titel": "Sjuksk\u00f6terska f\u00f6r Sommarvikariat till Akutmottagningen, Sollefte\u00e5",
@@ -4130,7 +4130,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reckovD594zeA7Ft4": {
+    {
         "ID": "reckovD594zeA7Ft4",
         "Job_ID": "24438171",
         "Titel": "Sjuksk\u00f6terska, inriktning reumatologi, Specialistmottagningen, Sollefte\u00e5",
@@ -4139,7 +4139,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recktmkw5OKaGkktF": {
+    {
         "ID": "recktmkw5OKaGkktF",
         "Job_ID": "24388101",
         "Titel": "Distriktsansvarig s\u00e4ljare Stockholm",
@@ -4148,7 +4148,7 @@
         "Ort": "HGRec AB",
         "Arbetsgivare": "HGRec AB"
     },
-    "reckvomp6w1YnXw9t": {
+    {
         "ID": "reckvomp6w1YnXw9t",
         "Job_ID": "24438171",
         "Titel": "Sjuksk\u00f6terska, inriktning reumatologi, Specialistmottagningen, Sollefte\u00e5",
@@ -4157,7 +4157,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reckwUqzxCIYQjMkw": {
+    {
         "ID": "reckwUqzxCIYQjMkw",
         "Job_ID": "24393548",
         "Titel": "R\u00e5domsg\u00e5rden AB s\u00f6ker undersk\u00f6terska",
@@ -4166,7 +4166,7 @@
         "Ort": "R\u00e5domsg\u00e5rden AB",
         "Arbetsgivare": "R\u00e5domsg\u00e5rden AB"
     },
-    "reclBIjn5VhOozeJX": {
+    {
         "ID": "reclBIjn5VhOozeJX",
         "Job_ID": "24438943",
         "Titel": "Systemutvecklare / Utvecklare / Java / .NET till Frontwalker",
@@ -4175,7 +4175,7 @@
         "Ort": "Bravura",
         "Arbetsgivare": "Bravura Sverige AB"
     },
-    "reclBo0P0Icgyzgbf": {
+    {
         "ID": "reclBo0P0Icgyzgbf",
         "Job_ID": "24401702",
         "Titel": "Undersk\u00f6terska till Svegs h\u00e4lsocentral  ",
@@ -4184,7 +4184,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "reclHdSD9oaJFOWPT": {
+    {
         "ID": "reclHdSD9oaJFOWPT",
         "Job_ID": "24437946",
         "Titel": "Samordnare till verksamhet H\u00e4lso-och sjukv\u00e5rdsadministration",
@@ -4193,7 +4193,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reclTt3EfiOXfJFIy": {
+    {
         "ID": "reclTt3EfiOXfJFIy",
         "Job_ID": "24434547",
         "Titel": "Sjuksk\u00f6terska Specialist Psykiatriskt Omv\u00e5rdnads Team, \u00d6rnsk\u00f6ldsvik",
@@ -4202,7 +4202,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reclZAhC7hGH5WxhX": {
+    {
         "ID": "reclZAhC7hGH5WxhX",
         "Job_ID": "24432413",
         "Titel": "Tv\u00e5 vikarierande underl\u00e4kare i barn- och ungdomsmedicin vid \u00d6stersunds sjuk",
@@ -4211,7 +4211,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och ungdomsmedicin",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "reclibaQvcJXd0Wx4": {
+    {
         "ID": "reclibaQvcJXd0Wx4",
         "Job_ID": "24430051",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -4220,7 +4220,7 @@
         "Ort": "Sundsvall",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recltp1O0cCngxENS": {
+    {
         "ID": "recltp1O0cCngxENS",
         "Job_ID": "24450505",
         "Titel": "Vill du jobba som Supply Chain Refresh coordinator?",
@@ -4229,7 +4229,7 @@
         "Ort": "Fujitsu - \u00d6stersund",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "reclucQQO79XKsgR9": {
+    {
         "ID": "reclucQQO79XKsgR9",
         "Job_ID": "24412247",
         "Titel": "Sjuksk\u00f6terska, sommarvikariat, Ortopeden avd 14, Sundsvall",
@@ -4238,7 +4238,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recm3bXHfteQJlWG5": {
+    {
         "ID": "recm3bXHfteQJlWG5",
         "Job_ID": "24427556",
         "Titel": "Vi s\u00f6ker diabetessk\u00f6terska/distriktssk\u00f6terska till Lugnviks HC",
@@ -4247,7 +4247,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recmIdpAONY8wbdGe": {
+    {
         "ID": "recmIdpAONY8wbdGe",
         "Job_ID": "24446138",
         "Titel": "M\u00e4ttekniker med samordningsansvar",
@@ -4256,7 +4256,7 @@
         "Ort": "NCC",
         "Arbetsgivare": "NCC AB"
     },
-    "recmXtOGLzNUBQNiK": {
+    {
         "ID": "recmXtOGLzNUBQNiK",
         "Job_ID": "24397177",
         "Titel": "S\u00e4ljare till Sundsvall",
@@ -4265,7 +4265,7 @@
         "Ort": "Verisure Sales Sverige AB",
         "Arbetsgivare": "Verisure Sverige AB"
     },
-    "recmcMR1eVcTtFjVA": {
+    {
         "ID": "recmcMR1eVcTtFjVA",
         "Job_ID": "24447876",
         "Titel": "Sjuksk\u00f6terska till LARO-mottagningen, Sundsvall",
@@ -4274,7 +4274,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recmi4fxXnTumH7mY": {
+    {
         "ID": "recmi4fxXnTumH7mY",
         "Job_ID": "24427406",
         "Titel": "Sjuksk\u00f6terska till strokeavdelning 25, Sundsvall",
@@ -4283,7 +4283,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recmzZY4PgfxCtgtQ": {
+    {
         "ID": "recmzZY4PgfxCtgtQ",
         "Job_ID": "24421299",
         "Titel": "Sjuksk\u00f6terska till v\u00e5ra vaccinationsbussar - Sundsvall",
@@ -4292,7 +4292,7 @@
         "Ort": "Medical Vaccin Sverige AB",
         "Arbetsgivare": "Stockholm Medical Office Nfl AB"
     },
-    "recn9AWwGjJ39c2SY": {
+    {
         "ID": "recn9AWwGjJ39c2SY",
         "Job_ID": "24401837",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i H\u00e4ssleholm. Fast l\u00f6n plus provision",
@@ -4301,7 +4301,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recnPEquhvJmGJiFS": {
+    {
         "ID": "recnPEquhvJmGJiFS",
         "Job_ID": "24307197",
         "Titel": "Bemanningen vikarie inom v\u00e5rd och omsorg.",
@@ -4310,7 +4310,7 @@
         "Ort": "Str\u00f6msunds kommun, Kommunledningsf\u00f6rvaltningen",
         "Arbetsgivare": "Str\u00f6msunds kommun"
     },
-    "recnRwCpvqAMEYzmr": {
+    {
         "ID": "recnRwCpvqAMEYzmr",
         "Job_ID": "24438991",
         "Titel": "Konstrukt\u00f6r inriktning tr\u00e4",
@@ -4319,7 +4319,7 @@
         "Ort": "Attacus Stomsystem",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB"
     },
-    "recnUBZF6vb3kb9Es": {
+    {
         "ID": "recnUBZF6vb3kb9Es",
         "Job_ID": "24384317",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Fun\u00e4sdalen f\u00f6r antikroppstestning av Covid-19",
@@ -4328,7 +4328,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recnWTFOsTDQSOGP0": {
+    {
         "ID": "recnWTFOsTDQSOGP0",
         "Job_ID": "24425417",
         "Titel": "Sjuksk\u00f6terskor",
@@ -4337,7 +4337,7 @@
         "Ort": "Br\u00e4cke kommun, V\u00e5rd- och omsorgsavdelningen",
         "Arbetsgivare": "Br\u00e4cke kommun"
     },
-    "recnfTq5I4EF3eCeU": {
+    {
         "ID": "recnfTq5I4EF3eCeU",
         "Job_ID": "24435655",
         "Titel": "Barnmorska sommarvikariat till Gyn/F\u00f6rlossning/BB, \u00d6rnsk\u00f6ldsvik",
@@ -4346,7 +4346,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recnwCENnnaqgupIt": {
+    {
         "ID": "recnwCENnnaqgupIt",
         "Job_ID": "24415848",
         "Titel": "Erfaren javautvecklare till v\u00e5rt \u00d6stersundskontor",
@@ -4355,7 +4355,7 @@
         "Ort": "Sopra Steria",
         "Arbetsgivare": "Sopra Steria Sweden AB"
     },
-    "reco8UAtSyFuoTH4C": {
+    {
         "ID": "reco8UAtSyFuoTH4C",
         "Job_ID": "24428842",
         "Titel": "S\u00e4ljare/Account Manager i \u00d6stersund",
@@ -4364,7 +4364,7 @@
         "Ort": "Cybercom Group",
         "Arbetsgivare": "Experis AB"
     },
-    "recoITWFD1HRU7uPJ": {
+    {
         "ID": "recoITWFD1HRU7uPJ",
         "Job_ID": "24368676",
         "Titel": "Intresseanm\u00e4lan under Covid-19 f\u00f6r tillf\u00e4lligt arbete som sjuksk\u00f6terska",
@@ -4373,7 +4373,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recoJADrff5I5tQfD": {
+    {
         "ID": "recoJADrff5I5tQfD",
         "Job_ID": "24435509",
         "Titel": "\u00d6verl\u00e4kare/ST-l\u00e4kare inom V\u00e5rdhygien, Region JH",
@@ -4382,7 +4382,7 @@
         "Ort": "Omr\u00e5de Patients\u00e4kerhet",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recoJMCuBhATacvzu": {
+    {
         "ID": "recoJMCuBhATacvzu",
         "Job_ID": "24435796",
         "Titel": "Undersk\u00f6terska till Kirurgisk akutv\u00e5rdsavdelning i Sundsvall",
@@ -4391,7 +4391,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recoQrdasAtfCHFXg": {
+    {
         "ID": "recoQrdasAtfCHFXg",
         "Job_ID": "24419642",
         "Titel": "Kockbitr\u00e4de",
@@ -4400,7 +4400,7 @@
         "Ort": "\u00d6stersunds kommun",
         "Arbetsgivare": "\u00d6stersunds kommun"
     },
-    "recoWkWIFqaES0XTR": {
+    {
         "ID": "recoWkWIFqaES0XTR",
         "Job_ID": "24429979",
         "Titel": "Sjuksk\u00f6terska till Akutmottagningen, \u00d6rnsk\u00f6ldsvik",
@@ -4409,7 +4409,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recoZcObzsdnP3667": {
+    {
         "ID": "recoZcObzsdnP3667",
         "Job_ID": "24437869",
         "Titel": "Account Manager Fleetcard till OKQ8 \u2013 Norrland",
@@ -4418,7 +4418,7 @@
         "Ort": "OKQ8",
         "Arbetsgivare": "OK-Q8 AB"
     },
-    "recodkPwlQLkyEq9n": {
+    {
         "ID": "recodkPwlQLkyEq9n",
         "Job_ID": "24437905",
         "Titel": "Kurator till LARO-mottagning, Sundsvall",
@@ -4427,7 +4427,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recoeWLfrfxv9UOmn": {
+    {
         "ID": "recoeWLfrfxv9UOmn",
         "Job_ID": "24434969",
         "Titel": "Nya kollegor till Com Hem/Boxers s\u00e4ljande kundtj\u00e4nst i \u00d6stersund",
@@ -4436,7 +4436,7 @@
         "Ort": "Webhelp Sweden AB",
         "Arbetsgivare": "Webhelp Sweden AB"
     },
-    "recoiRXDhEoPAZo4I": {
+    {
         "ID": "recoiRXDhEoPAZo4I",
         "Job_ID": "24444453",
         "Titel": "Sjuksk\u00f6terska till infektionskliniken i Sundsvall",
@@ -4445,7 +4445,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recomQvLlsIg8nXNk": {
+    {
         "ID": "recomQvLlsIg8nXNk",
         "Job_ID": "24405241",
         "Titel": "Vi s\u00f6ker erfarna undersk\u00f6terskor till v\u00e5ra kunder i Sundsvall!",
@@ -4454,7 +4454,7 @@
         "Ort": "Prime Care AB",
         "Arbetsgivare": "Prime Care & Professional AB"
     },
-    "recp0EL8boOoOhoKd": {
+    {
         "ID": "recp0EL8boOoOhoKd",
         "Job_ID": "24402141",
         "Titel": "S\u00e4ljare i Timr\u00e5 med f\u00f6rbokade kundm\u00f6ten",
@@ -4463,7 +4463,7 @@
         "Ort": "Clean cloud AB",
         "Arbetsgivare": "Clean cloud AB"
     },
-    "recp2gZMuqDRdTw58": {
+    {
         "ID": "recp2gZMuqDRdTw58",
         "Job_ID": "24443516",
         "Titel": "Distriktsl\u00e4kare till Lits h\u00e4lsocentral",
@@ -4472,7 +4472,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recpADrNXfvRel0xo": {
+    {
         "ID": "recpADrNXfvRel0xo",
         "Job_ID": "24403414",
         "Titel": "Erfaren operat\u00f6r ",
@@ -4481,7 +4481,7 @@
         "Ort": "NORRLANDS TR\u00c4 AKTIEBOLAG",
         "Arbetsgivare": "Norrlands Tr\u00e4 AB"
     },
-    "recpETP2p189Q3MJ8": {
+    {
         "ID": "recpETP2p189Q3MJ8",
         "Job_ID": "24388893",
         "Titel": "Undersk\u00f6terskor till Ersta hemtj\u00e4nst i Sundsvall",
@@ -4490,7 +4490,7 @@
         "Ort": "Ersta diakoni, Ersta hemtj\u00e4nst Sundsvall",
         "Arbetsgivare": "Ideella F\u00f6ren Ersta Diakonis\u00e4llskap Med Firmaers"
     },
-    "recplX3bOi0BAbP4D": {
+    {
         "ID": "recplX3bOi0BAbP4D",
         "Job_ID": "24412992",
         "Titel": "Tandsk\u00f6terskor till Folktandv\u00e5rden Campus",
@@ -4499,7 +4499,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Folktandv\u00e5rden",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recq3B9CK4EPX20GK": {
+    {
         "ID": "recq3B9CK4EPX20GK",
         "Job_ID": "24401913",
         "Titel": "Vikariat med kort varsel inom skolan",
@@ -4508,7 +4508,7 @@
         "Ort": "Ragunda kommun, Barn- och utbildning",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recq9PpW78jaMP6cY": {
+    {
         "ID": "recq9PpW78jaMP6cY",
         "Job_ID": "24425746",
         "Titel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
@@ -4517,7 +4517,7 @@
         "Ort": "Ragunda kommun, J\u00e4r\u00e5skolan",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recqCIukt0dxQIVyB": {
+    {
         "ID": "recqCIukt0dxQIVyB",
         "Job_ID": "24427177",
         "Titel": "Serviceassistenter inom v\u00e5rden",
@@ -4526,7 +4526,7 @@
         "Ort": "\u00d6rnsk\u00f6ldsviks kommun",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "recqZIk5LZ48CnxJl": {
+    {
         "ID": "recqZIk5LZ48CnxJl",
         "Job_ID": "24429492",
         "Titel": "Undersk\u00f6terska till hemtj\u00e4nsten",
@@ -4535,7 +4535,7 @@
         "Ort": "F\u00f6renade Care",
         "Arbetsgivare": "F\u00f6renade Care AB"
     },
-    "recqZMUKgKghSIwmP": {
+    {
         "ID": "recqZMUKgKghSIwmP",
         "Job_ID": "24435075",
         "Titel": "Sk\u00f6tare till akuta teamet, Psykiatrisk mottagning, Kramfors",
@@ -4544,7 +4544,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recqalLxT0akAoEkp": {
+    {
         "ID": "recqalLxT0akAoEkp",
         "Job_ID": "24433146",
         "Titel": "Undersk\u00f6terskor till kommunal verksamhet i \u00d6stersund med start omg\u00e5ende!",
@@ -4553,7 +4553,7 @@
         "Ort": "V\u00e5rdkuriren AB",
         "Arbetsgivare": "V\u00e5rdkuriren AB"
     },
-    "recqeMYeI1J3FyEh7": {
+    {
         "ID": "recqeMYeI1J3FyEh7",
         "Job_ID": "24426499",
         "Titel": "MSB Sand\u00f6 s\u00f6ker l\u00e4rarvikarie inom olika befattningar",
@@ -4562,7 +4562,7 @@
         "Ort": "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap",
         "Arbetsgivare": "Myndigheten F\u00f6r Samh\u00e4llsskydd och Beredskap (Msb"
     },
-    "recqh0ACyZFYKE2cr": {
+    {
         "ID": "recqh0ACyZFYKE2cr",
         "Job_ID": "24306741",
         "Titel": "Systemutvecklare till Sundsvall",
@@ -4571,7 +4571,7 @@
         "Ort": "F\u00f6rs\u00e4kringskassan",
         "Arbetsgivare": "F\u00f6rs\u00e4kringskassan"
     },
-    "recqlwfQhCMmVJt32": {
+    {
         "ID": "recqlwfQhCMmVJt32",
         "Job_ID": "24440131",
         "Titel": "Sommarjobb inom Folktandv\u00e5rden V\u00e4sternorrland",
@@ -4580,7 +4580,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recqpb6JvPfZhv5N7": {
+    {
         "ID": "recqpb6JvPfZhv5N7",
         "Job_ID": "24415873",
         "Titel": "T\u00e4vlingsm\u00e4nniska? Abonnenta s\u00f6ker taggade Events\u00e4ljare!",
@@ -4589,7 +4589,7 @@
         "Ort": "Abonnenta AB",
         "Arbetsgivare": "A 95 Consulting AB"
     },
-    "recqyp1Tc3lpJa9t2": {
+    {
         "ID": "recqyp1Tc3lpJa9t2",
         "Job_ID": "24436288",
         "Titel": "Divisionschef omr\u00e5de Kirurgi",
@@ -4598,7 +4598,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recr0WUMuj2YCQWjj": {
+    {
         "ID": "recr0WUMuj2YCQWjj",
         "Job_ID": "24389042",
         "Titel": "Bemanningsundersk\u00f6terska i Sundsvall",
@@ -4607,7 +4607,7 @@
         "Ort": "PersonalExpressen",
         "Arbetsgivare": "PersonalExpressen AB"
     },
-    "recr59AyR7192vsDg": {
+    {
         "ID": "recr59AyR7192vsDg",
         "Job_ID": "24442066",
         "Titel": "Undersk\u00f6terska/V\u00e5rdare till mobila teamet hemtj\u00e4nst",
@@ -4616,7 +4616,7 @@
         "Ort": "V\u00e4lf\u00e4rdsf\u00f6rvaltningen, Ordin\u00e4rt boende",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "recr9znEgxgeWdy1U": {
+    {
         "ID": "recr9znEgxgeWdy1U",
         "Job_ID": "24432331",
         "Titel": "Personlig assistent, H\u00e4ggen\u00e5s",
@@ -4625,7 +4625,7 @@
         "Ort": "A-Assistans",
         "Arbetsgivare": "A-Assistans Leimir AB"
     },
-    "recrA0cwQ2SeuONJ1": {
+    {
         "ID": "recrA0cwQ2SeuONJ1",
         "Job_ID": "24432413",
         "Titel": "Tv\u00e5 vikarierande underl\u00e4kare i barn- och ungdomsmedicin vid \u00d6stersunds sjuk",
@@ -4634,7 +4634,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och ungdomsmedicin",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recrUhdiwqQLwn10T": {
+    {
         "ID": "recrUhdiwqQLwn10T",
         "Job_ID": "24420700",
         "Titel": "H\u00f6gakustenskolan s\u00f6ker l\u00e4rare till mellanstadiet",
@@ -4643,7 +4643,7 @@
         "Ort": "Kramfors kommun, Bildningsf\u00f6rvaltningen",
         "Arbetsgivare": "Kramfors kommun"
     },
-    "recrZN2JQOL5CL5nJ": {
+    {
         "ID": "recrZN2JQOL5CL5nJ",
         "Job_ID": "24430407",
         "Titel": "Javautvecklare till Frontwalker Sundsvall",
@@ -4652,7 +4652,7 @@
         "Ort": "Professionals Nord Rekrytering AB",
         "Arbetsgivare": "Professionals Nord Rekrytering AB"
     },
-    "recrZOHkoPmfsXOW2": {
+    {
         "ID": "recrZOHkoPmfsXOW2",
         "Job_ID": "24442702",
         "Titel": "Vi s\u00f6ker undersk\u00f6terskor till \u00d6stersunds H\u00e4lsocentraler",
@@ -4661,7 +4661,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO \u00d6stersund ",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recraqDxNnvW7PEL0": {
+    {
         "ID": "recraqDxNnvW7PEL0",
         "Job_ID": "24409598",
         "Titel": "ST-l\u00e4kare L\u00e4nsverksamhet Psykiatri, \u00d6rnsk\u00f6ldsvik",
@@ -4670,7 +4670,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recrfKAhdGskkEEQ4": {
+    {
         "ID": "recrfKAhdGskkEEQ4",
         "Job_ID": "24425523",
         "Titel": "S\u00e4ljare \u00d6stersund",
@@ -4679,7 +4679,7 @@
         "Ort": "SECTOR ALARM AB",
         "Arbetsgivare": "Sector Alarm AB"
     },
-    "recrq3zheDpbkXAST": {
+    {
         "ID": "recrq3zheDpbkXAST",
         "Job_ID": "24419716",
         "Titel": "Undersk\u00f6terskor v\u00e4lkomnas till akutmottagningen sommaren 2021!",
@@ -4688,7 +4688,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recrrP2IcOkg6jpV5": {
+    {
         "ID": "recrrP2IcOkg6jpV5",
         "Job_ID": "24423622",
         "Titel": "S\u00e4ljare \u00d6rnsk\u00f6ldsvik",
@@ -4697,7 +4697,7 @@
         "Ort": "Elgiganten AB",
         "Arbetsgivare": "Elgiganten AB"
     },
-    "recs5n8Fq6rxHtFep": {
+    {
         "ID": "recs5n8Fq6rxHtFep",
         "Job_ID": "24423509",
         "Titel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
@@ -4706,7 +4706,7 @@
         "Ort": "Ragunda kommun, St\u00f6d- och omsorg",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recsN2KjIYDateLTg": {
+    {
         "ID": "recsN2KjIYDateLTg",
         "Job_ID": "24435346",
         "Titel": "Undersk\u00f6terska sommarvikariat till Lungavdelningen, Sundsvall",
@@ -4715,7 +4715,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recsQIp4MZn0CVLiF": {
+    {
         "ID": "recsQIp4MZn0CVLiF",
         "Job_ID": "24316249",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Krokom f\u00f6r antikroppstestning av Covid-19",
@@ -4724,7 +4724,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "recsUkEJYjORTuFIn": {
+    {
         "ID": "recsUkEJYjORTuFIn",
         "Job_ID": "24422001",
         "Titel": "Undersk\u00f6terska/V\u00e5rdare till hemtj\u00e4nsten Sund/Svedjeholmen",
@@ -4733,7 +4733,7 @@
         "Ort": "V\u00e4lf\u00e4rdsf\u00f6rvaltningen, Ordin\u00e4rt boende, Svedjeholmen",
         "Arbetsgivare": "\u00d6rnsk\u00f6ldsviks kommun"
     },
-    "recsVWf5pRsDhOSlo": {
+    {
         "ID": "recsVWf5pRsDhOSlo",
         "Job_ID": "24427406",
         "Titel": "Sjuksk\u00f6terska till strokeavdelning 25, Sundsvall",
@@ -4742,7 +4742,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recsZdG1dJlxmnm0G": {
+    {
         "ID": "recsZdG1dJlxmnm0G",
         "Job_ID": "24430080",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -4751,7 +4751,7 @@
         "Ort": "Hammarstrand",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recsbSeSjaIsA8rHm": {
+    {
         "ID": "recsbSeSjaIsA8rHm",
         "Job_ID": "24430066",
         "Titel": "Vattenfall Services rekryterar i V\u00e4sternorrland och J\u00e4mtland!",
@@ -4760,7 +4760,7 @@
         "Ort": "Sollefte\u00e5 ",
         "Arbetsgivare": "Vattenfall AB"
     },
-    "recsh7VPjQhEwQCju": {
+    {
         "ID": "recsh7VPjQhEwQCju",
         "Job_ID": "24441031",
         "Titel": "Bilintresserade s\u00e4ljare",
@@ -4769,7 +4769,7 @@
         "Ort": "Sundsvalls Bildemontering AB",
         "Arbetsgivare": "Sundsvalls Bildemontering AB"
     },
-    "recskNPtb6rkdCbgN": {
+    {
         "ID": "recskNPtb6rkdCbgN",
         "Job_ID": "24402000",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Falkenberg. Fast l\u00f6n plus provision",
@@ -4778,7 +4778,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recsqVMCIFPCldyU3": {
+    {
         "ID": "recsqVMCIFPCldyU3",
         "Job_ID": "24410337",
         "Titel": "Sjuksk\u00f6terskor till Ortopedavdelningen, \u00d6stersunds sjukhus",
@@ -4787,7 +4787,7 @@
         "Ort": "Omr\u00e5de Ortopedi",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recsqufEKymnoXg3i": {
+    {
         "ID": "recsqufEKymnoXg3i",
         "Job_ID": "24449840",
         "Titel": "Kundservicemedarbetare till \u00d6stersund!",
@@ -4796,7 +4796,7 @@
         "Ort": "StudentConsulting",
         "Arbetsgivare": "Studentconsulting Sweden AB (Publ)"
     },
-    "rect37LnuUEB3jEnN": {
+    {
         "ID": "rect37LnuUEB3jEnN",
         "Job_ID": "24420006",
         "Titel": "Vi v\u00e4lkomnar sjuksk\u00f6terskor till akutmottagningen sommaren 2021!",
@@ -4805,7 +4805,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rectGkSDQ4eeqpMgb": {
+    {
         "ID": "rectGkSDQ4eeqpMgb",
         "Job_ID": "24448919",
         "Titel": "Systemutvecklare till uppdrag i G\u00e4vle, Sundsvall och \u00d6stersund ",
@@ -4814,7 +4814,7 @@
         "Ort": "Experis IT",
         "Arbetsgivare": "Experis AB"
     },
-    "rectOj0wsHgCTglmQ": {
+    {
         "ID": "rectOj0wsHgCTglmQ",
         "Job_ID": "24443327",
         "Titel": "Sjuksk\u00f6terska v\u00e4lkomnas till neonatalavdelningen sommaren 2021!",
@@ -4823,7 +4823,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rectVT6vNjg2CyhHS": {
+    {
         "ID": "rectVT6vNjg2CyhHS",
         "Job_ID": "24439931",
         "Titel": "Sjuksk\u00f6terskor v\u00e4lkomnas till kirurgienheten",
@@ -4832,7 +4832,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Kirurgi",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "rectVTz3RiyR1LrgF": {
+    {
         "ID": "rectVTz3RiyR1LrgF",
         "Job_ID": "24445706",
         "Titel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
@@ -4841,7 +4841,7 @@
         "Ort": "Ramudden AB",
         "Arbetsgivare": "Ramudden AB"
     },
-    "rectZwHBinIiDl8f1": {
+    {
         "ID": "rectZwHBinIiDl8f1",
         "Job_ID": "24436205",
         "Titel": " Vi s\u00f6ker en s\u00e4ljare till NHC - Sweden, Timr\u00e5",
@@ -4850,7 +4850,7 @@
         "Ort": "Northern Hall & Cover Sweden AB",
         "Arbetsgivare": "Northern Hall and Cover Sweden AB"
     },
-    "rectbLpeevGaw8buC": {
+    {
         "ID": "rectbLpeevGaw8buC",
         "Job_ID": "24411231",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6r bemanningsuppdrag 2021 ",
@@ -4859,7 +4859,7 @@
         "Ort": "Viva Bemanning - \u00d6stersund",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "rectcFeUFyGyRONJW": {
+    {
         "ID": "rectcFeUFyGyRONJW",
         "Job_ID": "24412970",
         "Titel": "HSE assistent",
@@ -4868,7 +4868,7 @@
         "Ort": "Poolia Ume\u00e5 AB",
         "Arbetsgivare": "Poolia Sverige AB"
     },
-    "rectcjU458JrjBhXR": {
+    {
         "ID": "rectcjU458JrjBhXR",
         "Job_ID": "24401804",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Skara. Fast l\u00f6n plus provision",
@@ -4877,7 +4877,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "rectmItHw8qYT4bnJ": {
+    {
         "ID": "rectmItHw8qYT4bnJ",
         "Job_ID": "24210311",
         "Titel": "Ekonomiadministrat\u00f6r med produktionssamordning till TFS i \u00d6stersund",
@@ -4886,7 +4886,7 @@
         "Ort": "Amendo ",
         "Arbetsgivare": "Amendo Bemanning & Rekrytering AB"
     },
-    "recttK06YtdOQpV2W": {
+    {
         "ID": "recttK06YtdOQpV2W",
         "Job_ID": "24374734",
         "Titel": "Sk\u00f6terskor s\u00f6kes till Hammarstrand f\u00f6r antikroppstestning av Covid-19",
@@ -4895,7 +4895,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "rectyML86YS3VXOCd": {
+    {
         "ID": "rectyML86YS3VXOCd",
         "Job_ID": "24435515",
         "Titel": "AnnSam en Sjuksk\u00f6terska! Uppdrag inom \u00c4ldrev\u00e5rd i Hammerdal.",
@@ -4904,7 +4904,7 @@
         "Ort": "AnnSam - \u00d6stersund",
         "Arbetsgivare": "Annsam AB"
     },
-    "rectyoQnnux98z4AL": {
+    {
         "ID": "rectyoQnnux98z4AL",
         "Job_ID": "24411263",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6r bemanningsuppdrag 2021 ",
@@ -4913,7 +4913,7 @@
         "Ort": "Viva Bemanning - Sollefte\u00e5",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recu3cgqjufkeDy1b": {
+    {
         "ID": "recu3cgqjufkeDy1b",
         "Job_ID": "24447979",
         "Titel": "L\u00e4rare med beh\u00f6righet i musik",
@@ -4922,7 +4922,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "recu4mcVpoTfZTmZO": {
+    {
         "ID": "recu4mcVpoTfZTmZO",
         "Job_ID": "24437534",
         "Titel": "Sveriges b\u00e4sta sjuksk\u00f6terska s\u00f6kes",
@@ -4931,7 +4931,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recuEwQYjzycMHdFH": {
+    {
         "ID": "recuEwQYjzycMHdFH",
         "Job_ID": "24438871",
         "Titel": "Vi s\u00f6ker en personlig assistent till 7-\u00e5rig tjej. 2064",
@@ -4940,7 +4940,7 @@
         "Ort": "STORSJ\u00d6BYGDENS PERSONLIGA ASSISTANS AB",
         "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB"
     },
-    "recuUslk522gAj32D": {
+    {
         "ID": "recuUslk522gAj32D",
         "Job_ID": "24408386",
         "Titel": "Socialsekreterare till Individ- och Familjeomsorgen/Barn och familj ",
@@ -4949,7 +4949,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "recugGW0HldNoKsv2": {
+    {
         "ID": "recugGW0HldNoKsv2",
         "Job_ID": "24445389",
         "Titel": "Underl\u00e4kare medicinkliniken, Sundsvall",
@@ -4958,7 +4958,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recuhEekda6Yu8yA8": {
+    {
         "ID": "recuhEekda6Yu8yA8",
         "Job_ID": "24439203",
         "Titel": "Undersk\u00f6terska, sommarvikariat, Ortopedavdelning, \u00d6rnsk\u00f6ldsvik",
@@ -4967,7 +4967,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recuipyRQqoxKQ1Tk": {
+    {
         "ID": "recuipyRQqoxKQ1Tk",
         "Job_ID": "24402125",
         "Titel": "S\u00e4ljare i H\u00e4rn\u00f6sand med f\u00f6rbokade kundm\u00f6ten",
@@ -4976,7 +4976,7 @@
         "Ort": "Clean cloud AB",
         "Arbetsgivare": "Clean cloud AB"
     },
-    "recurDwB9f6xQDDWp": {
+    {
         "ID": "recurDwB9f6xQDDWp",
         "Job_ID": "24446871",
         "Titel": "Tr\u00e4- och betongarbetare",
@@ -4985,7 +4985,7 @@
         "Ort": "Skanska Sverige AB - Hus Norr",
         "Arbetsgivare": "Skanska Sverige AB"
     },
-    "recuvPnOFHOYqQVKW": {
+    {
         "ID": "recuvPnOFHOYqQVKW",
         "Job_ID": "24420370",
         "Titel": "Verksamhetsanalytiker, Region V\u00e4sternorrland",
@@ -4994,7 +4994,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recuzoUtTC0d8xqKr": {
+    {
         "ID": "recuzoUtTC0d8xqKr",
         "Job_ID": "24436565",
         "Titel": "Neurointerventionist till trombektomiverksamhet Sundsvall",
@@ -5003,7 +5003,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recv17ql6XaeAToK9": {
+    {
         "ID": "recv17ql6XaeAToK9",
         "Job_ID": "24165099",
         "Titel": "Personal till Timr\u00e5 Pizzeria",
@@ -5012,7 +5012,7 @@
         "Ort": "Al-Sanuri Hassan",
         "Arbetsgivare": "Al-Sanuri, Hassan"
     },
-    "recv2TK3CRURJVGhs": {
+    {
         "ID": "recv2TK3CRURJVGhs",
         "Job_ID": "24401765",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Str\u00f6msund. Fast l\u00f6n plus provision",
@@ -5021,7 +5021,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recvRgcstqSGcqa4k": {
+    {
         "ID": "recvRgcstqSGcqa4k",
         "Job_ID": "24402146",
         "Titel": "S\u00e4ljare i Sollefte\u00e5 med f\u00f6rbokade kundm\u00f6ten",
@@ -5030,7 +5030,7 @@
         "Ort": "Clean cloud AB",
         "Arbetsgivare": "Clean cloud AB"
     },
-    "recvmIR6oOxQ66Fpj": {
+    {
         "ID": "recvmIR6oOxQ66Fpj",
         "Job_ID": "24420394",
         "Titel": "Systemutvecklare till Telias DevOps-team",
@@ -5039,7 +5039,7 @@
         "Ort": "Academic Work",
         "Arbetsgivare": "Academic Work Sweden AB"
     },
-    "recvnbrSAI6pmhZ64": {
+    {
         "ID": "recvnbrSAI6pmhZ64",
         "Job_ID": "24435724",
         "Titel": "Sjuksk\u00f6terska till Strokeavdelning",
@@ -5048,7 +5048,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "recvniN27vzYUlugb": {
+    {
         "ID": "recvniN27vzYUlugb",
         "Job_ID": "24411254",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6r bemanningsuppdrag 2021 ",
@@ -5057,7 +5057,7 @@
         "Ort": "Viva Bemanning - Timr\u00e5",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recvsjFfZVZFO6xtf": {
+    {
         "ID": "recvsjFfZVZFO6xtf",
         "Job_ID": "24437836",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes till medicinavdelning, \u00d6stersund",
@@ -5066,7 +5066,7 @@
         "Ort": "Ofelia V\u00e5rd AB",
         "Arbetsgivare": "Ofelia V\u00e5rd AB"
     },
-    "recw3Z8WsWdRYAPPW": {
+    {
         "ID": "recw3Z8WsWdRYAPPW",
         "Job_ID": "24406862",
         "Titel": "Intresseanm\u00e4lan f\u00f6r timvikariat som sjuksk\u00f6terska och distriktssk\u00f6terska\u00a0",
@@ -5075,7 +5075,7 @@
         "Ort": "Bergs kommun",
         "Arbetsgivare": "Bergs kommun"
     },
-    "recw5tBHjA6x3vQ7u": {
+    {
         "ID": "recw5tBHjA6x3vQ7u",
         "Job_ID": "24347866",
         "Titel": "Kund och verksamhetsintresserad systemutvecklare till Cybercom \u00d6stersund",
@@ -5084,7 +5084,7 @@
         "Ort": "Cybercom Sweden & Denmark",
         "Arbetsgivare": "Cybercom Sweden AB"
     },
-    "recwFRdOmkV3yTvLE": {
+    {
         "ID": "recwFRdOmkV3yTvLE",
         "Job_ID": "24450446",
         "Titel": "Specialistv\u00e5rden Campus s\u00f6ker Operationssjuksk\u00f6terska",
@@ -5093,7 +5093,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Ortopedi",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recwGmSynLlQWBZ0o": {
+    {
         "ID": "recwGmSynLlQWBZ0o",
         "Job_ID": "24423469",
         "Titel": "Sjuksk\u00f6terska till L\u00e4nsverksamhet Psykiatri avd 51, Sundsvall",
@@ -5102,7 +5102,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recwOJuQXciNmed6p": {
+    {
         "ID": "recwOJuQXciNmed6p",
         "Job_ID": "24419316",
         "Titel": "Personlig assistent s\u00f6kes till man i \u00d6stersund! ",
@@ -5111,7 +5111,7 @@
         "Ort": "Humana AB",
         "Arbetsgivare": "Humana AB"
     },
-    "recwSPPZEKyFm2SsT": {
+    {
         "ID": "recwSPPZEKyFm2SsT",
         "Job_ID": "24402184",
         "Titel": "Vikariat med kort varsel till f\u00f6rskolan",
@@ -5120,7 +5120,7 @@
         "Ort": "Ragunda kommun, Barn- och utbildning",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recwTtgtNGncJPSLm": {
+    {
         "ID": "recwTtgtNGncJPSLm",
         "Job_ID": "24347836",
         "Titel": "Developer JAVA till Cybercom \u00d6stersund",
@@ -5129,7 +5129,7 @@
         "Ort": "Cybercom Sweden & Denmark",
         "Arbetsgivare": "Cybercom Sweden AB"
     },
-    "recwYhBgCeIUIbEhs": {
+    {
         "ID": "recwYhBgCeIUIbEhs",
         "Job_ID": "24394511",
         "Titel": "Framtidens s\u00e4ljare",
@@ -5138,7 +5138,7 @@
         "Ort": "Energihem i Sverige AB",
         "Arbetsgivare": "Energihem i Sverige AB"
     },
-    "recwmdYmH5d6OMNu9": {
+    {
         "ID": "recwmdYmH5d6OMNu9",
         "Job_ID": "24426973",
         "Titel": "Tandsk\u00f6terska till Specialisttandv\u00e5rden, avdelningen f\u00f6r pedodonti",
@@ -5147,7 +5147,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Folktandv\u00e5rden",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recwvT7q5Tq35Uqh1": {
+    {
         "ID": "recwvT7q5Tq35Uqh1",
         "Job_ID": "24437290",
         "Titel": "Medicinsk sekreterare v\u00e4lkomnas till akutmottagningen sommaren 2021!",
@@ -5156,7 +5156,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recwyeXjstuiPHJdE": {
+    {
         "ID": "recwyeXjstuiPHJdE",
         "Job_ID": "24414733",
         "Titel": "Sjuksk\u00f6terska Sommarvikariat R\u00e4ttspsykiatriska Regionkliniken, Sundsvall",
@@ -5165,7 +5165,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recx1w4cAYxaU9fi0": {
+    {
         "ID": "recx1w4cAYxaU9fi0",
         "Job_ID": "24395981",
         "Titel": "Distriktssk\u00f6terska till \u00e4ldreomsorgen i J\u00e4mtland!",
@@ -5174,7 +5174,7 @@
         "Ort": "Stellacura AB",
         "Arbetsgivare": "StellaCura AB"
     },
-    "recx8HHhPrW5B7i2E": {
+    {
         "ID": "recx8HHhPrW5B7i2E",
         "Job_ID": "24401958",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i Klippan. Fast l\u00f6n plus provision",
@@ -5183,7 +5183,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recxGvjnzG58N7h6n": {
+    {
         "ID": "recxGvjnzG58N7h6n",
         "Job_ID": "24350039",
         "Titel": "Gymnasiel\u00e4rare Teknik/Fysik/Kemi och Matematik Impius \u00d6rnsk\u00f6ldsvik",
@@ -5192,7 +5192,7 @@
         "Ort": "Hampn\u00e4s gymnasium/Impius v\u00e5rd och utbildning AB",
         "Arbetsgivare": "Impius V\u00e5rd och Utbildning AB"
     },
-    "recxI5CCcoLCwfhYd": {
+    {
         "ID": "recxI5CCcoLCwfhYd",
         "Job_ID": "24414970",
         "Titel": "Klara s\u00f6ker sjuksk\u00f6terskor till v\u00e5rdavdelning i Sundsvall",
@@ -5201,7 +5201,7 @@
         "Ort": "Klara D AB",
         "Arbetsgivare": "Klara D AB"
     },
-    "recxJXQCABDAMQRes": {
+    {
         "ID": "recxJXQCABDAMQRes",
         "Job_ID": "24439251",
         "Titel": "Sjuksk\u00f6terska f\u00f6r sommarvikariat till Medicin Avd 2, \u00d6rnsk\u00f6ldsvik",
@@ -5210,7 +5210,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recxLVNJbciPKfklg": {
+    {
         "ID": "recxLVNJbciPKfklg",
         "Job_ID": "24444293",
         "Titel": "Underl\u00e4kare till Lungkliniken i Sundsvall",
@@ -5219,7 +5219,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recxLdjtIYUDWCuO2": {
+    {
         "ID": "recxLdjtIYUDWCuO2",
         "Job_ID": "24438089",
         "Titel": "Utvecklingssamordnare V\u00e4sternorrlands bes\u00f6ksn\u00e4ring",
@@ -5228,7 +5228,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recxNi2VJ3NeIQdso": {
+    {
         "ID": "recxNi2VJ3NeIQdso",
         "Job_ID": "24425404",
         "Titel": "Undersk\u00f6terska sommarvikariat till Kirurgavdelning 15A, Sundsvall",
@@ -5237,7 +5237,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recxOmmCFnbc1HrKV": {
+    {
         "ID": "recxOmmCFnbc1HrKV",
         "Job_ID": "24437683",
         "Titel": "Vi v\u00e4lkomnar sjuksk\u00f6terskor till akutmottagningen!",
@@ -5246,7 +5246,7 @@
         "Ort": "Omr\u00e5de Akutv\u00e5rd",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recxRIbsqKYsNtPlY": {
+    {
         "ID": "recxRIbsqKYsNtPlY",
         "Job_ID": "24411671",
         "Titel": "Flerspr\u00e5kig Kuntj\u00e4nstmedarbetare till Woolpower",
@@ -5255,7 +5255,7 @@
         "Ort": "Min Byr\u00e5",
         "Arbetsgivare": "Min Byr\u00e5 i J\u00e4mtland AB"
     },
-    "recxVMp8Ns9jLpSrQ": {
+    {
         "ID": "recxVMp8Ns9jLpSrQ",
         "Job_ID": "24443566",
         "Titel": "Barn- och ungdomspsykiatrin v\u00e4lkomnar en psykolog till BUP:s mottagning",
@@ -5264,7 +5264,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och unga vuxna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recxcLU9aWWDvOjvR": {
+    {
         "ID": "recxcLU9aWWDvOjvR",
         "Job_ID": "24420224",
         "Titel": "Sjuksk\u00f6terska till Onkologi avd 13, Sundsvall",
@@ -5273,7 +5273,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recxfgTCiXHC498hD": {
+    {
         "ID": "recxfgTCiXHC498hD",
         "Job_ID": "24411232",
         "Titel": "Sjuksk\u00f6terska s\u00f6kes f\u00f6r bemanningsuppdrag 2021 ",
@@ -5282,7 +5282,7 @@
         "Ort": "Viva Bemanning - \u00d6rnsk\u00f6ldsvik",
         "Arbetsgivare": "Viva Bemanning AB"
     },
-    "recxfzviXAi4fOPww": {
+    {
         "ID": "recxfzviXAi4fOPww",
         "Job_ID": "24438570",
         "Titel": "Undersk\u00f6terska, sommarvikariat, IVA, Sundsvall",
@@ -5291,7 +5291,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "recxhcnt0scjA0aDN": {
+    {
         "ID": "recxhcnt0scjA0aDN",
         "Job_ID": "24417903",
         "Titel": "Personliga Assistenter",
@@ -5300,7 +5300,7 @@
         "Ort": "Inre Kraft i Norr AB",
         "Arbetsgivare": "Inre Kraft i Norr AB"
     },
-    "recxps9Dz1c7Qtfnm": {
+    {
         "ID": "recxps9Dz1c7Qtfnm",
         "Job_ID": "24412392",
         "Titel": "T\u00e4vlingsm\u00e4nniska? Abonnenta s\u00f6ker Sundsvalls mest taggade Events\u00e4ljare!",
@@ -5309,7 +5309,7 @@
         "Ort": "Abonneta AB",
         "Arbetsgivare": "A 95 Consulting AB"
     },
-    "recxqK7clrGFKNhNu": {
+    {
         "ID": "recxqK7clrGFKNhNu",
         "Job_ID": "24432488",
         "Titel": "Vill du jobba med kundsupport p\u00e5 soliga Kreta?",
@@ -5318,7 +5318,7 @@
         "Ort": "AB Bemanningskontoret",
         "Arbetsgivare": "AB Bemanningskontoret Rt i Sverige"
     },
-    "recxs7gsZG8NpIcfZ": {
+    {
         "ID": "recxs7gsZG8NpIcfZ",
         "Job_ID": "24439560",
         "Titel": "Projekt\u00f6r/byggledare med bredbandssamordnardel",
@@ -5327,7 +5327,7 @@
         "Ort": "Ragunda kommun, Samh\u00e4llsbyggnad",
         "Arbetsgivare": "Ragunda kommun"
     },
-    "recxvA6zbLqhgv0ad": {
+    {
         "ID": "recxvA6zbLqhgv0ad",
         "Job_ID": "24401773",
         "Titel": "S\u00e4ljare med f\u00f6rbokade kunder i K\u00f6ping. Fast l\u00f6n plus provision",
@@ -5336,7 +5336,7 @@
         "Ort": "Wet World Energy Solutions AB",
         "Arbetsgivare": "Wet World Energy Solutions AB"
     },
-    "recy1X2CAdyEiBg8n": {
+    {
         "ID": "recy1X2CAdyEiBg8n",
         "Job_ID": "24345603",
         "Titel": "Matlagningsglad till STF Storliens Fj\u00e4llg\u00e5rd",
@@ -5345,7 +5345,7 @@
         "Ort": "STF Storliens Fj\u00e4llg\u00e5rd",
         "Arbetsgivare": "Storlienservice AB"
     },
-    "recySAPrO0YjXKInH": {
+    {
         "ID": "recySAPrO0YjXKInH",
         "Job_ID": "24424830",
         "Titel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
@@ -5354,7 +5354,7 @@
         "Ort": "Mockfj\u00e4rds",
         "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB"
     },
-    "recySyUcjUXA5IBdu": {
+    {
         "ID": "recySyUcjUXA5IBdu",
         "Job_ID": "24372752",
         "Titel": "ST-l\u00e4kare till Barn- och ungdomspsykiatrisk verksamhet (BUP).",
@@ -5363,7 +5363,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Barn och unga vuxna",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recyUhr1b9rFk51AY": {
+    {
         "ID": "recyUhr1b9rFk51AY",
         "Job_ID": "24431750",
         "Titel": "LASTBILSF\u00d6RARE",
@@ -5372,7 +5372,7 @@
         "Ort": "Altins Trafik AB",
         "Arbetsgivare": "Altins Trafik AB"
     },
-    "recyfshlyFqyBuIdz": {
+    {
         "ID": "recyfshlyFqyBuIdz",
         "Job_ID": "24406191",
         "Titel": "Sjuksk\u00f6terska till blod, mage, njuravdelning i \u00d6stersund",
@@ -5381,7 +5381,7 @@
         "Ort": "Centric Care AB",
         "Arbetsgivare": "Centric Care AB"
     },
-    "recygquQOGu3zfH5X": {
+    {
         "ID": "recygquQOGu3zfH5X",
         "Job_ID": "24433581",
         "Titel": "Leg. sjuksk\u00f6terskor till kommunal h\u00e4lso- och sjukv\u00e5rd i H\u00e4rn\u00f6sands kommun",
@@ -5390,7 +5390,7 @@
         "Ort": "AdatoCare AB",
         "Arbetsgivare": "AdatoCare AB"
     },
-    "recyjoNT9lDJ6NzhG": {
+    {
         "ID": "recyjoNT9lDJ6NzhG",
         "Job_ID": "24427853",
         "Titel": "Kommunikationsansvarig",
@@ -5399,7 +5399,7 @@
         "Ort": "Kommunf\u00f6rbundet V\u00e4sternorrland",
         "Arbetsgivare": "Kommunf\u00f6rbundet V\u00e4sternorrland"
     },
-    "recyyXtj15iKVKm32": {
+    {
         "ID": "recyyXtj15iKVKm32",
         "Job_ID": "24439931",
         "Titel": "Sjuksk\u00f6terskor v\u00e4lkomnas till kirurgienheten",
@@ -5408,7 +5408,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Omr\u00e5de Kirurgi",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recz2vMpBNFhLm7BB": {
+    {
         "ID": "recz2vMpBNFhLm7BB",
         "Job_ID": "24440467",
         "Titel": "Vi s\u00f6ker tv\u00e5 sjuksk\u00f6terskor till Fun\u00e4sdalens & Svegs H\u00e4lsocentraler",
@@ -5417,7 +5417,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, VO H\u00e4rjedalen",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "recz8TgjE1Pf36h48": {
+    {
         "ID": "recz8TgjE1Pf36h48",
         "Job_ID": "24439035",
         "Titel": "Sveriges B\u00e4sta L\u00e4kare S\u00f6kes",
@@ -5426,7 +5426,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "reczAIYjE2UoFS2ns": {
+    {
         "ID": "reczAIYjE2UoFS2ns",
         "Job_ID": "24432959",
         "Titel": "Sjuksk\u00f6terska till hud- och STI-mottagningen \u00d6stersunds sjukhus",
@@ -5435,7 +5435,7 @@
         "Ort": "Region J\u00e4mtland H\u00e4rjedalen, Hud",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     },
-    "reczK2yNzWkvtx4wt": {
+    {
         "ID": "reczK2yNzWkvtx4wt",
         "Job_ID": "24440130",
         "Titel": "Sommarjobb inom Folktandv\u00e5rden V\u00e4sternorrland",
@@ -5444,7 +5444,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reczOHtBxpRs9KvT8": {
+    {
         "ID": "reczOHtBxpRs9KvT8",
         "Job_ID": "24416187",
         "Titel": "Personlig Tr\u00e4nare och Site Responsible Sundsvall p\u00e5 Fitness24seven",
@@ -5453,7 +5453,7 @@
         "Ort": "Fitness24seven",
         "Arbetsgivare": "Happyr AB"
     },
-    "reczVmIe9n3OWjtkV": {
+    {
         "ID": "reczVmIe9n3OWjtkV",
         "Job_ID": "24441678",
         "Titel": "Undersk\u00f6terskor s\u00f6kes till Trosa f\u00f6r antikroppstestning av Covid-19",
@@ -5462,7 +5462,7 @@
         "Ort": "Vaccina",
         "Arbetsgivare": "Vaccina AB"
     },
-    "reczfaHObNOh3EgRn": {
+    {
         "ID": "reczfaHObNOh3EgRn",
         "Job_ID": "24427395",
         "Titel": "Sveriges b\u00e4sta undersk\u00f6terska",
@@ -5471,7 +5471,7 @@
         "Ort": "Magnifiq Kompetens",
         "Arbetsgivare": "Palmelind Konsult AB"
     },
-    "reczgvjxuZMXRJfvR": {
+    {
         "ID": "reczgvjxuZMXRJfvR",
         "Job_ID": "24394380",
         "Titel": "Framtidens s\u00e4ljare",
@@ -5480,7 +5480,7 @@
         "Ort": "Energihem i Sverige AB",
         "Arbetsgivare": "Energihem i Sverige AB"
     },
-    "reczj0MvLSIKWsqLT": {
+    {
         "ID": "reczj0MvLSIKWsqLT",
         "Job_ID": "24422278",
         "Titel": "Undersk\u00f6terska till Demensavdelningen Sveg ",
@@ -5489,7 +5489,7 @@
         "Ort": "H\u00e4rjedalens kommun",
         "Arbetsgivare": "H\u00e4rjedalens kommun"
     },
-    "reczjn6CIo50BEaTK": {
+    {
         "ID": "reczjn6CIo50BEaTK",
         "Job_ID": "24444453",
         "Titel": "Sjuksk\u00f6terska till infektionskliniken i Sundsvall",
@@ -5498,7 +5498,7 @@
         "Ort": "Region V\u00e4sternorrland",
         "Arbetsgivare": "REGION V\u00c4STERNORRLAND"
     },
-    "reczm8LZ5fiPVx2Ml": {
+    {
         "ID": "reczm8LZ5fiPVx2Ml",
         "Job_ID": "24393792",
         "Titel": "L\u00e4rare med beh\u00f6righet i fritidshem till Hissmoskolan",
@@ -5507,7 +5507,7 @@
         "Ort": "KROKOMS KOMMUN",
         "Arbetsgivare": "Krokoms kommun"
     },
-    "reczxQsLslluMCtaf": {
+    {
         "ID": "reczxQsLslluMCtaf",
         "Job_ID": "24427698",
         "Titel": "Arbetsterapeut till Arbetsterapin/Sjukgymnastiken, \u00d6stersunds Sjukhus",
@@ -5516,4 +5516,4 @@
         "Ort": "Omr\u00e5de Ortopedi",
         "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN"
     }
-}
+]

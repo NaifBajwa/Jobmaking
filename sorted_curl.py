@@ -24,12 +24,12 @@ def fetch_100_jobs(query):
     json_response = json.loads(response.content.decode('utf8'))
     hits = json_response['hits']
     counter = 0
-    data = {}
+    data = []
 
     for hit in hits:
         counter = counter + 1
         # data[counter] = [counter,hit['headline'] , query, hit['employer']['name'],hit['application_deadline'] ]
-        data[counter] = {'jobID':counter, 'Titel':hit['headline'] , 'Yrke':query, 'Arbetsgivare':hit['employer']['name'], 'application_deadline':hit['application_deadline'] }
+        data.append( {'jobID':counter, 'Titel':hit['headline'] , 'Yrke':query, 'Arbetsgivare':hit['employer']['name'], 'Beskrivning': hit['description']['text_formatted'],'application_deadline':hit['application_deadline'] })
 
     if 'offset' in json_response:
         offset = json_response['offset']
@@ -45,7 +45,7 @@ def fetch_100_jobs(query):
         hits = json_response['hits']
         for hit in hits:
             counter = counter + 1
-            data[counter] = {'jobID':counter, 'Titel':hit['headline'] , 'Yrke':query, 'Arbetsgivare':hit['employer']['name'], 'application_deadline':hit['application_deadline'] }
+            data.append({'jobID':counter, 'Titel':hit['headline'] , 'Yrke':query, 'Arbetsgivare':hit['employer']['name'], 'application_deadline':hit['application_deadline'] })
 
         if 'offset' in json_response:
             offset = json_response['offset']
@@ -68,14 +68,13 @@ url_for_search2 = f"{url2}"
 
 
 def converCSV2JSON(csvFile, jsonFile):
-    data = {}
+    data = []
     with open(csvFile, newline='') as csvFile:
         csvFileReader = csv.DictReader(csvFile)
         next(csvFileReader)
         for rows in csvFileReader:
             # print (rows)
-            id = rows['ID']
-            data[id] = rows
+            data.append(rows)
 
     with open(jsonFile, 'w') as jsonFile:
         jsonFile.write(json.dumps(data, indent=4))
@@ -213,14 +212,18 @@ def fetch_airtableMATCHES(query):
 
 
 query = 0
-fetch_airtable(query)
-fetch_airtableJOBS(query)
-fetch_airtableMATCHES(query)
+# fetch_airtable(query)
+# fetch_airtableJOBS(query)
+# fetch_airtableMATCHES(query)
 
-# query1 = 'Västernorrland Jämtland'
-# fetch_100_jobs(query1)
+query1 = 'Västernorrland Jämtland'
+fetch_100_jobs(query1)
 
 # converCSV2JSON('Data/najj.csv', 'Data/najj.json')
+
+# converCSV2JSON('Data/Matchning.csv', 'Data/Matchning.json')
+# converCSV2JSON('Data/JobSeekers.csv', 'Data/JobSeekers.json')
+# converCSV2JSON('Data/Lediga_jobb.csv', 'Data/Lediga_jobb.json')
 
 # curl https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Lediga%20jobb -H "Authorization: Bearer keyHbd3ja5QEm4pVa"
 # curl https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Arbetss%C3%B6kande -H "Authorization: Bearer keyHbd3ja5QEm4pVa" 

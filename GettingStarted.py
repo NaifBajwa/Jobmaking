@@ -16,7 +16,7 @@ url_for_search = f"{url}/search"
 
 def test_search_loop_through_hits(query):
     # query = 'Sundsvall'
-    limit = 2     # 100 is max number of hits that can be returned.
+    limit = 100     # 100 is max number of hits that can be returned.
     # If there are more (which you find with 'limit' : 0 ) you have to use offset and multiple requests to get all ads
     search_params = {'q': query, 'limit': limit}
     response = requests.get(url_for_search, headers=headers, params=search_params)
@@ -24,7 +24,7 @@ def test_search_loop_through_hits(query):
     json_response = json.loads(response.content.decode('utf8'))
     total = json_response['total']
     hits = json_response['hits']
-    print("Total number of jobs found is ", total['value'])
+    # print("Total number of jobs found is ", total['value'])
 
     counter = 1
     with open('../../dev/Jobmaking/Data/jobPath.csv', mode='w') as jobPath:
@@ -109,8 +109,10 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
         Arbetsgivare = ''
         lastDate = ''
         print("\nWe recommend ", ll, " jobs for ", userName, ":\n")
+        counter = 0
         for ratings in loved:
-            if ( ml.getMovieName(ratings[0]) != '' ):
+            if ( ml.getMovieName(ratings[0]) != '' and counter < 2):
+                counter = counter +1
                 titel = ml.getMovieName(ratings[0])
                 Arbetsgivare = ml.getArbetsgivare(ratings[0])
                 lastDate = ml.getLastDate(ratings[0])
