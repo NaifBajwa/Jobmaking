@@ -72,8 +72,10 @@ def postCSVJobsTo_aws_dynamodb():
             cmd = cmd + ',"Ort": {"S": "' + job[6] +'"}'
             cmd = cmd + ',"Arbetsgivare": {"S": "' + job[3] + '"}}\''
 
-            process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-            process.communicate()
+            print(cmd)
+            subprocess.call(cmd, shell=True)
+#            process = subprocess.Popen(cmd, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+#            process.communicate()
 
     # print (cmd)
 
@@ -122,4 +124,46 @@ def search_for_AF_Jobs(query):
 #     print("Processing ...", query)
 #     search_for_AF_Jobs(query)
 
-postCSVJobsTo_aws_dynamodb()
+#postCSVJobsTo_aws_dynamodb()
+
+
+def postCSVJobSeekersTo_aws_dynamodb():
+    cmd = ''
+    with open('./Data/JobSeekers.csv', newline='') as csvfile:
+        allJobsReader = csv.reader(csvfile)
+        next(allJobsReader)
+        for job in allJobsReader:
+#            User_ID,Namn,Yrke,Beskrivning
+            cmd = 'aws dynamodb put-item --table-name Job_Seekers --item \'{'
+            cmd = cmd + '"ID": {"N": "' + job[1] +'"}'
+            cmd = cmd + ',"Name": {"S": "' + job[2] + '"}'
+            cmd = cmd + ',"Yrke": {"S": "' + job[3] +'"}'
+            cmd = cmd + ',"Beskrivning": {"S": "' + job[4] +'"}}\''
+
+            subprocess.call(cmd, shell=True)
+
+
+#postCSVJobSeekersTo_aws_dynamodb()
+
+
+
+def postCSVJobMatchesTo_aws_dynamodb():
+    cmd = ''
+    with open('./Data/Matchning.csv', newline='') as csvfile:
+        allJobsReader = csv.reader(csvfile)
+        next(allJobsReader)
+        for job in allJobsReader:
+            #ID,Name,Yrke,Annonstitel,Arbetsgivare,Sista ansökningsdatum
+
+            cmd = 'aws dynamodb put-item --table-name Job_Matches --item \'{'
+            cmd = cmd + '"ID": {"S": "' + job[0] +'"}'
+            cmd = cmd + ',"Name": {"S": "' + job[1] + '"}'
+            cmd = cmd + ',"Yrke": {"S": "' + job[2] +'"}'
+            cmd = cmd + ',"Annonstitel": {"S": "' + job[3] + '"}'
+            cmd = cmd + ',"Arbetsgivare": {"S": "' + job[4] +'"}'
+            cmd = cmd + ',"Sista ansökningsdatum": {"S": "' + job[5] +'"}}\''
+
+            subprocess.call(cmd, shell=True)
+
+postCSVJobMatchesTo_aws_dynamodb()
+
