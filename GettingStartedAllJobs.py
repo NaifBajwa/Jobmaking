@@ -58,27 +58,6 @@ def test_search_loop_through_hits(query):
 
 # print (cmd)
 
-def postCSVJobsTo_aws_dynamodb():
-    cmd = ''
-    with open('./Data/AllJobsPathNew.csv', newline='') as csvfile:
-        allJobsReader = csv.reader(csvfile)
-        next(allJobsReader)
-        for job in allJobsReader:
-            cmd = 'aws dynamodb put-item --table-name Avail_Jobs --item \'{'
-            cmd = cmd + '"ID": {"N": "' + job[0] +'"}'
-            cmd = cmd + ',"Titel": {"S": "' + job[1] + '"}'
-            cmd = cmd + ',"Yrke": {"S": "' + job[4] +'"}'
-            cmd = cmd + ',"Beskrivning": {"S": "' + job[5] +'"}'
-            cmd = cmd + ',"Ort": {"S": "' + job[6] +'"}'
-            cmd = cmd + ',"Arbetsgivare": {"S": "' + job[3] + '"}}\''
-
-            print(cmd)
-            subprocess.call(cmd, shell=True)
-#            process = subprocess.Popen(cmd, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-#            process.communicate()
-
-    # print (cmd)
-
 
 def search_for_AF_Jobs(query):
     limit = 100     # 100 is max number of hits that can be returned.
@@ -113,38 +92,21 @@ def search_for_AF_Jobs(query):
     print( " ")
 
 
-# region0 = 'Utvecklare Västernorrland Jämtland'
-# test_search_loop_through_hits(region0)
-
-# region = 'Västernorrland Jämtland'
-# Yrke = {'Snickare','Kundtjänstmedarbetare','Butiksbiträde','Kock','Operatör', 'Köksbiträde','Utvecklare', 'Lärare', 'Läkare', 'Personlig assistent', 'Sjuksköterska', 'Lastbilsförare','Mäklare', 'Undersköterska' ,'Städare' }
-
-# for yrk in Yrke:
-#     query = yrk  + ' ' + region
-#     print("Processing ...", query)
-#     search_for_AF_Jobs(query)
-
-#postCSVJobsTo_aws_dynamodb()
-
-
-def postCSVJobSeekersTo_aws_dynamodb():
+def postCSVJobsTo_aws_dynamodb():
     cmd = ''
-    with open('./Data/JobSeekers.csv', newline='') as csvfile:
+    with open('./Data/AllJobsPathNew.csv', newline='') as csvfile:
         allJobsReader = csv.reader(csvfile)
         next(allJobsReader)
         for job in allJobsReader:
-#            User_ID,Namn,Yrke,Beskrivning
-            cmd = 'aws dynamodb put-item --table-name Job_Seekers --item \'{'
-            cmd = cmd + '"ID": {"N": "' + job[1] +'"}'
-            cmd = cmd + ',"Name": {"S": "' + job[2] + '"}'
-            cmd = cmd + ',"Yrke": {"S": "' + job[3] +'"}'
-            cmd = cmd + ',"Beskrivning": {"S": "' + job[4] +'"}}\''
+            cmd = 'aws dynamodb put-item --table-name Avail_Jobs --item \'{'
+            cmd = cmd + '"ID": {"N": "' + job[0] +'"}'
+            cmd = cmd + ',"Titel": {"S": "' + job[1] + '"}'
+            cmd = cmd + ',"Yrke": {"S": "' + job[4] +'"}'
+            cmd = cmd + ',"Beskrivning": {"S": "' + job[5] +'"}'
+            cmd = cmd + ',"Ort": {"S": "' + job[6] +'"}'
+            cmd = cmd + ',"Arbetsgivare": {"S": "' + job[3] + '"}}\''
 
             subprocess.call(cmd, shell=True)
-
-
-#postCSVJobSeekersTo_aws_dynamodb()
-
 
 
 def postCSVJobMatchesTo_aws_dynamodb():
@@ -153,8 +115,6 @@ def postCSVJobMatchesTo_aws_dynamodb():
         allJobsReader = csv.reader(csvfile)
         next(allJobsReader)
         for job in allJobsReader:
-            #ID,Name,Yrke,Annonstitel,Arbetsgivare,Sista ansökningsdatum
-
             cmd = 'aws dynamodb put-item --table-name Job_Matches --item \'{'
             cmd = cmd + '"ID": {"S": "' + job[0] +'"}'
             cmd = cmd + ',"Name": {"S": "' + job[1] + '"}'
@@ -165,5 +125,33 @@ def postCSVJobMatchesTo_aws_dynamodb():
 
             subprocess.call(cmd, shell=True)
 
-postCSVJobMatchesTo_aws_dynamodb()
 
+def postCSVJobSeekersTo_aws_dynamodb():
+    cmd = ''
+    with open('./Data/JobSeekers.csv', newline='') as csvfile:
+        allJobsReader = csv.reader(csvfile)
+        next(allJobsReader)
+        for job in allJobsReader:
+            cmd = 'aws dynamodb put-item --table-name Job_Seekers --item \'{'
+            cmd = cmd + '"ID": {"N": "' + job[1] +'"}'
+            cmd = cmd + ',"Name": {"S": "' + job[2] + '"}'
+            cmd = cmd + ',"Yrke": {"S": "' + job[3] +'"}'
+            cmd = cmd + ',"Beskrivning": {"S": "' + job[4] +'"}}\''
+
+            subprocess.call(cmd, shell=True)
+
+
+# region0 = 'Utvecklare Västernorrland Jämtland'
+# test_search_loop_through_hits(region0)
+
+# region = 'Västernorrland Jämtland'
+# Yrke = {'Snickare','Kundtjänstmedarbetare','Butiksbiträde','Kock','Operatör', 'Köksbiträde','Utvecklare', 'Lärare', 'Läkare', 'Personlig assistent', 'Sjuksköterska', 'Lastbilsförare','Mäklare', 'Undersköterska' ,'Städare' }
+# for yrk in Yrke:
+#     query = yrk  + ' ' + region
+#     print("Processing ...", query)
+#     search_for_AF_Jobs(query)
+
+
+#postCSVJobsTo_aws_dynamodb()
+#postCSVJobSeekersTo_aws_dynamodb()
+postCSVJobMatchesTo_aws_dynamodb()
