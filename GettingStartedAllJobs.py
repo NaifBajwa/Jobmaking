@@ -65,15 +65,15 @@ def postCSVJobsTo_aws_dynamodb():
         next(allJobsReader)
         for job in allJobsReader:
             cmd = 'aws dynamodb put-item --table-name Avail_Jobs --item \'{'
-            cmd = cmd + 'ID: {N: ' + job[0] +'}'
-            cmd = cmd + ',Titel: {S: ' + job[1] + '}'
-            cmd = cmd + ',Yrke: {S: ' + job[4] +'}'
-            cmd = cmd + ',Beskrivning: {S: ' + job[5] +'}'
-            cmd = cmd + ',Ort: {S: ' + job[6] +'}'
-            cmd = cmd + ',Arbetsgivare": "' + job[3] + '}}\''
+            cmd = cmd + '"ID": {"N": "' + job[0] +'"}'
+            cmd = cmd + ',"Titel": {"S": "' + job[1] + '"}'
+            cmd = cmd + ',"Yrke": {"S": "' + job[4] +'"}'
+            cmd = cmd + ',"Beskrivning": {"S": "' + job[5] +'"}'
+            cmd = cmd + ',"Ort": {"S": "' + job[6] +'"}'
+            cmd = cmd + ',"Arbetsgivare": {"S": "' + job[3] + '"}}\''
 
             process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-            stdout, stderr = process.communicate()
+            process.communicate()
 
     # print (cmd)
 
