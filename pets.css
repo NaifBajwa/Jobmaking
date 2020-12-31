@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   font-family: sans-serif;
   background-color: #DEDEDE;
   color: #333;
@@ -18,13 +19,17 @@ img {
 }
 
 .animal {
+  text-align: left;
   max-width: 300px;
+  width: 300px;
+  height: 305px;
   padding: 10px;
   margin: 10px auto;
   background-color: rgb(217, 228, 228) ;
-  box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .4);
   overflow: hidden;
   flex-grow: 1;
+  margin-right: 10px;
   float: left ; 
 }
 
@@ -64,4 +69,56 @@ img {
   color: #888;
   text-align: center;
   margin: 0;
+}
+
+.red {
+  font-size: 1rem;
+  font-weight: bold;
+  color: rgb(197, 7, 7);
+  vertical-align: middle;
+}
+
+.yellow {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffda06;
+  vertical-align: middle;
+}
+
+.green {
+  font-size: 1rem;
+  font-weight: bold;
+  color: rgb(6, 158, 13);
+  vertical-align: middle;
+}
+
+
+.animal-red {
+  text-align: left;
+  max-width: 300px;
+  width: 300px;
+  height: 305px;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: rgb(231, 215, 208) ;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .4);
+  overflow: hidden;
+  flex-grow: 1;
+  margin-right: 10px;
+  float: left ; 
+}
+
+.animal-yellow {
+  text-align: left;
+  max-width: 300px;
+  width: 300px;
+  height: 305px;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: rgb(211, 240, 203) ;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .4);
+  overflow: hidden;
+  flex-grow: 1;
+  margin-right: 10px;
+  float: left ; 
 }

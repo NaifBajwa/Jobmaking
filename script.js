@@ -41,14 +41,15 @@ const petsData0 = [
     }
 ];
 
-const petsData = [
+const petsData1 = [
 {
     "ID": "rec0TGDtfNq5k5oh0",
     "Name": "Lena Andersson",
     "Yrke": "S\u00e4ljare",
     "Annonstitel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
     "Arbetsgivare": "Ramudden AB",
-    "Sistadatum": "2021-01-18"
+    "Sistadatum": "2020-12-30",
+    "url": "http://www.cnn.com"
 },
 {
     "ID": "rec0Vl8QMVAwOgvv6",
@@ -56,7 +57,8 @@ const petsData = [
     "Yrke": "Lastbilsf\u00f6rare",
     "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
     "Arbetsgivare": "Nordic BR Norr AB",
-    "Sistadatum": "2021-01-08"
+    "Sistadatum": "2020-12-31",
+    "url": "http://www.bcc.com"
 },
 {
     "ID": "rec0gIaNjqFByL76P",
@@ -64,7 +66,8 @@ const petsData = [
     "Yrke": "L\u00e4rare i grundskolan",
     "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
     "Arbetsgivare": "Krokoms kommun",
-    "Sistadatum": "2021-01-05"
+    "Sistadatum": "2021-01-01",
+    "url": "http://www.dn.se"
 },
 {
     "ID": "rec1Bk2dk4ZdTXTez",
@@ -72,7 +75,8 @@ const petsData = [
     "Yrke": "Snickare",
     "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
     "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
-    "Sistadatum": "2021-01-21"
+    "Sistadatum": "2021-01-07",
+    "url": "http://www.sr.se"
 },
 {
     "ID": "rec26K5HeLY7xsWfh",
@@ -80,7 +84,8 @@ const petsData = [
     "Yrke": "Utvecklare",
     "Annonstitel": "Utvecklare/samordnare inom social h\u00e5llbarhet ",
     "Arbetsgivare": "L\u00e4nsstyrelsen i V\u00e4sternorrlands l\u00e4n",
-    "Sistadatum": "2020-12-29"
+    "Sistadatum": "2021-01-09",
+    "url": "http://www.svt.se"
 },
 {
     "ID": "rec2GSsvKIVuUwZ2q",
@@ -88,9 +93,19 @@ const petsData = [
     "Yrke": "L\u00e4kare",
     "Annonstitel": "Tv\u00e5 vikarierande underl\u00e4kare i barn- och ungdomsmedicin vid \u00d6stersunds sjuk",
     "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-    "Sistadatum": "2021-01-01"
+    "Sistadatum": "2021-01-31",
+    "url": "http://www.st.nu"
 }
 ];
+
+fetch('./Data/Matchning2.json')
+.then(response => response.json() )
+.then(data => {
+    document.getElementById("app").innerHTML = `
+    <h1 class="app-title">${data.length} Jobb Matchningar</h1>
+    ${data.map(petTemplate).join("  ")}
+  `
+})
 
 function age(birthYear) {
     let calculatedAge = new Date().getFullYear() - birthYear;
@@ -123,25 +138,67 @@ function petTemplate0(pet) {
   `;
 }
 
+function colorDate(date) {
+    let calculatedAge = (new Date(date).getTime() - new Date().getTime()) / 3600000;
+    calculatedAge = Math.round(calculatedAge / 24);
+    if (calculatedAge < 0) {
+        return `<span class="red"><del>${date}</del> (closed)</span>`;
+    } else if (calculatedAge < 2) {
+        return `<span class="red">${date}</span>`;
+    } else if (calculatedAge < 10) {
+        return `<span class="yellow">${date}</span>`;
+    } else {
+        return `<span class="green">${date}</span>`;
+    }
+}
+
+function colorDate2(date) {
+    let calculatedAge = (new Date(date).getTime() - new Date().getTime()) / 3600000;
+    calculatedAge = Math.round(calculatedAge / 24);
+    if (calculatedAge < 2) {
+        return 'animal-red';
+    } else if (calculatedAge < 10) {
+        return 'animal-yellow'; 
+    } else {
+        return 'animal';
+    }
+}
+
+
+function petTemplate1(pet) {
+    return `
+    <div class=${colorDate2(pet.Sistadatum)}>
+    <h2 class="pet-name">${pet.Name}</h2> 
+    <hr size="3" noshade>
+    <p><strong>Yrke:</strong><br>${pet.Yrke}</p>
+    <p><strong>Annonstitel:</strong><br> <a href=${pet.url} target="_blank">${pet.Annonstitel}</a></p> 
+    <p><strong>Arbetsgivare:</strong><br> ${pet.Arbetsgivare}</p>
+    <p><strong>Sista datum:</strong><br> ${colorDate(pet.Sistadatum) }</p>
+    </div>
+  `;
+}
+
 function petTemplate(pet) {
     return `
     <div class="animal">
-    <h2 class="pet-name">${pet.Name}</h2> <p class="species">(${pet.Yrke})</p>
+    <h2 class="pet-name">${pet.Name}</h2> 
+    <hr size="3" noshade>
+    <p><strong>Yrke:</strong><br>${pet.Yrke}</p>
     <p><strong>Annonstitel:</strong><br> ${pet.Annonstitel}</p> 
     <p><strong>Arbetsgivare:</strong><br> ${pet.Arbetsgivare}</p>
-    <p><strong>Sista datum:</strong><br> ${pet.Sistadatum}</p>
+    <p><strong>Sista datum:</strong><br> ${colorDate(pet.Sistadatum) }</p>
     </div>
   `;
 }
 
 function loadRecords() {
     return `
-    <h1 class="app-title">${petsData.length} Jobb Matchningar</h1>
-    ${petsData.map(petTemplate).join("  ")}
+    <h1 class="app-title">${petsData1.length} Jobb Matchningar</h1>
+    ${petsData1.map(petTemplate1).join("  ")}
   `;
 }
 
 function loadRecs() {
-    document.getElementById("app").innerHTML = loadRecords();
+    document.getElementById("app1").innerHTML = loadRecords();
 }
  
