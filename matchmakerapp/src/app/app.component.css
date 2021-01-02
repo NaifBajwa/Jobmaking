@@ -1,0 +1,57 @@
+mat-toolbar {
+    margin-bottom: 20px;
+}
+
+mat-toolbar > span {
+    margin-left: 10px;
+}
+
+.content-wrapper {
+    max-width: 99%;
+    margin: auto;
+}
+
+.container-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    min-width: 325px;
+    margin: 0 5px 25px 0;
+    border-radius: 10px;
+    background-color: #eeeeee;
+    border: solid 1px #cfd8dc;
+    text-align: center;
+}
+
+.list {
+    border: solid 1px #ccc;
+    min-height: 60px;
+    border-radius: 4px;
+    border: solid 1px rgb(5, 5, 5);
+}
+
+.empty-label {
+    font-size: 2em;
+    padding-top: 10px;
+    text-align: center;
+    opacity: 0.2;
+}
+
+.cdk-drag-placeholder {
+    opacity: 0;
+}
+
+.inProgress {
+    /* display: flex; */
+    background-color: #fff;
+    /* border: solid 1px rgb(5, 5, 5); */
+}
+
+.Backlog {
+    /* display: flex; */
+    /* width: 32%; */
+    background-color: #fff;
+    /* border: solid 1px rgb(5, 5, 5); */
+}

@@ -1,0 +1,41 @@
+
+.item {
+    border: solid 1px #eeeeee;
+    width: 250px;
+    height: 300px;
+    margin: 0 5px 5px 0;
+    border-radius: 10px;
+    background-color: #fff;
+    float: left ; 
+    text-align: left;
+}
+.task-green {
+    border: solid 1px rgb(5, 5, 5);
+    width: 250px;
+    height: 300px;
+    margin: 0 5px 5px 0;
+    border-radius: 10px;
+    background-color: #0f0;
+    float: left ; 
+    text-align: left;
+}
+.task-red {
+    border: solid 1px rgb(5, 5, 5);
+    width: 250px;
+    height: 300px;
+    margin: 0 5px 5px 0;
+    border-radius: 10px;
+    background-color: #f00;
+    float: left ; 
+    text-align: left;
+}
+.task-yellow {
+    border: solid 1px rgb(5, 5, 5);
+    width: 250px;
+    height: 300px;
+    margin: 0 5px 5px 0;
+    border-radius: 10px;
+    background-color: #ffff00;
+    float: left ; 
+    text-align: left;
+}

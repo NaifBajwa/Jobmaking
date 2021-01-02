@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "jobbmatchningar": {
+      "hosting": {
+        "matchmakerapp": [
+          "jobbmatchningar"
+        ]
+      }
+    }
+  }
+}
