@@ -71,7 +71,7 @@ def converCSV2JSON(csvFile, jsonFile):
     data = []
     with open(csvFile, newline='') as csvFile:
         csvFileReader = csv.DictReader(csvFile)
-        next(csvFileReader)
+        # next(csvFileReader)
         for rows in csvFileReader:
             # print (rows)
             data.append(rows)
@@ -214,7 +214,7 @@ def fetch_airtableMATCHES(query):
 query = 0
 # fetch_airtable(query)
 # fetch_airtableJOBS(query)
-fetch_airtableMATCHES(query)
+# fetch_airtableMATCHES(query)
 
 query1 = 'Västernorrland Jämtland'
 # fetch_100_jobs(query1)
@@ -230,3 +230,5 @@ query1 = 'Västernorrland Jämtland'
 # cmd = 'curl https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Arbetss%C3%B6kande?filterByFormula=User_ID=26 -H "Authorization: Bearer keyHbd3ja5QEm4pVa" '
 # process = subprocess.Popen(cmd, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 # stdout, stderr = process.communicate()
+
+# converCSV2JSON('../../dev/Jobmaking/Data/Matchning4.csv', '../../dev/Jobmaking/Data/Matchning4.json')

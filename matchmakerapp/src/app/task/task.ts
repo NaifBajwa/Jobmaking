@@ -12,4 +12,5 @@ export interface Task1 {
     Arbetsgivare: string;
     Sistadatum: string;
     url: string;
+    num: string;
 }

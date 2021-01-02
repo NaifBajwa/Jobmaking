@@ -7,6 +7,8 @@ import shlex
 import pycurl
 import subprocess
 import os
+from sorted_curl import converCSV2JSON
+import datetime 
 
 api_key = 'YidceGMwXHgwNFx4N2Y5XHhjYzpceGMxXHhjYlx4MGVceGI3QyE0XHhkMFx4YzIyXHhkY1x4YmZ2XHgwOCc'
 url = "https://jobsearch.api.jobtechdev.se"
@@ -30,13 +32,13 @@ def test_search_loop_through_hits(query):
     counter = 1
     with open('../../dev/Jobmaking/Data/jobPath.csv', mode='w') as jobPath:
         employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        employee_writer.writerow(['jobId', 'title', 'genre', 'Arbetsgivare', 'application_deadline', 'webpage_url'])
+        employee_writer.writerow(['jobId', 'title', 'genre', 'Arbetsgivare', 'application_deadline', 'webpage_url', 'num'])
 
         for hit in hits:
             # print(hit['headline'] ,hit['application_deadline'], hit['employer']['name'], 
             # hit['description']['requirements'], hit['description']['conditions']   )
             # hit['description']['text_formatted'], hit['description']['needs'], 
-            employee_writer.writerow([counter,hit['headline'] , query, hit['employer']['name'],hit['application_deadline'], hit['webpage_url'] ])
+            employee_writer.writerow([counter,hit['headline'] , query, hit['employer']['name'],hit['application_deadline'], hit['webpage_url'], total['value'] ])
             counter = counter + 1
         
     counter = 1
@@ -62,9 +64,12 @@ def BuildAntiTestSetForUser(testSubject, trainset):
     return anti_testset
 
 
-# MatchningCounter = 0
-# data = []
-# jsonFile = '../../dev/Jobmaking/Data/Matchning.csv'
+MatchningCounter = 0
+# data0 = []
+data1 = []
+# csvFile0 = '../../dev/Jobmaking/Data/Matchning3.csv'
+# jsonFile = '../../dev/Jobmaking/Data/Matchning3.json'
+jsonFile0 = '../../dev/Jobmaking/Data/Matchning3.json'
 
 # Pick an arbitrary test subject
 # 34 = snickare, 50 = Utvecklare, 22 = Personlig assistent
@@ -108,35 +113,42 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
                 ll = ll + 1
 
         if (ll == 0):
+            MatchningCounter = MatchningCounter + 1
+            data1.append({'ID':str(MatchningCounter), 'Name':userName, 'Yrke':yrke, 'Annonstitel':'titel', 'Arbetsgivare':'Arbetsgivare', 'Sistadatum': str(datetime.date.today()), 'url':'http://www.svt.se', 'num':str(0) })
             continue
 
         titel = ''
         Arbetsgivare = ''
         lastDate = ''
+        total = 0
         # print("\nWe recommend ", ll, " jobs for ", userName, ":\n")
         counter = 0
         for ratings in loved:
-            if ( ml.getMovieName(ratings[0]) != '' and counter < 2):
+            if ( ml.getMovieName(ratings[0]) != '' and counter < 1):
                 counter = counter +1
-                # MatchningCounter = MatchningCounter + 1
+                MatchningCounter = MatchningCounter + 1
                 titel = ml.getMovieName(ratings[0])
                 Arbetsgivare = ml.getArbetsgivare(ratings[0])
                 lastDate = ml.getLastDate(ratings[0])
+                lastDate = lastDate[:10]
                 myUrl = ml.getURL(ratings[0])
+                total = ml.getTotal(ratings[0])
                 # print(ml.getMovieName(ratings[0]))
 
-                cmd = 'curl -v -X POST https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Individuell%20matchning -H "Authorization: Bearer keyHbd3ja5QEm4pVa" -H "Content-Type: application/json" --data \'{"records": [{"fields": {'
-                cmd = cmd + '"Name": "' + userName +'"'
-                cmd = cmd + ',"Yrke": "' + yrke + '"'
-                cmd = cmd + ',"Annonstitel": "' + titel +'"'
-                cmd = cmd + ',"Arbetsgivare": "' + Arbetsgivare +'"'
-                cmd = cmd + ',"Url": "' + myUrl +'"'
-                cmd = cmd + ',"Sista ansökningsdatum": "' + lastDate + '"}}]}\''
-                # print (cmd)
-                process = os.popen(cmd)
-                # stdout, stderr = process.communicate()
-                # row = [MatchningCounter, userName, yrke, titel, Arbetsgivare, lastDate, myUrl ]
-                # data.append(row)
+                # cmd = 'curl -v -X POST https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Individuell%20matchning -H "Authorization: Bearer keyHbd3ja5QEm4pVa" -H "Content-Type: application/json" --data \'{"records": [{"fields": {'
+                # cmd = cmd + '"Name": "' + userName +'"'
+                # cmd = cmd + ',"Yrke": "' + yrke + '"'
+                # cmd = cmd + ',"Annonstitel": "' + titel +'"'
+                # cmd = cmd + ',"Arbetsgivare": "' + Arbetsgivare +'"'
+                # cmd = cmd + ',"Url": "' + myUrl +'"'
+                # cmd = cmd + ',"Sista ansökningsdatum": "' + lastDate + '"}}]}\''
+                # # print (cmd)
+                # process = os.popen(cmd)
+                # # stdout, stderr = process.communicate()
+
+                # row = [MatchningCounter, userName, yrke, titel, Arbetsgivare, lastDate, myUrl, total ]
+                # data0.append(row)
+                data1.append({'ID':str(MatchningCounter), 'Name':userName, 'Yrke':yrke, 'Annonstitel':titel, 'Arbetsgivare':Arbetsgivare, 'Sistadatum':lastDate, 'url':myUrl, 'num':total })
 
         if (len(hated) > 0):
             print("\n...and didn't like these movies:")
@@ -175,5 +187,13 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
 # cmd = cmd + ',"Sista ansökningsdatum": "' + lastDate + '"}}]}\''
 # print (cmd)
 
-# with open(jsonFile, 'w') as jsonFile:
-#     jsonFile.write(json.dumps(data, indent=4))
+
+# with open(csvFile0, mode='a+') as matchingPath:
+#     employee_writer = csv.writer(matchingPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+#     for data in data0:
+#         employee_writer.writerow(data)
+
+# converCSV2JSON(csvFile0, jsonFile)
+
+with open(jsonFile0, 'w') as jsonFile:
+    jsonFile.write(json.dumps(data1, indent=4))

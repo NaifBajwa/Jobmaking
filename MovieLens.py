@@ -17,6 +17,7 @@ class MovieLens:
     movieID_to_Arbetsgivare = {}
     movieID_to_LastDate = {}
     movieID_to_URL = {}
+    movieID_to_Total = {}
     ratingsPath = './Data/jobRatings.csv'
     moviesPath = './Data/jobPath.csv'
     grName = ''
@@ -57,6 +58,7 @@ class MovieLens:
                     self.movieID_to_Arbetsgivare[movieID] = row[3]
                     self.movieID_to_LastDate[movieID] = row[4]
                     self.movieID_to_URL[movieID] = row[5]
+                    self.movieID_to_Total[movieID] = row[6]
 
         return ratingsDataset
 
@@ -182,5 +184,11 @@ class MovieLens:
     def getURL(self, movieID):
         if movieID in self.movieID_to_URL:
             return self.movieID_to_URL[movieID]
+        else:
+            return ""
+    
+    def getTotal(self, movieID):
+        if movieID in self.movieID_to_Total:
+            return self.movieID_to_Total[movieID]
         else:
             return ""

@@ -8,12 +8,12 @@ function myFunction() {
 
 
 <mat-card class="item" > <!-- (dblclick)="edit.emit(task)"-->
-    <h2>{{ task.Name }}</h2>
+    <h2>{{ task.Name }} ({{task.num}})</h2>
     <hr size="1" noshade>
     <p><strong>Yrke:</strong><br>{{task.Yrke}}</p>
     <p><strong>Annonstitel:</strong><br><a href={{task.url}} target="_blank">{{ task.Annonstitel }}</a></p>
     <p><strong>Arbetsgivare:</strong><br>{{task.Arbetsgivare}}</p>
-    <p><strong>Sista datum:</strong><br>{{task.Sistadatum}}</p>
+    <p><strong>Sista ansökningsdatum:</strong><br>{{task.Sistadatum}}</p>
     <!-- <button onclick=myFunction()>Call me</button> -->
 </mat-card>
 

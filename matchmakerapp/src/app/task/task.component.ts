@@ -30,7 +30,7 @@ export class TaskComponent implements OnInit {
   @Input() task: Task1; 
   @Output() edit = new EventEmitter();
    
-  constructor() { this.task = { Name:'', Yrke: '', Annonstitel:'', Arbetsgivare: '', Sistadatum: '', url: '' } };
+  constructor() { this.task = { Name:'', Yrke: '', Annonstitel:'', Arbetsgivare: '', Sistadatum: '', url: '', num:'' } };
 
   ngOnInit(): void {
   };
