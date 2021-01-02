@@ -29,7 +29,7 @@ img {
   box-shadow: 3px 3px 3px rgba(0, 0, 0, .4);
   overflow: hidden;
   flex-grow: 1;
-  margin-right: 10px;
+  margin-left: 10px;
   float: left ; 
 }
 

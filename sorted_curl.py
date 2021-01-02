@@ -171,7 +171,7 @@ def fetch_airtableJOBS(query):
 
 def fetch_airtableMATCHES(query):
     offset = ''
-    limit = 30     # 100 is max number of hits that can be returned.
+    limit = 100     # 100 is max number of hits that can be returned.
     search_params = {'limit': limit, 'offset': offset} #'': query, 
 
     response = requests.get(url_for_search2, headers=headers, params=search_params)
@@ -179,11 +179,11 @@ def fetch_airtableMATCHES(query):
     json_response = json.loads(response.content.decode('utf8'))
     
     hits = json_response['records']
-    with open('../../dev/Jobmaking/Data/Matchning.csv', mode='w') as jobPath:
+    with open('../../dev/Jobmaking/Data/Matchning3.csv', mode='w') as jobPath:
         employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        employee_writer.writerow(['ID', 'Name', 'Yrke', 'Annonstitel','Arbetsgivare', 'Sista ansökningsdatum'])
+        employee_writer.writerow(['ID', 'Name', 'Yrke', 'Annonstitel','Arbetsgivare', 'Sistadatum', 'url'])
         for hit in hits:
-            employee_writer.writerow([hit['id'], hit['fields']['Name'], hit['fields']['Yrke'], hit['fields']['Annonstitel'], hit['fields']['Arbetsgivare'], hit['fields']['Sista ansökningsdatum'] ])
+            employee_writer.writerow([hit['id'], hit['fields']['Name'], hit['fields']['Yrke'], hit['fields']['Annonstitel'], hit['fields']['Arbetsgivare'], hit['fields']['Sista ansökningsdatum'], hit['fields']['Url'] ])
 
     if 'offset' in json_response:
         offset = json_response['offset']
@@ -198,7 +198,7 @@ def fetch_airtableMATCHES(query):
         
         hits = json_response['records']
 
-        with open('../../dev/Jobmaking/Data/Matchning.csv', mode='a+') as jobPath:
+        with open('../../dev/Jobmaking/Data/Matchning3.csv', mode='a+') as jobPath:
             employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for hit in hits:
                 employee_writer.writerow([hit['id'], hit['fields']['Name'], hit['fields']['Yrke'], hit['fields']['Annonstitel'], hit['fields']['Arbetsgivare'], hit['fields']['Sista ansökningsdatum'] ])
@@ -208,16 +208,16 @@ def fetch_airtableMATCHES(query):
         else:
             offset = ''
 
-    converCSV2JSON('../../dev/Jobmaking/Data/Matchning.csv', '../../dev/Jobmaking/Data/Matchning.json')
+    converCSV2JSON('../../dev/Jobmaking/Data/Matchning3.csv', '../../dev/Jobmaking/Data/Matchning3.json')
 
 
 query = 0
 # fetch_airtable(query)
 # fetch_airtableJOBS(query)
-# fetch_airtableMATCHES(query)
+fetch_airtableMATCHES(query)
 
 query1 = 'Västernorrland Jämtland'
-fetch_100_jobs(query1)
+# fetch_100_jobs(query1)
 
 # converCSV2JSON('Data/najj.csv', 'Data/najj.json')
 

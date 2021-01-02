@@ -6,6 +6,7 @@ import json
 import shlex
 import pycurl
 import subprocess
+import os
 
 api_key = 'YidceGMwXHgwNFx4N2Y5XHhjYzpceGMxXHhjYlx4MGVceGI3QyE0XHhkMFx4YzIyXHhkY1x4YmZ2XHgwOCc'
 url = "https://jobsearch.api.jobtechdev.se"
@@ -29,13 +30,13 @@ def test_search_loop_through_hits(query):
     counter = 1
     with open('../../dev/Jobmaking/Data/jobPath.csv', mode='w') as jobPath:
         employee_writer = csv.writer(jobPath, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        employee_writer.writerow(['jobId', 'title', 'genre', 'Arbetsgivare', 'application_deadline'])
+        employee_writer.writerow(['jobId', 'title', 'genre', 'Arbetsgivare', 'application_deadline', 'webpage_url'])
 
         for hit in hits:
             # print(hit['headline'] ,hit['application_deadline'], hit['employer']['name'], 
             # hit['description']['requirements'], hit['description']['conditions']   )
             # hit['description']['text_formatted'], hit['description']['needs'], 
-            employee_writer.writerow([counter,hit['headline'] , query, hit['employer']['name'],hit['application_deadline'] ])
+            employee_writer.writerow([counter,hit['headline'] , query, hit['employer']['name'],hit['application_deadline'], hit['webpage_url'] ])
             counter = counter + 1
         
     counter = 1
@@ -60,6 +61,10 @@ def BuildAntiTestSetForUser(testSubject, trainset):
                              i not in user_items]
     return anti_testset
 
+
+# MatchningCounter = 0
+# data = []
+# jsonFile = '../../dev/Jobmaking/Data/Matchning.csv'
 
 # Pick an arbitrary test subject
 # 34 = snickare, 50 = Utvecklare, 22 = Personlig assistent
@@ -113,9 +118,11 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
         for ratings in loved:
             if ( ml.getMovieName(ratings[0]) != '' and counter < 2):
                 counter = counter +1
+                # MatchningCounter = MatchningCounter + 1
                 titel = ml.getMovieName(ratings[0])
                 Arbetsgivare = ml.getArbetsgivare(ratings[0])
                 lastDate = ml.getLastDate(ratings[0])
+                myUrl = ml.getURL(ratings[0])
                 # print(ml.getMovieName(ratings[0]))
 
                 cmd = 'curl -v -X POST https://api.airtable.com/v0/appaW3k9mZn7c7hhb/Individuell%20matchning -H "Authorization: Bearer keyHbd3ja5QEm4pVa" -H "Content-Type: application/json" --data \'{"records": [{"fields": {'
@@ -123,10 +130,13 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
                 cmd = cmd + ',"Yrke": "' + yrke + '"'
                 cmd = cmd + ',"Annonstitel": "' + titel +'"'
                 cmd = cmd + ',"Arbetsgivare": "' + Arbetsgivare +'"'
+                cmd = cmd + ',"Url": "' + myUrl +'"'
                 cmd = cmd + ',"Sista ansökningsdatum": "' + lastDate + '"}}]}\''
                 # print (cmd)
-                process = subprocess.Popen(cmd, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-                stdout, stderr = process.communicate()
+                process = os.popen(cmd)
+                # stdout, stderr = process.communicate()
+                # row = [MatchningCounter, userName, yrke, titel, Arbetsgivare, lastDate, myUrl ]
+                # data.append(row)
 
         if (len(hated) > 0):
             print("\n...and didn't like these movies:")
@@ -164,3 +174,6 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
 # cmd = cmd + ',"Arbetsgivare": "' + Arbetsgivare +'"'
 # cmd = cmd + ',"Sista ansökningsdatum": "' + lastDate + '"}}]}\''
 # print (cmd)
+
+# with open(jsonFile, 'w') as jsonFile:
+#     jsonFile.write(json.dumps(data, indent=4))

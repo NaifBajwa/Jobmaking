@@ -103,7 +103,7 @@ fetch('./Data/Matchning2.json')
 .then(data => {
     document.getElementById("app").innerHTML = `
     <h1 class="app-title">${data.length} Jobb Matchningar</h1>
-    ${data.map(petTemplate).join("  ")}
+    ${data.map(petTemplate1).join("  ")}
   `
 })
 
@@ -180,13 +180,13 @@ function petTemplate1(pet) {
 
 function petTemplate(pet) {
     return `
-    <div class="animal">
+    <div class=${colorDate2(pet.Sistadatum)}>
     <h2 class="pet-name">${pet.Name}</h2> 
     <hr size="3" noshade>
     <p><strong>Yrke:</strong><br>${pet.Yrke}</p>
     <p><strong>Annonstitel:</strong><br> ${pet.Annonstitel}</p> 
     <p><strong>Arbetsgivare:</strong><br> ${pet.Arbetsgivare}</p>
-    <p><strong>Sista datum:</strong><br> ${colorDate(pet.Sistadatum) }</p>
+    <p><strong>Sista ans&ouml;kningsdatum:</strong><br> ${colorDate(pet.Sistadatum) }</p>
     </div>
   `;
 }
