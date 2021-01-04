@@ -3,32 +3,31 @@
   <span>JobbMatchningar</span>
 </mat-toolbar>
 
+<!-- <app-dailogbox *ngFor="let task of todo; let i=index" [task]="task"></app-dailogbox> -->
+
 <!-- <app-task *ngFor="let task of todo" [task]="task"></app-task> -->
 
 <div class="content-wrapper">
-  <!-- <button mat-button>
-    <mat-icon>add</mat-icon> Ny Matchning
-  </button> -->
-  <div class="container-wrapper">
+   <div class="container-wrapper">
     <div class="container">
-      <h2>Att Göra ({{todo.length}})</h2>
+      <h2>Matchningar <span matBadge="{{todo.length}}" matBadgeOverlap="false" matBadgeColor="accent"></span></h2>
       <mat-card  class="Backlog" cdkDropList id="todo" #todoList="cdkDropList" [cdkDropListData]="todo" (cdkDropListDropped)="drop($event)" [cdkDropListConnectedTo]="[inProgressList]">
         <p class="empty-label" *ngIf="todo.length == 0">No backlog</p>
-        <app-task cdkDrag *ngFor="let task of todo" [task]="task" ></app-task> <!-- (edit)="edit('todo', $event)"-->
+        <app-task cdkDrag *ngFor="let task of todo" [task]="task" ></app-task> 
       </mat-card>
     </div>
     <div class="container">
-      <h2>På Gång ({{inProgress.length}})</h2>
+      <h2>Urval till Intervju <span matBadge="{{inProgress.length}}" matBadgeOverlap="false" matBadgeColor="accent"></span></h2>
       <mat-card class="inProgress" cdkDropList id="inProgress" #inProgressList="cdkDropList" [cdkDropListData]="inProgress" (cdkDropListDropped)="drop($event)" [cdkDropListConnectedTo]="[todoList, doneList]">
         <p class="empty-label" *ngIf="inProgress.length == 0">Inget!</p>
-        <app-task cdkDrag *ngFor="let task of inProgress" [task]="task" ></app-task> <!-- (edit)="edit('inProgress', $event)"-->
+        <app-task cdkDrag *ngFor="let task of inProgress" [task]="task" ></app-task> 
       </mat-card>
     </div>
     <div class="container">
-      <h2>Klart! ({{done.length}})</h2>
+      <h2>Tillsatt! <span matBadge="{{done.length}}" matBadgeOverlap="false" matBadgeColor="accent"></span></h2>
       <mat-card cdkDropList id="done" #doneList="cdkDropList" [cdkDropListData]="done" (cdkDropListDropped)="drop($event)" [cdkDropListConnectedTo]="[inProgressList]">
         <p class="empty-label" *ngIf="done.length == 0">Mycket att göra!</p>
-        <app-task cdkDrag *ngFor="let task of done" [task]="task" ></app-task> <!-- (edit)="edit('done', $event)"-->
+        <app-task cdkDrag *ngFor="let task of done" [task]="task" ></app-task>
       </mat-card>
     </div>
   </div>

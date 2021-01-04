@@ -1,0 +1,14 @@
+<h2 mat-dialog-title>Individuell Matchning</h2>
+<mat-dialog-content class="mat-typography">
+    <mat-card class="item">
+        <h2>{{ data.task.Name }}<span matBadge="{{data.task.num}}" matBadgeOverlap="false"></span></h2>
+        <p><span class="task-green"><strong>Yrke: </strong></span>{{data.task.Yrke}}</p>
+        <hr size="1" noshade>
+        <p>1: {{ data.task.Annonstitel }},<br> <strong>{{data.task.Arbetsgivare}} </strong><br>Ansök senaste: {{data.task.Sistadatum}} </p>
+        <p>2: Golv läggare sökes,<br> <strong>Golv Ettan</strong><br>Ansök senaste: 2021-01-19 </p>
+        <p>3: Vi söker inredningsansvarig till region norr.<br> <strong>IKEA </strong><br>Ansök senaste: 2021-01-21 </p>
+    </mat-card>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+    <button mat-button mat-dialog-close>Stäng</button>
+</mat-dialog-actions>

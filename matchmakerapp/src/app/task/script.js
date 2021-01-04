@@ -98,14 +98,14 @@ const petsData1 = [
 }
 ];
 
-fetch('./Data/Matchning2.json')
-.then(response => response.json() )
-.then(data => {
-    document.getElementById("app").innerHTML = `
-    <h1 class="app-title">${data.length} Jobb Matchningar</h1>
-    ${data.map(petTemplate1).join("  ")}
-  `
-})
+// fetch('/home/najlaw/dev/Jobmaking/Data/Matchning2.json') //'../../../Data/Matchning2.json')
+// .then(response => response.json() )
+// .then(data => {
+//     document.getElementById("app").innerHTML = `
+//     <h1 class="app-title">${data.length} Jobb Matchningar</h1>
+//     ${data.map(petTemplate1).join("  ")}
+//   `
+// })
 
 function age(birthYear) {
     let calculatedAge = new Date().getFullYear() - birthYear;

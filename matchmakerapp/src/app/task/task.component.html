@@ -6,14 +6,15 @@ function myFunction() {
   }
 </script> -->
 
-
-<mat-card class="item" > <!-- (dblclick)="edit.emit(task)"-->
-    <h2>{{ task.Name }} ({{task.num}})</h2>
+ 
+<mat-card class="item" (click)="openDbox()"> <!-- (dblclick)="edit.emit(task)"-->
+    <h2>{{ task.Name }}<span matBadge="{{task.num}}" matBadgeOverlap="false"></span></h2>
     <hr size="1" noshade>
-    <p><strong>Yrke:</strong><br>{{task.Yrke}}</p>
-    <p><strong>Annonstitel:</strong><br><a href={{task.url}} target="_blank">{{ task.Annonstitel }}</a></p>
-    <p><strong>Arbetsgivare:</strong><br>{{task.Arbetsgivare}}</p>
-    <p><strong>Sista ansökningsdatum:</strong><br>{{task.Sistadatum}}</p>
+    <p><span class="task-green">Yrke:</span><br>{{task.Yrke}}</p>
+    <p><span class="task-green">Annonstitel:</span><br>{{ task.Annonstitel }}</p>
+    <!-- <p><span class="task-green">Annonstitel:</span><br><a href={{task.url}} target="_blank">{{ task.Annonstitel }}</a></p> -->
+    <p><span class="task-green">Arbetsgivare:</span><br>{{task.Arbetsgivare}}</p>
+    <p><span class="task-green">Sista ansökningsdatum:</span><br>{{task.Sistadatum}}</p>
     <!-- <button onclick=myFunction()>Call me</button> -->
 </mat-card>
 

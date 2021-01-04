@@ -1,866 +1,352 @@
 [
     {
-        "ID": "rec1RW2xmikU8FCS4",
-        "Name": "Leah Olsson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
-        "Arbetsgivare": "Wiklund, David",
-        "Sistadatum": "2021-01-08T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161"
-    },
-    {
-        "ID": "rec2Ar9NuWQaQEPhB",
-        "Name": "Kristina Nilsson",
-        "Yrke": "Operat\u00f6r",
-        "Annonstitel": "Maskinoperat\u00f6r/programmering",
-        "Arbetsgivare": "Bae Systems H\u00e4gglunds AB",
-        "Sistadatum": "2021-01-20T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24454881"
-    },
-    {
-        "ID": "rec3Q8aSih7QdjQie",
-        "Name": "Sara Olsson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "Lokalv\u00e5rdare",
-        "Arbetsgivare": "Veterankraft AB",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24387312"
-    },
-    {
-        "ID": "rec3yxQv8kBIgCNvz",
-        "Name": "Anna Helin",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24425746"
-    },
-    {
-        "ID": "rec5dnlxrmhA9Ij7u",
-        "Name": "Mimmi Maryan",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Vikarier s\u00f6kes! Vi s\u00f6ker personlig assistent till 7-\u00e5rig tjej. 2064",
-        "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24438881"
-    },
-    {
-        "ID": "rec5hDGenrQ504N5b",
-        "Name": "Glen Johansson",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
-        "Arbetsgivare": "Bergs kommun",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445135"
-    },
-    {
-        "ID": "rec5mY3X0SvzwxjzN",
-        "Name": "Janne Marks",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
-        "Arbetsgivare": "Bergs kommun",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445135"
-    },
-    {
-        "ID": "rec5nmQSMmTdQhrah",
-        "Name": "Johan Olsson",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "C/CE Chauff\u00f6r s\u00f6kes ",
-        "Arbetsgivare": "Uniflex Sverige AB",
-        "Sistadatum": "2021-01-21T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24446552"
-    },
-    {
-        "ID": "rec62FnbaE7qokNcF",
-        "Name": "Sofia Said ",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Sjuksk\u00f6terska till Medicinenheten",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445034"
-    },
-    {
-        "ID": "rec6AMbYxfYxdvRgu",
-        "Name": "Johan Olsson",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
-        "Arbetsgivare": "Nordic BR Norr AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952"
-    },
-    {
-        "ID": "rec95owFqYY1ShzPM",
-        "Name": "karin Karlsson",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "C/CE Chauff\u00f6r s\u00f6kes ",
-        "Arbetsgivare": "Uniflex Sverige AB",
-        "Sistadatum": "2021-01-21T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24446552"
-    },
-    {
-        "ID": "rec9Bh1hw3LGQcoXY",
-        "Name": "Owen Sten",
-        "Yrke": "Utvecklare",
-        "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
-        "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
-        "Sistadatum": "2021-01-22T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258"
-    },
-    {
-        "ID": "rec9C07wwwTLNXOqb",
-        "Name": "Anders Karlsson",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Vikarier s\u00f6kes! Vi s\u00f6ker personlig assistent till 7-\u00e5rig tjej. 2064",
-        "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24438881"
-    },
-    {
-        "ID": "rec9LNhDi2y9Iihil",
-        "Name": "Lars Karlsson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
-        "Arbetsgivare": "Wiklund, David",
-        "Sistadatum": "2021-01-08T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161"
-    },
-    {
-        "ID": "rec9U56ztd8GVbHz5",
-        "Name": "Irma Johansson",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24425746"
-    },
-    {
-        "ID": "rec9YbEUyX3iLgAIU",
-        "Name": "Eva Johansson",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
-        "Arbetsgivare": "Krokoms kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400"
-    },
-    {
-        "ID": "rec9oqLmBsG0Io7JW",
-        "Name": "Anders Karlsson",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
-        "Arbetsgivare": "Blomstra i Sverige AB",
-        "Sistadatum": "2021-01-27T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460"
-    },
-    {
-        "ID": "rec9tt99dgmQrnlSM",
-        "Name": "Sofia Said ",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544"
-    },
-    {
-        "ID": "recBXy2zL8RKMyHaT",
-        "Name": "Yaye Fiidow",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Vikarier s\u00f6kes! Vi s\u00f6ker personlig assistent till 7-\u00e5rig tjej. 2064",
-        "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24438881"
-    },
-    {
-        "ID": "recBieeEmC5opXXMY",
-        "Name": "Lena Andersson",
-        "Yrke": "S\u00e4ljare",
-        "Annonstitel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
-        "Arbetsgivare": "Ramudden AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445706"
-    },
-    {
-        "ID": "recBkMu613rXYmzRu",
-        "Name": "Sara Olsson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
-        "Arbetsgivare": "Wiklund, David",
-        "Sistadatum": "2021-01-08T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161"
-    },
-    {
-        "ID": "recCWm8vvH6QtscnI",
-        "Name": "Fatima Jama",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
-        "Arbetsgivare": "Blomstra i Sverige AB",
-        "Sistadatum": "2021-01-27T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460"
-    },
-    {
-        "ID": "recD6hNn3kFaZABjG",
-        "Name": "Ahmed Farah",
-        "Yrke": "L\u00e4kare",
-        "Annonstitel": "\u00d6verl\u00e4kare till \u00d6NH V\u00e4sternorrland",
-        "Arbetsgivare": "REGION V\u00c4STERNORRLAND",
-        "Sistadatum": "2021-01-14T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24436153"
-    },
-    {
-        "ID": "recEcWIAkTiAP7l8P",
-        "Name": "Thomas Svensson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
-        "Arbetsgivare": "Wiklund, David",
-        "Sistadatum": "2021-01-08T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161"
-    },
-    {
-        "ID": "recF5DYBGrtkrSc7a",
-        "Name": "Mikael Persson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
-        "Arbetsgivare": "Wiklund, David",
-        "Sistadatum": "2021-01-08T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161"
-    },
-    {
-        "ID": "recFfwWdkeltatvPQ",
-        "Name": "Rakel Alsm",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
-        "Arbetsgivare": "Bergs kommun",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445135"
-    },
-    {
-        "ID": "recGBBODBnXkTQHF5",
-        "Name": "Lai Koh",
-        "Yrke": "Utvecklare",
-        "Annonstitel": "Senior Software Engineer with focus on Optimization and AI",
-        "Arbetsgivare": "Loxysoft WFM AB",
-        "Sistadatum": "2021-01-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24437233"
-    },
-    {
-        "ID": "recHhJsx7dBcWXpHQ",
-        "Name": "Mary Gibert",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Sjuksk\u00f6terska till Medicinenheten",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445034"
-    },
-    {
-        "ID": "recIdWpOt4iijlRwX",
-        "Name": "Kristina Nilsson",
-        "Yrke": "Operat\u00f6r",
-        "Annonstitel": "Erfaren operat\u00f6r ",
-        "Arbetsgivare": "Norrlands Tr\u00e4 AB",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24403414"
-    },
-    {
-        "ID": "recJMTrjNHSoXlpT6",
-        "Name": "Siri Adamo",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544"
-    },
-    {
-        "ID": "recJxUdSg3g4lTofn",
-        "Name": "Irma Johansson",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
-        "Arbetsgivare": "Krokoms kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400"
-    },
-    {
-        "ID": "recKEITWVAuXtabt0",
-        "Name": "Lai Koh",
-        "Yrke": "Utvecklare",
-        "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
-        "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
-        "Sistadatum": "2021-01-22T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258"
-    },
-    {
-        "ID": "recKxGmhifwgqVbOE",
-        "Name": "Ingrid Larsson",
-        "Yrke": "Snickare",
-        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
-        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
-        "Sistadatum": "2021-01-20T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830"
-    },
-    {
-        "ID": "recLEgG8in13poP6l",
-        "Name": "Emma Nilsson",
-        "Yrke": "Snickare",
-        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
-        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
-        "Sistadatum": "2021-01-20T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830"
-    },
-    {
-        "ID": "recLGi1jl25xQ8mn4",
-        "Name": "Ola Manfred",
-        "Yrke": "Kock",
-        "Annonstitel": "Kockbitr\u00e4de",
-        "Arbetsgivare": "\u00d6stersunds kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419642"
-    },
-    {
-        "ID": "recLSF10cuZnJIiUQ",
-        "Name": "Fatima Mohair",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
-        "Arbetsgivare": "Bergs kommun",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445135"
-    },
-    {
-        "ID": "recNX22IQzkzBp09n",
-        "Name": "Lars Svensson ",
-        "Yrke": "Operat\u00f6r",
-        "Annonstitel": "Erfaren operat\u00f6r ",
-        "Arbetsgivare": "Norrlands Tr\u00e4 AB",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24403414"
-    },
-    {
-        "ID": "recNvyoaNbCG838QM",
-        "Name": "Lars Karlsson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "Lokalv\u00e5rdare",
-        "Arbetsgivare": "Veterankraft AB",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24387312"
-    },
-    {
-        "ID": "recOOoV6ekQ8OoEHe",
-        "Name": "Rakel Alsm",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509"
-    },
-    {
-        "ID": "recPAvx1c6R8Rt4CR",
-        "Name": "Mark Heja",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
-        "Arbetsgivare": "Krokoms kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400"
-    },
-    {
-        "ID": "recPOo2VmY8ErhYHu",
-        "Name": "Anna Andersson",
-        "Yrke": "Snickare",
-        "Annonstitel": "Snickare till Klingsta Hus & Modul AB",
-        "Arbetsgivare": "Adecco Sweden AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24417970"
-    },
-    {
-        "ID": "recPxbi0NXlbiWak6",
-        "Name": "Leah Olsson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "Lokalv\u00e5rdare",
-        "Arbetsgivare": "Veterankraft AB",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24387312"
-    },
-    {
-        "ID": "recPzg0pNqLfS7rZr",
-        "Name": "Ali Ramalah",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
-        "Arbetsgivare": "Krokoms kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400"
-    },
-    {
-        "ID": "recQ47CS1S9b32xZZ",
-        "Name": "Fatima Mohair",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509"
-    },
-    {
-        "ID": "recQY3CgeX4vFB39l",
-        "Name": "Glen Johansson",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509"
-    },
-    {
-        "ID": "recRKba8Xc7gPlxyh",
-        "Name": "Lina Hansson",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509"
-    },
-    {
-        "ID": "recRVf0BWm7CgRxYc",
-        "Name": "Anna Andersson",
-        "Yrke": "Snickare",
-        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
-        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
-        "Sistadatum": "2021-01-20T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830"
-    },
-    {
-        "ID": "recS4zEgPL33MOXUl",
-        "Name": "Fatima Jama",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Vikarier s\u00f6kes! Vi s\u00f6ker personlig assistent till 7-\u00e5rig tjej. 2064",
-        "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24438881"
-    },
-    {
-        "ID": "recUNhQVv6QNDlVZJ",
-        "Name": "Lo Andersson",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509"
-    },
-    {
-        "ID": "recVzsiM0gUZ7n8Uq",
-        "Name": "Andreas Holo",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
-        "Arbetsgivare": "Blomstra i Sverige AB",
-        "Sistadatum": "2021-01-27T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460"
-    },
-    {
-        "ID": "recWPMKCFpMKc1Kkg",
-        "Name": "Per Gustafsson",
-        "Yrke": "Bussf\u00f6rare",
-        "Annonstitel": "Timanst\u00e4llning busschauff\u00f6r Sundsvall",
-        "Arbetsgivare": "Nobina Sverige AB",
-        "Sistadatum": "2021-01-06T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24413092"
-    },
-    {
-        "ID": "recXUumQXeb61DJJj",
-        "Name": "Anders Karlsson",
-        "Yrke": "Kundtj\u00e4nstmedarbetare",
-        "Annonstitel": "Kundservicemedarbetare till \u00d6stersund!",
-        "Arbetsgivare": "Studentconsulting Sweden AB (Publ)",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24449840"
-    },
-    {
-        "ID": "recY3Y3zr5uoYq9Yu",
-        "Name": "Karin Johansson ",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
-        "Arbetsgivare": "Nordic BR Norr AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952"
-    },
-    {
-        "ID": "recYQQYLoEG6GZ1K6",
-        "Name": "Mimmi Maryan",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
-        "Arbetsgivare": "Blomstra i Sverige AB",
-        "Sistadatum": "2021-01-27T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460"
-    },
-    {
-        "ID": "recYTH34Ogi9OapXw",
-        "Name": "Sarah Najaf",
-        "Yrke": "Utvecklare",
-        "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
-        "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
-        "Sistadatum": "2021-01-22T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258"
-    },
-    {
-        "ID": "recYuVb2Chm0XjuyV",
-        "Name": "Erik Larsson",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24425746"
-    },
-    {
-        "ID": "recZ7GLS2MQrDxQAM",
-        "Name": "Jason Mole",
-        "Yrke": "Utvecklare",
-        "Annonstitel": "Senior Software Engineer with focus on Optimization and AI",
-        "Arbetsgivare": "Loxysoft WFM AB",
-        "Sistadatum": "2021-01-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24437233"
-    },
-    {
-        "ID": "recZrq1hDNzq9Bx1n",
-        "Name": "Mikael Persson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "Lokalv\u00e5rdare",
-        "Arbetsgivare": "Veterankraft AB",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24387312"
-    },
-    {
-        "ID": "recZy7JavefdevnzQ",
-        "Name": "Janne Marks",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509"
-    },
-    {
-        "ID": "reca6bthvIZXAsEBl",
-        "Name": "Sarah Najaf",
-        "Yrke": "Utvecklare",
-        "Annonstitel": "Senior Software Engineer with focus on Optimization and AI",
-        "Arbetsgivare": "Loxysoft WFM AB",
-        "Sistadatum": "2021-01-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24437233"
-    },
-    {
-        "ID": "recaBKtQ7KwdO1zpN",
-        "Name": "Adam Mark",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Sjuksk\u00f6terska till Medicinenheten",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445034"
-    },
-    {
-        "ID": "recaCo7l4wvMs39GQ",
-        "Name": "Mary Gibert",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544"
-    },
-    {
-        "ID": "recaDquAgnNp8Kua4",
-        "Name": "Lina Hansson",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
-        "Arbetsgivare": "Bergs kommun",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445135"
-    },
-    {
-        "ID": "reccOslJ7IoXFjLwP",
-        "Name": "Lars Svensson ",
-        "Yrke": "Operat\u00f6r",
-        "Annonstitel": "Maskinoperat\u00f6r/programmering",
-        "Arbetsgivare": "Bae Systems H\u00e4gglunds AB",
-        "Sistadatum": "2021-01-20T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24454881"
-    },
-    {
-        "ID": "recdKplpHSPozSoHy",
-        "Name": "Ahmed Farah",
-        "Yrke": "L\u00e4kare",
-        "Annonstitel": "Specialistl\u00e4kare/\u00f6verl\u00e4kare till \u00c4lSa-team Sollefte\u00e5",
-        "Arbetsgivare": "REGION V\u00c4STERNORRLAND",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445824"
-    },
-    {
-        "ID": "recdy9BXt5zW4OWzn",
-        "Name": "Mark Heja",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24425746"
-    },
-    {
-        "ID": "receg8wtrFPTjTwbM",
-        "Name": "Anders Karlsson",
-        "Yrke": "Kundtj\u00e4nstmedarbetare",
-        "Annonstitel": "Vill du g\u00f6ra skillnad och hj\u00e4lpa 1000-tals f\u00f6retag p\u00e5 Internet?",
-        "Arbetsgivare": "Webbkonsulterna i J\u00e4mtland AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24439141"
-    },
-    {
-        "ID": "recfAikzLd3E4QZrq",
-        "Name": "Eva Johansson",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24425746"
-    },
-    {
-        "ID": "recfXIvYBmit3B8Qz",
-        "Name": "Ursula Bengtsson",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544"
-    },
-    {
-        "ID": "recg5ypT0GLlJcrId",
-        "Name": "Maria Nilsson",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
-        "Arbetsgivare": "Blomstra i Sverige AB",
-        "Sistadatum": "2021-01-27T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460"
-    },
-    {
-        "ID": "recgHfk5xwfSHNyAc",
-        "Name": "Erik Larsson",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
-        "Arbetsgivare": "Krokoms kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400"
-    },
-    {
-        "ID": "rechMrRszP6Dhihys",
-        "Name": "Annie Neither",
-        "Yrke": "K\u00f6ksbitr\u00e4de",
-        "Annonstitel": "Personal till Timr\u00e5 Pizzeria",
-        "Arbetsgivare": "Al-Sanuri, Hassan",
-        "Sistadatum": "2021-01-15T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24165099"
-    },
-    {
-        "ID": "rechfajUZDlBAuhsT",
-        "Name": "karin Karlsson",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
-        "Arbetsgivare": "Nordic BR Norr AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952"
-    },
-    {
-        "ID": "recimsPTXsRHRM65g",
-        "Name": "Lo Andersson",
-        "Yrke": "Undersk\u00f6terska",
-        "Annonstitel": "Intresseanm\u00e4lan f\u00f6r timvikariat inom V\u00e5rd och omsorg\u00a0",
-        "Arbetsgivare": "Bergs kommun",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445135"
-    },
-    {
-        "ID": "reciwnMrypLaIOcTg",
-        "Name": "Maria Olsson",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "C/CE Chauff\u00f6r s\u00f6kes ",
-        "Arbetsgivare": "Uniflex Sverige AB",
-        "Sistadatum": "2021-01-21T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24446552"
-    },
-    {
-        "ID": "recj7yiaeuAoAwHWs",
-        "Name": "Peter Eriksson",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544"
-    },
-    {
-        "ID": "reclFOUAofm7jBlED",
-        "Name": "Maria Olsson",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
-        "Arbetsgivare": "Nordic BR Norr AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952"
-    },
-    {
-        "ID": "recnQdFHgJpx86p9O",
-        "Name": "Peter Eriksson",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Sjuksk\u00f6terska till Medicinenheten",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445034"
-    },
-    {
-        "ID": "recnR7ENqCRuaLVY3",
-        "Name": "Lena Andersson",
-        "Yrke": "S\u00e4ljare",
-        "Annonstitel": "S\u00e4ljare Region Nord \u2013 V\u00e4sterbotten, V\u00e4sternorrland och J\u00e4mtland",
-        "Arbetsgivare": "Ramudden AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445742"
-    },
-    {
-        "ID": "reco9tLZfHTS7fSI6",
-        "Name": "Emma Nilsson",
-        "Yrke": "Snickare",
-        "Annonstitel": "Snickare till Klingsta Hus & Modul AB",
-        "Arbetsgivare": "Adecco Sweden AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24417970"
-    },
-    {
-        "ID": "recouuNxlnk0vW3me",
-        "Name": "Hassan Jama",
-        "Yrke": "Snickare",
-        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
-        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
-        "Sistadatum": "2021-01-20T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830"
-    },
-    {
-        "ID": "recpQrTheLA2Q7u5R",
-        "Name": "Thomas Svensson",
-        "Yrke": "St\u00e4dare",
-        "Annonstitel": "Lokalv\u00e5rdare",
-        "Arbetsgivare": "Veterankraft AB",
-        "Sistadatum": "2021-03-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24387312"
-    },
-    {
-        "ID": "recrXJ4FzOC21jxpw",
-        "Name": "Ola Manfred",
-        "Yrke": "Kock",
-        "Annonstitel": "KOCK s\u00f6kes till indisk restaurang Tripti #jobbjustnu",
-        "Arbetsgivare": "Tripti AB",
-        "Sistadatum": "2021-02-28T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24377243"
-    },
-    {
-        "ID": "recroax5Bp7tTTeOX",
-        "Name": "Ursula Bengtsson",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Sjuksk\u00f6terska till Medicinenheten",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445034"
-    },
-    {
-        "ID": "recshgChTdNqf9tx7",
-        "Name": "Anna Helin",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
-        "Arbetsgivare": "Krokoms kommun",
-        "Sistadatum": "2021-01-04T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400"
-    },
-    {
-        "ID": "recu9NLFG7DtNGoFK",
-        "Name": "Karin Johansson ",
-        "Yrke": "Lastbil f\u00f6rare",
-        "Annonstitel": "C/CE Chauff\u00f6r s\u00f6kes ",
-        "Arbetsgivare": "Uniflex Sverige AB",
-        "Sistadatum": "2021-01-21T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24446552"
-    },
-    {
-        "ID": "recuCjcV7x4faz5iu",
-        "Name": "Yaye Fiidow",
-        "Yrke": "Personlig assistent",
-        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
-        "Arbetsgivare": "Blomstra i Sverige AB",
-        "Sistadatum": "2021-01-27T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460"
-    },
-    {
-        "ID": "reculRsTiieya0Hb0",
-        "Name": "Hassan Jama",
-        "Yrke": "Snickare",
-        "Annonstitel": "Snickare till Klingsta Hus & Modul AB",
-        "Arbetsgivare": "Adecco Sweden AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24417970"
-    },
-    {
-        "ID": "recvmEy9wyoaWUKog",
+        "ID": "6",
+        "Name": "Sara Kimball",
+        "Yrke": "Butiksbitr\u00e4de",
+        "Annonstitel": "",
+        "Arbetsgivare": "",
+        "Sistadatum": "",
+        "url": "",
+        "num": "0"
+    },
+    {
+        "ID": "7",
         "Name": "Annie Neither",
         "Yrke": "K\u00f6ksbitr\u00e4de",
         "Annonstitel": "K\u00f6ksbitr\u00e4de till Sushi House Sundsvall",
         "Arbetsgivare": "Sushi House i Sundsvall AB",
-        "Sistadatum": "2021-01-15T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452455"
+        "Sistadatum": "2021-01-15",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452455",
+        "num": "2"
     },
     {
-        "ID": "recw5CHHPZgYyCQKn",
-        "Name": "Andreas Holo",
+        "ID": "8",
+        "Name": "Mark Heja",
+        "Yrke": "L\u00e4rare i grundskolan",
+        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
+        "Arbetsgivare": "Krokoms kommun",
+        "Sistadatum": "2021-01-04",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400",
+        "num": "10"
+    },
+    {
+        "ID": "9",
+        "Name": "Eva Johansson",
+        "Yrke": "L\u00e4rare i grundskolan",
+        "Annonstitel": "L\u00e4rare i Samh\u00e4llsorienterade \u00e4mnen till N\u00e4ldens skola, J\u00e4mtland",
+        "Arbetsgivare": "Krokoms kommun",
+        "Sistadatum": "2021-01-04",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24419400",
+        "num": "10"
+    },
+    {
+        "ID": "14",
+        "Name": "Karin Johansson ",
+        "Yrke": "Lastbil f\u00f6rare",
+        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
+        "Arbetsgivare": "Nordic BR Norr AB",
+        "Sistadatum": "2021-01-07",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952",
+        "num": "2"
+    },
+    {
+        "ID": "15",
+        "Name": "Johan Olsson",
+        "Yrke": "Lastbil f\u00f6rare",
+        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
+        "Arbetsgivare": "Nordic BR Norr AB",
+        "Sistadatum": "2021-01-07",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952",
+        "num": "2"
+    },
+    {
+        "ID": "16",
+        "Name": "karin Karlsson",
+        "Yrke": "Lastbil f\u00f6rare",
+        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
+        "Arbetsgivare": "Nordic BR Norr AB",
+        "Sistadatum": "2021-01-07",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952",
+        "num": "2"
+    },
+    {
+        "ID": "17",
+        "Name": "Maria Olsson",
+        "Yrke": "Lastbil f\u00f6rare",
+        "Annonstitel": "CE-chauff\u00f6rer s\u00f6kes f\u00f6r start omg\u00e5ende!",
+        "Arbetsgivare": "Nordic BR Norr AB",
+        "Sistadatum": "2021-01-07",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24415952",
+        "num": "2"
+    },
+    {
+        "ID": "18",
+        "Name": "Jan Andersson",
+        "Yrke": "M\u00e4klare",
+        "Annonstitel": "",
+        "Arbetsgivare": "",
+        "Sistadatum": "",
+        "url": "",
+        "num": "0"
+    },
+    {
+        "ID": "19",
+        "Name": "Mikael Nilsson",
+        "Yrke": "M\u00e4klare",
+        "Annonstitel": "",
+        "Arbetsgivare": "",
+        "Sistadatum": "",
+        "url": "",
+        "num": "0"
+    },
+    {
+        "ID": "20",
+        "Name": "Kristina Nilsson",
+        "Yrke": "Operat\u00f6r",
+        "Annonstitel": "Maskinoperat\u00f6r/programmering",
+        "Arbetsgivare": "Bae Systems H\u00e4gglunds AB",
+        "Sistadatum": "2021-01-20",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24454881",
+        "num": "2"
+    },
+    {
+        "ID": "21",
+        "Name": "Lars Svensson ",
+        "Yrke": "Operat\u00f6r",
+        "Annonstitel": "Maskinoperat\u00f6r/programmering",
+        "Arbetsgivare": "Bae Systems H\u00e4gglunds AB",
+        "Sistadatum": "2021-01-20",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24454881",
+        "num": "2"
+    },
+    {
+        "ID": "22",
+        "Name": "Anders Karlsson",
         "Yrke": "Personlig assistent",
-        "Annonstitel": "Vikarier s\u00f6kes! Vi s\u00f6ker personlig assistent till 7-\u00e5rig tjej. 2064",
-        "Arbetsgivare": "Storsj\u00f6bygdens Personliga Assistans AB",
-        "Sistadatum": "2021-01-17T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24438881"
+        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
+        "Arbetsgivare": "Blomstra i Sverige AB",
+        "Sistadatum": "2021-01-27",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460",
+        "num": "32"
     },
     {
-        "ID": "recwKeMcwyK6XCOS5",
+        "ID": "23",
+        "Name": "Maria Nilsson",
+        "Yrke": "Personlig assistent",
+        "Annonstitel": "Glad o sprallig kille p\u00e5 3 \u00e5r s\u00f6ker personal",
+        "Arbetsgivare": "Blomstra i Sverige AB",
+        "Sistadatum": "2021-01-27",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24452460",
+        "num": "32"
+    },
+    {
+        "ID": "30",
+        "Name": "Siri Adamo",
+        "Yrke": "Sjuksk\u00f6terska",
+        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
+        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
+        "Sistadatum": "2021-01-10",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544",
+        "num": "113"
+    },
+    {
+        "ID": "33",
+        "Name": "Sofia Said ",
+        "Yrke": "Sjuksk\u00f6terska",
+        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
+        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
+        "Sistadatum": "2021-01-10",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544",
+        "num": "113"
+    },
+    {
+        "ID": "34",
+        "Name": "Anna Andersson",
+        "Yrke": "Snickare",
+        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
+        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
+        "Sistadatum": "2021-01-20",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830",
+        "num": "4"
+    },
+    {
+        "ID": "35",
+        "Name": "Emma Nilsson",
+        "Yrke": "Snickare",
+        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
+        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
+        "Sistadatum": "2021-01-20",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830",
+        "num": "4"
+    },
+    {
+        "ID": "36",
         "Name": "Ingrid Larsson",
         "Yrke": "Snickare",
-        "Annonstitel": "Snickare till Klingsta Hus & Modul AB",
-        "Arbetsgivare": "Adecco Sweden AB",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24417970"
+        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
+        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
+        "Sistadatum": "2021-01-20",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830",
+        "num": "4"
     },
     {
-        "ID": "recxhGoGU8VsKKjdO",
+        "ID": "37",
+        "Name": "Hassan Jama",
+        "Yrke": "Snickare",
+        "Annonstitel": "Mockfj\u00e4rds F\u00f6nster s\u00f6ker montagef\u00f6retag till V\u00e4sternorrland",
+        "Arbetsgivare": "Mockfj\u00e4rds F\u00f6nster AB",
+        "Sistadatum": "2021-01-20",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24424830",
+        "num": "4"
+    },
+    {
+        "ID": "38",
+        "Name": "Mikael Persson",
+        "Yrke": "St\u00e4dare",
+        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
+        "Arbetsgivare": "Wiklund, David",
+        "Sistadatum": "2021-01-08",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161",
+        "num": "3"
+    },
+    {
+        "ID": "39",
+        "Name": "Thomas Svensson",
+        "Yrke": "St\u00e4dare",
+        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
+        "Arbetsgivare": "Wiklund, David",
+        "Sistadatum": "2021-01-08",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161",
+        "num": "3"
+    },
+    {
+        "ID": "40",
+        "Name": "Sara Olsson",
+        "Yrke": "St\u00e4dare",
+        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
+        "Arbetsgivare": "Wiklund, David",
+        "Sistadatum": "2021-01-08",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161",
+        "num": "3"
+    },
+    {
+        "ID": "41",
+        "Name": "Lars Karlsson",
+        "Yrke": "St\u00e4dare",
+        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
+        "Arbetsgivare": "Wiklund, David",
+        "Sistadatum": "2021-01-08",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161",
+        "num": "3"
+    },
+    {
+        "ID": "42",
+        "Name": "Leah Olsson",
+        "Yrke": "St\u00e4dare",
+        "Annonstitel": "St\u00e4djobb i \u00c5re - h\u00f6g l\u00f6n. ",
+        "Arbetsgivare": "Wiklund, David",
+        "Sistadatum": "2021-01-08",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24453161",
+        "num": "3"
+    },
+    {
+        "ID": "43",
+        "Name": "Janne Marks",
+        "Yrke": "Undersk\u00f6terska",
+        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
+        "Arbetsgivare": "Ragunda kommun",
+        "Sistadatum": "2021-01-17",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509",
+        "num": "70"
+    },
+    {
+        "ID": "44",
+        "Name": "Lina Hansson",
+        "Yrke": "Undersk\u00f6terska",
+        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
+        "Arbetsgivare": "Ragunda kommun",
+        "Sistadatum": "2021-01-17",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509",
+        "num": "70"
+    },
+    {
+        "ID": "45",
+        "Name": "Rakel Alsm",
+        "Yrke": "Undersk\u00f6terska",
+        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
+        "Arbetsgivare": "Ragunda kommun",
+        "Sistadatum": "2021-01-17",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509",
+        "num": "70"
+    },
+    {
+        "ID": "46",
+        "Name": "Lo Andersson",
+        "Yrke": "Undersk\u00f6terska",
+        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
+        "Arbetsgivare": "Ragunda kommun",
+        "Sistadatum": "2021-01-17",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509",
+        "num": "70"
+    },
+    {
+        "ID": "47",
+        "Name": "Glen Johansson",
+        "Yrke": "Undersk\u00f6terska",
+        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
+        "Arbetsgivare": "Ragunda kommun",
+        "Sistadatum": "2021-01-17",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509",
+        "num": "70"
+    },
+    {
+        "ID": "48",
+        "Name": "Fatima Mohair",
+        "Yrke": "Undersk\u00f6terska",
+        "Annonstitel": "Vikariat med kort varsel inom st\u00f6d och omsorg",
+        "Arbetsgivare": "Ragunda kommun",
+        "Sistadatum": "2021-01-17",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24423509",
+        "num": "70"
+    },
+    {
+        "ID": "49",
+        "Name": "Sarah Najaf",
+        "Yrke": "Utvecklare",
+        "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
+        "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
+        "Sistadatum": "2021-01-22",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258",
+        "num": "24"
+    },
+    {
+        "ID": "50",
+        "Name": "Owen Sten",
+        "Yrke": "Utvecklare",
+        "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
+        "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
+        "Sistadatum": "2021-01-22",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258",
+        "num": "24"
+    },
+    {
+        "ID": "51",
         "Name": "Jason Mole",
         "Yrke": "Utvecklare",
         "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
         "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
-        "Sistadatum": "2021-01-22T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258"
+        "Sistadatum": "2021-01-22",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258",
+        "num": "24"
     },
     {
-        "ID": "recxjRrBJhGM4r6Gb",
-        "Name": "Siri Adamo",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Sjuksk\u00f6terska till Medicinenheten",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24445034"
-    },
-    {
-        "ID": "recxpMrszPfW5lxeW",
-        "Name": "Owen Sten",
+        "ID": "52",
+        "Name": "Lai Koh",
         "Yrke": "Utvecklare",
-        "Annonstitel": "Senior Software Engineer with focus on Optimization and AI",
-        "Arbetsgivare": "Loxysoft WFM AB",
-        "Sistadatum": "2021-01-31T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24437233"
-    },
-    {
-        "ID": "recyVFiYwAW6f2jnk",
-        "Name": "Adam Mark",
-        "Yrke": "Sjuksk\u00f6terska",
-        "Annonstitel": "Psykiatrisjuksk\u00f6terska med teamledaruppdrag",
-        "Arbetsgivare": "REGION J\u00c4MTLAND H\u00c4RJEDALEN",
-        "Sistadatum": "2021-01-10T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24450544"
-    },
-    {
-        "ID": "recynu8n0IdDrCBnL",
-        "Name": "Ali Ramalah",
-        "Yrke": "L\u00e4rare i grundskolan",
-        "Annonstitel": "L\u00e4rare till J\u00e4r\u00e5skolan,  tillika 1:e l\u00e4rare",
-        "Arbetsgivare": "Ragunda kommun",
-        "Sistadatum": "2021-01-07T23:59:59.000Z",
-        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24425746"
+        "Annonstitel": "Utvecklare/\u201dJunior Developer\u201d",
+        "Arbetsgivare": "OnePartnerGroup J\u00e4mtland AB",
+        "Sistadatum": "2021-01-22",
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24435258",
+        "num": "24"
     }
 ]

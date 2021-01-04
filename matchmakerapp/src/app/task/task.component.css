@@ -2,22 +2,17 @@
 .item {
     border: solid 1px #eeeeee;
     width: 250px;
-    height: 300px;
-    margin: 0 5px 5px 0;
+    height: 270px;
+    margin: 0 2px 2px 0;
     border-radius: 10px;
     background-color: #fff;
-    float: left ; 
+    /* float: left ;  */
     text-align: left;
 }
 .task-green {
-    border: solid 1px rgb(5, 5, 5);
-    width: 250px;
-    height: 300px;
-    margin: 0 5px 5px 0;
-    border-radius: 10px;
-    background-color: #0f0;
-    float: left ; 
-    text-align: left;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 .task-red {
     border: solid 1px rgb(5, 5, 5);
@@ -38,4 +33,7 @@
     background-color: #ffff00;
     float: left ; 
     text-align: left;
+}
+p {
+    margin: 5px 0px 0 0;
 }

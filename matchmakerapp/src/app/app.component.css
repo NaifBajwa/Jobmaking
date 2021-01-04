@@ -1,4 +1,6 @@
+
 mat-toolbar {
+    min-width: 1000px;
     margin-bottom: 20px;
 }
 
@@ -7,7 +9,8 @@ mat-toolbar > span {
 }
 
 .content-wrapper {
-    max-width: 99%;
+    max-width: 1000px;
+    min-width: 1000px;
     margin: auto;
 }
 
@@ -18,11 +21,16 @@ mat-toolbar > span {
 
 .container {
     min-width: 325px;
+    min-height: 500px;
     margin: 0 5px 25px 0;
     border-radius: 10px;
     background-color: #eeeeee;
     border: solid 1px #cfd8dc;
     text-align: center;
+}
+.container > h2 {
+    padding-top: 10px;
+    min-height: 25px;
 }
 
 .list {
@@ -34,6 +42,7 @@ mat-toolbar > span {
 
 .empty-label {
     font-size: 2em;
+    min-height: 300px;
     padding-top: 10px;
     text-align: center;
     opacity: 0.2;

@@ -1,11 +1,10 @@
 import { CdkDragDrop, transferArrayItem } from '@angular/cdk/drag-drop';
 import { Component } from '@angular/core';
 import { Task, Task1 } from './task/task';
-// import { MatDialog } from '@angular/material/dialog';
 import todo2 from '../assets/Matchning3.json'
-// import { TaskDialogComponent, TaskDialogResult } from './task-dialog/task-dialog.component';
-import { AngularFirestore } from '@angular/fire/firestore';
-
+import inProgress2 from '../assets/InProgress2.json'
+import done2 from '../assets/DoneFile2.json'
+import { AngularFirestore, AngularFirestoreCollection } from '@angular/fire/firestore';
 
 @Component({
   selector: 'app-root',
@@ -24,8 +23,9 @@ export class AppComponent {
     { title: 'Create Kanban board', description: 'Develop a Kanban app' }
   ];
 
+todo : any['Observable<QuerySnapshot<unknown>>'] = this.store.collection('matchnin').doc('AEA3iF0gCJLaXq2peZaf');
 
-todo: Task1[] = todo2;
+// todo: Task1[] = todo2;
 //  [
 //   {
 //       "ID": "rec0TGDtfNq5k5oh0",
@@ -83,13 +83,18 @@ todo: Task1[] = todo2;
 //   }
 //   ];
 
-  inProgress: Task1[] = [];
-  done: Task1[] = [];
+  inProgress: Task1[] = inProgress2;
+  done: Task1[] = done2;
 
-  // private dialog: MatDialog,
   constructor( private store: AngularFirestore) {
-    console.log('Reading JSON');
-    console.log(todo2);
+    // this.store
+    // .collection("matchnin")
+    // .add(this.done[1])
+    // .add({'id': '2333', 'Annonstitel':'Bla bla bla','Name': 'Najj', 'Sistadatum':'2021-01-09', 'Yrke': 'Yrke', 'url':'#'})
+    // .then(res => {}, err => '');
+    
+    // console.log('Reading JSON');
+    // console.log({'id': '2333', 'Annonstitel':'Bla bla bla','Name': 'Najj', 'Sistadatum':'2021-01-09', 'Yrke': 'Yrke', 'url':'#'});
   }
 
   drop(event: CdkDragDrop<Task1[]>): void {
