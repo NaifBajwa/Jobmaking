@@ -15,14 +15,15 @@ export class TaskComponent implements OnInit {
    
   constructor(
     private dialogb: MatDialog) { 
-      this.task = { Name:'', Yrke: '', Annonstitel:'', Arbetsgivare: '', Sistadatum: '', url: '', num:'' } 
+      this.task = { Name:'', Yrke: '', num:'', phone: "", email: "", iprogram: "",
+    jobb: [{ id:'', Annonstitel:'', Arbetsgivare: '', Sistadatum: '', url: ''}] } 
     };
 
   ngOnInit(): void {
   };
 
   public openDbox() {
-    this.dialogb.open(DailogboxComponent, { height: '490px', width: '400px' , data: { task: this.task } } );
+    this.dialogb.open(DailogboxComponent, {width: '400px' , data: { task: this.task } } );
   } 
 
 }

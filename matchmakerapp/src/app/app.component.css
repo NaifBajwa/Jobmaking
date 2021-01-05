@@ -42,7 +42,7 @@ mat-toolbar > span {
 
 .empty-label {
     font-size: 2em;
-    min-height: 300px;
+    min-height: 200px;
     padding-top: 10px;
     text-align: center;
     opacity: 0.2;

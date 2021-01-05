@@ -88,6 +88,9 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
         testSubject = int(row[0])
         userName = row[1]
         yrke = row[2]
+        tel = row[3]
+        email = row[4]
+        iprogram = row[5]
 
         # query = 'Personlig assistent Västernorrland'
         query = yrke + ' ' + region
@@ -112,9 +115,11 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
             if ( ml.getMovieName(ratings[0]) != '' ):
                 ll = ll + 1
 
+        jobs = []
         if (ll == 0):
             MatchningCounter = MatchningCounter + 1
-            data1.append({'ID':str(MatchningCounter), 'Name':userName, 'Yrke':yrke, 'Annonstitel':'titel', 'Arbetsgivare':'Arbetsgivare', 'Sistadatum': str(datetime.date.today()), 'url':'http://www.svt.se', 'num':str(0) })
+            jobs.append({'id':'', 'Annonstitel':'', 'Arbetsgivare':'', 'Sistadatum':'', 'url':''})
+            data1.append({'ID':str(MatchningCounter), 'Name':userName, 'Yrke':yrke, 'num':str(ll), 'phone':tel, 'email': email, 'iprogram':iprogram, 'jobb':jobs })
             continue
 
         titel = ''
@@ -124,7 +129,7 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
         # print("\nWe recommend ", ll, " jobs for ", userName, ":\n")
         counter = 0
         for ratings in loved:
-            if ( ml.getMovieName(ratings[0]) != '' and counter < 1):
+            if ( ml.getMovieName(ratings[0]) != '' and counter < 10):
                 counter = counter +1
                 MatchningCounter = MatchningCounter + 1
                 titel = ml.getMovieName(ratings[0])
@@ -148,8 +153,9 @@ with open('./Data/usersPath.csv', newline='') as csvfile:
 
                 # row = [MatchningCounter, userName, yrke, titel, Arbetsgivare, lastDate, myUrl, total ]
                 # data0.append(row)
-                data1.append({'ID':str(MatchningCounter), 'Name':userName, 'Yrke':yrke, 'Annonstitel':titel, 'Arbetsgivare':Arbetsgivare, 'Sistadatum':lastDate, 'url':myUrl, 'num':total })
-
+                jobs.append({'id':str(counter), 'Annonstitel':titel, 'Arbetsgivare':Arbetsgivare, 'Sistadatum':lastDate, 'url':myUrl})
+        data1.append({'ID':str(MatchningCounter), 'Name':userName, 'Yrke':yrke, 'num':total, 'phone':tel, 'email': email, 'iprogram':iprogram, 'jobb':jobs })
+    
         if (len(hated) > 0):
             print("\n...and didn't like these movies:")
             for ratings in hated:

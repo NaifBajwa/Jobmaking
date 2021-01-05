@@ -8,9 +8,14 @@ export interface Task1 {
     ID?: string;
     Name: string;
     Yrke: string;
-    Annonstitel: string;
-    Arbetsgivare: string;
-    Sistadatum: string;
-    url: string;
     num: string;
+    phone: string;
+    email: string;
+    iprogram: string;
+    jobb : {
+        id: string;
+        Annonstitel: string;
+        Arbetsgivare: string;
+        Sistadatum: string;
+        url: string;}[];
 }

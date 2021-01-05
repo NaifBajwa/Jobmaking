@@ -10,12 +10,18 @@ function myFunction() {
 <mat-card class="item" (click)="openDbox()"> <!-- (dblclick)="edit.emit(task)"-->
     <h2>{{ task.Name }}<span matBadge="{{task.num}}" matBadgeOverlap="false"></span></h2>
     <hr size="1" noshade>
-    <p><span class="task-green">Yrke:</span><br>{{task.Yrke}}</p>
-    <p><span class="task-green">Annonstitel:</span><br>{{ task.Annonstitel }}</p>
-    <!-- <p><span class="task-green">Annonstitel:</span><br><a href={{task.url}} target="_blank">{{ task.Annonstitel }}</a></p> -->
-    <p><span class="task-green">Arbetsgivare:</span><br>{{task.Arbetsgivare}}</p>
-    <p><span class="task-green">Sista ansökningsdatum:</span><br>{{task.Sistadatum}}</p>
-    <!-- <button onclick=myFunction()>Call me</button> -->
+    <p><span class="task-green">Yrke: </span>{{task.Yrke}}<br>
+    <span class="task-green">Telefon: </span>{{task.phone}}<br>
+    <span class="task-green">Email: </span>{{task.email}}<br>
+    <span class="task-green">I Program: </span>{{task.iprogram}}</p>
+
+    <!-- <p>1: {{ task.jobb[0].Annonstitel }},<br> <strong>{{task.jobb[0].Arbetsgivare}} </strong><br>Ansök senaste: {{task.jobb[0].Sistadatum}} </p> -->
+
+    <!-- <p><span class="task-green">Annonstitel:</span><br>{{ task.Annonstitel }}</p> -->
+        <!-- <p><span class="task-green">Annonstitel:</span><br><a href={{task.url}} target="_blank">{{ task.Annonstitel }}</a></p> -->
+    <!-- <p><span class="task-green">Arbetsgivare:</span><br>{{task.Arbetsgivare}}</p> -->
+    <!-- <p><span class="task-green">Sista ansökningsdatum:</span><br>{{task.Sistadatum}}</p> -->
+        <!-- <button onclick=myFunction()>Call me</button> -->
 </mat-card>
 
 
